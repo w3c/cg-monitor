@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "node-w3capi": "^1.4.0",
+    "nodemw": "^0.12.2",
+    "promisify": "0.0.3",
+    "rss-parser": "^3.5.4"
+  }
+}
