@@ -1,5 +1,13 @@
 const main = document.getElementById("report");
 
+const colors = {
+  'rss': '#1f77b4',
+  'lists': '#aec7e8',
+  'repository': '#ff7f0e',
+  'wiki': '#ffbb78',
+  'twitter': '#2ca02c'
+};
+
 const lastTwelveMonths = (() => {
   const now = new Date();
   const ayearago = new Date();
@@ -50,15 +58,33 @@ fetch("report.json").then(r => r.json())
               col.push(data.items.filter(i => i.isoDate.startsWith(m)).length);
             });
             columns.push(col);
+          } else {
+            const col = [service.type];
+            groups.push(service.type);
+            lastTwelveMonths.forEach(m => {
+              col.push(data[m] || 0);
+            });
+            columns.push(col);
           }
         });
+        const aggregatedColumns = columns.reduce((acc, col) => {
+
+          const existingCol = acc.find(c => c[0] === col[0]);
+          if (existingCol) {
+            existingCol.forEach((x,i) => { if (i > 0) x += col[i] });
+          } else {
+            acc.push(col);
+          }
+          return acc;
+        }, []);
+        const values = aggregatedColumns.slice(1).reduce((acc, col) => acc.concat(col.slice(1)), []);
         c3.generate({
           bindto: chart,
           data : {
             x: 'x',
             xFormat: '%Y-%m',
             type: 'bar',
-            columns,
+            columns: aggregatedColumns,
             groups: [groups]
           },
           axis: {
@@ -70,11 +96,15 @@ fetch("report.json").then(r => r.json())
             },
             y: {
               min: 0,
-              max: 10,
+              padding: { bottom: 0 },
+              max: Math.max.apply(null, [10].concat(values)),
               tick: {
                 format: d3.format('d')
               }
             }
+          },
+          color: {
+            pattern: aggregatedColumns.slice(1).map(c => colors[c[0]] || '#000')
           }
         });
         activity.appendChild(chart);
