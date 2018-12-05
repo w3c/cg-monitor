@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "jsdom": "^13.0.0",
+    "limited-request-queue": "^3.0.4",
     "node-fetch": "^2.3.0",
     "node-w3capi": "^1.4.0",
     "nodemw": "^0.12.2",
