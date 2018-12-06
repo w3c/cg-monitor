@@ -172,7 +172,11 @@ const log = err => { console.error(err); return err;};
 
 const save = (id, data) => { fs.writeFileSync('./data/' + id + '.json', JSON.stringify(data, null, 2)); return data; };
 
-recursiveW3cFetch('https://api.w3.org/groups?embed=1', 'groups')
+recursiveW3cFetch('https://api.w3.org/affiliations/52794/participants?embed=1', 'participants')
+  .then(staff => {
+    save('staff', staff);
+    return recursiveW3cFetch('https://api.w3.org/groups?embed=1', 'groups');
+  })
   .then(groups => {
     const communitygroups = groups.filter(g => g.type === 'community group' && !g['is-closed']) ;
     communitygroups
