@@ -84,6 +84,14 @@ function fetchWiki(url) {
   return fetchRSS(url + '/api.php?action=feedrecentchanges&from=' + 1514761200);
 }
 
+// TODO: tracker? bugzilla?
+
+function fetchDvcs(url) {
+  const match = url.match(/dvcs\.w3\.org\/hg\/([^\/]*)\/?$/);
+  if (!match) return Promise.resolve("Unrecognized repository url " + url);
+  return fetchRSS(url + '/rss-log');
+}
+
 function recursiveGhFetch(url, acc = []) {
   return fetch(url)
     .then(r => Promise.all([Promise.resolve(r.headers.get('link')), r.json()]))
@@ -108,7 +116,7 @@ function fetchGithubRepo(owner, repo) {
 
 function fetchGithub(url) {
   const match = url.match(/github\.com\/([^\/]*)(\/([^\/]*)\/?)?$/);
-  if (!match) return Promise.resolve("Unrecognized repository url " + url);
+  if (!match) return fetchDvcs(url);
   const [, owner,, repo] = match;
   if (!repo) {
     // Fetch info on all repos from the org
