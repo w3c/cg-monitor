@@ -1,25 +1,33 @@
 const url = require("url");
+const fs = require("fs");
+
 const _fetch = require("node-fetch");
 const jsdom = require("jsdom");
 const RequestQueue = require('limited-request-queue');
-
-//const Octokat = require("octokat");
-const config = require("./config.json");
 const w3c = require('node-w3capi');
-let RSSParser = require('rss-parser');
+const RSSParser = require('rss-parser');
+const linkParse = require('parse-link-header');
+
+const config = require("./config.json");
+
 const { JSDOM } = jsdom;
 const rssparser = new RSSParser();
-const MWBot = require('nodemw');
-
-w3c.apiKey = config.w3capikey;
 
 const fetchResolve = {};
 const fetchReject = {};
 
+w3c.apiKey = config.w3capikey;
+
 const queue = new RequestQueue(null, {
   'item': ({url}, done) => {
     console.warn("fetching " + url);
-    _fetch(url).then(r => {
+    const headers =  [
+      ['User-Agent', 'W3C CG dashboard https://github.com/w3c/cg-monitor']
+    ];
+    if (url.match(/https:\/\/api\.github\.com\//)) {
+      headers.push(['Authorization', 'token ' + config.ghapitoken]);
+    }
+    _fetch(url, { headers }).then(r => {
       done();
       return fetchResolve[url](r);
     }).catch(fetchReject[url]);
@@ -76,16 +84,46 @@ function fetchWiki(url) {
   return fetchRSS(url + '/api.php?action=feedrecentchanges&from=' + 1514761200);
 }
 
+function recursiveGhFetch(url, acc = []) {
+  return fetch(url)
+    .then(r => Promise.all([Promise.resolve(r.headers.get('link')), r.json()]))
+    .then(([link, data]) => {
+      if (link) {
+        const parsed = linkParse(link);
+        if (parsed.next) {
+          return recursiveGhFetch(parsed.next.url, acc.concat(data));
+        }
+      }
+      return acc.concat(data);
+    });
+}
+
+function fetchGithubRepo(owner, repo) {
+  return Promise.all([
+    recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/issues?state=all&per_page=100'),
+    recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/pulls?state=all&per_page=100')
+  ]).then(data => [].concat(...data));
+}
+
+
 function fetchGithub(url) {
-  // Repo vs Org
-  return fetchRSS(url + 'commits/master.atom'); // TODO: figure the right branch
-  // TODO: detect comment / issue / PR activity as well
+  const match = url.match(/github\.com\/([^\/]*)(\/([^\/]*)\/?)?$/);
+  if (!match) return Promise.resolve("Unrecognized repository url " + url);
+  const [, owner,, repo] = match;
+  if (!repo) {
+    // Fetch info on all repos from the org
+    return recursiveGhFetch(`https://api.github.com/orgs/${owner}/repos?per_page=100`)
+      .then(repos => Promise.all(repos.map(r => fetchGithubRepo(r.owner.login, r.name))))
+      .then(items => { return {items: [].concat(...items)} ;});
+  } else {
+    return fetchGithubRepo(owner, repo).then(items => { return {items} ;}) ;
+  }
 }
 
 function wrapService(service) {
   return data => {
     return { service, data};
-  }
+  };
 }
 
 function fetchServiceActivity(service) {
@@ -102,11 +140,13 @@ function fetchServiceActivity(service) {
   return Promise.resolve(service).then(wrapService(service));
 }
 
+const log = err => { console.error(err); return err;};
+
+const save = (id, data) => { fs.writeFileSync('./data/' + id + '.json', JSON.stringify(data, null, 2)); return data; };
+
 w3c.groups().fetch({embed:true}, (err, groups) => {
     if (err) return console.error(err);
   const communitygroups = groups.filter(g => g.type === 'community group' && !g['is-closed']) ;
-  // is-closed, chairs
-    // services: RSS for blog activity, Wiki for editing (API?), x "Mailing Lists", Twitter, "Version Control"
     // ? participations: created (level of recent interest)
 
   Promise.all(
@@ -115,14 +155,14 @@ w3c.groups().fetch({embed:true}, (err, groups) => {
         cg =>
           Promise.all([
             Promise.resolve(cg),
-            _p(w3c.group(cg.id).chairs())(),
+            _p(w3c.group(cg.id).chairs())().catch(log),
             _p(w3c.group(cg.id).services())({embed:true})
               .then(services => Promise.all(
                 services
                   .filter(s => relevantServices.includes(s.type))
-                  .map(fetchServiceActivity))),
-            _p(w3c.group(cg.id).participations())({embed: true})
-          ])
+                  .map(fetchServiceActivity))).catch(log),
+            _p(w3c.group(cg.id).participations())({embed: true}).catch(log)
+          ]).then(data => save(cg.id, data))
       )
-  ).then(data => console.log(JSON.stringify(data, null, 2))).catch(err => console.error(err));
+  ).then(data => console.log(JSON.stringify(data, null, 2))).catch(log);
 });
