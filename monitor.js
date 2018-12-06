@@ -4,7 +4,6 @@ const fs = require("fs");
 const _fetch = require("node-fetch");
 const jsdom = require("jsdom");
 const RequestQueue = require('limited-request-queue');
-const w3c = require('node-w3capi');
 const RSSParser = require('rss-parser');
 const linkParse = require('parse-link-header');
 
@@ -16,7 +15,6 @@ const rssparser = new RSSParser();
 const fetchResolve = {};
 const fetchReject = {};
 
-w3c.apiKey = config.w3capikey;
 
 const queue = new RequestQueue(null, {
   'item': ({url}, done) => {
@@ -26,6 +24,9 @@ const queue = new RequestQueue(null, {
     ];
     if (url.match(/https:\/\/api\.github\.com\//)) {
       headers.push(['Authorization', 'token ' + config.ghapitoken]);
+    }
+    if (url.match(/https:\/\/api\.w3\.org\//)) {
+      headers.push(['Authorization', 'W3C-API apikey="' + config.w3capikey + '"']);
     }
     _fetch(url, { headers }).then(r => {
       done();
@@ -39,17 +40,6 @@ const fetch = url => new Promise((res, rej) => {
   fetchReject[url] = rej;
   queue.enqueue(url);
 });
-
-const _p = pathObj => function() {
-  const args = [...arguments];
-  return new Promise((res, rej) => {
-    args.push((err, results) => {
-      if (err) return rej(err);
-      return res(results);
-    });
-    pathObj.fetch.apply(pathObj, args);
-  });
-};
 
 const httpToHttps = str => str.replace(/^http:\/\//, "https://");
 
@@ -92,9 +82,25 @@ function fetchDvcs(url) {
   return fetchRSS(url + '/rss-log');
 }
 
+function recursiveW3cFetch(url, key=null, acc = []) {
+  return fetch(url)
+    .then(r => r.json())
+    .then(data => {
+      const selectedData = !key ? data : (data._embedded ? data._embedded[key] : data._links[key]);
+      if (!key) {
+        return selectedData; // This assumes when no key, no recursion
+      }
+      if (data._links && data._links.next) {
+        return recursiveW3cFetch(data._links.next.href, key, acc.concat(selectedData));
+      }
+      return acc.concat(selectedData);
+    }).catch(log);
+}
+
+
 function recursiveGhFetch(url, acc = []) {
   return fetch(url)
-    .then(r => Promise.all([Promise.resolve(r.headers.get('link')), r.json()]))
+    .then(r => Promise.all([Promise.resolve((r.headers || new Map()).get('link')), r.json()]))
     .then(([link, data]) => {
       if (link) {
         const parsed = linkParse(link);
@@ -119,8 +125,13 @@ function fetchGithub(url) {
   if (!match) return fetchDvcs(url);
   const [, owner,, repo] = match;
   if (!repo) {
-    // Fetch info on all repos from the org
-    return recursiveGhFetch(`https://api.github.com/orgs/${owner}/repos?per_page=100`)
+    // Fetch info on all repos from the org / the user
+    let ownerType = "orgs";
+    return fetch(`https://api.github.com/orgs/${owner}`)
+      .then(r => {
+        if (r.status === 404) ownerType = 'users';
+        return recursiveGhFetch(`https://api.github.com/${ownerType}/${owner}/repos?per_page=100`);
+      })
       .then(repos => Promise.all(repos.map(r => fetchGithubRepo(r.owner.login, r.name))))
       .then(items => { return {items: [].concat(...items)} ;});
   } else {
@@ -152,25 +163,22 @@ const log = err => { console.error(err); return err;};
 
 const save = (id, data) => { fs.writeFileSync('./data/' + id + '.json', JSON.stringify(data, null, 2)); return data; };
 
-w3c.groups().fetch({embed:true}, (err, groups) => {
-    if (err) return console.error(err);
-  const communitygroups = groups.filter(g => g.type === 'community group' && !g['is-closed']) ;
-    // ? participations: created (level of recent interest)
-
-  Promise.all(
+recursiveW3cFetch('https://api.w3.org/groups?embed=1', 'groups')
+  .then(groups => {
+    const communitygroups = groups.filter(g => g.type === 'community group' && !g['is-closed']) ;
     communitygroups
+      .filter(g => g.id === 61141 || g.id === 92610)
       .map(
         cg =>
           Promise.all([
             Promise.resolve(cg),
-            _p(w3c.group(cg.id).chairs())().catch(log),
-            _p(w3c.group(cg.id).services())({embed:true})
+            recursiveW3cFetch(cg._links.chairs.href, 'chairs'),
+            recursiveW3cFetch(cg._links.services.href + '?embed=1', 'services')
               .then(services => Promise.all(
                 services
                   .filter(s => relevantServices.includes(s.type))
-                  .map(fetchServiceActivity))).catch(log),
-            _p(w3c.group(cg.id).participations())({embed: true}).catch(log)
+                  .map(fetchServiceActivity))),
+            recursiveW3cFetch(cg._links.participations.href + '?embed=1', 'participations')
           ]).then(data => save(cg.id, data))
-      )
-  ).then(data => console.log(JSON.stringify(data, null, 2))).catch(log);
-});
+      );
+  });
