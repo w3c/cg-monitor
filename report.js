@@ -6,7 +6,7 @@ const colors = {
   'lists': '#aec7e8',
   'repository': '#ff7f0e',
   'wiki': '#ffbb78',
-  'twitter': '#2ca02c'
+  'join': '#2ca02c'
 };
 
 const lastTwelveMonths = (() => {
@@ -22,9 +22,12 @@ const lastTwelveMonths = (() => {
   return months;
 })();
 
-const bar = (count, fill) => {
-  const width = count ? 4*Math.log(count, 2) : 0;
-  return `<svg width=${Math.max(width, 48)} height='16' viewBox='0 0 ${Math.max(width, 30)} 16'><rect x='0' y='0' height='16' width='${width}' fill='${fill}'/><text y='15'>${count ? count : ''}</text></svg>`;
+// this aligns 3000 to ~50
+const factor = Math.log(1.173);
+
+const bar = (count, type, group, fill) => {
+  const width = count ? 2*Math.log(count)/factor : 0;
+  return `<svg width=${width} height='16' viewBox='0 0 ${width} 16' role='presentation'><rect x='0' y='0' height='16' width='${width}' fill='${fill}'/></svg><span title='${count} ${type} events for ${group}'>${count ? count : ''}</span>`;
 };
 
 fetch("report.json").then(r => r.json())
@@ -34,57 +37,31 @@ fetch("report.json").then(r => r.json())
 
       const h2 = document.createElement("th");
       const link = document.createElement("a");
-      link.appendChild(document.createTextNode(d[0].name.replace(/ Community Group/, '')));
-      link.href = d[0]._links.homepage.href;
+      link.appendChild(document.createTextNode(d.name.replace(/ Community Group/, '')));
+      link.href = d.link;
       h2.appendChild(link);
       section.appendChild(h2);
 
 
-      let serviceData = [];
-      if (d[2] && d[2].length) {
-        // aggregate by service type
-        serviceData = d[2].reduce((acc, {service, data}) => {
-          const existingService = acc.find(s => s.service.type === service.type);
-          if (existingService) {
-            if (existingService.data.items) existingService.data.items = existingService.data.items.concat(data.items);
-            else existingService.data = [...new Set(Object.keys(existingService.data).concat(Object.keys(data)))]
-              .reduce((acc, m) => {
-                acc[m] = (existingService.data[m] || 0) + (data[m] || 0);
-                return acc;
-            }, {});
-          } else {
-            acc.push({service, data});
-          }
-          return acc;
-        }, []);
-      } else {
-        console.error("Missing data for " + d[0].name);
-      }
       let total = 0;
-      ['lists', 'repository', 'wiki', 'rss', 'participation']
+      ['lists', 'repository', 'wiki', 'rss', 'join']
         .forEach(servicetype => {
-          const activity = document.createElement("td");
-          const data = (serviceData.find(s => s.service.type === servicetype) || {}).data;
-          let val;
-          if (data) {
-            if (data.items) {
-              val = lastTwelveMonths.reduce((acc, m) => acc + data.items.filter(i => (i.isoDate && i.isoDate.startsWith(m)) || (i.created_at && i.created_at.startsWith(m))).length, 0);
-            } else {
-              val = lastTwelveMonths.reduce((acc, m) => acc + (data[m] || 0), 0);
-            }
-            activity.innerHTML = bar(val, colors[servicetype]);
-            total += val;
+          const activitywrapper = document.createElement("td");
+          const activity = document.createElement("p");
+          const data = d.activity[servicetype];
+          let val = 0;
+          if (data && Object.keys(data)) {
+            val = lastTwelveMonths.reduce((acc, m) => acc + (data[m] || 0), 0);
           }
-          section.appendChild(activity);
+          activity.innerHTML = bar(val, servicetype, d.name, colors[servicetype]);
+          total += val;
+          activitywrapper.appendChild(activity);
+          section.appendChild(activitywrapper);
         });
-
       const chairs = document.createElement("td");
-      if (d[1] && d[1].length) {
-        chairs.classList.add("yes");
-        chairs.appendChild(document.createTextNode(d[1].length + " chairs"));
-      } else {
+      if (!d.chairs.length) {
         chairs.classList.add("no");
-        chairs.appendChild(document.createTextNode("no chairs"));
+        chairs.appendChild(document.createTextNode("no chair"));
       }
       section.appendChild(chairs);
       const idx = activityLevels.findIndex(x => total > x);

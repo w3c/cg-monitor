@@ -4,13 +4,18 @@
     <meta charset=utf-8>
     <title>Community Groups Activity Dashboard</title>
     <style>
+      thead th:first-child { text-align :right}
       tbody th { text-align: right;}
+      tbody td p { display: flex; justify-content: space-between; margin: 0; padding: 0;}
+      tbody td span { text-align: right;}
       .no { background-color: #FCC;}
       tbody { border-collapse: collapse;}
-      tbody td { border-right: solid gray 1px;}
+      tbody td { border-bottom: solid gray 1px;}
     </style>
   </head>
   <body>
+    <h1>Community Groups Activity Dashboard</h2>
+    <p>The table below summaries the level of activity from current Community Groups over the past 12 months. The graphical bars use a logarithmic scale.</p>
     <table>
       <thead>
         <tr><th>Group</th><th>Mail</th><th>Github</th><th>Wiki</th><th>Blog</th><th>Join</th><th>Notes</th></tr>
