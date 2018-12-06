@@ -59,7 +59,7 @@ const loadDir = async dirPath => {
                 if (data.items) {
                   cgData.activity[service.type] = lastTwelveMonths
                     .reduce((acc, m) => {
-                      acc[m] = data.items.filter(i => (i.isoDate && i.isoDate.startsWith(m)) || (i.created_at && i.created_at.startsWith(m))).length;
+                      acc[m] = data.items.filter(i => (i.isoDate && i.isoDate.startsWith(m)) || (i.created_at && i.created_at.startsWith(m)) || (i.commit && i.commit.committer && i.commit.committer.date && i.commit.committer.date.startsWith(m)) ).length;
                       return acc;
                     }, {});
                 } else {

@@ -116,6 +116,15 @@ function fetchGithubRepo(owner, repo) {
   return Promise.all([
     recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/issues?state=all&per_page=100'),
     recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/pulls?state=all&per_page=100')
+      .then(pulls => {
+        if (pulls.length === 0) {
+          const ayearago = new Date();
+          ayearago.setFullYear(ayearago.getFullYear() - 1);
+          // if no pull request, we take a look at commits instead
+          return recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/commits?since=' + ayearago.toJSON() + '&per_page=100');
+        }
+        return pulls;
+      })
   ]).then(data => [].concat(...data));
 }
 
