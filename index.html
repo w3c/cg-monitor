@@ -3,17 +3,21 @@
   <head>
     <meta charset=utf-8>
     <title>Community Groups Activity Dashboard</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/c3@0.6.10/c3.css">
     <style>
+      tbody th { text-align: right;}
       .no { background-color: #FCC;}
+      tbody { border-collapse: collapse;}
+      tbody td { border-right: solid gray 1px;}
     </style>
   </head>
   <body>
-    <main id="report">
-
-    </main>
-    <script src="https://cdn.jsdelivr.net/npm/d3@5.7.0/dist/d3.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/c3@0.6.10/c3.min.js"></script>
+    <table>
+      <thead>
+        <tr><th>Group</th><th>Mail</th><th>Github</th><th>Wiki</th><th>Blog</th><th>Join</th><th>Notes</th></tr>
+      </thead>
+      <tbody id="report">
+      </tbody>
+    </table>
     <script src="report.js"></script>
   </body>
 </html>
