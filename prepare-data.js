@@ -34,6 +34,8 @@ const loadDir = async dirPath => {
               const staffids = staff.map(s => s._links.self.href);
               cgData.name = data[0].name;
               cgData.link = data[0]._links.homepage.href;
+              // Approximating creation date to date of first person joining
+              cgData.created = new Date((data[3][0] || {}).created + "Z");
               cgData.chairs = data[1].filter(x => x).map(c => c.title);
               cgData.staff = data[3].filter(u => u._links.user && staffids.includes(u._links.user.href)).map(u => { const team = staff.find(s => s._links.self.href === u._links.user.href); return { name: team.name, photo: (team._links.photos ? team._links.photos.find(p => p.name === "tiny").href : undefined) } ;});
               let serviceData = [];
