@@ -40,6 +40,11 @@ fetch("report.json").then(r => r.json())
       link.appendChild(document.createTextNode(d.name.replace(/ Community Group/, '')));
       link.href = d.link;
       h2.appendChild(link);
+      const sp = document.createElement('span');
+      console.log(d.created, (new Date() - new Date(d.created)) / (1000 * 3600 * 24 * 30));
+      const monthsSinceStart = d.created ? Math.round((new Date() - new Date(d.created)) / (1000 * 3600 * 24 * 30)) : 0;
+      sp.innerHTML = `<svg width='${monthsSinceStart * 5}' height='2' viewBox='0 0 ${monthsSinceStart * 5} 2'><title>Created ${monthsSinceStart} months ago</title></title><rect x='0' y='0' height='2' width='${monthsSinceStart * 5}' fill='#00A'/></svg>`;
+      h2.appendChild(sp);
       section.appendChild(h2);
 
 
@@ -60,7 +65,6 @@ fetch("report.json").then(r => r.json())
         });
       const notes = document.createElement("td");
       if (d.staff.length) {
-        console.log(d.name, d.staff);
         const staff = document.createElement("span");
         d.staff.sort((a,b) => (b.photo !== undefined) - (a.photo !== undefined))
           .forEach(s => {
