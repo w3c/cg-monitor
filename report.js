@@ -58,12 +58,32 @@ fetch("report.json").then(r => r.json())
           activitywrapper.appendChild(activity);
           section.appendChild(activitywrapper);
         });
-      const chairs = document.createElement("td");
+      const notes = document.createElement("td");
+      if (d.staff.length) {
+        console.log(d.name, d.staff);
+        const staff = document.createElement("span");
+        d.staff.sort((a,b) => (b.photo !== undefined) - (a.photo !== undefined))
+          .forEach(s => {
+          if (s.photo) {
+            const img = document.createElement("img");
+            img.src = s.photo;
+            img.alt = s.name;
+            img.width = 20;
+            staff.appendChild(img);
+          } else {
+            staff.appendChild(document.createTextNode(s.name.split(' ')[0]));
+          }
+          notes.appendChild(staff);
+        });
+      }
       if (!d.chairs.length) {
+        const chairs = document.createElement("span");
         chairs.classList.add("no");
         chairs.appendChild(document.createTextNode("no chair"));
+        notes.appendChild(chairs);
       }
-      section.appendChild(chairs);
+
+      section.appendChild(notes);
       const idx = activityLevels.findIndex(x => total > x);
       if (idx >= 0) {
         main.insertBefore(section, main.children[idx]);
