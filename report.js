@@ -1,4 +1,5 @@
 const main = document.getElementById("report");
+let activityLevels = [];
 
 const colors = {
   'rss': '#1f77b4',
@@ -39,9 +40,10 @@ fetch("report.json").then(r => r.json())
       section.appendChild(h2);
 
 
+      let serviceData = [];
       if (d[2] && d[2].length) {
         // aggregate by service type
-        const serviceData = d[2].reduce((acc, {service, data}) => {
+        serviceData = d[2].reduce((acc, {service, data}) => {
           const existingService = acc.find(s => s.service.type === service.type);
           if (existingService) {
             if (existingService.data.items) existingService.data.items = existingService.data.items.concat(data.items);
@@ -55,32 +57,43 @@ fetch("report.json").then(r => r.json())
           }
           return acc;
         }, []);
-        ['lists', 'repository', 'wiki', 'rss', 'participation']
-          .forEach(servicetype => {
-            const activity = document.createElement("td");
-            const data = (serviceData.find(s => s.service.type === servicetype) || {}).data;
-            let val;
-            if (data) {
-              if (data.items) {
-                val = lastTwelveMonths.reduce((acc, m) => acc + data.items.filter(i => (i.isoDate && i.isoDate.startsWith(m)) || (i.created_at && i.created_at.startsWith(m))).length, 0);
-              } else {
-                val = lastTwelveMonths.reduce((acc, m) => acc + (data[m] || 0), 0);
-              }
-              activity.innerHTML = bar(val, colors[servicetype]);
-            }
-            section.appendChild(activity);
-          });
+      } else {
+        console.error("Missing data for " + d[0].name);
       }
+      let total = 0;
+      ['lists', 'repository', 'wiki', 'rss', 'participation']
+        .forEach(servicetype => {
+          const activity = document.createElement("td");
+          const data = (serviceData.find(s => s.service.type === servicetype) || {}).data;
+          let val;
+          if (data) {
+            if (data.items) {
+              val = lastTwelveMonths.reduce((acc, m) => acc + data.items.filter(i => (i.isoDate && i.isoDate.startsWith(m)) || (i.created_at && i.created_at.startsWith(m))).length, 0);
+            } else {
+              val = lastTwelveMonths.reduce((acc, m) => acc + (data[m] || 0), 0);
+            }
+            activity.innerHTML = bar(val, colors[servicetype]);
+            total += val;
+          }
+          section.appendChild(activity);
+        });
+
       const chairs = document.createElement("td");
       if (d[1] && d[1].length) {
         chairs.classList.add("yes");
         chairs.appendChild(document.createTextNode(d[1].length + " chairs"));
       } else {
-        chairs.classList.add("no chairs");
-        chairs.appendChild(document.createTextNode("no"));
+        chairs.classList.add("no");
+        chairs.appendChild(document.createTextNode("no chairs"));
       }
       section.appendChild(chairs);
-
-      main.appendChild(section);
+      const idx = activityLevels.findIndex(x => total > x);
+      if (idx >= 0) {
+        main.insertBefore(section, main.children[idx]);
+      } else {
+        main.appendChild(section);
+      }
+      activityLevels.push(total);
+      activityLevels.sort((a,b) => b - a);
     });
   });
