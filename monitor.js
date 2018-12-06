@@ -167,7 +167,7 @@ recursiveW3cFetch('https://api.w3.org/groups?embed=1', 'groups')
   .then(groups => {
     const communitygroups = groups.filter(g => g.type === 'community group' && !g['is-closed']) ;
     communitygroups
-      .filter(g => g.id === 61141 || g.id === 92610)
+      .filter(g => process.argv.length > 2 ? process.argv.map(x => parseInt(x, 10)).includes(g.id) : true)
       .map(
         cg =>
           Promise.all([
