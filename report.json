@@ -8084,8 +8084,8 @@
         "2018-06": 0,
         "2018-07": 0,
         "2018-08": 0,
-        "2018-09": 0,
-        "2018-10": 0,
+        "2018-09": 23,
+        "2018-10": 3,
         "2018-11": 0,
         "2018-12": 0
       },
@@ -8102,6 +8102,22 @@
         "2018-10": 0,
         "2018-11": 0,
         "2018-12": 0
+      },
+      "chat": {
+        "type": "chat",
+        "link": "irc://irc.w3.org:6665/#wai-engage",
+        "shortdesc": "IRC",
+        "longdesc": "",
+        "external": false,
+        "closed": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/services/1086"
+          },
+          "groups": {
+            "href": "https://api.w3.org/services/1086/groups"
+          }
+        }
       },
       "lists": {
         "2018-05": 1,
