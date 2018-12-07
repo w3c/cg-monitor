@@ -149,6 +149,13 @@ Promise.all([
       section.append(stafflist);
 
       const notes = document.createElement("td");
+      if (annotations[cgshortname] && annotations[cgshortname].nospec) {
+        const nospec = document.createElement("span");
+        nospec.classList.add("tag");
+        nospec.classList.add("info");
+        nospec.appendChild(document.createTextNode("©-only"));
+        notes.appendChild(nospec);
+      }
       if (!d.chairs.length) {
         const chairs = document.createElement("span");
         chairs.classList.add("tag");
