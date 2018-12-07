@@ -27500,6 +27500,36 @@
         "2016-11": 5,
         "2016-09": 2
       },
+      "repository": {
+        "2018-01": 26,
+        "2018-02": 23,
+        "2018-03": 28,
+        "2018-04": 31,
+        "2018-05": 28,
+        "2018-06": 31,
+        "2018-07": 50,
+        "2018-08": 76,
+        "2018-09": 59,
+        "2018-10": 144,
+        "2018-11": 20,
+        "2018-12": 0
+      },
+      "twitter": {
+        "type": "twitter",
+        "link": "https://twitter.com/chainpnt",
+        "shortdesc": "Twitter",
+        "longdesc": "Twitter @chainpnt",
+        "external": true,
+        "closed": false,
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/services/15503"
+          },
+          "groups": {
+            "href": "https://api.w3.org/services/15503/groups"
+          }
+        }
+      },
       "join": {
         "2018-01": 0,
         "2018-02": 0,
