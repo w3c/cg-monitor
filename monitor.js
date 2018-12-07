@@ -127,7 +127,7 @@ function recursiveGhFetch(url, acc = []) {
           return recursiveGhFetch(parsed.next.url, acc.concat(data));
         }
       }
-      return {items: acc.concat(data)};
+      return acc.concat(data);
     });
 }
 
