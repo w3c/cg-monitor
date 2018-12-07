@@ -1,6 +1,6 @@
 {
   "webassembly": { "wg": 101196, "funnel": 34},
-  "wicg": {"wg": "*"},
+  "wicg": {"wg": [83482,49309,43696]},
   "credentials": { "wg": 98922, "funnel": 5},
   "immersive-web": { "wg": 109735, "funnel": [83,13]}, 
   "silver": {"wg": 35422},
@@ -107,6 +107,7 @@
   "digital-asset": {"funnel": 8},
   "dapps": {"funnel": 8},
   "smartcontracts": {"funnel": 8},
+  "chainpoint": {"funnel": 8},
   "blockchain": {"funnel": 8, "workshop": "https://www.w3.org/2016/04/blockchain-workshop/"},
   "schemabibex": {"wg": "schemaorg"},
   "schemed": {"wg": "schemaorg"}
