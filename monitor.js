@@ -90,7 +90,7 @@ function fetchForum(url) {
 
 function fetchWiki(url) {
   if (!url.startsWith('http')) url = 'https://www.w3.org' + url;
-  return fetchRSS(url + '/api.php?action=feedrecentchanges&from=' + 1514761200);
+  return fetchRSS(url + '/api.php?action=feedrecentchanges&days=365&limit=1000');
 }
 
 // TODO: tracker? bugzilla?
