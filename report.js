@@ -22,6 +22,8 @@ const lastTwelveMonths = (() => {
   return months;
 })();
 
+const arrayfi = x => Array.isArray(x) ? x : [x];
+
 // this aligns 3000 to ~50
 const factor = Math.log(1.173);
 
@@ -30,8 +32,17 @@ const bar = (count, type, group, fill) => {
   return `<svg width=${width} height='16' viewBox='0 0 ${width} 16' role='presentation'><rect x='0' y='0' height='16' width='${width}' fill='${fill}'/></svg><span title='${count} ${type} events for ${group}'>${count ? count : ''}</span>`;
 };
 
-fetch("report.json").then(r => r.json())
-  .then(groupdata => {
+const groupLink = (id) => {
+  const link = document.createElement("a");
+  link.href = typeof id === "number" ? "https://www.w3.org/2004/01/pp-impl/" + id : "https://www.w3.org/community/" + id;
+  return link;
+};
+
+Promise.all([
+  fetch("report.json").then(r => r.json()),
+  fetch("annotations.json").then(r => r.json())
+])
+  .then(([groupdata, annotations]) => {
     groupdata.forEach(d => {
       const section = document.createElement("tr");
 
@@ -40,8 +51,11 @@ fetch("report.json").then(r => r.json())
       link.appendChild(document.createTextNode(d.name.replace(/ Community Group/, '')));
       link.href = d.link;
       h2.appendChild(link);
+      const cgshortname = d.link.split('/')[4];
+
+
       const sp = document.createElement('span');
-      console.log(d.created, (new Date() - new Date(d.created)) / (1000 * 3600 * 24 * 30));
+
       const monthsSinceStart = d.created ? Math.round((new Date() - new Date(d.created)) / (1000 * 3600 * 24 * 30)) : 0;
       const monthsAndYearSinceStart = monthsSinceStart >= 12 ? Math.floor(monthsSinceStart / 12) + " year" + (monthsSinceStart >= 24 ? "s" : "") : monthsSinceStart + " months";
       sp.innerHTML = `<svg width='${monthsSinceStart * 5}' height='10' viewBox='0 0 ${monthsSinceStart * 5} 10'><title>Created ${monthsAndYearSinceStart} ago</title></title><rect x='0' y='8' height='2' width='${monthsSinceStart * 5}' fill='#00A'/></svg>`;
@@ -64,7 +78,45 @@ fetch("report.json").then(r => r.json())
           activitywrapper.appendChild(activity);
           section.appendChild(activitywrapper);
         });
-      const notes = document.createElement("td");
+      const related = document.createElement("td");
+      if (annotations[cgshortname] && (annotations[cgshortname].wg || annotations[cgshortname].postWG)) {
+        const groups = annotations[cgshortname].wg ? arrayfi(annotations[cgshortname].wg) : arrayfi(annotations[cgshortname].postWG);
+        const closed = !!annotations[cgshortname].postWG;
+        groups.forEach(g => {
+          const link = groupLink(g);
+          link.classList.add("tag");
+          link.classList.add("related");
+          if (g === "schemaorg") {
+            link.textContent = "S.o";
+            link.title = "Building for schema.org";
+          } else {
+            const img = document.createElement("img");
+            img.src = "group.svg";
+            img.alt = "Related " + (closed ? "closed" : "" ) + " WG/IG/CG";
+            img.height = 10;
+            if (closed) link.classList.add("closed");
+            link.appendChild(img);
+          }
+          related.appendChild(link);
+        });
+      }
+      if (annotations[cgshortname] && annotations[cgshortname].funnel) {
+        const funnel = arrayfi(annotations[cgshortname].funnel);
+        funnel.forEach(f => {
+          const link = document.createElement("a");
+          link.href = "https://github.com/w3c/strategy/issues/" + f;
+          const img = document.createElement("img");
+          img.src = "funnel.svg";
+          img.alt = "W3C Strategy funnel entry #" + f;
+          img.height = 10;
+          link.classList.add("tag");
+          link.classList.add("related");
+          link.appendChild(img);
+          related.appendChild(link);
+        });
+      }
+      section.append(related);
+      const stafflist = document.createElement("td");
       if (d.staff.length) {
         const staff = document.createElement("span");
         d.staff.sort((a,b) => (b.photo !== undefined) - (a.photo !== undefined))
@@ -81,9 +133,22 @@ fetch("report.json").then(r => r.json())
             name.appendChild(document.createTextNode(s.name.split(/[- ]/).map(n => n[0]).join('')));
             staff.appendChild(name);
           }
-          notes.appendChild(staff);
+            stafflist.appendChild(staff);
         });
       }
+      if (annotations[cgshortname] && annotations[cgshortname].dup) {
+        const dup = document.createElement("span");
+        dup.classList.add("tag");
+        dup.classList.add("no");
+        const link = groupLink(annotations[cgshortname].dup);
+        link.title = "duplicate of another group";
+        link.appendChild(document.createTextNode("dup"));
+        dup.appendChild(link);
+        related.appendChild(dup);
+      }
+      section.append(stafflist);
+
+      const notes = document.createElement("td");
       if (!d.chairs.length) {
         const chairs = document.createElement("span");
         chairs.classList.add("tag");

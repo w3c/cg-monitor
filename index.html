@@ -13,19 +13,22 @@
       .no { background-color: #FCC;}
       .repo { background-color: #cf5f0e; color: white;}
       .participant { background-color: #aca02c; color: white; }
+      .closed { background-color: #AAA }
 
       tbody { border-collapse: collapse;}
       tbody td { border-bottom: solid gray 1px;}
       tbody td img { vertical-align: middle;}
-      span.tag { display: inline-block; font-size: 0.8em; padding: 2px 5px; border-radius: 5px; vertical-align: middle; margin: 0 3px;}
+      .tag { display: inline-block; font-size: 0.8em; padding: 2px 5px; border-radius: 5px; vertical-align: middle; margin: 0 3px;}
+      .related { border: solid thin black; font-size: 0.6em;}
     </style>
   </head>
   <body>
     <h1>Community Groups Activity Dashboard</h2>
-    <p>The table below summarizes the level of activity from current Community Groups over the past 12 months. The graphical bars use a logarithmic scale.</p>
+<p>The table below summarizes the level of activity from current Community Groups over the past 12 months. The graphical bars use a logarithmic scale.</p>
+<p>The information on related groups / <a href="https://github.com/w3c/strategy/projects/2">funnel</a> entries is <a href="https://github.com/w3c/cg-monitor/blob/master/annotations.json">manually managed</a> and likely not exhaustive.</p>
     <table>
       <thead>
-        <tr><th>Group</th><th>Mail</th><th>Repository</th><th>Wiki</th><th>Blog</th><th>Join</th><th>Notes</th></tr>
+        <tr><th>Group</th><th>Mail</th><th>Repository</th><th>Wiki</th><th>Blog</th><th>Join</th><th>Related</th><th>Staff</th><th>Notes</th></tr>
       </thead>
       <tbody id="report">
       </tbody>
