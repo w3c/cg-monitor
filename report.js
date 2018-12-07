@@ -43,7 +43,8 @@ fetch("report.json").then(r => r.json())
       const sp = document.createElement('span');
       console.log(d.created, (new Date() - new Date(d.created)) / (1000 * 3600 * 24 * 30));
       const monthsSinceStart = d.created ? Math.round((new Date() - new Date(d.created)) / (1000 * 3600 * 24 * 30)) : 0;
-      sp.innerHTML = `<svg width='${monthsSinceStart * 5}' height='2' viewBox='0 0 ${monthsSinceStart * 5} 2'><title>Created ${monthsSinceStart} months ago</title></title><rect x='0' y='0' height='2' width='${monthsSinceStart * 5}' fill='#00A'/></svg>`;
+      const monthsAndYearSinceStart = monthsSinceStart >= 12 ? Math.floor(monthsSinceStart / 12) + " year" + (monthsSinceStart >= 24 ? "s" : "") : monthsSinceStart + " months";
+      sp.innerHTML = `<svg width='${monthsSinceStart * 5}' height='10' viewBox='0 0 ${monthsSinceStart * 5} 10'><title>Created ${monthsAndYearSinceStart} ago</title></title><rect x='0' y='8' height='2' width='${monthsSinceStart * 5}' fill='#00A'/></svg>`;
       h2.appendChild(sp);
       section.appendChild(h2);
 
