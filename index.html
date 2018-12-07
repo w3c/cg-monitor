@@ -11,8 +11,13 @@
       tbody td p { display: flex; justify-content: space-between; margin: 0; padding: 0;}
       tbody td span { text-align: right;}
       .no { background-color: #FCC;}
+      .repo { background-color: #cf5f0e; color: white;}
+      .participant { background-color: #aca02c; color: white; }
+
       tbody { border-collapse: collapse;}
       tbody td { border-bottom: solid gray 1px;}
+      tbody td img { vertical-align: middle;}
+      span.tag { display: inline-block; font-size: 0.8em; padding: 2px 5px; border-radius: 5px; vertical-align: middle; margin: 0 3px;}
     </style>
   </head>
   <body>
@@ -20,7 +25,7 @@
     <p>The table below summarizes the level of activity from current Community Groups over the past 12 months. The graphical bars use a logarithmic scale.</p>
     <table>
       <thead>
-        <tr><th>Group</th><th>Mail</th><th>Github</th><th>Wiki</th><th>Blog</th><th>Join</th><th>Notes</th></tr>
+        <tr><th>Group</th><th>Mail</th><th>Repository</th><th>Wiki</th><th>Blog</th><th>Join</th><th>Notes</th></tr>
       </thead>
       <tbody id="report">
       </tbody>

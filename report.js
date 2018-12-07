@@ -76,16 +76,34 @@ fetch("report.json").then(r => r.json())
             img.width = 20;
             staff.appendChild(img);
           } else {
-            staff.appendChild(document.createTextNode(s.name.split(' ')[0]));
+            const name = document.createElement("span");
+            name.title = s.name;
+            name.appendChild(document.createTextNode(s.name.split(/[- ]/).map(n => n[0]).join('')));
+            staff.appendChild(name);
           }
           notes.appendChild(staff);
         });
       }
       if (!d.chairs.length) {
         const chairs = document.createElement("span");
+        chairs.classList.add("tag");
         chairs.classList.add("no");
         chairs.appendChild(document.createTextNode("no chair"));
         notes.appendChild(chairs);
+      }
+      if (!d.activity.repository) {
+        const repos = document.createElement("span");
+        repos.classList.add("tag");
+        repos.classList.add("repo");
+        repos.appendChild(document.createTextNode("no repo"));
+        notes.appendChild(repos);
+      }
+      if (d.participants <= 5) {
+        const participants = document.createElement("span");
+        participants.classList.add("tag");
+        participants.classList.add("participant");
+        participants.appendChild(document.createTextNode(d.participants + " participant" + (d.participants > 1 ? "s" : "")));
+        notes.appendChild(participants);
       }
 
       section.appendChild(notes);
