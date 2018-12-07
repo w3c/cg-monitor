@@ -15,6 +15,8 @@ const rssparser = new RSSParser();
 const fetchResolve = {};
 const fetchReject = {};
 
+const ayearago = new Date();
+ayearago.setFullYear(ayearago.getFullYear() - 1);
 
 const queue = new RequestQueue(null, {
   'item': ({url}, done) => {
@@ -43,8 +45,6 @@ const fetch = url => new Promise((res, rej) => {
 
 const httpToHttps = str => str.replace(/^http:\/\//, "https://");
 
-const relevantServices = ["rss", "lists", "repository", "wiki"];
-
 function fetchRSS(url) {
   return fetch(url).then(r => r.text()).then(text => rssparser.parseString(text)).catch(error => "Error fetching "  + url + ": " + error);
 }
@@ -68,6 +68,25 @@ function fetchMail(url) {
       return data;
     });
 }
+
+function recursiveFetchDiscourse(url, before = null, acc = []) {
+  const fetchedUrl = url + (before ? '?before=' + before : '');
+  return fetch(fetchedUrl)
+    .then(r => r.json())
+    .then(({latest_posts}) => {
+      acc = acc.concat(latest_posts);
+      if (latest_posts[latest_posts.length - 1].updated_at > ayearago.toJSON()) {
+        return recursiveFetchDiscourse(url, before = latest_posts[latest_posts.length - 1].id, acc);
+      }
+      return acc;
+    });
+}
+
+function fetchForum(url) {
+  if (!url.match(/discourse/)) return Promise.resolve("Did not fetch forum at " + url);
+  return recursiveFetchDiscourse(url + '/posts.json');
+}
+
 
 function fetchWiki(url) {
   if (!url.startsWith('http')) url = 'https://www.w3.org' + url;
@@ -108,7 +127,7 @@ function recursiveGhFetch(url, acc = []) {
           return recursiveGhFetch(parsed.next.url, acc.concat(data));
         }
       }
-      return acc.concat(data);
+      return {items: acc.concat(data)};
     });
 }
 
@@ -118,8 +137,6 @@ function fetchGithubRepo(owner, repo) {
     recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/pulls?state=all&per_page=100')
       .then(pulls => {
         if (pulls.length === 0) {
-          const ayearago = new Date();
-          ayearago.setFullYear(ayearago.getFullYear() - 1);
           // if no pull request, we take a look at commits instead
           return recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/commits?since=' + ayearago.toJSON() + '&per_page=100');
         }
@@ -164,6 +181,8 @@ function fetchServiceActivity(service) {
     return fetchWiki(service.link).then(wrapService(service));
   case "repository":
     return fetchGithub(service.link).then(wrapService(service));
+  case "forum":
+    return fetchForum(service.link).then(wrapService(service));
   }
   return Promise.resolve(service).then(wrapService(service));
 }
@@ -189,7 +208,6 @@ recursiveW3cFetch('https://api.w3.org/affiliations/52794/participants?embed=1', 
             recursiveW3cFetch(cg._links.services.href + '?embed=1', 'services')
               .then(services => Promise.all(
                 services
-                  .filter(s => relevantServices.includes(s.type))
                   .map(fetchServiceActivity))),
             recursiveW3cFetch(cg._links.participations.href + '?embed=1', 'participations')
           ]).then(data => save(cg.id, data))
