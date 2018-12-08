@@ -154,5 +154,5 @@
   "meat": {"wg": "schemaorg"},
   "schemed": {"wg": "schemaorg"},
   "lom2ld": {"dup": "opened"},
-  "webarraymath": {"dup": "webassembly"},
+  "webarraymath": {"dup": "webassembly"}
 }
