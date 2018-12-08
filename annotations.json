@@ -151,5 +151,6 @@
   "blockchain": {"funnel": 8, "workshop": "https://www.w3.org/2016/04/blockchain-workshop/"},
   "schemabibex": {"wg": "schemaorg"},
   "smartmfg": {"wg": "schemaorg"},
+  "meat": {"wg": "schemaorg"}
   "schemed": {"wg": "schemaorg"}
 }
