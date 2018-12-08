@@ -14,6 +14,7 @@ const rssparser = new RSSParser();
 
 const fetchResolve = {};
 const fetchReject = {};
+const cache = {};
 
 const ayearago = new Date();
 ayearago.setFullYear(ayearago.getFullYear() - 1);
@@ -32,14 +33,18 @@ const queue = new RequestQueue(null, {
     }
     _fetch(url, { headers }).then(r => {
       done();
-      return fetchResolve[url](r);
-    }).catch(fetchReject[url]);
+      cache[url] = r;
+      fetchResolve[url].forEach(res => res(r));
+    }).catch(err => fetchReject[url].forEach(rej => rej(err)));
   }
 });
 
 const fetch = url => new Promise((res, rej) => {
-  fetchResolve[url] = res;
-  fetchReject[url] = rej;
+  if (cache[url]) return res(cache[url]);
+  if (!fetchResolve[url]) fetchResolve[url] = [];
+  if (!fetchReject[url]) fetchReject[url] = [];
+  fetchResolve[url].push(res);
+  fetchReject[url].push(rej);
   queue.enqueue(url);
 });
 
