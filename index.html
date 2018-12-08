@@ -4,22 +4,31 @@
     <meta charset=utf-8>
     <title>Community Groups Activity Dashboard</title>
     <style>
+      body { color: white; background-color: #333;}
+      a:link { color: #CCF;}
+      a:visited { color: #FCF;}
       tbody th a:link, tbody th a:visited { text-decoration: none; }
       thead th:first-child { text-align :right}
       tbody th { text-align: right; position: relative;}
       tbody th svg { position: absolute; right: 0; bottom:0;}
       tbody td p { display: flex; justify-content: space-between; margin: 0; padding: 0;}
       tbody td span { text-align: right;}
-      .no { background-color: #FCC;}
-      .repo { background-color: #cf5f0e; color: white;}
-      .participant { background-color: #aca02c; color: white; }
-      .closed { background-color: #AAA }
 
       tbody { border-collapse: collapse;}
       tbody td { border-bottom: solid gray 1px;}
       tbody td img { vertical-align: middle;}
-      .tag { display: inline-block; font-size: 0.8em; padding: 2px 5px; border-radius: 5px; vertical-align: middle; margin: 0 3px;}
-      .info, .related { border: solid thin black;}
+      .tag { display: inline-block; font-size: 0.8em; padding: 2px 5px; border-radius: 5px; vertical-align: middle; margin: 0 3px; background-color: white; color: black;}
+      .no { background-color: #FCC;}
+      .no a:link, .no a:visited { color: #007;}
+      .repo { background-color: #cf5f0e; color: white;}
+      .participant { background-color: #aca02c; color: white; }
+      .closed { background-color: #AAA }
+      /* gradients generated via https://mycolor.space */
+      svg.lists { background: linear-gradient(to right, #F9F871, #AEFC9C 80px,#71F7CD 88px,#61EAF0 94px,#87D9F8 98px,#aec7e8 100px);}
+      svg.rss { background: linear-gradient(to right, #F9F871, #98EB85 80px,#0AD5A7 88px,#00B9C2 94px,#009AC8 98px,#1F77B4 100px);}
+      svg.repository { background: linear-gradient(to right, #FF7F0E, #f9545F 80px,#CA4F8C 88px,#845798 94px,#455581 98px,#2F4858 100px);}
+      svg.wiki { background: linear-gradient(to right, #FFBB78, #F19487 80px,#C77B95 88px,#8D6B93 94px,#545C7D 98px,#2F4858 100px);}
+      svg.join { background: linear-gradient(to right, #2CA02C, #009257 80px,#008270 88px,#006F79 94px,#005B6F 98px,#2F4858 100px);}
     </style>
   </head>
   <body>

@@ -1,14 +1,6 @@
 const main = document.getElementById("report");
 let activityLevels = [];
 
-const colors = {
-  'rss': '#1f77b4',
-  'lists': '#aec7e8',
-  'repository': '#ff7f0e',
-  'wiki': '#ffbb78',
-  'join': '#2ca02c'
-};
-
 const lastTwelveMonths = (() => {
   const now = new Date();
   const ayearago = new Date();
@@ -27,9 +19,9 @@ const arrayfi = x => Array.isArray(x) ? x : [x];
 // this aligns 3000 to ~50
 const factor = Math.log(1.173);
 
-const bar = (count, type, group, fill) => {
+const bar = (count, type, group, fillname) => {
   const width = count ? 2*Math.log(count)/factor : 0;
-  return `<svg width=${width} height='16' viewBox='0 0 ${width} 16' role='presentation'><rect x='0' y='0' height='16' width='${width}' fill='${fill}'/></svg><span title='${count} ${type} events for ${group}'>${count ? count : ''}</span>`;
+  return `<svg width=${width} height='16' viewBox='0 0 ${width} 16' class='${fillname}' role='presentation'><rect x='0' y='0' height='16' width='${width}' fill='transparent'/></svg><span title='${count} ${type} events for ${group}'>${count ? count : ''}</span>`;
 };
 
 const groupLink = (id) => {
@@ -73,7 +65,7 @@ Promise.all([
           if (data && Object.keys(data)) {
             val = lastTwelveMonths.reduce((acc, m) => acc + (data[m] || 0), 0);
           }
-          activity.innerHTML = bar(val, servicetype, d.name, colors[servicetype]);
+          activity.innerHTML = bar(val, servicetype, d.name, servicetype);
           total += val;
           activitywrapper.appendChild(activity);
           section.appendChild(activitywrapper);
