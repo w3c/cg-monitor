@@ -21,7 +21,7 @@ const arrayfi = x => Array.isArray(x) ? x : [x];
 const factor = Math.log(1.173);
 
 const bar = (count, type, group, fillname) => {
-  const width = count ? 2*Math.log(count)/factor : 0;
+  const width = count ? 2*Math.log(count)/factor + 1 : 0;
   return `<svg width=${width} height='16' viewBox='0 0 ${width} 16' class='${fillname}' role='presentation'><rect x='0' y='0' height='16' width='${width}' fill='transparent'/></svg><span title='${count} ${type} events for ${group}'>${count ? count : ''}</span>`;
 };
 
@@ -62,13 +62,13 @@ Promise.all([
       ['lists', 'repository', 'wiki', 'rss', 'join']
         .forEach(servicetype => {
           const activitywrapper = document.createElement("td");
-          activitywrapper.classList.add('num');
           const activity = document.createElement("p");
           const data = d.activity[servicetype];
           let val = 0;
           if (data && Object.keys(data)) {
             val = lastXMonths.reduce((acc, m) => acc + (data[m] || 0), 0);
           }
+          if (val) activitywrapper.classList.add('num');
           activity.innerHTML = bar(val, servicetype, d.name, servicetype);
           total += val;
           activitywrapper.appendChild(activity);
