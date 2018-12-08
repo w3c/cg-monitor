@@ -42,19 +42,19 @@ Promise.all([
       const section = document.createElement("tr");
 
       const h2 = document.createElement("th");
+
+      const sp = document.createElement('span');
+      const monthsSinceStart = d.created ? Math.round((new Date() - new Date(d.created)) / (1000 * 3600 * 24 * 30)) : 0;
+      const monthsAndYearSinceStart = monthsSinceStart >= 12 ? Math.floor(monthsSinceStart / 12) + " year" + (monthsSinceStart >= 24 ? "s" : "") : monthsSinceStart + " months";
+      sp.innerHTML = `<svg width='${monthsSinceStart * 5}' height='10' viewBox='0 0 ${monthsSinceStart * 5} 10'><title>Created ${monthsAndYearSinceStart} ago</title></title><rect x='0' y='8' height='2' width='${monthsSinceStart * 5}' fill='${monthsSinceStart >= period ? "#ACF" : "#AFA"}'/></svg>`;
+      h2.appendChild(sp);
+
       const link = document.createElement("a");
       link.appendChild(document.createTextNode(d.name.replace(/ Community Group/, '')));
       link.href = d.link;
       h2.appendChild(link);
       const cgshortname = d.link.split('/')[4];
 
-
-      const sp = document.createElement('span');
-
-      const monthsSinceStart = d.created ? Math.round((new Date() - new Date(d.created)) / (1000 * 3600 * 24 * 30)) : 0;
-      const monthsAndYearSinceStart = monthsSinceStart >= 12 ? Math.floor(monthsSinceStart / 12) + " year" + (monthsSinceStart >= 24 ? "s" : "") : monthsSinceStart + " months";
-      sp.innerHTML = `<svg width='${monthsSinceStart * 5}' height='10' viewBox='0 0 ${monthsSinceStart * 5} 10'><title>Created ${monthsAndYearSinceStart} ago</title></title><rect x='0' y='8' height='2' width='${monthsSinceStart * 5}' fill='${monthsSinceStart >= period ? "#ACF" : "#AFA"}'/></svg>`;
-      h2.appendChild(sp);
       section.appendChild(h2);
 
 
