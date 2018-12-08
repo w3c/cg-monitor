@@ -1,18 +1,19 @@
 const main = document.getElementById("report");
 let activityLevels = [];
 
-const lastTwelveMonths = (() => {
+const period = location.search ? Math.min(12, parseInt(location.search.slice(1), 10)): 12;
+const lastXMonths = ((period = 12) => {
   const now = new Date();
   const ayearago = new Date();
   const months = [];
   ayearago.setDate(1);
-  ayearago.setMonth(ayearago.getMonth() - 11);
+  ayearago.setMonth(ayearago.getMonth() - (period - 1));
   while (ayearago < now) {
     months.push(ayearago.toJSON().slice(0,7));
     ayearago.setMonth(ayearago.getMonth() + 1);
   }
   return months;
-})();
+})(period);
 
 const arrayfi = x => Array.isArray(x) ? x : [x];
 
@@ -52,7 +53,7 @@ Promise.all([
 
       const monthsSinceStart = d.created ? Math.round((new Date() - new Date(d.created)) / (1000 * 3600 * 24 * 30)) : 0;
       const monthsAndYearSinceStart = monthsSinceStart >= 12 ? Math.floor(monthsSinceStart / 12) + " year" + (monthsSinceStart >= 24 ? "s" : "") : monthsSinceStart + " months";
-      sp.innerHTML = `<svg width='${monthsSinceStart * 5}' height='10' viewBox='0 0 ${monthsSinceStart * 5} 10'><title>Created ${monthsAndYearSinceStart} ago</title></title><rect x='0' y='8' height='2' width='${monthsSinceStart * 5}' fill='#ACF'/></svg>`;
+      sp.innerHTML = `<svg width='${monthsSinceStart * 5}' height='10' viewBox='0 0 ${monthsSinceStart * 5} 10'><title>Created ${monthsAndYearSinceStart} ago</title></title><rect x='0' y='8' height='2' width='${monthsSinceStart * 5}' fill='${monthsSinceStart >= period ? "#ACF" : "#AFA"}'/></svg>`;
       h2.appendChild(sp);
       section.appendChild(h2);
 
@@ -66,7 +67,7 @@ Promise.all([
           const data = d.activity[servicetype];
           let val = 0;
           if (data && Object.keys(data)) {
-            val = lastTwelveMonths.reduce((acc, m) => acc + (data[m] || 0), 0);
+            val = lastXMonths.reduce((acc, m) => acc + (data[m] || 0), 0);
           }
           activity.innerHTML = bar(val, servicetype, d.name, servicetype);
           total += val;
