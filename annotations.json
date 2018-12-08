@@ -152,5 +152,6 @@
   "schemabibex": {"wg": "schemaorg"},
   "smartmfg": {"wg": "schemaorg"},
   "meat": {"wg": "schemaorg"},
-  "schemed": {"wg": "schemaorg"}
+  "schemed": {"wg": "schemaorg"},
+  "lom2ld": {"dup": "opened"}
 }
