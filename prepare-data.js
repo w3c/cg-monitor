@@ -84,5 +84,5 @@ const loadDir = async dirPath => {
 };
 
 loadDir("./data").then(data => {
-  fs.writeFileSync('./report.json', JSON.stringify(data, null, 2));
+  fs.writeFileSync('./report.json', JSON.stringify({timestamp: new Date(), data}, null, 2));
 });

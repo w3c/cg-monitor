@@ -34,8 +34,10 @@ Promise.all([
   fetch("report.json").then(r => r.json()),
   fetch("annotations.json").then(r => r.json())
 ])
-  .then(([groupdata, annotations]) => {
+  .then(([{data: groupdata, timestamp}, annotations]) => {
     groupdata.forEach(d => {
+      document.getElementById('timestamp').textContent = new Date(timestamp).toJSON().slice(0,10);
+
       const section = document.createElement("tr");
 
       const h2 = document.createElement("th");
