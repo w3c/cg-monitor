@@ -153,5 +153,6 @@
   "smartmfg": {"wg": "schemaorg"},
   "meat": {"wg": "schemaorg"},
   "schemed": {"wg": "schemaorg"},
-  "lom2ld": {"dup": "opened"}
+  "lom2ld": {"dup": "opened"},
+  "webarraymath": {"dup": "webassembly"},
 }
