@@ -84,7 +84,7 @@ function recursiveFetchDiscourse(url, before = null, acc = []) {
 
 function fetchForum(url) {
   if (!url.match(/discourse/)) return Promise.resolve("Did not fetch forum at " + url);
-  return recursiveFetchDiscourse(url + '/posts.json');
+  return recursiveFetchDiscourse(url + '/posts.json').then(items => { return {items}; });
 }
 
 
