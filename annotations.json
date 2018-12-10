@@ -111,6 +111,7 @@
   "schemaorg4datasets": {"wg": "schemaorg"},
   "videogameschema": {"wg": "schemaorg"},
   "eocred-schema": {"wg": "schemaorg"},
+  "digitalassetmanagement": {"wg": "schemaorg"},
   "ostatus": {"dup": "socialcg"},
   "activitypub": {"dup": "socialcg"},
   "respimg": {"wg": 83482, "funnel": 69},
