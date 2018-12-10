@@ -109,6 +109,8 @@
   "exi-next": {"postWG": 38502},
   "schema-course-extend": {"wg": "schemaorg"},
   "schemaorg4datasets": {"wg": "schemaorg"},
+  "videogameschema": {"wg": "schemaorg"},
+  "eocred-schema": {"wg": "schemaorg"},
   "ostatus": {"dup": "socialcg"},
   "activitypub": {"dup": "socialcg"},
   "respimg": {"wg": 83482, "funnel": 69},
