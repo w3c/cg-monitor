@@ -31,11 +31,12 @@ const queue = new RequestQueue(null, {
     if (url.match(/https:\/\/api\.w3\.org\//)) {
       headers.push(['Authorization', 'W3C-API apikey="' + config.w3capikey + '"']);
     }
-    _fetch(url, { headers }).then(r => {
-      done();
-      cache[url] = r;
-      fetchResolve[url].forEach(res => res(r));
-    }).catch(err => fetchReject[url].forEach(rej => rej(err)));
+    _fetch(url, { headers }).then(r => Promise.all([Promise.resolve(r.headers), r.text()]))
+      .then(([headers, body]) => {
+        done();
+        cache[url] = {headers, body};;
+        return Promise.all(fetchResolve[url].map(res => res({headers, body})));
+      }).catch(err => {console.error(err); return fetchReject[url].forEach(rej => rej(err));});
   }
 });
 
@@ -51,14 +52,13 @@ const fetch = url => new Promise((res, rej) => {
 const httpToHttps = str => str.replace(/^http:\/\//, "https://");
 
 function fetchRSS(url) {
-  return fetch(url).then(r => r.text()).then(text => rssparser.parseString(text)).catch(error => "Error fetching "  + url + ": " + error);
+  return fetch(url).then(({body: text}) => rssparser.parseString(text)).catch(error => "Error fetching "  + url + ": " + error);
 }
 
 function fetchMail(url) {
   if (!httpToHttps(url).startsWith('https://lists.w3.org/Archives/Public')) return Promise.resolve("Did not fetch " + url);
   return fetch(url)
-    .then(r => r.text())
-    .then(text => new JSDOM(text))
+    .then(({body: text}) => new JSDOM(text))
     .then(dom => {
       const data = {};
       [...dom.window.document.querySelectorAll("tbody")].forEach(tbody => {
@@ -77,7 +77,7 @@ function fetchMail(url) {
 function recursiveFetchDiscourse(url, before = null, acc = []) {
   const fetchedUrl = url + (before ? '?before=' + before : '');
   return fetch(fetchedUrl)
-    .then(r => r.json())
+    .then(({body: text}) => JSON.parse(text))
     .then(({latest_posts}) => {
       acc = acc.concat(latest_posts);
       if (latest_posts[latest_posts.length - 1].updated_at > ayearago.toJSON()) {
@@ -108,7 +108,7 @@ function fetchDvcs(url) {
 
 function recursiveW3cFetch(url, key=null, acc = []) {
   return fetch(url)
-    .then(r => r.json())
+    .then(({body: text}) => JSON.parse(text))
     .then(data => {
       const selectedData = !key ? data : (data._embedded ? data._embedded[key] : data._links[key]);
       if (!key) {
@@ -124,7 +124,7 @@ function recursiveW3cFetch(url, key=null, acc = []) {
 
 function recursiveGhFetch(url, acc = []) {
   return fetch(url)
-    .then(r => Promise.all([Promise.resolve((r.headers || new Map()).get('link')), r.json()]))
+    .then(({headers, body}) => [(headers || new Map()).get('link'), JSON.parse(body)])
     .then(([link, data]) => {
       if (link) {
         const parsed = linkParse(link);
@@ -200,7 +200,7 @@ recursiveW3cFetch('https://api.w3.org/affiliations/52794/participants?embed=1', 
   .then(staff => {
     save('staff', staff);
     return recursiveW3cFetch('https://api.w3.org/groups?embed=1', 'groups');
-  })
+  }, err => console.error(err))
   .then(groups => {
     const communitygroups = groups.filter(g => g.type === 'community group' && !g['is-closed']) ;
     communitygroups
