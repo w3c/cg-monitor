@@ -102,6 +102,7 @@
   "publishingcg": {"wg": 100074},
   "html5spec": {"wg": 83482},
   "wot": {"wg": 95969},
+  "solid": {"wg": "rww"},
   "gao": {"wg": "schemaorg"},
   "tourismdata": {"wg": "schemaorg"},
   "webpayments": {"wg": 73816},
