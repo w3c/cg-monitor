@@ -173,15 +173,16 @@ Promise.all([
         participants.appendChild(document.createTextNode(d.participants + " participant" + (d.participants > 1 ? "s" : "")));
         notes.appendChild(participants);
       }
+      const activityLevel = total * 1000 + d.participants;
 
       section.appendChild(notes);
-      const idx = activityLevels.findIndex(x => total > x);
+      const idx = activityLevels.findIndex(x => activityLevel > x);
       if (idx >= 0) {
         main.insertBefore(section, main.children[idx]);
       } else {
         main.appendChild(section);
       }
-      activityLevels.push(total);
+      activityLevels.push(activityLevel);
       activityLevels.sort((a,b) => b - a);
     });
   });
