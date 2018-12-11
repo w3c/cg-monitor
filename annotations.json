@@ -76,7 +76,7 @@
   "webplatzh": {"dup": 109611},
   "openannotation": {"postWG": 73180},
   "payments-commerce-a11y": {"wg": 83907},
-  "webtiming": {"funnel": 46},
+  "webtiming": {"funnel": 46, "wg": 46300},
   "ml-schema": {"funnel": 17},
   "fibo": {"wg": "schemaorg"},
   "voiceinteraction": {"postWG": 34665, "funnel": [71, 134]},
@@ -141,7 +141,7 @@
   "trustperms": {"workshop": ["http://www.w3.org/2014/07/permissions/", "https://www.w3.org/Privacy/permissions-ws-2018/cfp.html"], "nospec": true},
   "irobar": {"funnel": [91, 147]},
   "webarchivability": {"funnel": [91, 147]},
-  "whatwg": {"dup": "whatwg"},
+  "whatwg": {"dup": "https://whatwg.org/"},
   "webmachinelearning": {"funnel":150 , "workshop": "https://www.w3.org/2018/11/machine-learning-workshop/"},
   "browserext": {"funnel": 146},
   "declarative-apps": {"funnel": 95},
@@ -162,5 +162,14 @@
   "schemed": {"wg": "schemaorg"},
   "lom2ld": {"dup": "opened"},
   "webarraymath": {"dup": "webassembly"},
-  "datapipelining": {"dup": "xproc-next"}
+  "datapipelining": {"dup": "xproc-next"},
+  "timed-text": {"dup": 34314},
+  "remotedom": {"dup": "webscreens"},
+  "svgstreaming": {"wg": 19480},
+  "markdown": {"dup": "https://commonmark.org/"},
+  "semwebprog": {"dup": "rdf-dev"},
+  "declarative3d": {"funnel": [83,13]},
+  "web-api-discovery": {"wg": "schemaorg"},
+  "film": {"wg": 46300},
+  "autowebtest": {"dup": 49799}
 }
