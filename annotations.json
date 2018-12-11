@@ -169,7 +169,10 @@
   "markdown": {"dup": "https://commonmark.org/"},
   "semwebprog": {"dup": "rdf-dev"},
   "declarative3d": {"funnel": [83,13]},
+  "stereoweb": {"funnel": [83,13]},
   "web-api-discovery": {"wg": "schemaorg"},
   "film": {"wg": 46300},
-  "autowebtest": {"dup": 49799}
+  "autowebtest": {"dup": 49799},
+  "adopsdnt": {"wg": 49311},
+  "pua": {"wg": 52497}
 }
