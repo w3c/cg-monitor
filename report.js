@@ -27,8 +27,15 @@ const bar = (count, type, group, fillname) => {
 
 const groupLink = (id) => {
   const link = document.createElement("a");
-  link.href = typeof id === "number" ? "https://www.w3.org/2004/01/pp-impl/" + id : "https://www.w3.org/community/" + id;
+  link.href = typeof id === "number" ? "https://www.w3.org/2004/01/pp-impl/" + id : (id.startsWith('https://') ? id : "https://www.w3.org/community/" + id);
   return link;
+};
+
+let stats = {
+  nochairs: 0,
+  nostaff: 0,
+  norepo: 0,
+  nospec: 0
 };
 
 Promise.all([
@@ -131,6 +138,8 @@ Promise.all([
           }
             stafflist.appendChild(staff);
         });
+      } else {
+        stats.nostaff++;
       }
       if (annotations[cgshortname] && annotations[cgshortname].dup) {
         const dup = document.createElement("span");
@@ -146,6 +155,7 @@ Promise.all([
 
       const notes = document.createElement("td");
       if (annotations[cgshortname] && annotations[cgshortname].nospec) {
+        stats.nospec++;
         const nospec = document.createElement("span");
         nospec.classList.add("tag");
         nospec.classList.add("info");
@@ -153,6 +163,7 @@ Promise.all([
         notes.appendChild(nospec);
       }
       if (!d.chairs.length) {
+        stats.nochairs++;
         const chairs = document.createElement("span");
         chairs.classList.add("tag");
         chairs.classList.add("no");
@@ -160,6 +171,7 @@ Promise.all([
         notes.appendChild(chairs);
       }
       if (!d.activity.repository) {
+        stats.norepo++;
         const repos = document.createElement("span");
         repos.classList.add("tag");
         repos.classList.add("repo");
@@ -185,4 +197,18 @@ Promise.all([
       activityLevels.push(activityLevel);
       activityLevels.sort((a,b) => b - a);
     });
+
+    const statList = document.getElementById("stats");
+    const chairstat = document.createElement("li");
+    chairstat.appendChild(document.createTextNode(`${stats.nochairs} (${Math.round(100 * stats.nochairs / groupdata.length)}%) groups have no chair`));
+    statList.appendChild(chairstat);
+    const staffstat = document.createElement("li");
+    staffstat.appendChild(document.createTextNode(`${stats.nostaff} (${Math.round(100 * stats.nostaff / groupdata.length)}%) groups have no representative from the W3C staff`));
+    statList.appendChild(staffstat);
+    const repostat = document.createElement("li");
+    repostat.appendChild(document.createTextNode(`${stats.norepo} (${Math.round(100 * stats.norepo / groupdata.length)}%) groups have no known repository`));
+    statList.appendChild(repostat);
+    const specstat = document.createElement("li");
+    specstat.appendChild(document.createTextNode(`${stats.nospec} (${Math.round(100 * stats.nospec / groupdata.length)}%) groups are not intending to build technical specifications`));
+    statList.appendChild(specstat);
   });
