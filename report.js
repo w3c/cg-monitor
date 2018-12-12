@@ -1,6 +1,8 @@
 const main = document.getElementById("report");
 let activityLevels = [];
 
+main.setAttribute("aria-busy", true);
+
 const period = location.search ? Math.min(12, parseInt(location.search.slice(1), 10)): 12;
 const lastXMonths = ((period = 12) => {
   const now = new Date();
@@ -211,4 +213,5 @@ Promise.all([
     const specstat = document.createElement("li");
     specstat.appendChild(document.createTextNode(`${stats.nospec} (${Math.round(100 * stats.nospec / groupdata.length)}%) groups are not intending to build technical specifications`));
     statList.appendChild(specstat);
+    main.setAttribute("aria-busy", false);
   });
