@@ -47,7 +47,7 @@ const loadDir = async dirPath => {
                 // treat forums as mailing lists
                 data[2].forEach(({service}) => {
                   if (service.type === "forum") service.type = "lists";
-                  cgData.repositories = [...new Set([].concat(...data[2].filter(({service}) => service.type === "repository").map(({data}) => data.items.map(i => (i.html_url || '').split('/').slice(0,5).join('/')))))];
+                  cgData.repositories = [...new Set([].concat(...data[2].filter(({service}) => service.type === "repository").map(({data}) => data.items.map(i => (i.html_url || '').split('/').slice(0,5).join('/')))).concat(data[2].filter(({service}) => service.type === "repository").map(({service}) => service.link)))];
                 });
                 // aggregate by service type
                 data[2].forEach(({service, data}) => {
