@@ -47,7 +47,7 @@ const loadDir = async dirPath => {
                 // treat forums as mailing lists
                 data[2].forEach(({service}) => {
                   if (service.type === "forum") service.type = "lists";
-                  cgData.repositories = data[2].filter(({service}) => service.type === "repository").map(({service}) => service.link);
+                  cgData.repositories = [...new Set([].concat(...data[2].filter(({service}) => service.type === "repository").map(({data}) => data.items.map(i => i.html_url))))];
                 });
                 // aggregate by service type
                 data[2].forEach(({service, data}) => {
