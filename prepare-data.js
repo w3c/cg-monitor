@@ -32,6 +32,7 @@ const loadDir = async dirPath => {
             .then(data => {
               const cgData = {};
               const staffids = staff.map(s => s._links.self.href);
+              cgData.id = data[0].id;
               cgData.name = data[0].name;
               cgData.link = data[0]._links.homepage.href;
               // Approximating creation date to date of first person joining
