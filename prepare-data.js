@@ -40,11 +40,13 @@ const loadDir = async dirPath => {
               cgData.chairs = data[1].filter(x => x).map(c => c.title);
               cgData.staff = data[3].filter(u => u._links.user && staffids.includes(u._links.user.href)).map(u => { const team = staff.find(s => s._links.self.href === u._links.user.href); return { name: team.name, photo: (team._links.photos ? team._links.photos.find(p => p.name === "tiny").href : undefined) } ;});
 
+              cgData.repositories = [];
               cgData.activity = {};
               if (data[2] && data[2].length) {
                 // treat forums as mailing lists
                 data[2].forEach(({service}) => {
                   if (service.type === "forum") service.type = "lists";
+                  cgData.repositories = data[2].filter(({service}) => service.type === "repository").map(({service}) => service.link);
                 });
                 // aggregate by service type
                 data[2].forEach(({service, data}) => {
