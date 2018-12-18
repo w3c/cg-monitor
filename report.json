@@ -1,5 +1,5 @@
 {
-  "timestamp": "2018-12-18T05:35:09.502Z",
+  "timestamp": "2018-12-18T05:39:48.686Z",
   "data": [
     {
       "name": "RSocket Protocol Specification Community Group",
@@ -8,6 +8,7 @@
       "participants": 3,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -83,6 +84,9 @@
         "Simon Steyskal"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/w3c/shacl/"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -172,6 +176,7 @@
         "Tomislav Novak"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -246,6 +251,7 @@
         "Alan Melby"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -319,6 +325,9 @@
         "Reinaldo Ferraz"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/W3CBrasil/guia-epub"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -408,6 +417,7 @@
           "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -472,6 +482,9 @@
         {
           "name": "Carine Bournez"
         }
+      ],
+      "repositories": [
+        "https://github.com/xproc/"
       ],
       "activity": {
         "rss": {
@@ -553,6 +566,7 @@
         "Martin Naumann"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -617,6 +631,7 @@
         "Matthew Patulski"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -696,6 +711,7 @@
         "Aad Versteden"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -775,6 +791,9 @@
           "name": "Judy Brewer",
           "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/credweb/"
       ],
       "activity": {
         "rss": {
@@ -871,6 +890,7 @@
         "Phil Barker"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -951,6 +971,7 @@
         "Dapeng Liu"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -1016,6 +1037,7 @@
           "photo": "https://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -1097,6 +1119,7 @@
       "participants": 4,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -1161,6 +1184,9 @@
           "name": "Ivan Herman",
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/sync-media-pub"
       ],
       "activity": {
         "rss": {
@@ -1238,6 +1264,7 @@
       "participants": 4,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -1296,6 +1323,7 @@
       "participants": 8,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -1356,6 +1384,7 @@
         "Greg Agnew"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -1456,6 +1485,7 @@
           "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -1513,6 +1543,7 @@
       "participants": 40,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 1,
@@ -1579,6 +1610,7 @@
         "Nikesh Balami"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -1643,6 +1675,9 @@
           "name": "François Daoust",
           "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/adpt"
       ],
       "activity": {
         "rss": {
@@ -1724,6 +1759,7 @@
         "Ahmed Abu Taha"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -1793,6 +1829,7 @@
           "photo": "https://www.w3.org/2006/05/u/2xhuxxdqss4k-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -1892,6 +1929,7 @@
           "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -1954,6 +1992,7 @@
           "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -2038,6 +2077,7 @@
           "photo": "https://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -2114,6 +2154,7 @@
         "Fangzheng Lin"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -2173,6 +2214,7 @@
           "name": "Carine Bournez"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -2230,6 +2272,7 @@
         "Brandon Beacher"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -2296,6 +2339,7 @@
           "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -2355,6 +2399,7 @@
         "Daniel Mekonnen"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -2451,6 +2496,9 @@
           "photo": "https://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
         }
       ],
+      "repositories": [
+        "https://github.com/w3c/PWETF"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -2540,6 +2588,9 @@
         "brandon whitehead"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/solid/solid-spec"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -2638,6 +2689,9 @@
           "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         }
       ],
+      "repositories": [
+        "https://github.com/webmachinelearning"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -2718,6 +2772,9 @@
           "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
+      "repositories": [
+        "https://github.com/w3c/EasierRDF"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -2792,6 +2849,7 @@
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -2855,6 +2913,7 @@
           "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -2921,6 +2980,7 @@
           "photo": "https://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -2978,6 +3038,7 @@
         "Adam Sobieski"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -3065,6 +3126,7 @@
           "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -3139,6 +3201,7 @@
           "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -3203,6 +3266,7 @@
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -3276,6 +3340,7 @@
           "name": "Carine Bournez"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -3339,6 +3404,7 @@
           "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "lists": {
           "2018-05": 1,
@@ -3477,6 +3543,9 @@
           "name": "Jun Murai",
           "photo": "https://www.w3.org/2006/05/u/gfj329gotxws-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/web-payments"
       ],
       "activity": {
         "wiki": {
@@ -3643,6 +3712,7 @@
         "Mohamed ZERGAOUI"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -3717,6 +3787,9 @@
           "name": "Rigo Wenning",
           "photo": "https://www.w3.org/2006/05/u/2xhuxxdqss4k-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/odrl/"
       ],
       "activity": {
         "rss": {
@@ -3920,6 +3993,7 @@
           "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -4043,6 +4117,9 @@
         "John McCrae"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/cimiano/ontolex"
+      ],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -4205,6 +4282,7 @@
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -4306,6 +4384,7 @@
           "name": "Tim Berners-Lee"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -4479,6 +4558,7 @@
         "Roberto Scano"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -4557,6 +4637,9 @@
         "Aryeh Gregor"
       ],
       "staff": [],
+      "repositories": [
+        "https://dvcs.w3.org/hg/editing"
+      ],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -4659,6 +4742,9 @@
         "Scott Wilson"
       ],
       "staff": [],
+      "repositories": [
+        "https://dvcs.w3.org/hg/nativeapps"
+      ],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -4780,6 +4866,7 @@
         "Rob Manson"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -4909,6 +4996,7 @@
       "participants": 0,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -4968,6 +5056,7 @@
         "Channy Yun"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -5065,6 +5154,7 @@
         "Pavlik elf"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -5174,6 +5264,10 @@
         {
           "name": "Carine Bournez"
         }
+      ],
+      "repositories": [
+        "https://dvcs.w3.org/hg/json-ld",
+        "https://github.com/json-ld"
       ],
       "activity": {
         "rss": {
@@ -5353,6 +5447,7 @@
         "Michiel de Jong"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -5471,6 +5566,7 @@
           "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "lists": {
           "2018-12": 4,
@@ -5644,6 +5740,7 @@
         "Rion Dooley"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -5772,6 +5869,7 @@
         "Jonathan Corson-Rikert"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -5854,6 +5952,7 @@
         "Aurélien Saint Requier"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -5944,6 +6043,7 @@
           "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -6049,6 +6149,10 @@
           "name": "Michael[tm] Smith",
           "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://dvcs.w3.org/hg/text-tracks",
+        "https://github.com/w3c/webvtt/"
       ],
       "activity": {
         "wiki": {
@@ -6232,6 +6336,7 @@
         "Michael Hausenblas"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -6335,6 +6440,7 @@
           "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -6407,6 +6513,7 @@
       "participants": 12,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -6495,6 +6602,7 @@
           "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -6607,6 +6715,7 @@
         "Lee Tien"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -6719,6 +6828,7 @@
           "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -6839,6 +6949,9 @@
           "name": "Fuqiao Xue",
           "photo": "https://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/w3process/"
       ],
       "activity": {
         "wiki": {
@@ -7015,6 +7128,7 @@
       "participants": 48,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -7109,6 +7223,7 @@
         "Russell Potter"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -7232,6 +7347,7 @@
       "participants": 21,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -7345,6 +7461,7 @@
           "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -7432,6 +7549,7 @@
           "photo": "https://www.w3.org/2006/05/u/d06d3cc9dad4-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -7510,6 +7628,7 @@
         "Pavlik elf"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -7582,6 +7701,7 @@
           "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -7676,6 +7796,7 @@
           "photo": "https://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -7742,6 +7863,7 @@
       "participants": 16,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -7806,6 +7928,7 @@
         "lissa coffey"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -7878,6 +8001,7 @@
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -8018,6 +8142,7 @@
           "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -8104,6 +8229,7 @@
         "Evan Prodromou"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -8196,6 +8322,7 @@
           "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -8315,6 +8442,9 @@
           "name": "Sandro Hawke",
           "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://dvcs.w3.org/hg/WebID/"
       ],
       "activity": {
         "tracker": {
@@ -8502,6 +8632,7 @@
         "Eva Blomqvist"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -8570,6 +8701,9 @@
           "name": "Michael[tm] Smith",
           "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://dvcs.w3.org/hg/xml-er"
       ],
       "activity": {
         "wiki": {
@@ -8672,6 +8806,7 @@
           "photo": "https://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -8748,6 +8883,7 @@
         "Serge K. Keller"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -8866,6 +9002,9 @@
           "name": "Wendy Seltzer",
           "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/ResponsiveImagesCG/"
       ],
       "activity": {
         "wiki": {
@@ -9023,6 +9162,7 @@
       "participants": 56,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -9131,6 +9271,7 @@
           "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -9204,6 +9345,9 @@
           "name": "Shawn Henry",
           "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         }
+      ],
+      "repositories": [
+        " https://github.com/pplcg"
       ],
       "activity": {
         "wiki": {
@@ -9361,6 +9505,7 @@
         "Serge K. Keller"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -9425,6 +9570,9 @@
         "Mark Seaborne"
       ],
       "staff": [],
+      "repositories": [
+        "https://dvcs.w3.org/hg/xformsusers"
+      ],
       "activity": {
         "tracker": {
           "type": "tracker",
@@ -9608,6 +9756,7 @@
         "Pushpendra Vikram"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -9692,6 +9841,7 @@
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -9768,6 +9918,7 @@
         "Evan Prodromou"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -9850,6 +10001,7 @@
           "name": "Richard Ishida"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -9929,6 +10081,7 @@
           "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -10011,6 +10164,7 @@
         "Charles Pritchard"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -10077,6 +10231,7 @@
         "Scott Wilson"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -10166,6 +10321,9 @@
           "name": "Kazuyuki Ashimura",
           "photo": "https://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/speech-api/"
       ],
       "activity": {
         "rss": {
@@ -10306,6 +10464,7 @@
           "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -10394,6 +10553,7 @@
           "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -10469,6 +10629,7 @@
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -10551,6 +10712,7 @@
         "Henry Story"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -10665,6 +10827,7 @@
           "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -10737,6 +10900,7 @@
         "Milan Stankovic"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -10827,6 +10991,9 @@
         {
           "name": "Carine Bournez"
         }
+      ],
+      "repositories": [
+        "https://github.com/expath/expath-cg/"
       ],
       "activity": {
         "wiki": {
@@ -10961,6 +11128,7 @@
           "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -11027,6 +11195,7 @@
         "Ciaran Rooney"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -11100,6 +11269,7 @@
           "photo": "https://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -11181,6 +11351,7 @@
         "Adam Sobieski"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -11316,6 +11487,7 @@
           "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -11429,6 +11601,7 @@
         "Bijan Parsia"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -11543,6 +11716,7 @@
         "Amrapali Zaveri"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -11633,6 +11807,7 @@
         "Mike Amundsen"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -11719,6 +11894,9 @@
         "Uche Ogbuji"
       ],
       "staff": [],
+      "repositories": [
+        "https://dvcs.w3.org/hg/microxml"
+      ],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -11846,6 +12024,7 @@
           "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -11914,6 +12093,7 @@
         "Andrea Perego"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -12027,6 +12207,7 @@
       "participants": 31,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -12093,6 +12274,7 @@
         "Richard Wallis"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -12206,6 +12388,7 @@
       "participants": 9,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -12284,6 +12467,7 @@
       "participants": 23,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -12354,6 +12538,9 @@
         "Graham Moore"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/SDShare"
+      ],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -12447,6 +12634,7 @@
       "participants": 24,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -12513,6 +12701,7 @@
           "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -12595,6 +12784,7 @@
           "photo": "https://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -12682,6 +12872,7 @@
         "Mohamed ZERGAOUI"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -12779,6 +12970,7 @@
       "participants": 14,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -12850,6 +13042,7 @@
           "photo": "https://www.w3.org/2006/05/u/2lwapui9a9s0-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -12941,6 +13134,9 @@
           "name": "Michael[tm] Smith",
           "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/extensibleweb"
       ],
       "activity": {
         "wiki": {
@@ -13052,6 +13248,9 @@
       "participants": 13,
       "chairs": [],
       "staff": [],
+      "repositories": [
+        "https://github.com/Webdevdata"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -13134,6 +13333,7 @@
         "John Willson"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -13219,6 +13419,7 @@
           "photo": "https://www.w3.org/2006/05/u/1o34wwn6kuqs-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -13338,6 +13539,7 @@
         "Claus Stadler"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -13451,6 +13653,9 @@
         "Noreen Whysel"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/iainstitute"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -13531,6 +13736,7 @@
       "participants": 73,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -13652,6 +13858,7 @@
           "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -13754,6 +13961,7 @@
           "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -13822,6 +14030,7 @@
           "photo": "https://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -13934,6 +14143,7 @@
         "Florian Daniel"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -14009,6 +14219,7 @@
       "participants": 11,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -14075,6 +14286,7 @@
         "James McKinney"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -14205,6 +14417,7 @@
           "photo": "https://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -14299,6 +14512,7 @@
         "Stefan Dietze"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -14394,6 +14608,7 @@
           "photo": "https://www.w3.org/2006/05/u/851547a2a0c3-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -14483,6 +14698,7 @@
           "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -14550,6 +14766,9 @@
           "name": "Ivan Herman",
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/ResearchObject/"
       ],
       "activity": {
         "wiki": {
@@ -14657,6 +14876,9 @@
         {
           "name": "Richard Ishida"
         }
+      ],
+      "repositories": [
+        "https://github.com/bpmlod"
       ],
       "activity": {
         "wiki": {
@@ -14815,6 +15037,7 @@
         "Russell Potter"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -14884,6 +15107,7 @@
         "Tom Breton"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -14962,6 +15186,7 @@
         "Wenmei Gao"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -15048,6 +15273,7 @@
           "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -15155,6 +15381,9 @@
           "name": "Chunming Hu",
           "photo": "https://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/HydraCG/Specifications"
       ],
       "activity": {
         "wiki": {
@@ -15322,6 +15551,7 @@
       "participants": 17,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -15404,6 +15634,7 @@
         "Bernadette Hyland"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -15480,6 +15711,7 @@
           "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -15560,6 +15792,9 @@
           "name": "Shawn Henry",
           "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/SVG-access-W3CG"
       ],
       "activity": {
         "rss": {
@@ -15648,6 +15883,9 @@
         "Jean-Paul Calbimonte"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/streamreasoning"
+      ],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -15786,6 +16024,7 @@
           "name": "Carine Bournez"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -15874,6 +16113,7 @@
       "participants": 6,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -15955,6 +16195,7 @@
           "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -16018,6 +16259,7 @@
         "Stephan Dreyer"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -16082,6 +16324,7 @@
       "participants": 10,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -16164,6 +16407,7 @@
           "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -16245,6 +16489,7 @@
           "photo": "https://www.w3.org/2006/05/u/2nbdactwejk0-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -16344,6 +16589,7 @@
       "participants": 8,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -16409,6 +16655,7 @@
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -16505,6 +16752,9 @@
           "name": "Eric Prud'hommeaux",
           "photo": "https://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/rdfjs"
       ],
       "activity": {
         "wiki": {
@@ -16636,6 +16886,7 @@
           "photo": "https://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -16722,6 +16973,7 @@
           "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -16784,6 +17036,7 @@
         "Soonbo Han"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -16850,6 +17103,7 @@
           "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -16913,6 +17167,7 @@
         "Gerardo Capiel"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -16979,6 +17234,9 @@
           "name": "François Daoust",
           "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/HTMLSourcingInbandTracks"
       ],
       "activity": {
         "wiki": {
@@ -17087,6 +17345,9 @@
       "participants": 12,
       "chairs": [],
       "staff": [],
+      "repositories": [
+        "https://github.com/w3c/touch-events"
+      ],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -17228,6 +17489,7 @@
         "David Visiedo"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -17313,6 +17575,9 @@
           "name": "François Daoust",
           "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/webscreens/"
       ],
       "activity": {
         "wiki": {
@@ -17447,6 +17712,7 @@
       "participants": 6,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -17516,6 +17782,7 @@
           "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -17583,6 +17850,7 @@
         "Harald Sack"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -17721,6 +17989,7 @@
         "Franck Cotton"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -17792,6 +18061,7 @@
         "J. Fernando Sánchez"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -17908,6 +18178,7 @@
           "name": "Richard Ishida"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -17974,6 +18245,7 @@
         "Melvin Carvalho"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -18070,6 +18342,9 @@
           "name": "Judy Brewer",
           "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/W3CGHtmail"
       ],
       "activity": {
         "wiki": {
@@ -18177,6 +18452,9 @@
         "Peter Winstanley"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/AtomGraph/Linked-Data-Templates"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -18280,6 +18558,9 @@
         "Octavian Nadolu"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/schematron-quickfix"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -18366,6 +18647,9 @@
         "Robin Raymond"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/w3c/ortc"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -18496,6 +18780,7 @@
         "Laurie Reynolds"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -18566,6 +18851,7 @@
       "participants": 25,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "wiki": {
           "2018-01": 0,
@@ -18663,6 +18949,9 @@
           "name": "Ted Guild",
           "photo": "https://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://dvcs.w3.org/hg/tvapi"
       ],
       "activity": {
         "rss": {
@@ -18802,6 +19091,9 @@
           "name": "Judy Brewer",
           "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/auto-wcag/auto-wcag/"
       ],
       "activity": {
         "rss": {
@@ -18967,6 +19259,7 @@
           "photo": "https://www.w3.org/2006/05/u/753a9c392bef-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -19029,6 +19322,7 @@
       "participants": 13,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -19091,6 +19385,7 @@
       "participants": 21,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -19176,6 +19471,9 @@
           "name": "François Daoust",
           "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c-lbd-cg/"
       ],
       "activity": {
         "rss": {
@@ -19316,6 +19614,9 @@
           "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
+      "repositories": [
+        "https://github.com/WebBluetoothCG/web-bluetooth"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -19442,6 +19743,9 @@
         "Kim Duffy"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/w3c-ccg"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -19576,6 +19880,7 @@
           "photo": "https://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -19641,6 +19946,7 @@
         "David Sheets"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -19704,6 +20010,7 @@
         "Takuji Kiura"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -19775,6 +20082,9 @@
         "Satoru Takagi"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/browserobo/"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -19854,6 +20164,7 @@
       "participants": 29,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -19925,6 +20236,7 @@
           "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -19988,6 +20300,7 @@
         "Ryoichi Kawada"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -20060,6 +20373,7 @@
           "photo": "https://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -20136,6 +20450,7 @@
           "photo": "https://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -20218,6 +20533,7 @@
           "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -20282,6 +20598,7 @@
         "Jim Derry"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -20359,6 +20676,9 @@
           "name": "François Daoust",
           "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/webtiming"
       ],
       "activity": {
         "rss": {
@@ -20470,6 +20790,7 @@
       "participants": 2,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -20531,6 +20852,7 @@
       "participants": 6,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -20594,6 +20916,7 @@
         "Enayat Rajabi"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -20661,6 +20984,7 @@
         "Crispin Weston"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -20733,6 +21057,9 @@
           "name": "Kazuyuki Ashimura",
           "photo": "https://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/web-nfc"
       ],
       "activity": {
         "rss": {
@@ -20846,6 +21173,7 @@
         "WonSuk Lee"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -20946,6 +21274,9 @@
           "name": "Jeff Jaffe",
           "photo": "https://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/schemaorg/"
       ],
       "activity": {
         "rss": {
@@ -21079,6 +21410,9 @@
         "Alexander Willner"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/w3c/omn"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -21172,6 +21506,7 @@
       "participants": 27,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -21234,6 +21569,7 @@
       "participants": 21,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -21306,6 +21642,7 @@
           "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -21404,6 +21741,7 @@
       "participants": 2,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -21464,6 +21802,7 @@
       "participants": 11,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -21526,6 +21865,7 @@
         "Jake Hartnell"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -21590,6 +21930,7 @@
         "Martin Hepp"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -21658,6 +21999,9 @@
           "name": "Michael[tm] Smith",
           "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/webassembly"
       ],
       "activity": {
         "rss": {
@@ -21773,6 +22117,9 @@
           "name": "Ivan Herman",
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/browserext"
       ],
       "activity": {
         "rss": {
@@ -21901,6 +22248,7 @@
         "Mirek Sopek"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -21991,6 +22339,9 @@
         "Marc Twagirumukiza"
       ],
       "staff": [],
+      "repositories": [
+        " https://github.com/twamarc/ScheMed"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -22108,6 +22459,7 @@
       "participants": 12,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -22175,6 +22527,7 @@
           "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -22238,6 +22591,9 @@
         "Jonathan Balls"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/sdo-sport"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -22375,6 +22731,9 @@
           "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
+      "repositories": [
+        "https://github.com/wicg/"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -22469,6 +22828,7 @@
       "participants": 3,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -22531,6 +22891,7 @@
         "Richard Wallis"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -22625,6 +22986,9 @@
           "name": "Sandro Hawke",
           "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/ldp-next"
       ],
       "activity": {
         "rss": {
@@ -22721,6 +23085,9 @@
         "Jason Haag"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/adlnet/xapi-profiles"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -22814,6 +23181,10 @@
         {
           "name": "Carine Bournez"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/musicxml",
+        "https://github.com/w3c/mnx"
       ],
       "activity": {
         "rss": {
@@ -22939,6 +23310,9 @@
         "Gregg Kellogg"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/w3c/rdf-tests"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -23021,6 +23395,7 @@
         "Pavlik elf"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -23090,6 +23465,9 @@
         "Joaquin Vanschoren"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/ML-Schema/"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -23182,6 +23560,9 @@
         "Dimitri De Jonghe"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/interledger"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -23310,6 +23691,7 @@
           "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -23378,6 +23760,10 @@
         "Sebastian Furth"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/semtechdoc/semtechdoc",
+        "https://github.com/semtechdoc"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -23478,6 +23864,7 @@
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -23540,6 +23927,7 @@
       "participants": 19,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -23607,6 +23995,7 @@
           "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -23685,6 +24074,7 @@
         "Dennis Wisnosky"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -23770,6 +24160,7 @@
         "Rean Combrinck"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -23830,6 +24221,9 @@
       "participants": 21,
       "chairs": [],
       "staff": [],
+      "repositories": [
+        "https://github.com/Natural-Language-Interfaces-CG/charter"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -23921,6 +24315,9 @@
         "Dominik Zyskowski"
       ],
       "staff": [],
+      "repositories": [
+        "https://www.github.com/w3c/kiss/"
+      ],
       "activity": {
         "rss": {
           "2018-01": 1,
@@ -24019,6 +24416,9 @@
           "name": "Ivan Herman",
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/scholarly-html"
       ],
       "activity": {
         "rss": {
@@ -24125,6 +24525,7 @@
           "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -24189,6 +24590,7 @@
         "Richard Wallis"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -24259,6 +24661,7 @@
         "Phil Barker"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -24348,6 +24751,9 @@
         "Simon Bächler"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/universalimages"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -24432,6 +24838,9 @@
           "name": "Ivan Herman",
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/csvw"
       ],
       "activity": {
         "rss": {
@@ -24520,6 +24929,7 @@
       "participants": 3,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -24583,6 +24993,7 @@
         "Alexandre Monnin"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -24650,6 +25061,7 @@
         "Jerzy Wierzbicki"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -24715,6 +25127,7 @@
         "Ari Nordström"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -24791,6 +25204,9 @@
           "name": "Atsushi Shimono",
           "photo": "https://www.w3.org/2006/05/u/5i44x764hick-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/immersive-web/"
       ],
       "activity": {
         "rss": {
@@ -24891,6 +25307,7 @@
           "photo": "https://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -24989,6 +25406,7 @@
           "name": "Carine Bournez"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -25059,6 +25477,7 @@
       "participants": 30,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -25121,6 +25540,9 @@
         "Leigh Dodds"
       ],
       "staff": [],
+      "repositories": [
+        "http://github.com/openactive"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -25270,6 +25692,9 @@
           "photo": "https://www.w3.org/2006/05/u/1cft3mestp9c-tn.jpg"
         }
       ],
+      "repositories": [
+        "https://github.com/w3c/mathonwebpages"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -25373,6 +25798,7 @@
       "participants": 4,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -25432,6 +25858,7 @@
       "participants": 1,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -25495,6 +25922,7 @@
         "Phil Ritchie"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -25587,6 +26015,7 @@
         "Terrill Thompson"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -25653,6 +26082,9 @@
           "name": "Kazuyuki Ashimura",
           "photo": "https://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/voiceinteraction/"
       ],
       "activity": {
         "rss": {
@@ -25744,6 +26176,7 @@
           "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -25806,6 +26239,9 @@
         "Alex Boyce"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/open-curriculum/oerschema"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -25902,6 +26338,9 @@
           "photo": "https://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
         }
       ],
+      "repositories": [
+        "https://github.com/w3c/sparql-exists"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -25987,6 +26426,7 @@
         "Tazro Ohta"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -26049,6 +26489,7 @@
         "Adam Scott"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -26110,6 +26551,7 @@
         "Jeni Tennison"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -26190,6 +26632,7 @@
           "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -26258,6 +26701,9 @@
         "Wayne Vaughan"
       ],
       "staff": [],
+      "repositories": [
+        "http://github.com/chainpoint"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -26350,6 +26796,7 @@
         "Mike Perlman"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -26408,6 +26855,7 @@
       "participants": 0,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -26474,6 +26922,7 @@
           "photo": "https://www.w3.org/2006/05/u/6f2027413ea9-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -26564,6 +27013,7 @@
           "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -26635,6 +27085,7 @@
       "participants": 32,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -26715,6 +27166,7 @@
         "Aaron Bradley"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -26781,6 +27233,9 @@
           "name": "Sandro Hawke",
           "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/swicg"
       ],
       "activity": {
         "rss": {
@@ -26852,6 +27307,7 @@
         "Dan Brickley"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -26912,6 +27368,7 @@
       "participants": 15,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -26979,6 +27436,9 @@
           "name": "Eric Prud'hommeaux",
           "photo": "https://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/shexSpec"
       ],
       "activity": {
         "rss": {
@@ -27079,6 +27539,9 @@
         "Mike Ralphson"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/webapi-discovery/"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -27152,6 +27615,7 @@
       "participants": 22,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -27220,6 +27684,9 @@
           "name": "François Daoust",
           "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/ColorWeb-CG"
       ],
       "activity": {
         "rss": {
@@ -27311,6 +27778,9 @@
           "name": "Antonio Olmo Titos",
           "photo": "https://www.w3.org/2006/05/u/1o34wwn6kuqs-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/opentrack-cg"
       ],
       "activity": {
         "rss": {
@@ -27405,6 +27875,7 @@
         "Jacob Pratt"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -27483,6 +27954,9 @@
           "name": "François Daoust",
           "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/httpslocal"
       ],
       "activity": {
         "rss": {
@@ -27583,6 +28057,9 @@
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
+      "repositories": [
+        "https://github.com/w3c/publ-cg/"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -27676,6 +28153,7 @@
         "Bernadette Farias Loscio"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -27751,6 +28229,9 @@
           "name": "Chris Lilley",
           "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
+      ],
+      "repositories": [
+        " https://github.com/gpuweb/"
       ],
       "activity": {
         "rss": {
@@ -27831,6 +28312,7 @@
         "Hans Polak"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -27898,6 +28380,7 @@
         "Félix Albertos Marco"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -27959,6 +28442,9 @@
         "Rafael Jimenez"
       ],
       "staff": [],
+      "repositories": [
+        "https://github.com/bioschemas"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -28052,6 +28538,7 @@
         "woojune jung"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 1,
@@ -28114,6 +28601,7 @@
         "Yvo Schaap"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -28172,6 +28660,7 @@
       "participants": 1,
       "chairs": [],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -28249,6 +28738,9 @@
           "name": "Ruoxi Ran",
           "photo": "https://www.w3.org/2006/05/u/2nbdactwejk0-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/silver/"
       ],
       "activity": {
         "tracker": {
@@ -28378,6 +28870,7 @@
         "Mohamed ZERGAOUI"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -28437,6 +28930,7 @@
         "jollen chen"
       ],
       "staff": [],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -28508,6 +29002,9 @@
           "name": "Dominique Hazaël-Massieux",
           "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         }
+      ],
+      "repositories": [
+        "https://github.com/w3c/mixedreality"
       ],
       "activity": {
         "rss": {
@@ -28606,6 +29103,7 @@
           "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -28668,6 +29166,7 @@
           "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         }
       ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 0,
