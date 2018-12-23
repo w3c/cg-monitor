@@ -1,5 +1,5 @@
 {
-  "timestamp": "2018-12-18T08:16:32.298Z",
+  "timestamp": "2018-12-23T06:13:35.371Z",
   "data": [
     {
       "id": 100367,
@@ -87,7 +87,8 @@
       ],
       "staff": [],
       "repositories": [
-        "https://github.com/w3c/shacl"
+        "https://github.com/w3c/shacl",
+        "https://github.com/w3c/shacl/"
       ],
       "activity": {
         "rss": {
@@ -507,7 +508,8 @@
         "https://github.com/xproc/xml_prague_2018",
         "https://github.com/xproc/Workshop-2018-06",
         "https://github.com/xproc/Workshop-2018-09",
-        "https://github.com/xproc/Workshop-2019-02"
+        "https://github.com/xproc/Workshop-2019-02",
+        "https://github.com/xproc/"
       ],
       "activity": {
         "rss": {
@@ -562,7 +564,7 @@
           "2018-09": 61,
           "2018-10": 223,
           "2018-11": 84,
-          "2018-12": 39
+          "2018-12": 44
         },
         "join": {
           "2018-01": 0,
@@ -821,7 +823,8 @@
       ],
       "repositories": [
         "https://github.com/w3c/credweb",
-        "https://github.com/w3c/cred-claims"
+        "https://github.com/w3c/cred-claims",
+        "https://github.com/w3c/credweb/"
       ],
       "activity": {
         "rss": {
@@ -1475,7 +1478,7 @@
     {
       "id": 104908,
       "name": "Inclusion and Diversity Community Group",
-      "link": "http://www.w3.org/community/w3c-women/",
+      "link": "http://www.w3.org/community/idcg/",
       "created": "2018-01-25T12:10:58.000Z",
       "participants": 57,
       "chairs": [
@@ -1525,7 +1528,7 @@
       "repositories": [],
       "activity": {
         "rss": {
-          "2018-01": 0,
+          "2018-01": 1,
           "2018-02": 0,
           "2018-03": 0,
           "2018-04": 0,
@@ -1535,7 +1538,7 @@
           "2018-08": 0,
           "2018-09": 0,
           "2018-10": 0,
-          "2018-11": 0,
+          "2018-11": 1,
           "2018-12": 0
         },
         "chat": {
@@ -1555,6 +1558,7 @@
           }
         },
         "lists": {
+          "2018-12": 3,
           "2018-11": 9
         },
         "join": {
@@ -1751,7 +1755,7 @@
           }
         },
         "lists": {
-          "2018-12": 1,
+          "2018-12": 2,
           "2018-11": 2,
           "2018-10": 9,
           "2018-09": 1,
@@ -1904,7 +1908,7 @@
           }
         },
         "lists": {
-          "2018-12": 57,
+          "2018-12": 58,
           "2018-11": 47,
           "2018-10": 46,
           "2018-09": 17,
@@ -2069,7 +2073,7 @@
           }
         },
         "lists": {
-          "2018-12": 13,
+          "2018-12": 23,
           "2018-11": 24,
           "2018-10": 22,
           "2018-09": 7,
@@ -2582,7 +2586,7 @@
           }
         },
         "lists": {
-          "2018-12": 4,
+          "2018-12": 6,
           "2018-11": 3,
           "2018-10": 15,
           "2018-09": 1,
@@ -2611,7 +2615,7 @@
           "2018-09": 11,
           "2018-10": 11,
           "2018-11": 0,
-          "2018-12": 1
+          "2018-12": 3
         },
         "join": {
           "2018-01": 0,
@@ -2675,7 +2679,7 @@
           }
         },
         "lists": {
-          "2018-12": 1,
+          "2018-12": 6,
           "2018-11": 10,
           "2018-10": 32
         },
@@ -2689,9 +2693,9 @@
           "2018-07": 0,
           "2018-08": 0,
           "2018-09": 0,
-          "2018-10": 9,
+          "2018-10": 8,
           "2018-11": 0,
-          "2018-12": 0
+          "2018-12": 1
         },
         "repository": {
           "2018-01": 2,
@@ -2728,7 +2732,7 @@
       "name": "Machine Learning for the Web Community Group",
       "link": "http://www.w3.org/community/webmachinelearning/",
       "created": "2018-10-03T14:55:41.000Z",
-      "participants": 20,
+      "participants": 22,
       "chairs": [
         "Anssi Kostiainen"
       ],
@@ -2746,7 +2750,8 @@
         "https://github.com/webmachinelearning/charter",
         "https://github.com/webmachinelearning/webmachinelearning.github.io",
         "https://github.com/webmachinelearning/meetings",
-        "https://github.com/webmachinelearning/webnn"
+        "https://github.com/webmachinelearning/webnn",
+        "https://github.com/webmachinelearning"
       ],
       "activity": {
         "rss": {
@@ -2780,7 +2785,7 @@
           }
         },
         "lists": {
-          "2018-12": 6,
+          "2018-12": 7,
           "2018-11": 5,
           "2018-10": 6
         },
@@ -2796,7 +2801,7 @@
           "2018-09": 0,
           "2018-10": 10,
           "2018-11": 7,
-          "2018-12": 4
+          "2018-12": 7
         },
         "join": {
           "2018-01": 0,
@@ -2810,7 +2815,7 @@
           "2018-09": 0,
           "2018-10": 15,
           "2018-11": 2,
-          "2018-12": 3
+          "2018-12": 5
         }
       }
     },
@@ -2819,7 +2824,7 @@
       "name": "RDF-DEV Community Group",
       "link": "http://www.w3.org/community/rdf-dev/",
       "created": "2018-10-16T12:07:01.000Z",
-      "participants": 34,
+      "participants": 36,
       "chairs": [
         "Dan Brickley"
       ],
@@ -2876,7 +2881,7 @@
           "2018-09": 0,
           "2018-10": 0,
           "2018-11": 0,
-          "2018-12": 70
+          "2018-12": 85
         },
         "join": {
           "2018-01": 0,
@@ -2890,7 +2895,7 @@
           "2018-09": 0,
           "2018-10": 30,
           "2018-11": 3,
-          "2018-12": 1
+          "2018-12": 3
         }
       }
     },
@@ -2961,7 +2966,7 @@
       "name": "Audio Community Group",
       "link": "http://www.w3.org/community/audio-comgp/",
       "created": "2018-10-28T22:08:20.000Z",
-      "participants": 10,
+      "participants": 11,
       "chairs": [
         "Paul Adenot",
         "Matthew Paradis"
@@ -3019,7 +3024,7 @@
           "2018-09": 0,
           "2018-10": 6,
           "2018-11": 4,
-          "2018-12": 0
+          "2018-12": 1
         }
       }
     },
@@ -3028,7 +3033,7 @@
       "name": "BD Comics Manga Community Group",
       "link": "http://www.w3.org/community/bdcomacg/",
       "created": "2018-10-31T11:28:13.000Z",
-      "participants": 21,
+      "participants": 22,
       "chairs": [],
       "staff": [
         {
@@ -3038,9 +3043,14 @@
         {
           "name": "Naomi Yoshizawa",
           "photo": "https://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
+        },
+        {
+          "name": "Carine Bournez"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/bdcoma-cg"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -3073,6 +3083,20 @@
           }
         },
         "lists": {},
+        "repository": {
+          "2018-01": 0,
+          "2018-02": 0,
+          "2018-03": 0,
+          "2018-04": 0,
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 0,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 1
+        },
         "join": {
           "2018-01": 0,
           "2018-02": 0,
@@ -3085,7 +3109,7 @@
           "2018-09": 0,
           "2018-10": 5,
           "2018-11": 13,
-          "2018-12": 3
+          "2018-12": 4
         }
       }
     },
@@ -3223,7 +3247,7 @@
           }
         },
         "lists": {
-          "2018-12": 45,
+          "2018-12": 48,
           "2018-11": 12
         },
         "repository": {
@@ -3238,7 +3262,7 @@
           "2018-09": 0,
           "2018-10": 0,
           "2018-11": 0,
-          "2018-12": 4
+          "2018-12": 6
         },
         "join": {
           "2018-01": 0,
@@ -3261,7 +3285,7 @@
       "name": "ARIA and Assistive Technologies Community Group",
       "link": "http://www.w3.org/community/aria-at/",
       "created": "2018-11-30T18:20:49.000Z",
-      "participants": 22,
+      "participants": 24,
       "chairs": [
         "Michael Fairchild",
         "Matthew King"
@@ -3327,7 +3351,7 @@
           "2018-09": 0,
           "2018-10": 0,
           "2018-11": 2,
-          "2018-12": 20
+          "2018-12": 22
         }
       }
     },
@@ -3336,7 +3360,7 @@
       "name": "Bibframe2Schema.org Community Group",
       "link": "http://www.w3.org/community/bibframe2schema/",
       "created": "2018-12-04T10:41:58.000Z",
-      "participants": 11,
+      "participants": 12,
       "chairs": [
         "Richard Wallis"
       ],
@@ -3405,7 +3429,7 @@
           "2018-09": 0,
           "2018-10": 0,
           "2018-11": 0,
-          "2018-12": 11
+          "2018-12": 12
         }
       }
     },
@@ -3413,14 +3437,10 @@
       "id": 111466,
       "name": "Web Video Map Tracks (WebVMT) Community Group",
       "link": "http://www.w3.org/community/webvmt-cg/",
-      "created": "2018-12-05T17:41:12.000Z",
-      "participants": 2,
+      "created": "2018-12-16T13:48:50.000Z",
+      "participants": 1,
       "chairs": [],
-      "staff": [
-        {
-          "name": "Carine Bournez"
-        }
-      ],
+      "staff": [],
       "repositories": [],
       "activity": {
         "rss": {
@@ -3466,7 +3486,7 @@
           "2018-09": 0,
           "2018-10": 0,
           "2018-11": 0,
-          "2018-12": 2
+          "2018-12": 1
         }
       }
     },
@@ -3630,7 +3650,8 @@
       "repositories": [
         "https://github.com/web-payments/web-payments.org",
         "https://github.com/web-payments/minutes",
-        "https://github.com/web-payments/web-commerce-api"
+        "https://github.com/web-payments/web-commerce-api",
+        "https://github.com/web-payments"
       ],
       "activity": {
         "wiki": {
@@ -3876,7 +3897,8 @@
         }
       ],
       "repositories": [
-        "https://github.com/w3c/odrl"
+        "https://github.com/w3c/odrl",
+        "https://github.com/w3c/odrl/"
       ],
       "activity": {
         "rss": {
@@ -4239,7 +4261,7 @@
           "2018-12": 0
         },
         "lists": {
-          "2018-12": 10,
+          "2018-12": 13,
           "2018-11": 32,
           "2018-10": 28,
           "2018-09": 15,
@@ -4364,14 +4386,9 @@
       "name": "Semantic News Community Group",
       "link": "http://www.w3.org/community/semnews/",
       "created": "2011-08-03T12:34:48.000Z",
-      "participants": 48,
+      "participants": 47,
       "chairs": [],
-      "staff": [
-        {
-          "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [],
       "activity": {
         "rss": {
@@ -4731,7 +4748,8 @@
       ],
       "staff": [],
       "repositories": [
-        ""
+        "",
+        "https://dvcs.w3.org/hg/editing"
       ],
       "activity": {
         "wiki": {
@@ -4837,7 +4855,8 @@
       ],
       "staff": [],
       "repositories": [
-        ""
+        "",
+        "https://dvcs.w3.org/hg/nativeapps"
       ],
       "activity": {
         "wiki": {
@@ -5371,7 +5390,9 @@
         "https://github.com/json-ld/tests",
         "https://github.com/json-ld/normalization",
         "https://github.com/json-ld/charter",
-        "https://github.com/json-ld/scrawl.js"
+        "https://github.com/json-ld/scrawl.js",
+        "https://dvcs.w3.org/hg/json-ld",
+        "https://github.com/json-ld"
       ],
       "activity": {
         "rss": {
@@ -6263,7 +6284,9 @@
       ],
       "repositories": [
         "",
-        "https://github.com/w3c/webvtt"
+        "https://github.com/w3c/webvtt",
+        "https://dvcs.w3.org/hg/text-tracks",
+        "https://github.com/w3c/webvtt/"
       ],
       "activity": {
         "wiki": {
@@ -7069,7 +7092,8 @@
         }
       ],
       "repositories": [
-        "https://github.com/w3c/w3process"
+        "https://github.com/w3c/w3process",
+        "https://github.com/w3c/w3process/"
       ],
       "activity": {
         "wiki": {
@@ -7117,7 +7141,7 @@
           }
         },
         "lists": {
-          "2018-12": 14,
+          "2018-12": 20,
           "2018-11": 33,
           "2018-10": 19,
           "2018-09": 10,
@@ -7221,7 +7245,7 @@
           "2018-09": 13,
           "2018-10": 25,
           "2018-11": 15,
-          "2018-12": 2
+          "2018-12": 5
         },
         "join": {
           "2018-01": 0,
@@ -8577,7 +8601,8 @@
         }
       ],
       "repositories": [
-        ""
+        "",
+        "https://dvcs.w3.org/hg/WebID/"
       ],
       "activity": {
         "tracker": {
@@ -8838,7 +8863,8 @@
         }
       ],
       "repositories": [
-        ""
+        "",
+        "https://dvcs.w3.org/hg/xml-er"
       ],
       "activity": {
         "wiki": {
@@ -9158,7 +9184,8 @@
         "https://github.com/ResponsiveImagesCG/WordPress",
         "https://github.com/ResponsiveImagesCG/RICG.io",
         "https://github.com/ResponsiveImagesCG/wp-tevko-responsive-images",
-        "https://github.com/ResponsiveImagesCG/cq-demos"
+        "https://github.com/ResponsiveImagesCG/cq-demos",
+        "https://github.com/ResponsiveImagesCG/"
       ],
       "activity": {
         "wiki": {
@@ -9504,7 +9531,8 @@
         }
       ],
       "repositories": [
-        "https://github.com/pplcg/XSLTExtensions"
+        "https://github.com/pplcg/XSLTExtensions",
+        " https://github.com/pplcg"
       ],
       "activity": {
         "wiki": {
@@ -9730,7 +9758,8 @@
       ],
       "staff": [],
       "repositories": [
-        ""
+        "",
+        "https://dvcs.w3.org/hg/xformsusers"
       ],
       "activity": {
         "tracker": {
@@ -9761,7 +9790,7 @@
           "2018-09": 0,
           "2018-10": 0,
           "2018-11": 0,
-          "2018-12": 1
+          "2018-12": 2
         },
         "rss": {
           "2018-01": 0,
@@ -9794,7 +9823,7 @@
           }
         },
         "lists": {
-          "2018-12": 13,
+          "2018-12": 25,
           "2018-11": 26,
           "2018-10": 38,
           "2018-09": 30,
@@ -9992,16 +10021,11 @@
       "name": "Web Observatory Community Group",
       "link": "http://www.w3.org/community/webobservatory/",
       "created": "2012-07-30T07:58:20.000Z",
-      "participants": 50,
+      "participants": 49,
       "chairs": [
         "David De Roure"
       ],
-      "staff": [
-        {
-          "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [],
       "activity": {
         "rss": {
@@ -10490,7 +10514,8 @@
         }
       ],
       "repositories": [
-        "https://github.com/w3c/speech-api"
+        "https://github.com/w3c/speech-api",
+        "https://github.com/w3c/speech-api/"
       ],
       "activity": {
         "rss": {
@@ -10784,7 +10809,7 @@
       "name": "Big Data Community Group",
       "link": "http://www.w3.org/community/bigdata/",
       "created": "2012-04-16T19:31:49.000Z",
-      "participants": 132,
+      "participants": 131,
       "chairs": [
         "Peter Bajcsy",
         "Ashwini Balu",
@@ -10793,12 +10818,7 @@
         "David De Roure",
         "Orri Erling"
       ],
-      "staff": [
-        {
-          "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [],
       "activity": {
         "rss": {
@@ -11167,7 +11187,8 @@
         }
       ],
       "repositories": [
-        "https://github.com/expath/expath-cg"
+        "https://github.com/expath/expath-cg",
+        "https://github.com/expath/expath-cg/"
       ],
       "activity": {
         "wiki": {
@@ -12078,7 +12099,8 @@
       ],
       "staff": [],
       "repositories": [
-        ""
+        "",
+        "https://dvcs.w3.org/hg/microxml"
       ],
       "activity": {
         "wiki": {
@@ -12745,7 +12767,8 @@
       ],
       "staff": [],
       "repositories": [
-        "https://github.com/SDShare/Specification"
+        "https://github.com/SDShare/Specification",
+        "https://github.com/SDShare"
       ],
       "activity": {
         "wiki": {
@@ -13351,7 +13374,8 @@
       "repositories": [
         "https://github.com/extensibleweb/prollyfill.org",
         "https://github.com/extensibleweb/webidl.js",
-        "https://github.com/extensibleweb/manifesto"
+        "https://github.com/extensibleweb/manifesto",
+        "https://github.com/extensibleweb"
       ],
       "activity": {
         "wiki": {
@@ -13468,7 +13492,8 @@
         "https://github.com/Webdevdata/webdevdata.org",
         "https://github.com/Webdevdata/fetcher",
         "https://github.com/Webdevdata/research",
-        "https://github.com/Webdevdata/webdevdata-tools"
+        "https://github.com/Webdevdata/webdevdata-tools",
+        "https://github.com/Webdevdata"
       ],
       "activity": {
         "rss": {
@@ -13877,7 +13902,8 @@
       ],
       "staff": [],
       "repositories": [
-        "https://github.com/iainstitute/iai-concept-map"
+        "https://github.com/iainstitute/iai-concept-map",
+        "https://github.com/iainstitute"
       ],
       "activity": {
         "rss": {
@@ -13957,7 +13983,7 @@
       "name": "Web Audio Developers Community Group",
       "link": "http://www.w3.org/community/audio-dev/",
       "created": "2013-02-09T15:24:07.000Z",
-      "participants": 73,
+      "participants": 74,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -14060,7 +14086,7 @@
           "2018-09": 2,
           "2018-10": 2,
           "2018-11": 0,
-          "2018-12": 0
+          "2018-12": 1
         }
       }
     },
@@ -14626,7 +14652,7 @@
       "name": "Restricted Media Community Group",
       "link": "http://www.w3.org/community/restrictedmedia/",
       "created": "2013-03-12T17:03:03.000Z",
-      "participants": 53,
+      "participants": 52,
       "chairs": [
         "Wendy Seltzer"
       ],
@@ -14638,10 +14664,6 @@
         {
           "name": "Jeff Jaffe",
           "photo": "https://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
-        },
-        {
-          "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         },
         {
           "name": "Philippe Le Hégaret",
@@ -14992,16 +15014,11 @@
       "name": "Research Object for Scholarly Communication Community Group",
       "link": "http://www.w3.org/community/rosc/",
       "created": "2013-04-08T19:12:23.000Z",
-      "participants": 88,
+      "participants": 87,
       "chairs": [
         "Sean Bechhofer"
       ],
-      "staff": [
-        {
-          "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [
         "https://github.com/ResearchObject/specifications",
         "https://github.com/ResearchObject/principles",
@@ -15010,7 +15027,8 @@
         "https://github.com/ResearchObject/bagit-ro",
         "https://github.com/ResearchObject/ro-profiles",
         "https://github.com/ResearchObject/ro-show",
-        "https://github.com/ResearchObject/ro-curate"
+        "https://github.com/ResearchObject/ro-curate",
+        "https://github.com/ResearchObject/"
       ],
       "activity": {
         "wiki": {
@@ -15121,7 +15139,8 @@
         }
       ],
       "repositories": [
-        "https://github.com/bpmlod/report"
+        "https://github.com/bpmlod/report",
+        "https://github.com/bpmlod"
       ],
       "activity": {
         "wiki": {
@@ -15169,7 +15188,7 @@
           }
         },
         "lists": {
-          "2018-12": 1,
+          "2018-12": 2,
           "2018-09": 1,
           "2018-08": 1,
           "2018-07": 1,
@@ -15230,6 +15249,8 @@
         "tracker": {
           "type": "tracker",
           "link": "https://www.w3.org/community/bpmlod/track/",
+          "shortdesc": "Tracker",
+          "longdesc": "Tracker",
           "external": false,
           "closed": false,
           "_links": {
@@ -15680,7 +15701,7 @@
           }
         },
         "lists": {
-          "2018-12": 32,
+          "2018-12": 33,
           "2018-11": 15,
           "2018-10": 19,
           "2018-09": 17,
@@ -16049,7 +16070,8 @@
       "repositories": [
         "https://github.com/SVG-access-W3CG/new-note-draft",
         "https://github.com/SVG-access-W3CG/use-case-examples",
-        "https://github.com/SVG-access-W3CG/svg-a11y-tests"
+        "https://github.com/SVG-access-W3CG/svg-a11y-tests",
+        "https://github.com/SVG-access-W3CG"
       ],
       "activity": {
         "rss": {
@@ -16152,7 +16174,8 @@
         "https://github.com/streamreasoning/rsplib",
         "https://github.com/streamreasoning/vois",
         "https://github.com/streamreasoning/itsastreamingworld",
-        "https://github.com/streamreasoning/wvot"
+        "https://github.com/streamreasoning/wvot",
+        "https://github.com/streamreasoning"
       ],
       "activity": {
         "wiki": {
@@ -16256,7 +16279,7 @@
           "2018-09": 0,
           "2018-10": 0,
           "2018-11": 0,
-          "2018-12": 2
+          "2018-12": 5
         },
         "join": {
           "2018-01": 0,
@@ -16924,14 +16947,9 @@
       "name": "Property Graphs Model and API Community Group",
       "link": "http://www.w3.org/community/propertygraphs/",
       "created": "2013-09-20T12:04:26.000Z",
-      "participants": 22,
+      "participants": 21,
       "chairs": [],
-      "staff": [
-        {
-          "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -17016,7 +17034,7 @@
       "name": "RDF JavaScript Libraries Community Group",
       "link": "http://www.w3.org/community/rdfjs/",
       "created": "2013-10-02T20:13:40.000Z",
-      "participants": 70,
+      "participants": 71,
       "chairs": [
         "Thomas Bergwinkl",
         "Ruben Verborgh"
@@ -17049,7 +17067,8 @@
         "https://github.com/rdfjs/formats-common",
         "https://github.com/rdfjs/fetch-lite",
         "https://github.com/rdfjs/namespace",
-        "https://github.com/rdfjs/sink-to-duplex"
+        "https://github.com/rdfjs/sink-to-duplex",
+        "https://github.com/rdfjs"
       ],
       "activity": {
         "wiki": {
@@ -17152,7 +17171,7 @@
           "2018-09": 46,
           "2018-10": 28,
           "2018-11": 42,
-          "2018-12": 15
+          "2018-12": 16
         },
         "join": {
           "2018-01": 0,
@@ -17166,7 +17185,7 @@
           "2018-09": 0,
           "2018-10": 4,
           "2018-11": 0,
-          "2018-12": 1
+          "2018-12": 2
         }
       }
     },
@@ -17885,7 +17904,8 @@
         "https://github.com/webscreens/wg-charter",
         "https://github.com/webscreens/requestshowmedia",
         "https://github.com/webscreens/cg-charter",
-        "https://github.com/webscreens/openscreenprotocol"
+        "https://github.com/webscreens/openscreenprotocol",
+        "https://github.com/webscreens/"
       ],
       "activity": {
         "wiki": {
@@ -17933,7 +17953,7 @@
           }
         },
         "lists": {
-          "2018-12": 20,
+          "2018-12": 23,
           "2018-11": 7,
           "2018-10": 24,
           "2018-09": 18,
@@ -17995,7 +18015,7 @@
           "2018-09": 7,
           "2018-10": 10,
           "2018-11": 5,
-          "2018-12": 9
+          "2018-12": 11
         },
         "join": {
           "2018-01": 0,
@@ -18208,7 +18228,7 @@
           }
         },
         "lists": {
-          "2018-12": 2,
+          "2018-12": 3,
           "2018-11": 1,
           "2018-10": 1,
           "2018-09": 1,
@@ -18660,7 +18680,8 @@
         }
       ],
       "repositories": [
-        "https://github.com/W3CGHtmail/html-email-spec"
+        "https://github.com/W3CGHtmail/html-email-spec",
+        "https://github.com/W3CGHtmail"
       ],
       "activity": {
         "wiki": {
@@ -18878,7 +18899,8 @@
       "staff": [],
       "repositories": [
         "https://github.com/schematron-quickfix/sqf",
-        "https://github.com/schematron-quickfix/escali-package"
+        "https://github.com/schematron-quickfix/escali-package",
+        "https://github.com/schematron-quickfix"
       ],
       "activity": {
         "rss": {
@@ -19003,7 +19025,7 @@
           }
         },
         "lists": {
-          "2018-12": 1,
+          "2018-12": 3,
           "2018-10": 12,
           "2018-09": 6,
           "2018-08": 2,
@@ -19073,7 +19095,7 @@
           "2018-09": 40,
           "2018-10": 7,
           "2018-11": 27,
-          "2018-12": 15
+          "2018-12": 21
         },
         "join": {
           "2018-01": 0,
@@ -19274,7 +19296,9 @@
           "photo": "https://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://dvcs.w3.org/hg/tvapi"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -19416,7 +19440,8 @@
         }
       ],
       "repositories": [
-        "https://github.com/auto-wcag/auto-wcag"
+        "https://github.com/auto-wcag/auto-wcag",
+        "https://github.com/auto-wcag/auto-wcag/"
       ],
       "activity": {
         "rss": {
@@ -19450,7 +19475,7 @@
           }
         },
         "lists": {
-          "2018-12": 12,
+          "2018-12": 14,
           "2018-11": 4,
           "2018-10": 3,
           "2018-09": 3,
@@ -19549,7 +19574,7 @@
           "2018-09": 56,
           "2018-10": 90,
           "2018-11": 27,
-          "2018-12": 21
+          "2018-12": 27
         },
         "join": {
           "2018-01": 1,
@@ -19806,7 +19831,8 @@
         "https://github.com/w3c-lbd-cg/opm",
         "https://github.com/w3c-lbd-cg/props",
         "https://github.com/w3c-lbd-cg/project",
-        "https://github.com/w3c-lbd-cg/IFCtoLBD"
+        "https://github.com/w3c-lbd-cg/IFCtoLBD",
+        "https://github.com/w3c-lbd-cg/"
       ],
       "activity": {
         "rss": {
@@ -19840,7 +19866,7 @@
           }
         },
         "lists": {
-          "2018-12": 4,
+          "2018-12": 5,
           "2018-11": 6,
           "2018-10": 8,
           "2018-09": 1,
@@ -20071,7 +20097,7 @@
       "name": "Credentials Community Group",
       "link": "http://www.w3.org/community/credentials/",
       "created": "2014-08-06T18:29:41.000Z",
-      "participants": 191,
+      "participants": 194,
       "chairs": [
         "Christopher Allen",
         "Joe Andrieu",
@@ -20103,7 +20129,11 @@
         "https://github.com/w3c-ccg/did-primer",
         "https://github.com/w3c-ccg/sovrin",
         "https://github.com/w3c-ccg/did-wg-proposal",
-        "https://github.com/w3c-ccg/concept-maps"
+        "https://github.com/w3c-ccg/concept-maps",
+        "https://github.com/w3c-ccg/did-explainer",
+        "https://github.com/w3c-ccg/w3c-ccg-process",
+        "https://github.com/w3c-ccg/registries-process",
+        "https://github.com/w3c-ccg"
       ],
       "activity": {
         "rss": {
@@ -20137,7 +20167,7 @@
           }
         },
         "lists": {
-          "2018-12": 69,
+          "2018-12": 99,
           "2018-11": 186,
           "2018-10": 124,
           "2018-09": 13,
@@ -20203,7 +20233,7 @@
           "2018-09": 20,
           "2018-10": 37,
           "2018-11": 18,
-          "2018-12": 16
+          "2018-12": 55
         },
         "join": {
           "2018-01": 6,
@@ -20217,7 +20247,7 @@
           "2018-09": 5,
           "2018-10": 5,
           "2018-11": 7,
-          "2018-12": 3
+          "2018-12": 6
         }
       }
     },
@@ -20449,7 +20479,8 @@
         "https://github.com/browserobo/WebGPIO",
         "https://github.com/browserobo/WebI2C",
         "https://github.com/browserobo/hackathon2017",
-        "https://github.com/browserobo/browserobo.github.io"
+        "https://github.com/browserobo/browserobo.github.io",
+        "https://github.com/browserobo/"
       ],
       "activity": {
         "rss": {
@@ -20505,7 +20536,7 @@
           "2018-09": 0,
           "2018-10": 0,
           "2018-11": 0,
-          "2018-12": 0
+          "2018-12": 1
         },
         "join": {
           "2018-01": 0,
@@ -20729,15 +20760,11 @@
       "name": "Data Visualization Community Group",
       "link": "http://www.w3.org/community/datavis/",
       "created": "2014-12-21T08:41:04.000Z",
-      "participants": 45,
+      "participants": 44,
       "chairs": [
         "Xiaoru Yuan"
       ],
       "staff": [
-        {
-          "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
-        },
         {
           "name": "Chunming Hu",
           "photo": "https://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
@@ -21055,7 +21082,8 @@
         "https://github.com/webtiming/timingobject",
         "https://github.com/webtiming/sequencer",
         "https://github.com/webtiming/mediasync",
-        "https://github.com/webtiming/timingsrc"
+        "https://github.com/webtiming/timingsrc",
+        "https://github.com/webtiming"
       ],
       "activity": {
         "rss": {
@@ -21475,7 +21503,7 @@
           }
         },
         "lists": {
-          "2018-12": 70,
+          "2018-12": 72,
           "2018-11": 23,
           "2018-10": 16,
           "2018-09": 36,
@@ -21528,7 +21556,7 @@
           "2018-09": 8,
           "2018-10": 3,
           "2018-11": 10,
-          "2018-12": 33
+          "2018-12": 35
         },
         "join": {
           "2018-01": 1,
@@ -21660,7 +21688,8 @@
         }
       ],
       "repositories": [
-        "https://github.com/schemaorg/schemaorg"
+        "https://github.com/schemaorg/schemaorg",
+        "https://github.com/schemaorg/"
       ],
       "activity": {
         "rss": {
@@ -21694,6 +21723,7 @@
           }
         },
         "lists": {
+          "2018-12": 1,
           "2018-11": 18,
           "2018-10": 14,
           "2018-09": 17,
@@ -21767,7 +21797,7 @@
           "2018-09": 32,
           "2018-10": 16,
           "2018-11": 17,
-          "2018-12": 3
+          "2018-12": 16
         },
         "join": {
           "2018-01": 2,
@@ -22383,7 +22413,7 @@
       "name": "WebAssembly Community Group",
       "link": "http://www.w3.org/community/webassembly/",
       "created": "2015-04-29T17:28:24.000Z",
-      "participants": 940,
+      "participants": 941,
       "chairs": [
         "Ben Smith"
       ],
@@ -22434,7 +22464,8 @@
         "https://github.com/WebAssembly/debugging",
         "https://github.com/WebAssembly/funclets",
         "https://github.com/WebAssembly/reference-sysroot",
-        "https://github.com/WebAssembly/proposals"
+        "https://github.com/WebAssembly/proposals",
+        "https://github.com/webassembly"
       ],
       "activity": {
         "rss": {
@@ -22514,7 +22545,7 @@
           "2018-09": 169,
           "2018-10": 292,
           "2018-11": 316,
-          "2018-12": 200
+          "2018-12": 239
         },
         "join": {
           "2018-01": 10,
@@ -22528,7 +22559,7 @@
           "2018-09": 12,
           "2018-10": 7,
           "2018-11": 6,
-          "2018-12": 7
+          "2018-12": 8
         }
       }
     },
@@ -22555,7 +22586,8 @@
       "repositories": [
         "https://github.com/browserext/browserext.github.io",
         "https://github.com/browserext/browserext",
-        "https://github.com/browserext/native-messaging"
+        "https://github.com/browserext/native-messaging",
+        "https://github.com/browserext"
       ],
       "activity": {
         "rss": {
@@ -22778,7 +22810,8 @@
       ],
       "staff": [],
       "repositories": [
-        "https://github.com/twamarc/ScheMed"
+        "https://github.com/twamarc/ScheMed",
+        " https://github.com/twamarc/ScheMed"
       ],
       "activity": {
         "rss": {
@@ -23032,7 +23065,9 @@
         "Jonathan Balls"
       ],
       "staff": [],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/sdo-sport"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -23203,7 +23238,6 @@
         "https://github.com/WICG/visual-viewport",
         "https://github.com/WICG/background-fetch",
         "https://github.com/WICG/writable-files",
-        "https://github.com/WICG/feature-policy",
         "https://github.com/WICG/async-append",
         "https://github.com/WICG/canvas-color-space",
         "https://github.com/WICG/CSS-Parser-API",
@@ -23261,7 +23295,8 @@
         "https://github.com/WICG/geolocation-sensor",
         "https://github.com/WICG/imageresource",
         "https://github.com/WICG/autoplay",
-        "https://github.com/WICG/change-password-url"
+        "https://github.com/WICG/change-password-url",
+        "https://github.com/wicg/"
       ],
       "activity": {
         "rss": {
@@ -23321,18 +23356,18 @@
           "2018-12": null
         },
         "repository": {
-          "2018-01": 182,
-          "2018-02": 211,
-          "2018-03": 165,
-          "2018-04": 153,
-          "2018-05": 204,
-          "2018-06": 283,
-          "2018-07": 284,
-          "2018-08": 234,
-          "2018-09": 202,
-          "2018-10": 261,
-          "2018-11": 236,
-          "2018-12": 132
+          "2018-01": 166,
+          "2018-02": 202,
+          "2018-03": 150,
+          "2018-04": 142,
+          "2018-05": 189,
+          "2018-06": 262,
+          "2018-07": 267,
+          "2018-08": 220,
+          "2018-09": 180,
+          "2018-10": 237,
+          "2018-11": 210,
+          "2018-12": 179
         },
         "join": {
           "2018-01": 8,
@@ -23693,10 +23728,10 @@
       "name": "Music Notation Community Group",
       "link": "http://www.w3.org/community/music-notation/",
       "created": "2015-07-27T16:27:46.000Z",
-      "participants": 269,
+      "participants": 268,
       "chairs": [
-        "Joe Berkovitz",
         "Michael Good",
+        "Adrian Holovaty",
         "Daniel Spreadbury"
       ],
       "staff": [
@@ -23709,18 +23744,10 @@
           "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         },
         {
-          "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
-        },
-        {
           "name": "Carine Bournez"
         }
       ],
-      "repositories": [
-        "https://github.com/w3c/musicxml",
-        "https://github.com/w3c/mnx",
-        "https://github.com/w3c/smufl"
-      ],
+      "repositories": [],
       "activity": {
         "rss": {
           "2018-01": 4,
@@ -23734,7 +23761,7 @@
           "2018-09": 0,
           "2018-10": 0,
           "2018-11": 0,
-          "2018-12": 0
+          "2018-12": 1
         },
         "chat": {
           "type": "chat",
@@ -23753,7 +23780,7 @@
           }
         },
         "lists": {
-          "2018-12": 7,
+          "2018-12": 13,
           "2018-11": 5,
           "2018-06": 14,
           "2018-05": 8,
@@ -23805,20 +23832,6 @@
           "2018-10": 0,
           "2018-11": 1,
           "2018-12": 0
-        },
-        "repository": {
-          "2018-01": 27,
-          "2018-02": 12,
-          "2018-03": 30,
-          "2018-04": 13,
-          "2018-05": 36,
-          "2018-06": 13,
-          "2018-07": 5,
-          "2018-08": 2,
-          "2018-09": 3,
-          "2018-10": 1,
-          "2018-11": 1,
-          "2018-12": 1
         },
         "join": {
           "2018-01": 5,
@@ -24006,7 +24019,8 @@
       "repositories": [
         "https://github.com/ML-Schema/core",
         "https://github.com/ML-Schema/openml-rdf",
-        "https://github.com/ML-Schema/mex"
+        "https://github.com/ML-Schema/mex",
+        "https://github.com/ML-Schema/"
       ],
       "activity": {
         "rss": {
@@ -24111,7 +24125,8 @@
         "https://github.com/interledger/specref",
         "https://github.com/interledger/webmonetization.org",
         "https://github.com/interledger/network",
-        "https://github.com/interledger/jmeter-samplers"
+        "https://github.com/interledger/jmeter-samplers",
+        "https://github.com/interledger"
       ],
       "activity": {
         "rss": {
@@ -24313,7 +24328,8 @@
       ],
       "staff": [],
       "repositories": [
-        "https://github.com/semtechdoc/semtechdoc"
+        "https://github.com/semtechdoc/semtechdoc",
+        "https://github.com/semtechdoc"
       ],
       "activity": {
         "rss": {
@@ -24402,7 +24418,7 @@
       "name": "Publications Object Model Community Group",
       "link": "http://www.w3.org/community/pom/",
       "created": "2015-10-29T07:12:44.000Z",
-      "participants": 12,
+      "participants": 11,
       "chairs": [
         "Daniel Glazman"
       ],
@@ -24410,10 +24426,6 @@
         {
           "name": "Chris Lilley",
           "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
-        },
-        {
-          "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
       "repositories": [],
@@ -24778,7 +24790,9 @@
       "participants": 21,
       "chairs": [],
       "staff": [],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/Natural-Language-Interfaces-CG/charter"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -24871,7 +24885,9 @@
         "Dominik Zyskowski"
       ],
       "staff": [],
-      "repositories": [],
+      "repositories": [
+        "https://www.github.com/w3c/kiss/"
+      ],
       "activity": {
         "rss": {
           "2018-01": 1,
@@ -25141,7 +25157,7 @@
       "name": "The Tourism Structured Web Data Community Group",
       "link": "http://www.w3.org/community/tourismdata/",
       "created": "2015-12-08T16:25:23.000Z",
-      "participants": 36,
+      "participants": 37,
       "chairs": [
         "Felipe Santi",
         "Richard Wallis"
@@ -25205,7 +25221,7 @@
           "2018-09": 0,
           "2018-10": 0,
           "2018-11": 2,
-          "2018-12": 0
+          "2018-12": 1
         }
       }
     },
@@ -25311,7 +25327,8 @@
       ],
       "staff": [],
       "repositories": [
-        "https://github.com/universalimages/rmd"
+        "https://github.com/universalimages/rmd",
+        "https://github.com/universalimages"
       ],
       "activity": {
         "rss": {
@@ -25464,7 +25481,7 @@
           "2018-09": 0,
           "2018-10": 2,
           "2018-11": 0,
-          "2018-12": 0
+          "2018-12": 1
         },
         "join": {
           "2018-01": 0,
@@ -25792,7 +25809,8 @@
         "https://github.com/immersive-web/homepage",
         "https://github.com/immersive-web/lighting-estimation",
         "",
-        "https://github.com/immersive-web/spatial-favicons"
+        "https://github.com/immersive-web/spatial-favicons",
+        "https://github.com/immersive-web/"
       ],
       "activity": {
         "rss": {
@@ -25826,7 +25844,7 @@
           }
         },
         "lists": {
-          "2018-12": 16,
+          "2018-12": 19,
           "2018-11": 11,
           "2018-10": 19,
           "2018-09": 28,
@@ -25846,7 +25864,7 @@
           "2018-09": 80,
           "2018-10": 72,
           "2018-11": 65,
-          "2018-12": 34
+          "2018-12": 50
         },
         "join": {
           "2018-01": 1,
@@ -25968,7 +25986,7 @@
           "2018-09": 0,
           "2018-10": 3,
           "2018-11": 6,
-          "2018-12": 4
+          "2018-12": 8
         },
         "join": {
           "2018-01": 1,
@@ -26200,7 +26218,8 @@
         "https://github.com/openactive/iqvoc",
         "https://github.com/openactive/concept-scheme-restriction-generator",
         "https://github.com/openactive/lorem-fitsum",
-        "https://github.com/openactive/skos.js"
+        "https://github.com/openactive/skos.js",
+        "http://github.com/openactive"
       ],
       "activity": {
         "rss": {
@@ -26289,7 +26308,7 @@
           "2018-09": 311,
           "2018-10": 247,
           "2018-11": 54,
-          "2018-12": 19
+          "2018-12": 20
         },
         "tracker": {
           "type": "tracker",
@@ -26387,7 +26406,7 @@
           }
         },
         "lists": {
-          "2018-12": 4,
+          "2018-12": 5,
           "2018-11": 12,
           "2018-10": 7,
           "2018-09": 22,
@@ -26749,7 +26768,8 @@
         }
       ],
       "repositories": [
-        "https://github.com/w3c/voiceinteraction"
+        "https://github.com/w3c/voiceinteraction",
+        "https://github.com/w3c/voiceinteraction/"
       ],
       "activity": {
         "rss": {
@@ -27006,7 +27026,9 @@
           "photo": "https://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/sparql-exists"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
@@ -27316,7 +27338,7 @@
           "2018-09": 0,
           "2018-10": 0,
           "2018-11": 0,
-          "2018-12": 1
+          "2018-12": 3
         },
         "chat": {
           "type": "chat",
@@ -27335,7 +27357,7 @@
           }
         },
         "lists": {
-          "2018-12": 1,
+          "2018-12": 3,
           "2018-05": 1,
           "2018-03": 1,
           "2017-12": 1,
@@ -27394,7 +27416,9 @@
         "https://github.com/chainpoint/chainpoint-roughtime",
         "https://github.com/chainpoint/ethers.js",
         "https://github.com/chainpoint/chainpoint-node-cli",
-        "https://github.com/chainpoint/homebrew-taps"
+        "https://github.com/chainpoint/homebrew-taps",
+        "https://github.com/chainpoint/level-rocksdb",
+        "http://github.com/chainpoint"
       ],
       "activity": {
         "rss": {
@@ -27435,13 +27459,13 @@
         },
         "repository": {
           "2018-01": 26,
-          "2018-02": 23,
+          "2018-02": 30,
           "2018-03": 28,
-          "2018-04": 31,
-          "2018-05": 28,
-          "2018-06": 31,
-          "2018-07": 50,
-          "2018-08": 76,
+          "2018-04": 33,
+          "2018-05": 37,
+          "2018-06": 40,
+          "2018-07": 52,
+          "2018-08": 78,
           "2018-09": 59,
           "2018-10": 144,
           "2018-11": 20,
@@ -27934,7 +27958,8 @@
         }
       ],
       "repositories": [
-        "https://github.com/swicg/general"
+        "https://github.com/swicg/general",
+        "https://github.com/swicg"
       ],
       "activity": {
         "rss": {
@@ -28153,7 +28178,8 @@
         "https://github.com/shexSpec/shape-map",
         "https://github.com/shexSpec/talks",
         "https://github.com/shexSpec/primer_jupyter",
-        "https://github.com/shexSpec/ShExC-cheat-sheet"
+        "https://github.com/shexSpec/ShExC-cheat-sheet",
+        "https://github.com/shexSpec"
       ],
       "activity": {
         "rss": {
@@ -28187,7 +28213,7 @@
           }
         },
         "lists": {
-          "2018-12": 1,
+          "2018-12": 2,
           "2018-11": 11,
           "2018-10": 3,
           "2018-09": 2,
@@ -28256,7 +28282,8 @@
       ],
       "staff": [],
       "repositories": [
-        "https://github.com/webapi-discovery/rfcs"
+        "https://github.com/webapi-discovery/rfcs",
+        "https://github.com/webapi-discovery/"
       ],
       "activity": {
         "rss": {
@@ -28679,7 +28706,8 @@
         "https://github.com/httpslocal/cg-charter",
         "https://github.com/httpslocal/usecases",
         "https://github.com/httpslocal/group",
-        "https://github.com/httpslocal/proposals"
+        "https://github.com/httpslocal/proposals",
+        "https://github.com/httpslocal"
       ],
       "activity": {
         "rss": {
@@ -28713,7 +28741,7 @@
           }
         },
         "lists": {
-          "2018-12": 3,
+          "2018-12": 4,
           "2018-11": 1,
           "2018-10": 15,
           "2018-09": 10,
@@ -28782,7 +28810,8 @@
         }
       ],
       "repositories": [
-        "https://github.com/w3c/publ-cg"
+        "https://github.com/w3c/publ-cg",
+        "https://github.com/w3c/publ-cg/"
       ],
       "activity": {
         "rss": {
@@ -28962,7 +28991,8 @@
         "https://github.com/gpuweb/gpuweb",
         "https://github.com/gpuweb/nxt-chromium",
         "https://github.com/gpuweb/WHLSL",
-        "https://github.com/gpuweb/spirv-execution-env"
+        "https://github.com/gpuweb/spirv-execution-env",
+        " https://github.com/gpuweb/"
       ],
       "activity": {
         "rss": {
@@ -28980,7 +29010,7 @@
           "2018-12": 0
         },
         "lists": {
-          "2018-12": 2,
+          "2018-12": 5,
           "2018-11": 75,
           "2018-10": 5,
           "2018-09": 8,
@@ -29016,7 +29046,7 @@
           "2018-09": 40,
           "2018-10": 254,
           "2018-11": 107,
-          "2018-12": 41
+          "2018-12": 44
         },
         "join": {
           "2018-01": 0,
@@ -29186,7 +29216,8 @@
         "https://github.com/BioSchemas/bioschemas-goweb",
         "https://github.com/BioSchemas/bioschemas-protein-render",
         "https://github.com/BioSchemas/bioschemas-pdbe-adapter",
-        "https://github.com/BioSchemas/bioschemas-proteins-to-crawl"
+        "https://github.com/BioSchemas/bioschemas-proteins-to-crawl",
+        "https://github.com/bioschemas"
       ],
       "activity": {
         "rss": {
@@ -29253,8 +29284,8 @@
           "2018-08": 20,
           "2018-09": 62,
           "2018-10": 29,
-          "2018-11": 79,
-          "2018-12": 14
+          "2018-11": 80,
+          "2018-12": 20
         },
         "join": {
           "2018-01": 1,
@@ -29487,7 +29518,8 @@
         }
       ],
       "repositories": [
-        "https://github.com/w3c/silver"
+        "https://github.com/w3c/silver",
+        "https://github.com/w3c/silver/"
       ],
       "activity": {
         "tracker": {
@@ -29537,7 +29569,7 @@
           }
         },
         "lists": {
-          "2018-12": 19,
+          "2018-12": 24,
           "2018-11": 98,
           "2018-10": 36,
           "2018-09": 59,
@@ -29735,7 +29767,7 @@
       "name": "Mixed Reality Service Community Group",
       "link": "http://www.w3.org/community/mixedreality/",
       "created": "2017-03-22T17:53:50.000Z",
-      "participants": 56,
+      "participants": 55,
       "chairs": [
         "Mark Pesce"
       ],
@@ -29745,15 +29777,13 @@
           "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         },
         {
-          "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
-        },
-        {
           "name": "Dominique Hazaël-Massieux",
           "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/mixedreality"
+      ],
       "activity": {
         "rss": {
           "2018-01": 0,
