@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-01-06T06:13:40.476Z",
+  "timestamp": "2019-01-13T06:13:47.243Z",
   "data": [
     {
       "id": 100367,
@@ -166,7 +166,7 @@
           "2018-10": 2,
           "2018-11": 0,
           "2018-12": 1,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -564,7 +564,7 @@
           "2018-10": 223,
           "2018-11": 84,
           "2018-12": 62,
-          "2019-01": 22
+          "2019-01": 52
         },
         "join": {
           "2018-02": 1,
@@ -798,7 +798,7 @@
       "name": "Credible Web Community Group",
       "link": "http://www.w3.org/community/credibility/",
       "created": "2017-10-29T04:07:16.000Z",
-      "participants": 65,
+      "participants": 67,
       "chairs": [
         "Sandro Hawke",
         "An Xiao Mina"
@@ -908,7 +908,7 @@
           "2018-10": 1,
           "2018-11": 1,
           "2018-12": 1,
-          "2019-01": 0
+          "2019-01": 2
         }
       }
     },
@@ -917,7 +917,7 @@
       "name": "Educational and Occupational Credentials in schema.org Community Group",
       "link": "http://www.w3.org/community/eocred-schema/",
       "created": "2017-11-01T14:08:33.000Z",
-      "participants": 27,
+      "participants": 28,
       "chairs": [
         "Phil Barker"
       ],
@@ -990,7 +990,7 @@
           "2018-10": 0,
           "2018-11": 1,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -1910,6 +1910,7 @@
           }
         },
         "lists": {
+          "2019-01": 6,
           "2018-12": 58,
           "2018-11": 47,
           "2018-10": 46,
@@ -2075,7 +2076,7 @@
           }
         },
         "lists": {
-          "2019-01": 3,
+          "2019-01": 4,
           "2018-12": 23,
           "2018-11": 24,
           "2018-10": 22,
@@ -2381,7 +2382,7 @@
       "name": "Voice Assistant Standardisation Community Group",
       "link": "http://www.w3.org/community/voice-assistant/",
       "created": "2018-08-10T12:16:27.000Z",
-      "participants": 23,
+      "participants": 24,
       "chairs": [
         "Diksha Deo"
       ],
@@ -2442,7 +2443,7 @@
           "2018-10": 5,
           "2018-11": 2,
           "2018-12": 4,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -2523,16 +2524,12 @@
       "id": 109278,
       "name": "Positive Work Environment Community Group",
       "link": "http://www.w3.org/community/pwe/",
-      "created": "2018-08-25T16:01:00.000Z",
-      "participants": 28,
+      "created": "2018-08-26T06:03:06.000Z",
+      "participants": 26,
       "chairs": [
         "Tzviya Siegman"
       ],
       "staff": [
-        {
-          "name": "Coralie Mercier",
-          "photo": "https://www.w3.org/2006/05/u/851547a2a0c3-tn.jpg"
-        },
         {
           "name": "Michael Cooper",
           "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
@@ -2544,10 +2541,6 @@
         {
           "name": "Ralph Swick",
           "photo": "https://www.w3.org/2006/05/u/1cyiyk0s3wcg-tn.jpg"
-        },
-        {
-          "name": "Antonio Olmo Titos",
-          "photo": "https://www.w3.org/2006/05/u/1o34wwn6kuqs-tn.jpg"
         },
         {
           "name": "Jeff Jaffe",
@@ -2589,7 +2582,7 @@
           }
         },
         "lists": {
-          "2019-01": 2,
+          "2019-01": 8,
           "2018-12": 6,
           "2018-11": 3,
           "2018-10": 15,
@@ -2619,7 +2612,7 @@
           "2018-10": 11,
           "2018-11": 0,
           "2018-12": 3,
-          "2019-01": 0
+          "2019-01": 5
         },
         "join": {
           "2018-02": 0,
@@ -2628,9 +2621,9 @@
           "2018-05": 0,
           "2018-06": 0,
           "2018-07": 0,
-          "2018-08": 6,
+          "2018-08": 5,
           "2018-09": 12,
-          "2018-10": 7,
+          "2018-10": 6,
           "2018-11": 3,
           "2018-12": 0,
           "2019-01": 0
@@ -2789,6 +2782,7 @@
           }
         },
         "lists": {
+          "2019-01": 4,
           "2018-12": 7,
           "2018-11": 5,
           "2018-10": 6
@@ -2805,7 +2799,7 @@
           "2018-10": 10,
           "2018-11": 7,
           "2018-12": 7,
-          "2019-01": 1
+          "2019-01": 5
         },
         "join": {
           "2018-02": 0,
@@ -2828,7 +2822,7 @@
       "name": "RDF-DEV Community Group",
       "link": "http://www.w3.org/community/rdf-dev/",
       "created": "2018-10-16T12:07:01.000Z",
-      "participants": 36,
+      "participants": 37,
       "chairs": [
         "Dan Brickley"
       ],
@@ -2899,7 +2893,7 @@
           "2018-10": 30,
           "2018-11": 3,
           "2018-12": 3,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -2970,7 +2964,7 @@
       "name": "Audio Community Group",
       "link": "http://www.w3.org/community/audio-comgp/",
       "created": "2018-10-28T22:08:20.000Z",
-      "participants": 14,
+      "participants": 15,
       "chairs": [
         "Paul Adenot",
         "Matthew Paradis"
@@ -3028,7 +3022,7 @@
           "2018-10": 6,
           "2018-11": 4,
           "2018-12": 1,
-          "2019-01": 3
+          "2019-01": 4
         }
       }
     },
@@ -3037,7 +3031,7 @@
       "name": "BD Comics Manga Community Group",
       "link": "http://www.w3.org/community/bdcomacg/",
       "created": "2018-10-31T11:28:13.000Z",
-      "participants": 22,
+      "participants": 24,
       "chairs": [],
       "staff": [
         {
@@ -3113,7 +3107,7 @@
           "2018-10": 5,
           "2018-11": 13,
           "2018-12": 4,
-          "2019-01": 0
+          "2019-01": 2
         }
       }
     },
@@ -3197,7 +3191,7 @@
       "name": "Notation 3 (N3) Community Group",
       "link": "http://www.w3.org/community/n3-dev/",
       "created": "2018-11-27T17:48:18.000Z",
-      "participants": 21,
+      "participants": 22,
       "chairs": [
         "Dörthe Arndt",
         "William Van Woensel"
@@ -3280,7 +3274,7 @@
           "2018-10": 0,
           "2018-11": 15,
           "2018-12": 6,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -3341,6 +3335,7 @@
           }
         },
         "lists": {
+          "2019-01": 3,
           "2018-12": 3
         },
         "join": {
@@ -3364,7 +3359,7 @@
       "name": "Bibframe2Schema.org Community Group",
       "link": "http://www.w3.org/community/bibframe2schema/",
       "created": "2018-12-04T10:41:58.000Z",
-      "participants": 13,
+      "participants": 14,
       "chairs": [
         "Richard Wallis"
       ],
@@ -3406,7 +3401,9 @@
             }
           }
         },
-        "lists": {},
+        "lists": {
+          "2019-01": 1
+        },
         "wiki": {
           "2018-02": 0,
           "2018-03": 0,
@@ -3419,7 +3416,7 @@
           "2018-10": 0,
           "2018-11": 0,
           "2018-12": 11,
-          "2019-01": 0
+          "2019-01": 3
         },
         "join": {
           "2018-02": 0,
@@ -3433,7 +3430,7 @@
           "2018-10": 0,
           "2018-11": 0,
           "2018-12": 12,
-          "2019-01": 1
+          "2019-01": 2
         }
       }
     },
@@ -3491,6 +3488,177 @@
           "2018-11": 0,
           "2018-12": 1,
           "2019-01": 0
+        }
+      }
+    },
+    {
+      "id": 112120,
+      "name": "Knowledge Graph Construction Community Group",
+      "link": "http://www.w3.org/community/kg-construct/",
+      "created": "2019-01-08T07:56:39.000Z",
+      "participants": 11,
+      "chairs": [],
+      "staff": [],
+      "repositories": [],
+      "activity": {
+        "rss": {
+          "2018-02": 0,
+          "2018-03": 0,
+          "2018-04": 0,
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 0,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 1
+        },
+        "chat": {
+          "type": "chat",
+          "link": "irc://irc.w3.org:6667/#kg-construct",
+          "shortdesc": "IRC",
+          "longdesc": "",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/15527"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/15527/groups"
+            }
+          }
+        },
+        "lists": {},
+        "join": {
+          "2018-02": 0,
+          "2018-03": 0,
+          "2018-04": 0,
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 0,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 11
+        }
+      }
+    },
+    {
+      "id": 112121,
+      "name": "Computational Legal Decision Support Community Group",
+      "link": "http://www.w3.org/community/clads/",
+      "created": null,
+      "participants": 0,
+      "chairs": [],
+      "staff": [],
+      "repositories": [],
+      "activity": {
+        "rss": {
+          "2018-02": 0,
+          "2018-03": 0,
+          "2018-04": 0,
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 0,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 1
+        },
+        "chat": {
+          "type": "chat",
+          "link": "irc://irc.w3.org:6667/#clads",
+          "shortdesc": "IRC",
+          "longdesc": "",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/15532"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/15532/groups"
+            }
+          }
+        },
+        "lists": {},
+        "join": {
+          "2018-02": 0,
+          "2018-03": 0,
+          "2018-04": 0,
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 0,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 0
+        }
+      }
+    },
+    {
+      "id": 112122,
+      "name": "ceddl html attribute-based markup and javascript api Community Group",
+      "link": "http://www.w3.org/community/ceddl-webspec/",
+      "created": "2019-01-08T08:06:12.000Z",
+      "participants": 2,
+      "chairs": [],
+      "staff": [],
+      "repositories": [],
+      "activity": {
+        "rss": {
+          "2018-02": 0,
+          "2018-03": 0,
+          "2018-04": 0,
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 0,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 1
+        },
+        "chat": {
+          "type": "chat",
+          "link": "irc://irc.w3.org:6667/#ceddl-webspec",
+          "shortdesc": "IRC",
+          "longdesc": "",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/15537"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/15537/groups"
+            }
+          }
+        },
+        "lists": {},
+        "join": {
+          "2018-02": 0,
+          "2018-03": 0,
+          "2018-04": 0,
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 0,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 2
         }
       }
     },
@@ -3687,6 +3855,7 @@
           "2019-01": 0
         },
         "lists": {
+          "2019-01": null,
           "2018-08": null,
           "2018-07": null,
           "2018-06": null,
@@ -3934,7 +4103,7 @@
           "2019-01": 1
         },
         "lists": {
-          "2019-01": 5,
+          "2019-01": 6,
           "2018-12": 5,
           "2018-11": 5,
           "2018-10": 7,
@@ -4225,7 +4394,7 @@
       "name": "Ontology-Lexica Community Group",
       "link": "http://www.w3.org/community/ontolex/",
       "created": "2011-11-02T09:28:57.000Z",
-      "participants": 99,
+      "participants": 98,
       "chairs": [
         "Julia Bosque-Gil",
         "Philipp Cimiano",
@@ -4244,9 +4413,9 @@
           "2018-05": 0,
           "2018-06": 0,
           "2018-07": 0,
-          "2018-08": 1,
-          "2018-09": 5,
-          "2018-10": 6,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 1,
           "2018-11": 5,
           "2018-12": 0,
           "2019-01": 1
@@ -4266,7 +4435,7 @@
           "2019-01": 0
         },
         "lists": {
-          "2019-01": 2,
+          "2019-01": 6,
           "2018-12": 13,
           "2018-11": 32,
           "2018-10": 28,
@@ -5397,6 +5566,7 @@
         "https://github.com/json-ld/normalization",
         "https://github.com/json-ld/charter",
         "https://github.com/json-ld/scrawl.js",
+        "https://github.com/json-ld/json-ld-patch",
         "https://dvcs.w3.org/hg/json-ld",
         "https://github.com/json-ld"
       ],
@@ -5446,6 +5616,7 @@
           }
         },
         "lists": {
+          "2019-01": 2,
           "2018-12": 2,
           "2018-10": 6,
           "2018-09": 3,
@@ -5550,7 +5721,7 @@
           "2018-10": 0,
           "2018-11": 3,
           "2018-12": 4,
-          "2019-01": 2
+          "2019-01": 7
         },
         "join": {
           "2018-02": 0,
@@ -5702,6 +5873,7 @@
       "repositories": [],
       "activity": {
         "lists": {
+          "2019-01": 3,
           "2018-12": 4,
           "2018-11": 5,
           "2018-10": 6,
@@ -7147,6 +7319,7 @@
           }
         },
         "lists": {
+          "2019-01": 1,
           "2018-12": 20,
           "2018-11": 33,
           "2018-10": 19,
@@ -7251,7 +7424,7 @@
           "2018-10": 25,
           "2018-11": 15,
           "2018-12": 5,
-          "2019-01": 0
+          "2019-01": 1
         },
         "join": {
           "2018-02": 0,
@@ -8651,6 +8824,7 @@
           "2011-03": 137,
           "2011-02": 410,
           "2011-01": 169,
+          "2019-01": null,
           "2018-10": null,
           "2018-09": null,
           "2018-08": null,
@@ -9147,7 +9321,7 @@
       "name": "Responsive Issues Community Group",
       "link": "http://www.w3.org/community/respimg/",
       "created": "2012-08-17T18:16:36.000Z",
-      "participants": 425,
+      "participants": 426,
       "chairs": [
         "Mathew Marquis"
       ],
@@ -9338,7 +9512,7 @@
           "2018-10": 0,
           "2018-11": 0,
           "2018-12": 1,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -9796,7 +9970,7 @@
           "2018-10": 0,
           "2018-11": 0,
           "2018-12": 2,
-          "2019-01": 0
+          "2019-01": 1
         },
         "rss": {
           "2018-02": 0,
@@ -9829,7 +10003,7 @@
           }
         },
         "lists": {
-          "2019-01": 1,
+          "2019-01": 9,
           "2018-12": 25,
           "2018-11": 26,
           "2018-10": 38,
@@ -10556,6 +10730,7 @@
           }
         },
         "lists": {
+          "2019-01": 1,
           "2018-10": 2,
           "2018-09": 1,
           "2018-08": 7,
@@ -12767,7 +12942,7 @@
       "name": "SDshare Community Group",
       "link": "http://www.w3.org/community/sdshare/",
       "created": "2012-10-12T11:06:41.000Z",
-      "participants": 16,
+      "participants": 15,
       "chairs": [
         "Lars Marius Garshol",
         "Graham Moore"
@@ -13666,12 +13841,7 @@
         "Carlos E. Jiménez",
         "Martín Álvarez"
       ],
-      "staff": [
-        {
-          "name": "Antonio Olmo Titos",
-          "photo": "https://www.w3.org/2006/05/u/1o34wwn6kuqs-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -13776,7 +13946,7 @@
           "2018-10": 1,
           "2018-11": 0,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -14102,7 +14272,7 @@
       "name": "Accessibility in India Community Group",
       "link": "http://www.w3.org/community/accessibilityinindia/",
       "created": "2013-02-13T13:11:37.000Z",
-      "participants": 104,
+      "participants": 106,
       "chairs": [
         "Shilpi Kapoor"
       ],
@@ -14203,7 +14373,7 @@
           "2018-10": 1,
           "2018-11": 0,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 2
         }
       }
     },
@@ -15134,7 +15304,7 @@
       "name": "Best Practices for Multilingual Linked Open Data Community Group",
       "link": "http://www.w3.org/community/bpmlod/",
       "created": "2013-04-09T10:54:39.000Z",
-      "participants": 69,
+      "participants": 68,
       "chairs": [
         "Jorge Gracia",
         "Jose Emilio Labra Gayo",
@@ -15195,6 +15365,7 @@
           }
         },
         "lists": {
+          "2019-01": 2,
           "2018-12": 2,
           "2018-09": 1,
           "2018-08": 1,
@@ -15648,7 +15819,7 @@
       "name": "Hydra Community Group",
       "link": "http://www.w3.org/community/hydra/",
       "created": "2013-06-17T14:45:12.000Z",
-      "participants": 222,
+      "participants": 219,
       "chairs": [
         "Markus Lanthaler",
         "Karol Szczepański"
@@ -15675,7 +15846,7 @@
           "2018-10": 2,
           "2018-11": 2,
           "2018-12": 0,
-          "2019-01": 1
+          "2019-01": 5
         },
         "rss": {
           "2018-02": 0,
@@ -15708,7 +15879,7 @@
           }
         },
         "lists": {
-          "2019-01": 5,
+          "2019-01": 91,
           "2018-12": 33,
           "2018-11": 15,
           "2018-10": 19,
@@ -15804,7 +15975,7 @@
           "2018-10": 0,
           "2018-11": 3,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 13
         },
         "join": {
           "2018-02": 10,
@@ -16164,7 +16335,7 @@
       "name": "RDF Stream Processing Community Group",
       "link": "http://www.w3.org/community/rsp/",
       "created": "2013-08-01T14:28:27.000Z",
-      "participants": 77,
+      "participants": 78,
       "chairs": [
         "Jean-Paul Calbimonte"
       ],
@@ -16287,7 +16458,7 @@
           "2018-10": 0,
           "2018-11": 0,
           "2018-12": 6,
-          "2019-01": 4
+          "2019-01": 6
         },
         "join": {
           "2018-02": 0,
@@ -16301,7 +16472,7 @@
           "2018-10": 0,
           "2018-11": 0,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -16310,7 +16481,7 @@
       "name": "Electronic Governance (eGov) Community Group",
       "link": "http://www.w3.org/community/egovernance/",
       "created": "2013-08-07T14:12:55.000Z",
-      "participants": 65,
+      "participants": 66,
       "chairs": [
         "Jeanne Holm",
         "Tomasz Janowski"
@@ -16402,7 +16573,7 @@
           "2018-10": 0,
           "2018-11": 0,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -17033,7 +17204,7 @@
           "2018-10": 1,
           "2018-11": 1,
           "2018-12": 0,
-          "2019-01": 1
+          "2019-01": 2
         }
       }
     },
@@ -17042,7 +17213,7 @@
       "name": "RDF JavaScript Libraries Community Group",
       "link": "http://www.w3.org/community/rdfjs/",
       "created": "2013-10-02T20:13:40.000Z",
-      "participants": 71,
+      "participants": 74,
       "chairs": [
         "Thomas Bergwinkl",
         "Ruben Verborgh"
@@ -17076,6 +17247,7 @@
         "https://github.com/rdfjs/fetch-lite",
         "https://github.com/rdfjs/namespace",
         "https://github.com/rdfjs/sink-to-duplex",
+        "https://github.com/rdfjs/dataset",
         "https://github.com/rdfjs"
       ],
       "activity": {
@@ -17124,6 +17296,7 @@
           }
         },
         "lists": {
+          "2019-01": 2,
           "2018-12": 1,
           "2018-09": 1,
           "2018-06": 5,
@@ -17179,7 +17352,7 @@
           "2018-10": 28,
           "2018-11": 42,
           "2018-12": 25,
-          "2019-01": 8
+          "2019-01": 31
         },
         "join": {
           "2018-02": 0,
@@ -17193,7 +17366,7 @@
           "2018-10": 4,
           "2018-11": 0,
           "2018-12": 2,
-          "2019-01": 0
+          "2019-01": 3
         }
       }
     },
@@ -17724,6 +17897,7 @@
           }
         },
         "lists": {
+          "2019-01": 2,
           "2018-10": 14,
           "2018-08": 1,
           "2018-07": 1,
@@ -17791,7 +17965,7 @@
           "2018-10": 4,
           "2018-11": 0,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 2
         },
         "join": {
           "2018-02": 0,
@@ -17961,7 +18135,7 @@
           }
         },
         "lists": {
-          "2019-01": 14,
+          "2019-01": 15,
           "2018-12": 26,
           "2018-11": 7,
           "2018-10": 24,
@@ -18237,6 +18411,7 @@
           }
         },
         "lists": {
+          "2019-01": 2,
           "2018-12": 3,
           "2018-11": 1,
           "2018-10": 1,
@@ -19104,7 +19279,7 @@
           "2018-10": 7,
           "2018-11": 27,
           "2018-12": 21,
-          "2019-01": 1
+          "2019-01": 9
         },
         "join": {
           "2018-02": 1,
@@ -19434,7 +19609,7 @@
       "name": "Automated WCAG Monitoring Community Group",
       "link": "http://www.w3.org/community/auto-wcag/",
       "created": "2014-05-12T18:20:41.000Z",
-      "participants": 84,
+      "participants": 86,
       "chairs": [
         "Wilco Fiers"
       ],
@@ -19484,7 +19659,7 @@
           }
         },
         "lists": {
-          "2019-01": 7,
+          "2019-01": 9,
           "2018-12": 14,
           "2018-11": 4,
           "2018-10": 3,
@@ -19584,7 +19759,7 @@
           "2018-10": 90,
           "2018-11": 27,
           "2018-12": 27,
-          "2019-01": 26
+          "2019-01": 35
         },
         "join": {
           "2018-02": 2,
@@ -19598,7 +19773,7 @@
           "2018-10": 1,
           "2018-11": 2,
           "2018-12": 1,
-          "2019-01": 0
+          "2019-01": 2
         }
       }
     },
@@ -20085,7 +20260,7 @@
           "2018-10": 2,
           "2018-11": 6,
           "2018-12": 11,
-          "2019-01": 0
+          "2019-01": 4
         },
         "join": {
           "2018-02": 2,
@@ -20108,7 +20283,7 @@
       "name": "Credentials Community Group",
       "link": "http://www.w3.org/community/credentials/",
       "created": "2014-08-06T18:29:41.000Z",
-      "participants": 194,
+      "participants": 195,
       "chairs": [
         "Christopher Allen",
         "Joe Andrieu",
@@ -20144,6 +20319,7 @@
         "https://github.com/w3c-ccg/did-explainer",
         "https://github.com/w3c-ccg/w3c-ccg-process",
         "https://github.com/w3c-ccg/registries-process",
+        "https://github.com/w3c-ccg/amira",
         "https://github.com/w3c-ccg"
       ],
       "activity": {
@@ -20178,7 +20354,7 @@
           }
         },
         "lists": {
-          "2019-01": 43,
+          "2019-01": 52,
           "2018-12": 115,
           "2018-11": 186,
           "2018-10": 124,
@@ -20245,7 +20421,7 @@
           "2018-10": 37,
           "2018-11": 18,
           "2018-12": 63,
-          "2019-01": 9
+          "2019-01": 17
         },
         "join": {
           "2018-02": 16,
@@ -20259,7 +20435,7 @@
           "2018-10": 5,
           "2018-11": 7,
           "2018-12": 6,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -21515,7 +21691,7 @@
           }
         },
         "lists": {
-          "2019-01": 3,
+          "2019-01": 5,
           "2018-12": 72,
           "2018-11": 23,
           "2018-10": 16,
@@ -21569,7 +21745,7 @@
           "2018-10": 3,
           "2018-11": 10,
           "2018-12": 35,
-          "2019-01": 2
+          "2019-01": 3
         },
         "join": {
           "2018-02": 0,
@@ -21682,7 +21858,7 @@
       "name": "Schema.org Community Group",
       "link": "http://www.w3.org/community/schemaorg/",
       "created": "2015-03-31T18:36:46.000Z",
-      "participants": 326,
+      "participants": 327,
       "chairs": [
         "Dan Brickley"
       ],
@@ -21736,6 +21912,7 @@
           }
         },
         "lists": {
+          "2019-01": 19,
           "2018-12": 1,
           "2018-11": 18,
           "2018-10": 14,
@@ -21810,13 +21987,13 @@
           "2018-10": 16,
           "2018-11": 17,
           "2018-12": 17,
-          "2019-01": 1
+          "2019-01": 4
         },
         "join": {
           "2018-02": 4,
           "2018-03": 5,
           "2018-04": 3,
-          "2018-05": 7,
+          "2018-05": 6,
           "2018-06": 8,
           "2018-07": 5,
           "2018-08": 11,
@@ -21824,7 +22001,7 @@
           "2018-10": 8,
           "2018-11": 5,
           "2018-12": 4,
-          "2019-01": 0
+          "2019-01": 2
         }
       }
     },
@@ -22426,7 +22603,7 @@
       "name": "WebAssembly Community Group",
       "link": "http://www.w3.org/community/webassembly/",
       "created": "2015-04-29T17:28:24.000Z",
-      "participants": 941,
+      "participants": 943,
       "chairs": [
         "Ben Smith"
       ],
@@ -22558,7 +22735,7 @@
           "2018-10": 292,
           "2018-11": 316,
           "2018-12": 251,
-          "2019-01": 19
+          "2019-01": 61
         },
         "join": {
           "2018-02": 16,
@@ -22571,8 +22748,8 @@
           "2018-09": 12,
           "2018-10": 7,
           "2018-11": 6,
-          "2018-12": 9,
-          "2019-01": 0
+          "2018-12": 8,
+          "2019-01": 3
         }
       }
     },
@@ -22581,7 +22758,7 @@
       "name": "Browser Extension Community Group",
       "link": "http://www.w3.org/community/browserext/",
       "created": "2015-05-12T14:53:07.000Z",
-      "participants": 49,
+      "participants": 50,
       "chairs": [
         "Florian Rivoal",
         "Andrey Rybka"
@@ -22715,7 +22892,7 @@
           "2018-10": 2,
           "2018-11": 0,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -23164,7 +23341,7 @@
       "name": "Web Platform Incubator Community Group",
       "link": "http://www.w3.org/community/wicg/",
       "created": "2015-07-02T16:02:06.000Z",
-      "participants": 163,
+      "participants": 164,
       "chairs": [
         "Marcos Caceres",
         "Chris Wilson"
@@ -23292,6 +23469,7 @@
         "https://github.com/WICG/permissions-request",
         "https://github.com/WICG/sw-launch",
         "https://github.com/WICG/devtools-protocol",
+        "https://github.com/WICG/kv-storage",
         "https://github.com/WICG/time-to-interactive",
         "https://github.com/WICG/construct-stylesheets",
         "https://github.com/WICG/encrypted-media-encryption-scheme",
@@ -23370,18 +23548,18 @@
           "2019-01": null
         },
         "repository": {
-          "2018-02": 202,
-          "2018-03": 150,
-          "2018-04": 142,
-          "2018-05": 189,
-          "2018-06": 262,
+          "2018-02": 219,
+          "2018-03": 156,
+          "2018-04": 145,
+          "2018-05": 197,
+          "2018-06": 268,
           "2018-07": 267,
           "2018-08": 220,
           "2018-09": 180,
-          "2018-10": 237,
+          "2018-10": 243,
           "2018-11": 210,
-          "2018-12": 184,
-          "2019-01": 17
+          "2018-12": 185,
+          "2019-01": 76
         },
         "join": {
           "2018-02": 4,
@@ -23395,7 +23573,7 @@
           "2018-10": 3,
           "2018-11": 1,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -23742,7 +23920,7 @@
       "name": "Music Notation Community Group",
       "link": "http://www.w3.org/community/music-notation/",
       "created": "2015-07-27T16:27:46.000Z",
-      "participants": 268,
+      "participants": 269,
       "chairs": [
         "Michael Good",
         "Adrian Holovaty",
@@ -23775,7 +23953,7 @@
           "2018-10": 0,
           "2018-11": 0,
           "2018-12": 1,
-          "2019-01": 0
+          "2019-01": 1
         },
         "chat": {
           "type": "chat",
@@ -23794,7 +23972,7 @@
           }
         },
         "lists": {
-          "2019-01": 1,
+          "2019-01": 4,
           "2018-12": 13,
           "2018-11": 5,
           "2018-06": 14,
@@ -23860,7 +24038,7 @@
           "2018-10": 1,
           "2018-11": 2,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -24125,7 +24303,7 @@
       "name": "Interledger Payments Community Group",
       "link": "http://www.w3.org/community/interledger/",
       "created": "2015-10-06T14:39:16.000Z",
-      "participants": 350,
+      "participants": 352,
       "chairs": [
         "Dimitri De Jonghe"
       ],
@@ -24175,6 +24353,7 @@
           }
         },
         "lists": {
+          "2019-01": 1,
           "2018-12": 2,
           "2018-11": 22,
           "2018-10": 22,
@@ -24226,7 +24405,7 @@
           "2018-10": 23,
           "2018-11": 24,
           "2018-12": 11,
-          "2019-01": 4
+          "2019-01": 6
         },
         "join": {
           "2018-02": 12,
@@ -24240,7 +24419,7 @@
           "2018-10": 14,
           "2018-11": 5,
           "2018-12": 3,
-          "2019-01": 0
+          "2019-01": 2
         }
       }
     },
@@ -25581,7 +25760,7 @@
       "name": "Web We Can Afford Community Group",
       "link": "http://www.w3.org/community/wwca/",
       "created": "2016-01-22T13:51:41.000Z",
-      "participants": 46,
+      "participants": 48,
       "chairs": [
         "Association ADRASTIA",
         "Alexandre Monnin"
@@ -25641,7 +25820,7 @@
           "2018-10": 1,
           "2018-11": 2,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 2
         }
       }
     },
@@ -25784,7 +25963,7 @@
       "name": "Immersive Web Community Group",
       "link": "http://www.w3.org/community/immersive-web/",
       "created": "2016-03-01T17:05:43.000Z",
-      "participants": 195,
+      "participants": 197,
       "chairs": [
         "Trevor F. Smith"
       ],
@@ -25823,7 +26002,6 @@
         "https://github.com/immersive-web/editor-collab",
         "https://github.com/immersive-web/homepage",
         "https://github.com/immersive-web/lighting-estimation",
-        "",
         "https://github.com/immersive-web/spatial-favicons",
         "https://github.com/immersive-web/"
       ],
@@ -25859,6 +26037,7 @@
           }
         },
         "lists": {
+          "2019-01": 1,
           "2018-12": 20,
           "2018-11": 11,
           "2018-10": 19,
@@ -25879,7 +26058,7 @@
           "2018-10": 72,
           "2018-11": 65,
           "2018-12": 59,
-          "2019-01": 13
+          "2019-01": 42
         },
         "join": {
           "2018-02": 6,
@@ -25893,7 +26072,7 @@
           "2018-10": 5,
           "2018-11": 7,
           "2018-12": 1,
-          "2019-01": 1
+          "2019-01": 3
         }
       }
     },
@@ -25902,7 +26081,7 @@
       "name": "Blockchain Community Group",
       "link": "http://www.w3.org/community/blockchain/",
       "created": "2016-03-14T22:16:19.000Z",
-      "participants": 188,
+      "participants": 189,
       "chairs": [
         "Colleen Kirtland",
         "Mountie Lee",
@@ -26015,7 +26194,7 @@
           "2018-10": 2,
           "2018-11": 3,
           "2018-12": 0,
-          "2019-01": 1
+          "2019-01": 2
         }
       }
     },
@@ -26174,7 +26353,7 @@
       "name": "OpenActive Community Group",
       "link": "http://www.w3.org/community/openactive/",
       "created": "2016-04-11T15:38:31.000Z",
-      "participants": 70,
+      "participants": 71,
       "chairs": [
         "Leigh Dodds"
       ],
@@ -26268,6 +26447,7 @@
           }
         },
         "lists": {
+          "2019-01": 1,
           "2018-12": 3,
           "2018-11": 1,
           "2018-10": 5,
@@ -26323,7 +26503,7 @@
           "2018-10": 247,
           "2018-11": 54,
           "2018-12": 20,
-          "2019-01": 4
+          "2019-01": 11
         },
         "tracker": {
           "type": "tracker",
@@ -26362,7 +26542,7 @@
           "2018-10": 0,
           "2018-11": 2,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -26421,6 +26601,7 @@
           }
         },
         "lists": {
+          "2019-01": 4,
           "2018-12": 5,
           "2018-11": 12,
           "2018-10": 7,
@@ -26467,7 +26648,7 @@
           "2018-10": 2,
           "2018-11": 0,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 1
         },
         "join": {
           "2018-02": 2,
@@ -27484,7 +27665,7 @@
           "2018-10": 144,
           "2018-11": 20,
           "2018-12": 7,
-          "2019-01": 0
+          "2019-01": 2
         },
         "twitter": {
           "type": "twitter",
@@ -27818,7 +27999,7 @@
       "name": "Digital Verification Community Group",
       "link": "http://www.w3.org/community/digital-verification/",
       "created": "2016-10-24T04:51:02.000Z",
-      "participants": 33,
+      "participants": 34,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -27854,6 +28035,7 @@
           }
         },
         "lists": {
+          "2019-01": 4,
           "2018-12": 3,
           "2018-11": 11,
           "2018-10": 4,
@@ -27889,7 +28071,7 @@
           "2018-10": 1,
           "2018-11": 0,
           "2018-12": 0,
-          "2019-01": 1
+          "2019-01": 2
         }
       }
     },
@@ -27961,7 +28143,7 @@
       "name": "Social Web Incubator Community Group",
       "link": "http://www.w3.org/community/socialcg/",
       "created": "2016-11-18T20:00:13.000Z",
-      "participants": 77,
+      "participants": 78,
       "chairs": [
         "Aaron Parecki",
         "Christopher Webber"
@@ -28033,7 +28215,7 @@
           "2018-10": 1,
           "2018-11": 0,
           "2018-12": 2,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -28042,7 +28224,7 @@
       "name": "Schema.org for datasets Community Group",
       "link": "http://www.w3.org/community/schemaorg4datasets/",
       "created": "2016-12-01T19:14:50.000Z",
-      "participants": 41,
+      "participants": 42,
       "chairs": [
         "Dan Brickley"
       ],
@@ -28097,7 +28279,7 @@
           "2018-10": 0,
           "2018-11": 0,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -28170,9 +28352,7 @@
       "link": "http://www.w3.org/community/shex/",
       "created": "2016-12-12T16:08:17.000Z",
       "participants": 28,
-      "chairs": [
-        "Dimitris Kontokostas"
-      ],
+      "chairs": [],
       "staff": [
         {
           "name": "Eric Prud'hommeaux",
@@ -28194,6 +28374,7 @@
         "https://github.com/shexSpec/talks",
         "https://github.com/shexSpec/primer_jupyter",
         "https://github.com/shexSpec/ShExC-cheat-sheet",
+        "https://github.com/shexSpec/shexmapTest",
         "https://github.com/shexSpec"
       ],
       "activity": {
@@ -28267,7 +28448,7 @@
           "2018-10": 0,
           "2018-11": 13,
           "2018-12": 3,
-          "2019-01": 0
+          "2019-01": 6
         },
         "join": {
           "2018-02": 0,
@@ -28281,7 +28462,7 @@
           "2018-10": 0,
           "2018-11": 0,
           "2018-12": 0,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -28531,16 +28712,11 @@
       "name": "OpenTrack Community Group",
       "link": "http://www.w3.org/community/opentrack/",
       "created": "2017-01-31T13:02:11.000Z",
-      "participants": 21,
+      "participants": 20,
       "chairs": [
         "Martín Álvarez"
       ],
-      "staff": [
-        {
-          "name": "Antonio Olmo Titos",
-          "photo": "https://www.w3.org/2006/05/u/1o34wwn6kuqs-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [
         "https://github.com/w3c/opentrack-cg"
       ],
@@ -28576,6 +28752,7 @@
           }
         },
         "lists": {
+          "2019-01": 1,
           "2018-12": 3,
           "2018-11": 4,
           "2018-10": 14,
@@ -28895,7 +29072,7 @@
           "2018-10": 0,
           "2018-11": 1,
           "2018-12": 10,
-          "2019-01": 0
+          "2019-01": 1
         },
         "join": {
           "2018-02": 7,
@@ -28982,7 +29159,7 @@
       "name": "GPU for the Web Community Group",
       "link": "http://www.w3.org/community/gpu/",
       "created": "2017-02-08T00:01:00.000Z",
-      "participants": 122,
+      "participants": 123,
       "chairs": [
         "Dean Jackson",
         "Corentin Wallez"
@@ -29026,7 +29203,7 @@
           "2019-01": 0
         },
         "lists": {
-          "2019-01": 1,
+          "2019-01": 2,
           "2018-12": 8,
           "2018-11": 75,
           "2018-10": 5,
@@ -29063,7 +29240,7 @@
           "2018-10": 254,
           "2018-11": 107,
           "2018-12": 49,
-          "2019-01": 14
+          "2019-01": 26
         },
         "join": {
           "2018-02": 4,
@@ -29077,7 +29254,7 @@
           "2018-10": 3,
           "2018-11": 3,
           "2018-12": 1,
-          "2019-01": 0
+          "2019-01": 1
         }
       }
     },
@@ -29511,7 +29688,7 @@
       "name": "Silver Community Group",
       "link": "http://www.w3.org/community/silver/",
       "created": "2017-03-03T00:00:42.000Z",
-      "participants": 121,
+      "participants": 123,
       "chairs": [
         "Shawn Lauriat",
         "Jeanne F Spellman"
@@ -29586,7 +29763,7 @@
           }
         },
         "lists": {
-          "2019-01": 1,
+          "2019-01": 6,
           "2018-12": 24,
           "2018-11": 98,
           "2018-10": 36,
@@ -29654,7 +29831,7 @@
           "2018-10": 5,
           "2018-11": 5,
           "2018-12": 1,
-          "2019-01": 0
+          "2019-01": 2
         }
       }
     },
