@@ -174,5 +174,6 @@
   "film": {"wg": 46300},
   "autowebtest": {"dup": 49799},
   "adopsdnt": {"wg": 49311},
-  "pua": {"wg": 52497}
+  "pua": {"wg": 52497},
+  "kg-construct": {"wg": 43889}
 }
