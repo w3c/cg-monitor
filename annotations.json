@@ -176,5 +176,8 @@
   "adopsdnt": {"wg": 49311},
   "pua": {"wg": 52497},
   "kg-construct": {"wg": 43889},
-  "talent-signal": {"wg": "schemaorg"}
+  "talent-signal": {"wg": "schemaorg"},
+  "mathml4": {"postWG": 35549},
+  "iotschema" :{"wg": "schemaorg" },
+  "webvmt": {"wg": 102593}
 }
