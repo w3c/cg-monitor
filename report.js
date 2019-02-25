@@ -46,6 +46,7 @@ Promise.all([
 ])
   .then(([{data: groupdata, timestamp}, annotations]) => {
     groupdata.forEach(d => {
+      if (!d) return;
       document.getElementById('timestamp').textContent = new Date(timestamp).toJSON().slice(0,10);
 
       const section = document.createElement("tr");
