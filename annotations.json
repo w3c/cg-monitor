@@ -179,5 +179,6 @@
   "talent-signal": {"wg": "schemaorg"},
   "mathml4": {"postWG": 35549},
   "iotschema" :{"wg": "schemaorg" },
-  "webvmt": {"wg": 102593}
+  "webvmt": {"wg": 102593},
+  "sparql-12": {"wg": 35463}
 }
