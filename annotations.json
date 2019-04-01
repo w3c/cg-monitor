@@ -1,7 +1,7 @@
 {
   "webassembly": { "wg": 101196, "funnel": 34},
   "wicg": {"wg": [83482,49309,43696]},
-  "credentials": { "wg": 98922, "funnel": 5},
+  "credentials": { "wg": 98922, "funnel": [5, 159]},
   "immersive-web": { "wg": 109735, "funnel": [83,13]}, 
   "silver": {"wg": 35422},
   "schemaorg": { "notransition": true, "funnel": 32 },
