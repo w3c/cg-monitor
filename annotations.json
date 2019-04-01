@@ -54,7 +54,7 @@
   "webzakim": {"nospec": true},
   "web-copyright": {"nospec": true},
   "semstats": {"nospec": true},
-  "auto-wcag": {"nospec": true},
+  "auto-wcag": {"nospec": true, "wg": 35422},
   "devrel": {"nospec": true},
   "exploresemdata": {"nospec": true},
   "html5kr": {"nospec": true},
