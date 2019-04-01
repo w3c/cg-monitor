@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-04-01T05:18:56.484Z",
+  "timestamp": "2019-04-01T09:12:40.576Z",
   "data": [
     {
       "id": 100367,
@@ -1847,7 +1847,14 @@
           "photo": "https://www.w3.org/2006/05/u/2xhuxxdqss4k-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/dpvcg/personal-data",
+        "https://github.com/dpvcg/purposes",
+        "https://github.com/dpvcg/processing",
+        "",
+        "https://github.com/dpvcg/legal-basis",
+        "https://github.com/dpvcg"
+      ],
       "activity": {
         "rss": {
           "2018-05": 1,
@@ -1919,6 +1926,19 @@
               "href": "https://api.w3.org/services/13821/groups"
             }
           }
+        },
+        "repository": {
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 0,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 0,
+          "2019-02": 22,
+          "2019-03": 0
         },
         "join": {
           "2018-05": 11,
@@ -4103,7 +4123,7 @@
       "name": "SPARQL 1.2 Community Group",
       "link": "http://www.w3.org/community/sparql-12/",
       "created": "2019-03-29T14:22:55.000Z",
-      "participants": 35,
+      "participants": 38,
       "chairs": [
         "Andy Seaborne"
       ],
@@ -10079,7 +10099,7 @@
           }
         },
         "lists": {
-          "2019-04": 1,
+          "2019-04": 2,
           "2019-03": 96,
           "2019-02": 55,
           "2019-01": 33,
@@ -14389,6 +14409,131 @@
           "2019-01": 3,
           "2019-02": 1,
           "2019-03": 1
+        }
+      }
+    },
+    {
+      "id": 61141,
+      "name": "Permanent Identifier Community Group",
+      "link": "http://www.w3.org/community/perma-id/",
+      "created": "2013-02-15T23:45:59.000Z",
+      "participants": 35,
+      "chairs": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        }
+      ],
+      "repositories": [
+        "https://github.com/perma-id/w3id.org",
+        "https://github.com/perma-id"
+      ],
+      "activity": {
+        "wiki": {
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 0,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 0,
+          "2019-02": 0,
+          "2019-03": 0
+        },
+        "rss": {
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 0,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 0,
+          "2019-02": 0,
+          "2019-03": 0
+        },
+        "chat": {
+          "type": "chat",
+          "link": "irc://irc.w3.org:6665/#perma-id",
+          "shortdesc": "IRC",
+          "longdesc": "",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/1399"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/1399/groups"
+            }
+          }
+        },
+        "lists": {
+          "2018-10": 3,
+          "2018-09": 2,
+          "2018-07": 4,
+          "2018-05": 6,
+          "2018-04": 1,
+          "2018-03": 3,
+          "2018-01": 3,
+          "2017-11": 1,
+          "2017-05": 2,
+          "2017-03": 2,
+          "2017-02": 1,
+          "2016-10": 1,
+          "2016-09": 3,
+          "2016-08": 4,
+          "2016-07": 1,
+          "2016-05": 9,
+          "2016-04": 11,
+          "2016-03": 25,
+          "2016-02": 11,
+          "2016-01": 1,
+          "2015-12": 6,
+          "2015-11": 29,
+          "2015-10": 12,
+          "2015-06": 2,
+          "2015-05": 5,
+          "2015-04": 2,
+          "2014-11": 4,
+          "2014-10": 1,
+          "2014-09": 1,
+          "2014-05": 1,
+          "2013-10": 2,
+          "2013-09": 2,
+          "2013-06": 1,
+          "2013-05": 8,
+          "2013-02": 1
+        },
+        "repository": {
+          "2018-05": 69,
+          "2018-06": 40,
+          "2018-07": 49,
+          "2018-08": 30,
+          "2018-09": 38,
+          "2018-10": 67,
+          "2018-11": 90,
+          "2018-12": 12,
+          "2019-01": 0,
+          "2019-02": 0,
+          "2019-03": 0
+        },
+        "join": {
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 1,
+          "2018-08": 0,
+          "2018-09": 1,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 0,
+          "2019-02": 0,
+          "2019-03": 0
         }
       }
     },
@@ -19381,6 +19526,113 @@
       }
     },
     {
+      "id": 70543,
+      "name": "Maps For HTML Community Group",
+      "link": "http://www.w3.org/community/maps4html/",
+      "created": "2014-03-27T12:24:59.000Z",
+      "participants": 26,
+      "chairs": [
+        "Joan Maso",
+        "Peter Rushforth"
+      ],
+      "staff": [
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        }
+      ],
+      "repositories": [
+        "https://github.com/Maps4HTML/MapML",
+        "https://github.com/Maps4HTML/MapML-Leaflet-Plugin",
+        "https://github.com/Maps4HTML/MapMLServer",
+        "https://github.com/Maps4HTML/Web-Map-Custom-Element",
+        "https://github.com/Maps4HTML/HTML-Map-Element",
+        "https://github.com/Maps4HTML/HTML-Map-Element-UseCases-Requirements",
+        "https://github.com/Maps4HTML/Maps4HTML-CG-Charter",
+        "https://github.com/Maps4HTML/chat",
+        "https://github.com/Maps4HTML/Polymer-Leaflet",
+        "https://github.com/Maps4HTML/sdw",
+        "https://github.com/Maps4HTML"
+      ],
+      "activity": {
+        "rss": {
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 0,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 0,
+          "2019-02": 0,
+          "2019-03": 0
+        },
+        "lists": {
+          "2018-09": 1,
+          "2018-07": 4,
+          "2018-05": 1,
+          "2018-03": 3,
+          "2018-02": 7,
+          "2018-01": 3,
+          "2017-07": 1,
+          "2017-01": 1,
+          "2016-10": 1,
+          "2016-05": 2,
+          "2016-04": 1,
+          "2016-03": 3,
+          "2016-02": 1,
+          "2016-01": 1,
+          "2015-12": 2,
+          "2015-11": 1,
+          "2015-10": 3,
+          "2015-09": 5,
+          "2015-07": 6,
+          "2014-04": 3,
+          "2014-03": 2
+        },
+        "wiki": {
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 0,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 0,
+          "2019-02": 0,
+          "2019-03": 0
+        },
+        "repository": {
+          "2018-05": 3,
+          "2018-06": 1,
+          "2018-07": 9,
+          "2018-08": 3,
+          "2018-09": 6,
+          "2018-10": 6,
+          "2018-11": 4,
+          "2018-12": 0,
+          "2019-01": 0,
+          "2019-02": 0,
+          "2019-03": 0
+        },
+        "join": {
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 1,
+          "2018-08": 0,
+          "2018-09": 1,
+          "2018-10": 1,
+          "2018-11": 1,
+          "2018-12": 0,
+          "2019-01": 0,
+          "2019-02": 0,
+          "2019-03": 0
+        }
+      }
+    },
+    {
       "id": 71107,
       "name": "TV Control API Community Group",
       "link": "http://www.w3.org/community/tvapi/",
@@ -21557,7 +21809,7 @@
       "name": "Web NFC Community Group",
       "link": "http://www.w3.org/community/web-nfc/",
       "created": "2015-03-12T15:08:15.000Z",
-      "participants": 28,
+      "participants": 29,
       "chairs": [
         "Anssi Kostiainen"
       ],
@@ -21601,6 +21853,7 @@
           }
         },
         "lists": {
+          "2019-04": 1,
           "2019-03": 33,
           "2019-02": 86,
           "2019-01": 9,
@@ -22512,50 +22765,8 @@
         }
       ],
       "repositories": [
-        "https://github.com/WebAssembly/design",
-        "https://github.com/WebAssembly/wasmint",
         "https://github.com/WebAssembly/spec",
-        "https://github.com/WebAssembly/wabt",
-        "https://github.com/WebAssembly/wasm-jit-prototype",
-        "https://github.com/WebAssembly/website",
-        "https://github.com/WebAssembly/testsuite",
-        "https://github.com/WebAssembly/binaryen",
-        "https://github.com/WebAssembly/waterfall",
-        "https://github.com/WebAssembly/testsuite-js",
-        "https://github.com/WebAssembly/tool-conventions",
-        "https://github.com/WebAssembly/decompressor-prototype",
-        "https://github.com/WebAssembly/webassembly.github.io",
-        "https://github.com/WebAssembly/web-assembly-logo",
-        "https://github.com/WebAssembly/gc",
-        "https://github.com/WebAssembly/simd",
-        "https://github.com/WebAssembly/threads",
-        "https://github.com/WebAssembly/cg-charter",
-        "https://github.com/WebAssembly/exception-handling",
-        "https://github.com/WebAssembly/meetings",
-        "https://github.com/WebAssembly/multi-value",
-        "https://github.com/WebAssembly/lld",
-        "https://github.com/WebAssembly/tail-call",
-        "https://github.com/WebAssembly/nontrapping-float-to-int-conversions",
-        "https://github.com/WebAssembly/bulk-memory-operations",
-        "https://github.com/WebAssembly/workloads",
-        "https://github.com/WebAssembly/content-security-policy",
-        "https://github.com/WebAssembly/host-bindings",
-        "https://github.com/WebAssembly/sign-extension-ops",
-        "https://github.com/WebAssembly/mutable-global",
-        "https://github.com/WebAssembly/conditional-segment-initialization",
-        "",
-        "https://github.com/WebAssembly/js-types",
-        "https://github.com/WebAssembly/JS-BigInt-integration",
-        "https://github.com/WebAssembly/reference-types",
-        "https://github.com/WebAssembly/annotations",
-        "https://github.com/WebAssembly/esm-integration",
-        "https://github.com/WebAssembly/wasm-c-api",
-        "https://github.com/WebAssembly/debugging",
-        "https://github.com/WebAssembly/funclets",
-        "https://github.com/WebAssembly/reference-sysroot",
-        "https://github.com/WebAssembly/proposals",
-        "https://github.com/WebAssembly/function-references",
-        "https://github.com/webassembly"
+        "https://github.com/webassembly/spec"
       ],
       "activity": {
         "rss": {
@@ -22625,17 +22836,17 @@
           "2017-11": null
         },
         "repository": {
-          "2018-05": 284,
-          "2018-06": 290,
-          "2018-07": 216,
-          "2018-08": 288,
-          "2018-09": 184,
-          "2018-10": 326,
-          "2018-11": 327,
-          "2018-12": 267,
-          "2019-01": 249,
-          "2019-02": 284,
-          "2019-03": 338
+          "2018-05": 36,
+          "2018-06": 29,
+          "2018-07": 20,
+          "2018-08": 47,
+          "2018-09": 23,
+          "2018-10": 39,
+          "2018-11": 22,
+          "2018-12": 21,
+          "2019-01": 36,
+          "2019-02": 29,
+          "2019-03": 34
         },
         "join": {
           "2018-05": 10,
@@ -27360,6 +27571,84 @@
       }
     },
     {
+      "id": 92610,
+      "name": "Semantic Web in Health Care and Life Sciences Community Group",
+      "link": "http://www.w3.org/community/hclscg/",
+      "created": "2016-07-27T11:15:35.000Z",
+      "participants": 34,
+      "chairs": [
+        "David Booth",
+        "Michel Dumontier"
+      ],
+      "staff": [
+        {
+          "name": "Eric Prud'hommeaux",
+          "photo": "https://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
+        }
+      ],
+      "repositories": [
+        "https://github.com/W3C-HCLS/w3c-ddi",
+        "https://github.com/w3c/hcls-fhir-rdf",
+        "https://github.com/W3C-HCLS",
+        "https://github.com/w3c/hcls"
+      ],
+      "activity": {
+        "chat": {
+          "type": "chat",
+          "link": "irc://irc.w3.org:6667/#hclscg",
+          "shortdesc": "IRC",
+          "longdesc": "",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/6403"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/6403/groups"
+            }
+          }
+        },
+        "lists": {
+          "2018-10": 2,
+          "2018-09": 6,
+          "2018-08": 2,
+          "2018-06": 2,
+          "2018-05": 4,
+          "2018-04": 4,
+          "2018-03": 5,
+          "2018-02": 4,
+          "2017-11": 1
+        },
+        "repository": {
+          "2018-05": 15,
+          "2018-06": 2,
+          "2018-07": 0,
+          "2018-08": 0,
+          "2018-09": 3,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 0,
+          "2019-02": 0,
+          "2019-03": 0
+        },
+        "join": {
+          "2018-05": 1,
+          "2018-06": 0,
+          "2018-07": 4,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 1,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 0,
+          "2019-02": 0,
+          "2019-03": 0
+        }
+      }
+    },
+    {
       "id": 93489,
       "name": "Web Media API Community Group",
       "link": "http://www.w3.org/community/webmediaapi/",
@@ -29332,6 +29621,22 @@
           "2019-01": 12,
           "2019-02": 33,
           "2019-03": 13
+        },
+        "twitter": {
+          "type": "twitter",
+          "link": "https://twitter.com/bioschemas",
+          "shortdesc": "Twitter",
+          "longdesc": "@bioschemas on Twitter",
+          "external": true,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/15585"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/15585/groups"
+            }
+          }
         },
         "join": {
           "2018-05": 0,
