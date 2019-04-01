@@ -180,5 +180,6 @@
   "mathml4": {"postWG": 35549},
   "iotschema" :{"wg": "schemaorg" },
   "webvmt": {"wg": 102593},
-  "sparql-12": {"wg": 35463}
+  "sparql-12": {"wg": 35463},
+  "bioschemas": {"wg": "schemaorg"}
 }
