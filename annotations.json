@@ -19,7 +19,7 @@
   "xformsusers": {"postWG": 32219},
   "music-notation": {"funnel": 40},
   "mathonwebpages": {"funnel": 43},
-  "lbd": {"funnel": 94, "wg": 102593},
+  "lbd": {"funnel":  [94, 170], "wg": 102593},
   "webmediaapi": {"funnel": 47},
   "odrl": {"postWG": 87755},
   "veres-one": {"dup": "credentials"},
@@ -181,5 +181,15 @@
   "iotschema" :{"wg": "schemaorg" },
   "webvmt": {"wg": 102593},
   "sparql-12": {"wg": 35463},
-  "bioschemas": {"wg": "schemaorg"}
+  "bioschemas": {"wg": "schemaorg"},
+  "touchevents": {"wg": [59096,45559]},
+  "brazilpub": {"wg": "epub3"},
+  "ld4lt": {"wg": ["ontolex", "bpmlod"]},
+  "svgcg": {"wg": 19480},
+  "svga11y": {"wg": 19480},
+  "decwebvr": {"wg": "immersive-web"},
+  "propertygraphs": {"workshop": "https://www.w3.org/Data/events/data-ws-2019/"},
+  "games": {"workshop": "https://www.w3.org/2018/12/games-workshop/"},
+  "cdnpubcg": {"wg": 100074},
+  "trustperms": {"workshop": "http://www.w3.org/2014/07/permissions/", "wg": 58119, "nospec": true}
 }
