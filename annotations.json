@@ -54,7 +54,7 @@
   "webzakim": {"nospec": true},
   "web-copyright": {"nospec": true},
   "semstats": {"nospec": true},
-  "auto-wcag": {"nospec": true, "wg": 35422},
+  "auto-wcag": {"nospec": true, "wg": "act-r"},
   "devrel": {"nospec": true},
   "exploresemdata": {"nospec": true},
   "html5kr": {"nospec": true},
@@ -191,5 +191,6 @@
   "propertygraphs": {"workshop": "https://www.w3.org/Data/events/data-ws-2019/"},
   "games": {"workshop": "https://www.w3.org/2018/12/games-workshop/"},
   "cdnpubcg": {"wg": 100074},
-  "trustperms": {"workshop": "http://www.w3.org/2014/07/permissions/", "wg": 58119, "nospec": true}
+  "trustperms": {"workshop": "http://www.w3.org/2014/07/permissions/", "wg": 58119, "nospec": true},
+  "act-r": {"nospec": true, "wg": 35422}
 }
