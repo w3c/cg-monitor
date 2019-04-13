@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-04-12T05:14:58.572Z",
+  "timestamp": "2019-04-13T05:13:45.221Z",
   "data": [
     {
       "id": 100367,
@@ -2115,7 +2115,7 @@
       "name": "AI KR (Artificial Intelligence Knowledge Representation) Community Group",
       "link": "http://www.w3.org/community/aikr/",
       "created": "2018-07-03T11:05:28.000Z",
-      "participants": 41,
+      "participants": 42,
       "chairs": [
         "Paola Di Maio"
       ],
@@ -2195,7 +2195,7 @@
           "2019-01": 1,
           "2019-02": 1,
           "2019-03": 1,
-          "2019-04": 1
+          "2019-04": 2
         }
       }
     },
@@ -2633,7 +2633,7 @@
       "name": "Positive Work Environment Community Group",
       "link": "http://www.w3.org/community/pwe/",
       "created": "2018-08-26T06:03:06.000Z",
-      "participants": 31,
+      "participants": 32,
       "chairs": [
         "Tzviya Siegman"
       ],
@@ -2694,7 +2694,7 @@
           }
         },
         "lists": {
-          "2019-04": 5,
+          "2019-04": 6,
           "2019-03": 4,
           "2019-02": 17,
           "2019-01": 9,
@@ -2741,7 +2741,7 @@
           "2019-01": 1,
           "2019-02": 2,
           "2019-03": 0,
-          "2019-04": 2
+          "2019-04": 3
         }
       }
     },
@@ -2798,7 +2798,7 @@
           }
         },
         "lists": {
-          "2019-04": 21,
+          "2019-04": 22,
           "2019-03": 77,
           "2019-02": 56,
           "2019-01": 5,
@@ -2818,7 +2818,7 @@
           "2019-01": 0,
           "2019-02": 0,
           "2019-03": 0,
-          "2019-04": 26
+          "2019-04": 25
         },
         "repository": {
           "2018-05": 0,
@@ -3189,7 +3189,7 @@
       "name": "BD Comics Manga Community Group",
       "link": "http://www.w3.org/community/bdcomacg/",
       "created": "2018-10-31T11:28:13.000Z",
-      "participants": 40,
+      "participants": 41,
       "chairs": [
         "Samuel Petit"
       ],
@@ -3272,7 +3272,7 @@
           "2019-01": 4,
           "2019-02": 6,
           "2019-03": 5,
-          "2019-04": 3
+          "2019-04": 4
         }
       }
     },
@@ -4128,7 +4128,7 @@
           }
         },
         "lists": {
-          "2019-04": 4,
+          "2019-04": 5,
           "2019-03": 4,
           "2019-02": 1
         },
@@ -4322,7 +4322,7 @@
       "name": "SPARQL 1.2 Community Group",
       "link": "http://www.w3.org/community/sparql-12/",
       "created": "2019-03-29T14:22:55.000Z",
-      "participants": 65,
+      "participants": 66,
       "chairs": [
         "Jerven Bolleman",
         "Andy Seaborne"
@@ -4379,7 +4379,7 @@
           "2019-01": 0,
           "2019-02": 0,
           "2019-03": 3,
-          "2019-04": 60
+          "2019-04": 61
         },
         "join": {
           "2018-05": 0,
@@ -4392,8 +4392,8 @@
           "2018-12": 0,
           "2019-01": 0,
           "2019-02": 0,
-          "2019-03": 34,
-          "2019-04": 31
+          "2019-03": 33,
+          "2019-04": 33
         }
       }
     },
@@ -4402,7 +4402,7 @@
       "name": "ACT Rules Community Group",
       "link": "http://www.w3.org/community/act-r/",
       "created": "2019-04-04T16:37:58.000Z",
-      "participants": 18,
+      "participants": 19,
       "chairs": [
         "Wilco Fiers"
       ],
@@ -4459,7 +4459,7 @@
           "2019-01": 0,
           "2019-02": 0,
           "2019-03": 0,
-          "2019-04": 18
+          "2019-04": 19
         }
       }
     },
@@ -10785,7 +10785,7 @@
       "name": "ActivityPub Community Group",
       "link": "http://www.w3.org/community/activitypub/",
       "created": "2012-03-19T17:44:57.000Z",
-      "participants": 24,
+      "participants": 25,
       "chairs": [
         "Evan Prodromou"
       ],
@@ -10858,7 +10858,7 @@
           "2019-01": 0,
           "2019-02": 0,
           "2019-03": 0,
-          "2019-04": 0
+          "2019-04": 1
         }
       }
     },
@@ -14863,7 +14863,7 @@
       "name": "Accessibility in India Community Group",
       "link": "http://www.w3.org/community/accessibilityinindia/",
       "created": "2013-02-13T13:11:37.000Z",
-      "participants": 108,
+      "participants": 109,
       "chairs": [
         "Shilpi Kapoor"
       ],
@@ -14966,7 +14966,7 @@
           "2019-01": 3,
           "2019-02": 1,
           "2019-03": 1,
-          "2019-04": 0
+          "2019-04": 1
         }
       }
     },
@@ -20333,7 +20333,7 @@
         }
       ],
       "repositories": [
-        "https://github.com/auto-wcag/auto-wcag",
+        "https://github.com/act-rules/act-rules.github.io",
         "https://github.com/auto-wcag/auto-wcag/"
       ],
       "activity": {
@@ -20471,7 +20471,7 @@
           "2019-01": 60,
           "2019-02": 18,
           "2019-03": 59,
-          "2019-04": 8
+          "2019-04": 9
         },
         "tracker": {
           "type": "tracker",
@@ -20849,7 +20849,7 @@
           "2019-01": 0,
           "2019-02": 0,
           "2019-03": 1,
-          "2019-04": 0
+          "2019-04": 1
         },
         "join": {
           "2018-05": 1,
@@ -20929,7 +20929,7 @@
           }
         },
         "lists": {
-          "2019-04": 21,
+          "2019-04": 28,
           "2019-03": 15,
           "2019-02": 14,
           "2018-05": 25,
@@ -21093,7 +21093,7 @@
           }
         },
         "lists": {
-          "2019-04": 78,
+          "2019-04": 80,
           "2019-03": 79,
           "2019-02": 89,
           "2019-01": 107,
@@ -21163,7 +21163,7 @@
           "2019-01": 61,
           "2019-02": 70,
           "2019-03": 43,
-          "2019-04": 18
+          "2019-04": 19
         },
         "join": {
           "2018-05": 6,
@@ -23024,7 +23024,7 @@
       "name": "Accessible Online Learning Community Group",
       "link": "http://www.w3.org/community/accesslearn/",
       "created": "2015-04-10T12:37:13.000Z",
-      "participants": 116,
+      "participants": 117,
       "chairs": [
         "David Sloan",
         "Mary Ziegler"
@@ -23072,7 +23072,7 @@
           }
         },
         "lists": {
-          "2019-04": 2,
+          "2019-04": 4,
           "2019-03": 1,
           "2018-11": 1,
           "2018-08": 1,
@@ -23129,7 +23129,7 @@
           "2019-01": 1,
           "2019-02": 2,
           "2019-03": 0,
-          "2019-04": 0
+          "2019-04": 1
         }
       }
     },
@@ -24308,7 +24308,7 @@
           }
         },
         "lists": {
-          "2019-04": 56,
+          "2019-04": 59,
           "2019-03": 88,
           "2018-11": 107,
           "2018-10": 48,
@@ -24346,7 +24346,7 @@
           "2019-01": 230,
           "2019-02": 153,
           "2019-03": 202,
-          "2019-04": 50
+          "2019-04": 78
         },
         "join": {
           "2018-05": 8,
@@ -24841,7 +24841,7 @@
           "2019-01": 7,
           "2019-02": 9,
           "2019-03": 20,
-          "2019-04": 4
+          "2019-04": 5
         },
         "join": {
           "2018-05": 4,
@@ -24863,8 +24863,8 @@
       "id": 82552,
       "name": "RDF Test Suite Curation Community Group",
       "link": "http://www.w3.org/community/rdf-tests/",
-      "created": "2015-09-04T21:21:08.000Z",
-      "participants": 19,
+      "created": "2015-09-04T21:56:09.000Z",
+      "participants": 18,
       "chairs": [
         "Gregg Kellogg"
       ],
@@ -26930,7 +26930,7 @@
           "2019-01": 122,
           "2019-02": 159,
           "2019-03": 67,
-          "2019-04": 28
+          "2019-04": 36
         },
         "join": {
           "2018-05": 7,
@@ -26953,7 +26953,7 @@
       "name": "Blockchain Community Group",
       "link": "http://www.w3.org/community/blockchain/",
       "created": "2016-03-14T22:16:19.000Z",
-      "participants": 192,
+      "participants": 193,
       "chairs": [
         "Colleen Kirtland",
         "Mountie Lee",
@@ -27014,7 +27014,7 @@
           }
         },
         "lists": {
-          "2019-04": 1,
+          "2019-04": 2,
           "2019-03": 1,
           "2018-09": 1,
           "2018-05": 1,
@@ -27069,7 +27069,7 @@
           "2019-01": 2,
           "2019-02": 1,
           "2019-03": 1,
-          "2019-04": 1
+          "2019-04": 2
         }
       }
     },
@@ -28077,7 +28077,7 @@
           "2019-01": 0,
           "2019-02": 3,
           "2019-03": 2,
-          "2019-04": 0
+          "2019-04": 1
         },
         "twitter": {
           "type": "twitter",
@@ -28116,7 +28116,7 @@
       "name": "SPARQL Maintenance (EXISTS) Community Group",
       "link": "http://www.w3.org/community/sparql-exists/",
       "created": "2016-07-01T12:54:06.000Z",
-      "participants": 18,
+      "participants": 17,
       "chairs": [
         "Andy Seaborne"
       ],
@@ -28767,7 +28767,7 @@
       "name": "Digital Offers Community Group",
       "link": "http://www.w3.org/community/digitaloffers/",
       "created": "2016-10-10T16:06:48.000Z",
-      "participants": 21,
+      "participants": 22,
       "chairs": [
         "Linda Toth"
       ],
@@ -28851,7 +28851,7 @@
           "2019-01": 0,
           "2019-02": 0,
           "2019-03": 0,
-          "2019-04": 0
+          "2019-04": 1
         }
       }
     },
@@ -30133,7 +30133,7 @@
       "name": "GPU for the Web Community Group",
       "link": "http://www.w3.org/community/gpu/",
       "created": "2017-02-08T00:01:00.000Z",
-      "participants": 132,
+      "participants": 133,
       "chairs": [
         "Dean Jackson",
         "Corentin Wallez"
@@ -30177,7 +30177,7 @@
           "2019-04": 0
         },
         "lists": {
-          "2019-04": 3,
+          "2019-04": 4,
           "2019-03": 7,
           "2019-02": 11,
           "2019-01": 4,
@@ -30231,7 +30231,7 @@
           "2019-01": 2,
           "2019-02": 4,
           "2019-03": 4,
-          "2019-04": 0
+          "2019-04": 1
         }
       }
     },
@@ -30375,7 +30375,7 @@
       "name": "Bioschemas for lifesciences Community Group",
       "link": "http://www.w3.org/community/bioschemas/",
       "created": "2017-02-27T16:55:18.000Z",
-      "participants": 57,
+      "participants": 58,
       "chairs": [
         "Alasdair Gray",
         "Rafael Jimenez"
@@ -30426,7 +30426,7 @@
           }
         },
         "lists": {
-          "2019-04": 2,
+          "2019-04": 3,
           "2019-03": 10,
           "2019-02": 20,
           "2019-01": 2,
@@ -30464,7 +30464,7 @@
           "2019-01": 12,
           "2019-02": 33,
           "2019-03": 13,
-          "2019-04": 13
+          "2019-04": 15
         },
         "twitter": {
           "type": "twitter",
@@ -30494,7 +30494,7 @@
           "2019-01": 1,
           "2019-02": 2,
           "2019-03": 0,
-          "2019-04": 0
+          "2019-04": 1
         }
       }
     },
@@ -30770,7 +30770,7 @@
           }
         },
         "lists": {
-          "2019-04": 29,
+          "2019-04": 34,
           "2019-03": 64,
           "2019-02": 35,
           "2019-01": 30,
@@ -30812,8 +30812,8 @@
           "2018-12": 0,
           "2019-01": 0,
           "2019-02": 0,
-          "2019-03": 24,
-          "2019-04": 2
+          "2019-03": 15,
+          "2019-04": 9
         },
         "repository": {
           "2018-05": 12,
