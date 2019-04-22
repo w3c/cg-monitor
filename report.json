@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-04-21T05:13:47.839Z",
+  "timestamp": "2019-04-22T05:15:11.707Z",
   "data": [
     {
       "id": 100367,
@@ -821,7 +821,7 @@
       "name": "Credible Web Community Group",
       "link": "http://www.w3.org/community/credibility/",
       "created": "2017-10-29T04:07:16.000Z",
-      "participants": 74,
+      "participants": 75,
       "chairs": [
         "Sandro Hawke"
       ],
@@ -933,7 +933,7 @@
           "2019-01": 2,
           "2019-02": 2,
           "2019-03": 2,
-          "2019-04": 4
+          "2019-04": 5
         }
       }
     },
@@ -942,7 +942,7 @@
       "name": "Educational and Occupational Credentials in schema.org Community Group",
       "link": "http://www.w3.org/community/eocred-schema/",
       "created": "2017-11-01T14:08:33.000Z",
-      "participants": 28,
+      "participants": 29,
       "chairs": [
         "Phil Barker"
       ],
@@ -1017,7 +1017,7 @@
           "2019-01": 1,
           "2019-02": 1,
           "2019-03": 0,
-          "2019-04": 0
+          "2019-04": 1
         }
       }
     },
@@ -2158,7 +2158,7 @@
           }
         },
         "lists": {
-          "2019-04": 19,
+          "2019-04": 20,
           "2019-03": 41,
           "2019-02": 13,
           "2019-01": 11,
@@ -4324,7 +4324,7 @@
       "name": "SPARQL 1.2 Community Group",
       "link": "http://www.w3.org/community/sparql-12/",
       "created": "2019-03-29T14:22:55.000Z",
-      "participants": 69,
+      "participants": 70,
       "chairs": [
         "Jerven Bolleman",
         "Andy Seaborne"
@@ -4366,7 +4366,7 @@
           }
         },
         "lists": {
-          "2019-04": 48,
+          "2019-04": 51,
           "2019-03": 1
         },
         "repository": {
@@ -4395,7 +4395,7 @@
           "2019-01": 0,
           "2019-02": 0,
           "2019-03": 33,
-          "2019-04": 36
+          "2019-04": 37
         }
       }
     },
@@ -5269,7 +5269,7 @@
           "2019-04": 0
         },
         "lists": {
-          "2019-04": 15,
+          "2019-04": 16,
           "2019-03": 18,
           "2019-02": 23,
           "2019-01": 26,
@@ -16367,7 +16367,7 @@
       "name": "Web of Things Community Group",
       "link": "http://www.w3.org/community/wot/",
       "created": "2013-06-05T15:08:52.000Z",
-      "participants": 226,
+      "participants": 227,
       "chairs": [
         "Dave Raggett"
       ],
@@ -16487,7 +16487,7 @@
           "2019-01": 0,
           "2019-02": 0,
           "2019-03": 0,
-          "2019-04": 2
+          "2019-04": 3
         }
       }
     },
@@ -18063,7 +18063,7 @@
           "2019-01": 100,
           "2019-02": 47,
           "2019-03": 37,
-          "2019-04": 31
+          "2019-04": 32
         },
         "join": {
           "2018-05": 1,
@@ -21083,7 +21083,7 @@
       "name": "Credentials Community Group",
       "link": "http://www.w3.org/community/credentials/",
       "created": "2014-08-06T18:29:41.000Z",
-      "participants": 223,
+      "participants": 222,
       "chairs": [
         "Christopher Allen",
         "Joe Andrieu"
@@ -24371,7 +24371,7 @@
           }
         },
         "lists": {
-          "2019-04": 83,
+          "2019-04": 89,
           "2019-03": 88,
           "2018-11": 107,
           "2018-10": 47,
@@ -24409,7 +24409,7 @@
           "2019-01": 236,
           "2019-02": 155,
           "2019-03": 202,
-          "2019-04": 189
+          "2019-04": 190
         },
         "join": {
           "2018-05": 8,
@@ -29154,7 +29154,7 @@
       "name": "Social Web Incubator Community Group",
       "link": "http://www.w3.org/community/socialcg/",
       "created": "2016-11-18T20:00:13.000Z",
-      "participants": 81,
+      "participants": 82,
       "chairs": [
         "Aaron Parecki",
         "Christopher Webber"
@@ -29226,7 +29226,7 @@
           "2019-01": 1,
           "2019-02": 3,
           "2019-03": 0,
-          "2019-04": 1
+          "2019-04": 2
         }
       }
     },
@@ -30021,7 +30021,7 @@
       "name": "EPUB 3 Community Group",
       "link": "http://www.w3.org/community/epub3/",
       "created": "2017-02-06T19:54:12.000Z",
-      "participants": 197,
+      "participants": 198,
       "chairs": [
         "Rachel Comerford",
         "Dave Cramer"
@@ -30120,7 +30120,7 @@
           "2019-01": 1,
           "2019-02": 1,
           "2019-03": 6,
-          "2019-04": 1
+          "2019-04": 2
         }
       }
     },
