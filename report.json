@@ -1,10 +1,10 @@
 {
-  "timestamp": "2019-04-23T05:15:21.758Z",
+  "timestamp": "2019-04-24T05:15:01.794Z",
   "data": [
     {
       "id": 100367,
       "name": "RSocket Protocol Specification Community Group",
-      "link": "http://www.w3.org/community/rsocket/",
+      "link": "https://www.w3.org/community/rsocket/",
       "created": "2017-06-20T16:21:07.000Z",
       "participants": 3,
       "chairs": [],
@@ -80,7 +80,7 @@
     {
       "id": 100368,
       "name": "SHACL Community Group",
-      "link": "http://www.w3.org/community/shacl/",
+      "link": "https://www.w3.org/community/shacl/",
       "created": "2017-06-20T18:06:49.000Z",
       "participants": 35,
       "chairs": [
@@ -178,7 +178,7 @@
     {
       "id": 100369,
       "name": "Croatian Web Developers Community Group",
-      "link": "http://www.w3.org/community/w3cdevhr/",
+      "link": "https://www.w3.org/community/w3cdevhr/",
       "created": "2017-06-21T19:11:24.000Z",
       "participants": 2,
       "chairs": [
@@ -255,7 +255,7 @@
     {
       "id": 100410,
       "name": "Multidimensional Quality Metrics (MQM) Community Group",
-      "link": "http://www.w3.org/community/mqmcg/",
+      "link": "https://www.w3.org/community/mqmcg/",
       "created": "2017-06-22T12:03:59.000Z",
       "participants": 15,
       "chairs": [
@@ -333,7 +333,7 @@
     {
       "id": 100555,
       "name": "Brazilian Publishing Community Group",
-      "link": "http://www.w3.org/community/brazilpub/",
+      "link": "https://www.w3.org/community/brazilpub/",
       "created": "2017-06-30T13:13:04.000Z",
       "participants": 34,
       "chairs": [
@@ -423,7 +423,7 @@
     {
       "id": 101087,
       "name": "syndicated.media Community Group",
-      "link": "http://www.w3.org/community/syndicatedmedia/",
+      "link": "https://www.w3.org/community/syndicatedmedia/",
       "created": "2017-07-26T02:17:26.000Z",
       "participants": 17,
       "chairs": [
@@ -493,7 +493,7 @@
     {
       "id": 101103,
       "name": "XProc Next Community Group",
-      "link": "http://www.w3.org/community/xproc-next/",
+      "link": "https://www.w3.org/community/xproc-next/",
       "created": "2017-07-26T11:05:42.000Z",
       "participants": 20,
       "chairs": [
@@ -582,7 +582,7 @@
           "2019-01": 116,
           "2019-02": 130,
           "2019-03": 50,
-          "2019-04": 33
+          "2019-04": 42
         },
         "join": {
           "2018-05": 0,
@@ -603,7 +603,7 @@
     {
       "id": 101264,
       "name": "Semantic building data Community Group",
-      "link": "http://www.w3.org/community/base/",
+      "link": "https://www.w3.org/community/base/",
       "created": "2017-08-03T18:27:45.000Z",
       "participants": 7,
       "chairs": [
@@ -668,7 +668,7 @@
     {
       "id": 101721,
       "name": "Digital Asset Management Industry Business Ontology Community Group",
-      "link": "http://www.w3.org/community/digitalassetmanagement/",
+      "link": "https://www.w3.org/community/digitalassetmanagement/",
       "created": "2017-08-22T13:54:29.000Z",
       "participants": 48,
       "chairs": [
@@ -753,7 +753,7 @@
     {
       "id": 102898,
       "name": "Vocabularies for big data analysis Community Group",
-      "link": "http://www.w3.org/community/bigdata-tools/",
+      "link": "https://www.w3.org/community/bigdata-tools/",
       "created": "2017-10-19T08:16:41.000Z",
       "participants": 13,
       "chairs": [
@@ -819,7 +819,7 @@
     {
       "id": 103073,
       "name": "Credible Web Community Group",
-      "link": "http://www.w3.org/community/credibility/",
+      "link": "https://www.w3.org/community/credibility/",
       "created": "2017-10-29T04:07:16.000Z",
       "participants": 75,
       "chairs": [
@@ -940,7 +940,7 @@
     {
       "id": 103139,
       "name": "Educational and Occupational Credentials in schema.org Community Group",
-      "link": "http://www.w3.org/community/eocred-schema/",
+      "link": "https://www.w3.org/community/eocred-schema/",
       "created": "2017-11-01T14:08:33.000Z",
       "participants": 30,
       "chairs": [
@@ -1024,7 +1024,7 @@
     {
       "id": 103273,
       "name": "Merging of Web and Mobile APP Community Group",
-      "link": "http://www.w3.org/community/mwma/",
+      "link": "https://www.w3.org/community/mwma/",
       "created": "2017-11-10T06:37:06.000Z",
       "participants": 6,
       "chairs": [
@@ -1089,7 +1089,7 @@
     {
       "id": 103425,
       "name": "Art & Culture (Museums) On The Web Community Group",
-      "link": "http://www.w3.org/community/art/",
+      "link": "https://www.w3.org/community/art/",
       "created": "2017-11-17T16:30:32.000Z",
       "participants": 68,
       "chairs": [
@@ -1181,7 +1181,7 @@
     {
       "id": 103494,
       "name": "Web Commerce Community Group",
-      "link": "http://www.w3.org/community/web-commerce/",
+      "link": "https://www.w3.org/community/web-commerce/",
       "created": "2017-11-23T23:17:39.000Z",
       "participants": 4,
       "chairs": [],
@@ -1243,7 +1243,7 @@
     {
       "id": 104525,
       "name": "Synchronized Multimedia for Publications Community Group",
-      "link": "http://www.w3.org/community/sync-media-pub/",
+      "link": "https://www.w3.org/community/sync-media-pub/",
       "created": "2018-01-08T13:20:39.000Z",
       "participants": 11,
       "chairs": [
@@ -1332,7 +1332,7 @@
     {
       "id": 104761,
       "name": "Process Ontology Community Group",
-      "link": "http://www.w3.org/community/pronto/",
+      "link": "https://www.w3.org/community/pronto/",
       "created": "2018-01-19T19:04:28.000Z",
       "participants": 4,
       "chairs": [],
@@ -1394,7 +1394,7 @@
     {
       "id": 104762,
       "name": "Blockchain and Decentralized Apps Community Group",
-      "link": "http://www.w3.org/community/dapps/",
+      "link": "https://www.w3.org/community/dapps/",
       "created": "2018-01-19T15:17:20.000Z",
       "participants": 8,
       "chairs": [],
@@ -1456,7 +1456,7 @@
     {
       "id": 104819,
       "name": "Distributed Compute Protocol Community Group",
-      "link": "http://www.w3.org/community/distributed-compute/",
+      "link": "https://www.w3.org/community/distributed-compute/",
       "created": "2018-01-25T15:52:01.000Z",
       "participants": 5,
       "chairs": [
@@ -1520,7 +1520,7 @@
     {
       "id": 104908,
       "name": "Inclusion and Diversity Community Group",
-      "link": "http://www.w3.org/community/idcg/",
+      "link": "https://www.w3.org/community/idcg/",
       "created": "2018-01-25T12:10:58.000Z",
       "participants": 62,
       "chairs": [],
@@ -1628,7 +1628,7 @@
     {
       "id": 104984,
       "name": "Veres One Community Group",
-      "link": "http://www.w3.org/community/veres-one/",
+      "link": "https://www.w3.org/community/veres-one/",
       "created": "2018-01-30T20:13:47.000Z",
       "participants": 41,
       "chairs": [],
@@ -1696,7 +1696,7 @@
     {
       "id": 105439,
       "name": "Open Data Nepal Community Group",
-      "link": "http://www.w3.org/community/opendatanepal/",
+      "link": "https://www.w3.org/community/opendatanepal/",
       "created": "2018-02-19T17:13:49.000Z",
       "participants": 9,
       "chairs": [
@@ -1760,7 +1760,7 @@
     {
       "id": 106721,
       "name": "Audio Description Community Group",
-      "link": "http://www.w3.org/community/audio-description/",
+      "link": "https://www.w3.org/community/audio-description/",
       "created": "2018-04-19T15:04:09.000Z",
       "participants": 18,
       "chairs": [
@@ -1852,7 +1852,7 @@
     {
       "id": 106722,
       "name": "AppsDesignLab Community Group",
-      "link": "http://www.w3.org/community/appsdesignlab/",
+      "link": "https://www.w3.org/community/appsdesignlab/",
       "created": "2018-04-20T03:23:38.000Z",
       "participants": 10,
       "chairs": [
@@ -1915,7 +1915,7 @@
     {
       "id": 107442,
       "name": "Data Privacy Vocabularies and Controls Community Group",
-      "link": "http://www.w3.org/community/dpvcg/",
+      "link": "https://www.w3.org/community/dpvcg/",
       "created": "2018-05-24T10:23:18.000Z",
       "participants": 47,
       "chairs": [
@@ -1973,7 +1973,7 @@
           }
         },
         "lists": {
-          "2019-04": 104,
+          "2019-04": 107,
           "2019-03": 41,
           "2019-02": 45,
           "2019-01": 16,
@@ -1994,11 +1994,11 @@
           "2018-09": 0,
           "2018-10": 0,
           "2018-11": 0,
-          "2018-12": 13,
+          "2018-12": 12,
           "2019-01": 3,
           "2019-02": 2,
           "2019-03": 8,
-          "2019-04": 3
+          "2019-04": 4
         },
         "tracker": {
           "type": "tracker",
@@ -2028,7 +2028,7 @@
           "2019-01": 0,
           "2019-02": 22,
           "2019-03": 0,
-          "2019-04": 6
+          "2019-04": 9
         },
         "join": {
           "2018-05": 11,
@@ -2049,7 +2049,7 @@
     {
       "id": 107547,
       "name": "Smart Contracts Community Group",
-      "link": "http://www.w3.org/community/smartcontracts/",
+      "link": "https://www.w3.org/community/smartcontracts/",
       "created": "2018-05-30T12:00:58.000Z",
       "participants": 11,
       "chairs": [],
@@ -2114,7 +2114,7 @@
     {
       "id": 108226,
       "name": "AI KR (Artificial Intelligence Knowledge Representation) Community Group",
-      "link": "http://www.w3.org/community/aikr/",
+      "link": "https://www.w3.org/community/aikr/",
       "created": "2018-07-03T11:05:28.000Z",
       "participants": 42,
       "chairs": [
@@ -2159,7 +2159,7 @@
           }
         },
         "lists": {
-          "2019-04": 21,
+          "2019-04": 22,
           "2019-03": 41,
           "2019-02": 13,
           "2019-01": 11,
@@ -2203,7 +2203,7 @@
     {
       "id": 108411,
       "name": "Educational Exercises and Activities Community Group",
-      "link": "http://www.w3.org/community/exercises-and-activities/",
+      "link": "https://www.w3.org/community/exercises-and-activities/",
       "created": "2018-07-13T09:48:45.000Z",
       "participants": 61,
       "chairs": [
@@ -2289,7 +2289,7 @@
     {
       "id": 108447,
       "name": "Semantic Bridge Community Group",
-      "link": "http://www.w3.org/community/smarg/",
+      "link": "https://www.w3.org/community/smarg/",
       "created": "2018-07-16T18:28:33.000Z",
       "participants": 2,
       "chairs": [
@@ -2351,7 +2351,7 @@
     {
       "id": 108609,
       "name": "Efficient Extensible Interchange Community Group",
-      "link": "http://www.w3.org/community/exi-next/",
+      "link": "https://www.w3.org/community/exi-next/",
       "created": "2018-07-24T15:35:12.000Z",
       "participants": 8,
       "chairs": [],
@@ -2415,7 +2415,7 @@
     {
       "id": 108838,
       "name": "Volunteering Ontology Community Group",
-      "link": "http://www.w3.org/community/volunteering-ontology/",
+      "link": "https://www.w3.org/community/volunteering-ontology/",
       "created": "2018-08-03T14:51:20.000Z",
       "participants": 5,
       "chairs": [
@@ -2477,7 +2477,7 @@
     {
       "id": 108997,
       "name": "Voice Assistant Standardisation Community Group",
-      "link": "http://www.w3.org/community/voice-assistant/",
+      "link": "https://www.w3.org/community/voice-assistant/",
       "created": "2018-08-10T12:16:27.000Z",
       "participants": 31,
       "chairs": [
@@ -2550,7 +2550,7 @@
     {
       "id": 109182,
       "name": "Interlinear Text Layout Community Group",
-      "link": "http://www.w3.org/community/itlcg/",
+      "link": "https://www.w3.org/community/itlcg/",
       "created": "2018-08-25T20:17:02.000Z",
       "participants": 3,
       "chairs": [
@@ -2632,7 +2632,7 @@
     {
       "id": 109278,
       "name": "Positive Work Environment Community Group",
-      "link": "http://www.w3.org/community/pwe/",
+      "link": "https://www.w3.org/community/pwe/",
       "created": "2018-08-26T06:03:06.000Z",
       "participants": 32,
       "chairs": [
@@ -2749,7 +2749,7 @@
     {
       "id": 110151,
       "name": "Solid Community Group",
-      "link": "http://www.w3.org/community/solid/",
+      "link": "https://www.w3.org/community/solid/",
       "created": "2018-10-03T09:17:10.000Z",
       "participants": 88,
       "chairs": [
@@ -2833,7 +2833,7 @@
           "2019-01": 6,
           "2019-02": 5,
           "2019-03": 17,
-          "2019-04": 4
+          "2019-04": 5
         },
         "join": {
           "2018-05": 0,
@@ -2854,7 +2854,7 @@
     {
       "id": 110166,
       "name": "Machine Learning for the Web Community Group",
-      "link": "http://www.w3.org/community/webmachinelearning/",
+      "link": "https://www.w3.org/community/webmachinelearning/",
       "created": "2018-10-03T14:55:41.000Z",
       "participants": 30,
       "chairs": [
@@ -2909,7 +2909,7 @@
           }
         },
         "lists": {
-          "2019-04": 7,
+          "2019-04": 8,
           "2019-03": 8,
           "2019-02": 6,
           "2019-01": 5,
@@ -2950,7 +2950,7 @@
     {
       "id": 110458,
       "name": "RDF-DEV Community Group",
-      "link": "http://www.w3.org/community/rdf-dev/",
+      "link": "https://www.w3.org/community/rdf-dev/",
       "created": "2018-10-16T12:07:01.000Z",
       "participants": 41,
       "chairs": [
@@ -3033,7 +3033,7 @@
     {
       "id": 110591,
       "name": "Publishing Community Group",
-      "link": "http://www.w3.org/community/publishingcg/",
+      "link": "https://www.w3.org/community/publishingcg/",
       "created": "2018-10-22T15:28:28.000Z",
       "participants": 16,
       "chairs": [
@@ -3101,7 +3101,7 @@
     {
       "id": 110716,
       "name": "Audio Community Group",
-      "link": "http://www.w3.org/community/audio-comgp/",
+      "link": "https://www.w3.org/community/audio-comgp/",
       "created": "2018-10-28T22:08:20.000Z",
       "participants": 24,
       "chairs": [
@@ -3189,7 +3189,7 @@
     {
       "id": 110778,
       "name": "BD Comics Manga Community Group",
-      "link": "http://www.w3.org/community/bdcomacg/",
+      "link": "https://www.w3.org/community/bdcomacg/",
       "created": "2018-10-31T11:28:13.000Z",
       "participants": 41,
       "chairs": [
@@ -3281,7 +3281,7 @@
     {
       "id": 111285,
       "name": "Voter Decision Support Community Group",
-      "link": "http://www.w3.org/community/voter-decision-support/",
+      "link": "https://www.w3.org/community/voter-decision-support/",
       "created": "2018-11-27T12:33:03.000Z",
       "participants": 8,
       "chairs": [
@@ -3360,7 +3360,7 @@
     {
       "id": 111290,
       "name": "Notation 3 (N3) Community Group",
-      "link": "http://www.w3.org/community/n3-dev/",
+      "link": "https://www.w3.org/community/n3-dev/",
       "created": "2018-11-27T17:48:18.000Z",
       "participants": 28,
       "chairs": [
@@ -3456,7 +3456,7 @@
     {
       "id": 111355,
       "name": "ARIA and Assistive Technologies Community Group",
-      "link": "http://www.w3.org/community/aria-at/",
+      "link": "https://www.w3.org/community/aria-at/",
       "created": "2018-11-30T18:20:49.000Z",
       "participants": 35,
       "chairs": [
@@ -3510,7 +3510,7 @@
           }
         },
         "lists": {
-          "2019-04": 13,
+          "2019-04": 14,
           "2019-03": 9,
           "2019-02": 12,
           "2019-01": 9,
@@ -3535,7 +3535,7 @@
     {
       "id": 111423,
       "name": "Bibframe2Schema.org Community Group",
-      "link": "http://www.w3.org/community/bibframe2schema/",
+      "link": "https://www.w3.org/community/bibframe2schema/",
       "created": "2018-12-04T10:41:58.000Z",
       "participants": 15,
       "chairs": [
@@ -3618,7 +3618,7 @@
     {
       "id": 111466,
       "name": "Web Video Map Tracks (WebVMT) Community Group",
-      "link": "http://www.w3.org/community/webvmt-cg/",
+      "link": "https://www.w3.org/community/webvmt-cg/",
       "created": "2018-12-16T13:48:50.000Z",
       "participants": 2,
       "chairs": [
@@ -3680,7 +3680,7 @@
     {
       "id": 112120,
       "name": "Knowledge Graph Construction Community Group",
-      "link": "http://www.w3.org/community/kg-construct/",
+      "link": "https://www.w3.org/community/kg-construct/",
       "created": "2019-01-08T07:56:39.000Z",
       "participants": 24,
       "chairs": [
@@ -3743,7 +3743,7 @@
     {
       "id": 112121,
       "name": "Computational Legal Decision Support Community Group",
-      "link": "http://www.w3.org/community/clads/",
+      "link": "https://www.w3.org/community/clads/",
       "created": null,
       "participants": 0,
       "chairs": [],
@@ -3803,7 +3803,7 @@
     {
       "id": 112122,
       "name": "ceddl html attribute-based markup and javascript api Community Group",
-      "link": "http://www.w3.org/community/ceddl-webspec/",
+      "link": "https://www.w3.org/community/ceddl-webspec/",
       "created": "2019-01-08T08:06:12.000Z",
       "participants": 3,
       "chairs": [
@@ -3887,7 +3887,7 @@
     {
       "id": 112462,
       "name": "Schema Extensions for IoT Community Group",
-      "link": "http://www.w3.org/community/iotschema/",
+      "link": "https://www.w3.org/community/iotschema/",
       "created": "2019-01-17T18:52:31.000Z",
       "participants": 12,
       "chairs": [
@@ -3950,7 +3950,7 @@
     {
       "id": 112607,
       "name": "MathML Refresh Community Group",
-      "link": "http://www.w3.org/community/mathml4/",
+      "link": "https://www.w3.org/community/mathml4/",
       "created": "2019-01-24T17:32:17.000Z",
       "participants": 24,
       "chairs": [
@@ -4039,7 +4039,7 @@
     {
       "id": 112823,
       "name": "Talent Marketplace Signaling Community Group",
-      "link": "http://www.w3.org/community/talent-signal/",
+      "link": "https://www.w3.org/community/talent-signal/",
       "created": "2019-02-06T10:18:10.000Z",
       "participants": 27,
       "chairs": [
@@ -4086,7 +4086,7 @@
     {
       "id": 112986,
       "name": "SVG Community Group",
-      "link": "http://www.w3.org/community/svgcg/",
+      "link": "https://www.w3.org/community/svgcg/",
       "created": "2019-02-13T16:50:17.000Z",
       "participants": 32,
       "chairs": [
@@ -4154,7 +4154,7 @@
     {
       "id": 112987,
       "name": "Knowledge Domain Community Group",
-      "link": "http://www.w3.org/community/knowledge-domain/",
+      "link": "https://www.w3.org/community/knowledge-domain/",
       "created": "2019-02-13T18:17:49.000Z",
       "participants": 15,
       "chairs": [],
@@ -4232,7 +4232,7 @@
     {
       "id": 113314,
       "name": "Conversational Interfaces Community Group",
-      "link": "http://www.w3.org/community/conv/",
+      "link": "https://www.w3.org/community/conv/",
       "created": "2019-02-28T10:43:57.000Z",
       "participants": 24,
       "chairs": [
@@ -4323,7 +4323,7 @@
     {
       "id": 114009,
       "name": "SPARQL 1.2 Community Group",
-      "link": "http://www.w3.org/community/sparql-12/",
+      "link": "https://www.w3.org/community/sparql-12/",
       "created": "2019-03-29T14:22:55.000Z",
       "participants": 71,
       "chairs": [
@@ -4403,7 +4403,7 @@
     {
       "id": 114156,
       "name": "ACT Rules Community Group",
-      "link": "http://www.w3.org/community/act-r/",
+      "link": "https://www.w3.org/community/act-r/",
       "created": "2019-04-04T16:37:58.000Z",
       "participants": 20,
       "chairs": [
@@ -4473,7 +4473,7 @@
     {
       "id": 114397,
       "name": "Functional Knowledge Graph Community Group",
-      "link": "http://www.w3.org/community/fkg/",
+      "link": "https://www.w3.org/community/fkg/",
       "created": null,
       "participants": 0,
       "chairs": [],
@@ -4530,7 +4530,7 @@
     {
       "id": 47948,
       "name": "Declarative 3D for the Web Architecture Community Group",
-      "link": "http://www.w3.org/community/declarative3d/",
+      "link": "https://www.w3.org/community/declarative3d/",
       "created": "2011-10-31T22:02:45.000Z",
       "participants": 52,
       "chairs": [
@@ -4657,7 +4657,7 @@
     {
       "id": 47952,
       "name": "Web Payments Community Group",
-      "link": "http://www.w3.org/community/webpayments/",
+      "link": "https://www.w3.org/community/webpayments/",
       "created": "2012-03-27T08:43:29.000Z",
       "participants": 227,
       "chairs": [
@@ -4827,7 +4827,7 @@
     {
       "id": 47953,
       "name": "XML Performance Community Group",
-      "link": "http://www.w3.org/community/xmlperf/",
+      "link": "https://www.w3.org/community/xmlperf/",
       "created": "2011-08-30T15:23:42.000Z",
       "participants": 13,
       "chairs": [
@@ -4898,7 +4898,7 @@
     {
       "id": 47956,
       "name": "ODRL Community Group",
-      "link": "http://www.w3.org/community/odrl/",
+      "link": "https://www.w3.org/community/odrl/",
       "created": "2011-11-05T18:07:53.000Z",
       "participants": 49,
       "chairs": [
@@ -5093,7 +5093,7 @@
     {
       "id": 47988,
       "name": "Web Education Community Group",
-      "link": "http://www.w3.org/community/webed/",
+      "link": "https://www.w3.org/community/webed/",
       "created": "2011-11-08T01:11:37.000Z",
       "participants": 216,
       "chairs": [
@@ -5227,7 +5227,7 @@
     {
       "id": 48038,
       "name": "Ontology-Lexica Community Group",
-      "link": "http://www.w3.org/community/ontolex/",
+      "link": "https://www.w3.org/community/ontolex/",
       "created": "2011-11-02T09:28:57.000Z",
       "participants": 100,
       "chairs": [
@@ -5251,9 +5251,9 @@
           "2018-11": 0,
           "2018-12": 0,
           "2019-01": 0,
-          "2019-02": 1,
-          "2019-03": 17,
-          "2019-04": 3
+          "2019-02": 0,
+          "2019-03": 13,
+          "2019-04": 5
         },
         "rss": {
           "2018-05": 0,
@@ -5270,7 +5270,7 @@
           "2019-04": 0
         },
         "lists": {
-          "2019-04": 16,
+          "2019-04": 17,
           "2019-03": 18,
           "2019-02": 23,
           "2019-01": 26,
@@ -5397,7 +5397,7 @@
     {
       "id": 48076,
       "name": "Semantic News Community Group",
-      "link": "http://www.w3.org/community/semnews/",
+      "link": "https://www.w3.org/community/semnews/",
       "created": "2011-08-03T12:34:48.000Z",
       "participants": 47,
       "chairs": [],
@@ -5482,7 +5482,7 @@
     {
       "id": 48594,
       "name": "Read Write Web Community Group",
-      "link": "http://www.w3.org/community/rww/",
+      "link": "https://www.w3.org/community/rww/",
       "created": "2011-10-18T14:58:34.000Z",
       "participants": 87,
       "chairs": [
@@ -5649,7 +5649,7 @@
     {
       "id": 48598,
       "name": "Web Skill Profiles Community Group",
-      "link": "http://www.w3.org/community/webskillprofiles/",
+      "link": "https://www.w3.org/community/webskillprofiles/",
       "created": "2011-08-16T16:07:08.000Z",
       "participants": 11,
       "chairs": [
@@ -5718,7 +5718,7 @@
     {
       "id": 48608,
       "name": "HTML Editing APIs Community Group",
-      "link": "http://www.w3.org/community/editing/",
+      "link": "https://www.w3.org/community/editing/",
       "created": "2011-10-29T04:31:23.000Z",
       "participants": 28,
       "chairs": [
@@ -5809,7 +5809,7 @@
     {
       "id": 48774,
       "name": "Native Web Apps Community Group",
-      "link": "http://www.w3.org/community/native-web-apps/",
+      "link": "https://www.w3.org/community/native-web-apps/",
       "created": "2011-11-22T00:47:06.000Z",
       "participants": 56,
       "chairs": [
@@ -5909,7 +5909,7 @@
     {
       "id": 48785,
       "name": "Augmented Reality Community Group",
-      "link": "http://www.w3.org/community/ar/",
+      "link": "https://www.w3.org/community/ar/",
       "created": "2011-08-29T15:54:40.000Z",
       "participants": 126,
       "chairs": [
@@ -6031,7 +6031,7 @@
     {
       "id": 48989,
       "name": "test2 Community Group",
-      "link": "http://www.w3.org/community/test2/",
+      "link": "https://www.w3.org/community/test2/",
       "created": null,
       "participants": 0,
       "chairs": [],
@@ -6092,7 +6092,7 @@
     {
       "id": 49133,
       "name": "Web Crypto API Community Group",
-      "link": "http://www.w3.org/community/webcryptoapi/",
+      "link": "https://www.w3.org/community/webcryptoapi/",
       "created": "2011-09-07T09:40:35.000Z",
       "participants": 48,
       "chairs": [
@@ -6179,7 +6179,7 @@
     {
       "id": 49161,
       "name": "Community I/O Community Group",
-      "link": "http://www.w3.org/community/community-io/",
+      "link": "https://www.w3.org/community/community-io/",
       "created": "2011-12-23T10:29:03.000Z",
       "participants": 16,
       "chairs": [
@@ -6289,7 +6289,7 @@
     {
       "id": 49174,
       "name": "JSON for Linking Data Community Group",
-      "link": "http://www.w3.org/community/json-ld/",
+      "link": "https://www.w3.org/community/json-ld/",
       "created": "2011-09-23T20:25:50.000Z",
       "participants": 118,
       "chairs": [
@@ -6472,7 +6472,7 @@
     {
       "id": 49276,
       "name": "Unhosted Web Community Group",
-      "link": "http://www.w3.org/community/unhosted/",
+      "link": "https://www.w3.org/community/unhosted/",
       "created": "2011-09-06T09:43:22.000Z",
       "participants": 36,
       "chairs": [
@@ -6555,7 +6555,7 @@
     {
       "id": 49289,
       "name": "Community Council",
-      "link": "http://www.w3.org/community/council/",
+      "link": "https://www.w3.org/community/council/",
       "created": "2012-10-10T18:00:13.000Z",
       "participants": 35,
       "chairs": [
@@ -6759,7 +6759,7 @@
     {
       "id": 49290,
       "name": "High-Performance Computing Community Group",
-      "link": "http://www.w3.org/community/hpcweb/",
+      "link": "https://www.w3.org/community/hpcweb/",
       "created": "2011-10-21T21:00:44.000Z",
       "participants": 39,
       "chairs": [
@@ -6877,7 +6877,7 @@
     {
       "id": 49353,
       "name": "VIVO Open Research Networking Community Group",
-      "link": "http://www.w3.org/community/vivo/",
+      "link": "https://www.w3.org/community/vivo/",
       "created": "2011-09-09T15:58:13.000Z",
       "participants": 17,
       "chairs": [
@@ -6947,7 +6947,7 @@
     {
       "id": 49717,
       "name": "User Interaction and Experience Community Group",
-      "link": "http://www.w3.org/community/userix/",
+      "link": "https://www.w3.org/community/userix/",
       "created": "2012-02-14T05:42:11.000Z",
       "participants": 29,
       "chairs": [
@@ -7018,7 +7018,7 @@
     {
       "id": 49726,
       "name": "Games Community Group",
-      "link": "http://www.w3.org/community/games/",
+      "link": "https://www.w3.org/community/games/",
       "created": "2011-11-10T11:38:57.000Z",
       "participants": 95,
       "chairs": [],
@@ -7120,7 +7120,7 @@
     {
       "id": 49808,
       "name": "Web Media Text Tracks Community Group",
-      "link": "http://www.w3.org/community/texttracks/",
+      "link": "https://www.w3.org/community/texttracks/",
       "created": "2011-09-30T12:51:08.000Z",
       "participants": 54,
       "chairs": [
@@ -7303,7 +7303,7 @@
     {
       "id": 50069,
       "name": "Networked Data Community Group",
-      "link": "http://www.w3.org/community/networked-data/",
+      "link": "https://www.w3.org/community/networked-data/",
       "created": "2011-10-14T08:20:01.000Z",
       "participants": 16,
       "chairs": [
@@ -7391,7 +7391,7 @@
     {
       "id": 50071,
       "name": "CSS Accessibility Community Group",
-      "link": "http://www.w3.org/community/cssacc/",
+      "link": "https://www.w3.org/community/cssacc/",
       "created": "2011-10-25T16:39:15.000Z",
       "participants": 72,
       "chairs": [
@@ -7474,7 +7474,7 @@
     {
       "id": 50119,
       "name": "Timed Text Community Group",
-      "link": "http://www.w3.org/community/timed-text/",
+      "link": "https://www.w3.org/community/timed-text/",
       "created": "2011-10-14T16:09:42.000Z",
       "participants": 12,
       "chairs": [
@@ -7547,7 +7547,7 @@
     {
       "id": 50418,
       "name": "SVG glyphs for OpenType Community Group",
-      "link": "http://www.w3.org/community/svgopentype/",
+      "link": "https://www.w3.org/community/svgopentype/",
       "created": "2011-10-28T16:30:57.000Z",
       "participants": 14,
       "chairs": [
@@ -7653,7 +7653,7 @@
     {
       "id": 50431,
       "name": "Do-Not-Track Community Group",
-      "link": "http://www.w3.org/community/dntrack/",
+      "link": "https://www.w3.org/community/dntrack/",
       "created": "2011-11-07T19:25:55.000Z",
       "participants": 27,
       "chairs": [
@@ -7743,7 +7743,7 @@
     {
       "id": 50500,
       "name": "Script Library Community Group",
-      "link": "http://www.w3.org/community/scriptlib/",
+      "link": "https://www.w3.org/community/scriptlib/",
       "created": "2012-04-07T16:20:35.000Z",
       "participants": 27,
       "chairs": [
@@ -7828,7 +7828,7 @@
     {
       "id": 50503,
       "name": "Revising W3C Process Community Group",
-      "link": "http://www.w3.org/community/w3process/",
+      "link": "https://www.w3.org/community/w3process/",
       "created": "2011-11-03T00:10:06.000Z",
       "participants": 46,
       "chairs": [
@@ -7924,7 +7924,7 @@
           }
         },
         "lists": {
-          "2019-04": 7,
+          "2019-04": 8,
           "2019-03": 82,
           "2019-02": 11,
           "2019-01": 1,
@@ -8053,7 +8053,7 @@
     {
       "id": 50516,
       "name": "Semantic Web Programming Languages Community Group",
-      "link": "http://www.w3.org/community/semwebprog/",
+      "link": "https://www.w3.org/community/semwebprog/",
       "created": "2012-02-27T14:49:46.000Z",
       "participants": 49,
       "chairs": [],
@@ -8135,7 +8135,7 @@
     {
       "id": 50517,
       "name": "Cloud Computing Community Group",
-      "link": "http://www.w3.org/community/cloud/",
+      "link": "https://www.w3.org/community/cloud/",
       "created": "2012-03-16T13:07:02.000Z",
       "participants": 67,
       "chairs": [
@@ -8250,7 +8250,7 @@
     {
       "id": 50607,
       "name": "Data Driven Standards Community Group",
-      "link": "http://www.w3.org/community/data-driven-standards/",
+      "link": "https://www.w3.org/community/data-driven-standards/",
       "created": "2012-02-28T16:39:51.000Z",
       "participants": 21,
       "chairs": [],
@@ -8339,7 +8339,7 @@
     {
       "id": 50917,
       "name": "Network-Friendly App and WebApp Best Practices Community Group",
-      "link": "http://www.w3.org/community/networkfriendly/",
+      "link": "https://www.w3.org/community/networkfriendly/",
       "created": "2012-06-25T03:37:49.000Z",
       "participants": 27,
       "chairs": [
@@ -8439,7 +8439,7 @@
     {
       "id": 51110,
       "name": "Mobile Web in Indian Languages Community Group",
-      "link": "http://www.w3.org/community/mobindic/",
+      "link": "https://www.w3.org/community/mobindic/",
       "created": "2012-10-29T09:02:18.000Z",
       "participants": 13,
       "chairs": [
@@ -8526,7 +8526,7 @@
     {
       "id": 51225,
       "name": "Distributed Tasks Community Group",
-      "link": "http://www.w3.org/community/d-tasks/",
+      "link": "https://www.w3.org/community/d-tasks/",
       "created": "2012-11-06T12:39:04.000Z",
       "participants": 11,
       "chairs": [
@@ -8595,7 +8595,7 @@
     {
       "id": 51258,
       "name": "Accessible Infographics Community Group",
-      "link": "http://www.w3.org/community/infographics/",
+      "link": "https://www.w3.org/community/infographics/",
       "created": "2011-12-08T16:33:08.000Z",
       "participants": 58,
       "chairs": [
@@ -8695,7 +8695,7 @@
     {
       "id": 51310,
       "name": "E-learning: Evolving technologies and growing reach Community Group",
-      "link": "http://www.w3.org/community/learnonline/",
+      "link": "https://www.w3.org/community/learnonline/",
       "created": "2012-02-13T00:03:52.000Z",
       "participants": 63,
       "chairs": [
@@ -8773,7 +8773,7 @@
     {
       "id": 51311,
       "name": "Smart Phone Application Developer Community Group",
-      "link": "http://www.w3.org/community/spade/",
+      "link": "https://www.w3.org/community/spade/",
       "created": "2012-02-14T09:34:16.000Z",
       "participants": 16,
       "chairs": [],
@@ -8839,7 +8839,7 @@
     {
       "id": 51312,
       "name": "Web Test Automation Community Group",
-      "link": "http://www.w3.org/community/autowebtest/",
+      "link": "https://www.w3.org/community/autowebtest/",
       "created": "2011-12-12T08:36:37.000Z",
       "participants": 10,
       "chairs": [
@@ -8909,7 +8909,7 @@
     {
       "id": 51318,
       "name": "Open Annotation Community Group",
-      "link": "http://www.w3.org/community/openannotation/",
+      "link": "https://www.w3.org/community/openannotation/",
       "created": "2012-08-27T20:27:24.000Z",
       "participants": 142,
       "chairs": [
@@ -9055,7 +9055,7 @@
     {
       "id": 51795,
       "name": "PubSubHubbub Community Group",
-      "link": "http://www.w3.org/community/pubsub/",
+      "link": "https://www.w3.org/community/pubsub/",
       "created": "2012-01-13T18:33:52.000Z",
       "participants": 44,
       "chairs": [
@@ -9150,7 +9150,7 @@
     {
       "id": 51796,
       "name": "OStatus Community Group",
-      "link": "http://www.w3.org/community/ostatus/",
+      "link": "https://www.w3.org/community/ostatus/",
       "created": "2012-02-14T05:41:29.000Z",
       "participants": 32,
       "chairs": [
@@ -9240,7 +9240,7 @@
     {
       "id": 51813,
       "name": "Federated Social Web Community Group",
-      "link": "http://www.w3.org/community/fedsocweb/",
+      "link": "https://www.w3.org/community/fedsocweb/",
       "created": "2012-01-13T10:06:03.000Z",
       "participants": 123,
       "chairs": [
@@ -9365,7 +9365,7 @@
     {
       "id": 51933,
       "name": "WebID Community Group",
-      "link": "http://www.w3.org/community/webid/",
+      "link": "https://www.w3.org/community/webid/",
       "created": "2012-01-20T10:39:04.000Z",
       "participants": 88,
       "chairs": [
@@ -9550,7 +9550,7 @@
     {
       "id": 52113,
       "name": "Decisions and Decision-Making Community Group",
-      "link": "http://www.w3.org/community/decisionml/",
+      "link": "https://www.w3.org/community/decisionml/",
       "created": "2012-01-25T17:30:55.000Z",
       "participants": 23,
       "chairs": [],
@@ -9618,7 +9618,7 @@
     {
       "id": 52408,
       "name": "XML Error Recovery Community Group",
-      "link": "http://www.w3.org/community/xml-er/",
+      "link": "https://www.w3.org/community/xml-er/",
       "created": "2012-02-20T17:10:37.000Z",
       "participants": 16,
       "chairs": [
@@ -9713,7 +9713,7 @@
     {
       "id": 52409,
       "name": "Web of Sensors Community Group",
-      "link": "http://www.w3.org/community/sensorweb/",
+      "link": "https://www.w3.org/community/sensorweb/",
       "created": "2012-02-27T14:53:20.000Z",
       "participants": 48,
       "chairs": [],
@@ -9796,7 +9796,7 @@
     {
       "id": 52443,
       "name": "HTML5 Specifications Community Group",
-      "link": "http://www.w3.org/community/html5spec/",
+      "link": "https://www.w3.org/community/html5spec/",
       "created": "2012-02-16T10:50:49.000Z",
       "participants": 121,
       "chairs": [
@@ -9898,7 +9898,7 @@
     {
       "id": 52578,
       "name": "Responsive Issues Community Group",
-      "link": "http://www.w3.org/community/respimg/",
+      "link": "https://www.w3.org/community/respimg/",
       "created": "2012-08-17T18:16:36.000Z",
       "participants": 429,
       "chairs": [
@@ -10100,7 +10100,7 @@
     {
       "id": 52722,
       "name": "Semantic Sensor Networks Community Group",
-      "link": "http://www.w3.org/community/ssn-cg/",
+      "link": "https://www.w3.org/community/ssn-cg/",
       "created": "2012-02-27T14:52:27.000Z",
       "participants": 56,
       "chairs": [],
@@ -10205,7 +10205,7 @@
     {
       "id": 53128,
       "name": "CSS Selectors as Fragment Identifiers Community Group",
-      "link": "http://www.w3.org/community/cssselfrags/",
+      "link": "https://www.w3.org/community/cssselfrags/",
       "created": "2012-03-03T12:32:46.000Z",
       "participants": 34,
       "chairs": [
@@ -10284,7 +10284,7 @@
     {
       "id": 53305,
       "name": "Print and Page Layout Community Group",
-      "link": "http://www.w3.org/community/ppl/",
+      "link": "https://www.w3.org/community/ppl/",
       "created": "2012-07-10T00:39:53.000Z",
       "participants": 45,
       "chairs": [
@@ -10438,7 +10438,7 @@
     {
       "id": 53540,
       "name": "User Identity on the Web Community Group",
-      "link": "http://www.w3.org/community/w3id/",
+      "link": "https://www.w3.org/community/w3id/",
       "created": "2012-03-15T11:21:22.000Z",
       "participants": 25,
       "chairs": [
@@ -10506,7 +10506,7 @@
     {
       "id": 53549,
       "name": "XForms Users Community Group",
-      "link": "http://www.w3.org/community/xformsusers/",
+      "link": "https://www.w3.org/community/xformsusers/",
       "created": "2012-03-14T15:41:09.000Z",
       "participants": 34,
       "chairs": [
@@ -10578,7 +10578,7 @@
           }
         },
         "lists": {
-          "2019-04": 40,
+          "2019-04": 45,
           "2019-03": 96,
           "2019-02": 55,
           "2019-01": 33,
@@ -10683,7 +10683,7 @@
     {
       "id": 53603,
       "name": "Film Industry Community Group",
-      "link": "http://www.w3.org/community/film/",
+      "link": "https://www.w3.org/community/film/",
       "created": "2012-03-19T22:20:40.000Z",
       "participants": 15,
       "chairs": [
@@ -10766,7 +10766,7 @@
     {
       "id": 53631,
       "name": "Web Observatory Community Group",
-      "link": "http://www.w3.org/community/webobservatory/",
+      "link": "https://www.w3.org/community/webobservatory/",
       "created": "2012-07-30T07:58:20.000Z",
       "participants": 49,
       "chairs": [
@@ -10846,7 +10846,7 @@
     {
       "id": 53645,
       "name": "ActivityPub Community Group",
-      "link": "http://www.w3.org/community/activitypub/",
+      "link": "https://www.w3.org/community/activitypub/",
       "created": "2012-03-19T17:44:57.000Z",
       "participants": 25,
       "chairs": [
@@ -10928,7 +10928,7 @@
     {
       "id": 53711,
       "name": "Multilingual Web Sites Community Group",
-      "link": "http://www.w3.org/community/mws/",
+      "link": "https://www.w3.org/community/mws/",
       "created": "2012-05-23T08:51:43.000Z",
       "participants": 36,
       "chairs": [
@@ -11002,7 +11002,7 @@
     {
       "id": 53791,
       "name": "W3C Developer Relations Community Group",
-      "link": "http://www.w3.org/community/devrel/",
+      "link": "https://www.w3.org/community/devrel/",
       "created": "2012-05-02T14:43:05.000Z",
       "participants": 30,
       "chairs": [
@@ -11117,7 +11117,7 @@
     {
       "id": 53987,
       "name": "WebApps UI Community Group",
-      "link": "http://www.w3.org/community/webapps-ui/",
+      "link": "https://www.w3.org/community/webapps-ui/",
       "created": "2012-04-01T23:58:16.000Z",
       "participants": 19,
       "chairs": [
@@ -11186,7 +11186,7 @@
     {
       "id": 54070,
       "name": "Web Application Store Community Group",
-      "link": "http://www.w3.org/community/webappstore/",
+      "link": "https://www.w3.org/community/webappstore/",
       "created": "2012-04-10T07:43:49.000Z",
       "participants": 24,
       "chairs": [
@@ -11276,7 +11276,7 @@
     {
       "id": 54172,
       "name": "Speech API Community Group",
-      "link": "http://www.w3.org/community/speech-api/",
+      "link": "https://www.w3.org/community/speech-api/",
       "created": "2012-04-03T20:36:49.000Z",
       "participants": 77,
       "chairs": [
@@ -11419,7 +11419,7 @@
     {
       "id": 54291,
       "name": "WAI-Engage: Web Accessibility Community Group",
-      "link": "http://www.w3.org/community/wai-engage/",
+      "link": "https://www.w3.org/community/wai-engage/",
       "created": "2012-04-17T01:23:10.000Z",
       "participants": 76,
       "chairs": [
@@ -11515,7 +11515,7 @@
     {
       "id": 54381,
       "name": "African Developers Taking on the Web Community Group",
-      "link": "http://www.w3.org/community/coders4africa/",
+      "link": "https://www.w3.org/community/coders4africa/",
       "created": "2012-04-17T06:30:25.000Z",
       "participants": 29,
       "chairs": [
@@ -11589,7 +11589,7 @@
     {
       "id": 54399,
       "name": "Big Data Community Group",
-      "link": "http://www.w3.org/community/bigdata/",
+      "link": "https://www.w3.org/community/bigdata/",
       "created": "2012-04-16T19:31:49.000Z",
       "participants": 130,
       "chairs": [
@@ -11680,7 +11680,7 @@
     {
       "id": 54519,
       "name": "Philosophy of the Web Community Group",
-      "link": "http://www.w3.org/community/philoweb/",
+      "link": "https://www.w3.org/community/philoweb/",
       "created": "2012-04-25T15:27:15.000Z",
       "participants": 71,
       "chairs": [
@@ -11792,7 +11792,7 @@
     {
       "id": 54683,
       "name": "Web Hypertext Application Technology Community Group",
-      "link": "http://www.w3.org/community/whatwg/",
+      "link": "https://www.w3.org/community/whatwg/",
       "created": "2012-04-24T19:43:34.000Z",
       "participants": 36,
       "chairs": [
@@ -11874,7 +11874,7 @@
     {
       "id": 54696,
       "name": "Microposts Community Group",
-      "link": "http://www.w3.org/community/microposts/",
+      "link": "https://www.w3.org/community/microposts/",
       "created": "2012-05-12T17:48:59.000Z",
       "participants": 30,
       "chairs": [
@@ -11965,7 +11965,7 @@
     {
       "id": 54697,
       "name": "EXPath Community Group",
-      "link": "http://www.w3.org/community/expath/",
+      "link": "https://www.w3.org/community/expath/",
       "created": "2012-04-24T21:25:53.000Z",
       "participants": 31,
       "chairs": [
@@ -12107,7 +12107,7 @@
     {
       "id": 54712,
       "name": "Technical Architecture Community Group",
-      "link": "http://www.w3.org/community/opentag/",
+      "link": "https://www.w3.org/community/opentag/",
       "created": "2012-08-20T16:08:19.000Z",
       "participants": 24,
       "chairs": [],
@@ -12180,7 +12180,7 @@
     {
       "id": 55133,
       "name": "Ad Ops Speaks on DNT Community Group",
-      "link": "http://www.w3.org/community/adopsdnt/",
+      "link": "https://www.w3.org/community/adopsdnt/",
       "created": "2012-05-10T21:26:30.000Z",
       "participants": 9,
       "chairs": [
@@ -12248,7 +12248,7 @@
     {
       "id": 55181,
       "name": "Client and Server JavaScript APIs Community Group",
-      "link": "http://www.w3.org/community/jseverywhere/",
+      "link": "https://www.w3.org/community/jseverywhere/",
       "created": "2012-05-14T13:16:21.000Z",
       "participants": 42,
       "chairs": [
@@ -12342,7 +12342,7 @@
     {
       "id": 55430,
       "name": "Argumentation Community Group",
-      "link": "http://www.w3.org/community/argumentation/",
+      "link": "https://www.w3.org/community/argumentation/",
       "created": "2012-06-11T15:35:27.000Z",
       "participants": 22,
       "chairs": [
@@ -12463,7 +12463,7 @@
     {
       "id": 55590,
       "name": "Web History Community Group",
-      "link": "http://www.w3.org/community/webhistory/",
+      "link": "https://www.w3.org/community/webhistory/",
       "created": "2012-06-05T22:12:39.000Z",
       "participants": 68,
       "chairs": [
@@ -12598,7 +12598,7 @@
     {
       "id": 55682,
       "name": "OWL: Experiences and Directions Community Group",
-      "link": "http://www.w3.org/community/owled/",
+      "link": "https://www.w3.org/community/owled/",
       "created": "2012-07-12T20:28:40.000Z",
       "participants": 44,
       "chairs": [
@@ -12712,7 +12712,7 @@
     {
       "id": 56439,
       "name": "Development Linked Data Community Group",
-      "link": "http://www.w3.org/community/dld/",
+      "link": "https://www.w3.org/community/dld/",
       "created": "2012-07-08T21:57:29.000Z",
       "participants": 31,
       "chairs": [
@@ -12811,7 +12811,7 @@
     {
       "id": 56559,
       "name": "XML Hypermedia Community Group",
-      "link": "http://www.w3.org/community/xmlhypermedia/",
+      "link": "https://www.w3.org/community/xmlhypermedia/",
       "created": "2012-07-16T13:24:00.000Z",
       "participants": 20,
       "chairs": [
@@ -12899,7 +12899,7 @@
     {
       "id": 56585,
       "name": "MicroXML Community Group",
-      "link": "http://www.w3.org/community/microxml/",
+      "link": "https://www.w3.org/community/microxml/",
       "created": "2012-08-10T13:52:41.000Z",
       "participants": 40,
       "chairs": [
@@ -12999,7 +12999,7 @@
     {
       "id": 56701,
       "name": "Mobile Accessibility Community Group",
-      "link": "http://www.w3.org/community/mobileacc/",
+      "link": "https://www.w3.org/community/mobileacc/",
       "created": "2012-07-26T03:31:04.000Z",
       "participants": 53,
       "chairs": [
@@ -13090,7 +13090,7 @@
     {
       "id": 56976,
       "name": "Locations and Addresses Community Group",
-      "link": "http://www.w3.org/community/locadd/",
+      "link": "https://www.w3.org/community/locadd/",
       "created": "2012-09-20T10:51:23.000Z",
       "participants": 55,
       "chairs": [
@@ -13227,7 +13227,7 @@
     {
       "id": 57019,
       "name": "Law and Technology Community Group",
-      "link": "http://www.w3.org/community/law/",
+      "link": "https://www.w3.org/community/law/",
       "created": "2012-08-07T17:37:34.000Z",
       "participants": 32,
       "chairs": [],
@@ -13295,7 +13295,7 @@
     {
       "id": 57667,
       "name": "Schema Bib Extend Community Group",
-      "link": "http://www.w3.org/community/schemabibex/",
+      "link": "https://www.w3.org/community/schemabibex/",
       "created": "2012-09-14T11:34:18.000Z",
       "participants": 94,
       "chairs": [
@@ -13414,7 +13414,7 @@
     {
       "id": 57898,
       "name": "Private User Agent Community Group",
-      "link": "http://www.w3.org/community/pua/",
+      "link": "https://www.w3.org/community/pua/",
       "created": "2012-10-09T17:59:08.000Z",
       "participants": 9,
       "chairs": [],
@@ -13496,7 +13496,7 @@
     {
       "id": 58235,
       "name": "Places Community Group",
-      "link": "http://www.w3.org/community/places/",
+      "link": "https://www.w3.org/community/places/",
       "created": "2012-10-05T17:42:21.000Z",
       "participants": 23,
       "chairs": [],
@@ -13567,7 +13567,7 @@
     {
       "id": 58283,
       "name": "SDshare Community Group",
-      "link": "http://www.w3.org/community/sdshare/",
+      "link": "https://www.w3.org/community/sdshare/",
       "created": "2012-10-12T11:06:41.000Z",
       "participants": 15,
       "chairs": [
@@ -13670,7 +13670,7 @@
     {
       "id": 58490,
       "name": "Web Performance Community Group",
-      "link": "http://www.w3.org/community/webperfs/",
+      "link": "https://www.w3.org/community/webperfs/",
       "created": "2012-10-16T21:50:22.000Z",
       "participants": 24,
       "chairs": [],
@@ -13735,7 +13735,7 @@
     {
       "id": 58543,
       "name": "SVG Mapping Community Group",
-      "link": "http://www.w3.org/community/svgmap/",
+      "link": "https://www.w3.org/community/svgmap/",
       "created": "2012-10-22T13:52:13.000Z",
       "participants": 13,
       "chairs": [],
@@ -13819,7 +13819,7 @@
     {
       "id": 58744,
       "name": "Markdown Community Group",
-      "link": "http://www.w3.org/community/markdown/",
+      "link": "https://www.w3.org/community/markdown/",
       "created": "2012-11-06T10:11:39.000Z",
       "participants": 75,
       "chairs": [
@@ -13915,7 +13915,7 @@
     {
       "id": 58869,
       "name": "Change Tracking Markup Community Group",
-      "link": "http://www.w3.org/community/change/",
+      "link": "https://www.w3.org/community/change/",
       "created": "2012-10-31T14:38:14.000Z",
       "participants": 25,
       "chairs": [
@@ -14018,7 +14018,7 @@
     {
       "id": 58904,
       "name": "Cartography Community Group",
-      "link": "http://www.w3.org/community/carto/",
+      "link": "https://www.w3.org/community/carto/",
       "created": "2012-11-01T15:48:56.000Z",
       "participants": 14,
       "chairs": [],
@@ -14086,7 +14086,7 @@
     {
       "id": 58983,
       "name": "Customer Experience Digital Data Community Group",
-      "link": "http://www.w3.org/community/custexpdata/",
+      "link": "https://www.w3.org/community/custexpdata/",
       "created": "2012-11-07T18:19:09.000Z",
       "participants": 136,
       "chairs": [
@@ -14182,7 +14182,7 @@
     {
       "id": 59110,
       "name": "Extensible Web Community Group",
-      "link": "http://www.w3.org/community/nextweb/",
+      "link": "https://www.w3.org/community/nextweb/",
       "created": "2012-11-11T10:31:13.000Z",
       "participants": 66,
       "chairs": [],
@@ -14306,7 +14306,7 @@
     {
       "id": 59183,
       "name": "Web Dev Data Community Group",
-      "link": "http://www.w3.org/community/webdevdata/",
+      "link": "https://www.w3.org/community/webdevdata/",
       "created": "2012-11-18T19:57:17.000Z",
       "participants": 13,
       "chairs": [],
@@ -14396,7 +14396,7 @@
     {
       "id": 59704,
       "name": "Semantic Open Data Community Group",
-      "link": "http://www.w3.org/community/sodata/",
+      "link": "https://www.w3.org/community/sodata/",
       "created": "2012-12-10T14:53:17.000Z",
       "participants": 26,
       "chairs": [
@@ -14479,7 +14479,7 @@
     {
       "id": 59705,
       "name": "Open Data Spain Community Group",
-      "link": "http://www.w3.org/community/opendataspain/",
+      "link": "https://www.w3.org/community/opendataspain/",
       "created": "2012-12-10T15:49:11.000Z",
       "participants": 67,
       "chairs": [
@@ -14600,7 +14600,7 @@
     {
       "id": 59879,
       "name": "Geospatial Semantic Web Community Group",
-      "link": "http://www.w3.org/community/geosemweb/",
+      "link": "https://www.w3.org/community/geosemweb/",
       "created": "2012-12-19T16:56:56.000Z",
       "participants": 74,
       "chairs": [
@@ -14719,7 +14719,7 @@
     {
       "id": 60884,
       "name": "Information Architecture Community Group",
-      "link": "http://www.w3.org/community/informationarchitecture/",
+      "link": "https://www.w3.org/community/informationarchitecture/",
       "created": "2013-02-08T14:49:38.000Z",
       "participants": 75,
       "chairs": [
@@ -14809,7 +14809,7 @@
     {
       "id": 60958,
       "name": "Web Audio Developers Community Group",
-      "link": "http://www.w3.org/community/audio-dev/",
+      "link": "https://www.w3.org/community/audio-dev/",
       "created": "2013-02-09T15:24:07.000Z",
       "participants": 75,
       "chairs": [],
@@ -14924,7 +14924,7 @@
     {
       "id": 61068,
       "name": "Accessibility in India Community Group",
-      "link": "http://www.w3.org/community/accessibilityinindia/",
+      "link": "https://www.w3.org/community/accessibilityinindia/",
       "created": "2013-02-13T13:11:37.000Z",
       "participants": 109,
       "chairs": [
@@ -15036,7 +15036,7 @@
     {
       "id": 61210,
       "name": "Haptic Interaction on the Web Community Group",
-      "link": "http://www.w3.org/community/webhaptics/",
+      "link": "https://www.w3.org/community/webhaptics/",
       "created": "2013-02-19T18:40:49.000Z",
       "participants": 13,
       "chairs": [],
@@ -15106,7 +15106,7 @@
     {
       "id": 61356,
       "name": "Emergency Information Community Group",
-      "link": "http://www.w3.org/community/emergency/",
+      "link": "https://www.w3.org/community/emergency/",
       "created": "2013-02-25T14:08:55.000Z",
       "participants": 52,
       "chairs": [
@@ -15213,7 +15213,7 @@
     {
       "id": 61397,
       "name": "Interactive APIs Community Group",
-      "link": "http://www.w3.org/community/interative-apis/",
+      "link": "https://www.w3.org/community/interative-apis/",
       "created": "2013-02-26T21:05:27.000Z",
       "participants": 22,
       "chairs": [
@@ -15294,7 +15294,7 @@
     {
       "id": 61424,
       "name": "VoiceXML Community Group",
-      "link": "http://www.w3.org/community/vxmlcg/",
+      "link": "https://www.w3.org/community/vxmlcg/",
       "created": "2013-02-27T16:44:43.000Z",
       "participants": 11,
       "chairs": [],
@@ -15361,7 +15361,7 @@
     {
       "id": 61718,
       "name": "Open Government Community Group",
-      "link": "http://www.w3.org/community/opengov/",
+      "link": "https://www.w3.org/community/opengov/",
       "created": "2013-03-08T14:03:50.000Z",
       "participants": 112,
       "chairs": [
@@ -15479,7 +15479,7 @@
     {
       "id": 61868,
       "name": "Restricted Media Community Group",
-      "link": "http://www.w3.org/community/restrictedmedia/",
+      "link": "https://www.w3.org/community/restrictedmedia/",
       "created": "2013-03-12T17:03:03.000Z",
       "participants": 52,
       "chairs": [
@@ -15589,7 +15589,7 @@
     {
       "id": 62132,
       "name": "Open Linked Education Community Group",
-      "link": "http://www.w3.org/community/opened/",
+      "link": "https://www.w3.org/community/opened/",
       "created": "2013-03-21T14:23:19.000Z",
       "participants": 66,
       "chairs": [
@@ -15683,7 +15683,7 @@
     {
       "id": 62441,
       "name": "Sustainable Web Design Community Group",
-      "link": "http://www.w3.org/community/sustyweb/",
+      "link": "https://www.w3.org/community/sustyweb/",
       "created": "2013-04-04T01:45:23.000Z",
       "participants": 45,
       "chairs": [
@@ -15779,7 +15779,7 @@
     {
       "id": 62455,
       "name": "Web MIDI Community Group",
-      "link": "http://www.w3.org/community/webmidi/",
+      "link": "https://www.w3.org/community/webmidi/",
       "created": "2013-04-04T21:33:26.000Z",
       "participants": 16,
       "chairs": [],
@@ -15849,7 +15849,7 @@
     {
       "id": 62545,
       "name": "Research Object for Scholarly Communication Community Group",
-      "link": "http://www.w3.org/community/rosc/",
+      "link": "https://www.w3.org/community/rosc/",
       "created": "2013-04-08T19:12:23.000Z",
       "participants": 87,
       "chairs": [
@@ -15947,7 +15947,7 @@
           "2019-01": 15,
           "2019-02": 60,
           "2019-03": 44,
-          "2019-04": 32
+          "2019-04": 44
         },
         "join": {
           "2018-05": 0,
@@ -15968,7 +15968,7 @@
     {
       "id": 62563,
       "name": "Best Practices for Multilingual Linked Open Data Community Group",
-      "link": "http://www.w3.org/community/bpmlod/",
+      "link": "https://www.w3.org/community/bpmlod/",
       "created": "2013-04-09T10:54:39.000Z",
       "participants": 69,
       "chairs": [
@@ -16142,7 +16142,7 @@
     {
       "id": 63549,
       "name": "Algorithmic Modelling Community Group",
-      "link": "http://www.w3.org/community/model/",
+      "link": "https://www.w3.org/community/model/",
       "created": "2013-05-21T03:34:29.000Z",
       "participants": 17,
       "chairs": [
@@ -16215,7 +16215,7 @@
     {
       "id": 63952,
       "name": "Argument Representation Community Group",
-      "link": "http://www.w3.org/community/argmntreprsnt/",
+      "link": "https://www.w3.org/community/argmntreprsnt/",
       "created": "2013-06-04T20:25:21.000Z",
       "participants": 9,
       "chairs": [
@@ -16297,7 +16297,7 @@
     {
       "id": 63978,
       "name": "Web App Source Code Protection Community Group",
-      "link": "http://www.w3.org/community/webappscp/",
+      "link": "https://www.w3.org/community/webappscp/",
       "created": "2013-06-05T14:06:50.000Z",
       "participants": 28,
       "chairs": [
@@ -16366,7 +16366,7 @@
     {
       "id": 63991,
       "name": "Web of Things Community Group",
-      "link": "http://www.w3.org/community/wot/",
+      "link": "https://www.w3.org/community/wot/",
       "created": "2013-06-05T15:08:52.000Z",
       "participants": 227,
       "chairs": [
@@ -16495,7 +16495,7 @@
     {
       "id": 64267,
       "name": "Hydra Community Group",
-      "link": "http://www.w3.org/community/hydra/",
+      "link": "https://www.w3.org/community/hydra/",
       "created": "2013-06-17T14:45:12.000Z",
       "participants": 218,
       "chairs": [
@@ -16677,7 +16677,7 @@
     {
       "id": 64420,
       "name": "Geometry API Community Group",
-      "link": "http://www.w3.org/community/geometryapi/",
+      "link": "https://www.w3.org/community/geometryapi/",
       "created": "2013-06-24T20:59:26.000Z",
       "participants": 17,
       "chairs": [],
@@ -16761,7 +16761,7 @@
     {
       "id": 64441,
       "name": "Open Data Directory Community Group",
-      "link": "http://www.w3.org/community/opendatadir/",
+      "link": "https://www.w3.org/community/opendatadir/",
       "created": "2013-06-25T17:04:46.000Z",
       "participants": 21,
       "chairs": [
@@ -16836,7 +16836,7 @@
     {
       "id": 64471,
       "name": "Ubiquitous Application Design Community Group",
-      "link": "http://www.w3.org/community/uad/",
+      "link": "https://www.w3.org/community/uad/",
       "created": "2013-06-26T15:16:18.000Z",
       "participants": 24,
       "chairs": [
@@ -16923,7 +16923,7 @@
     {
       "id": 64927,
       "name": "Accessible SVG Community Group",
-      "link": "http://www.w3.org/community/svga11y/",
+      "link": "https://www.w3.org/community/svga11y/",
       "created": "2013-07-18T02:44:34.000Z",
       "participants": 44,
       "chairs": [],
@@ -17022,7 +17022,7 @@
     {
       "id": 65231,
       "name": "RDF Stream Processing Community Group",
-      "link": "http://www.w3.org/community/rsp/",
+      "link": "https://www.w3.org/community/rsp/",
       "created": "2013-08-01T14:28:27.000Z",
       "participants": 78,
       "chairs": [
@@ -17169,7 +17169,7 @@
     {
       "id": 65404,
       "name": "Electronic Governance (eGov) Community Group",
-      "link": "http://www.w3.org/community/egovernance/",
+      "link": "https://www.w3.org/community/egovernance/",
       "created": "2013-08-07T14:12:55.000Z",
       "participants": 68,
       "chairs": [
@@ -17272,7 +17272,7 @@
     {
       "id": 65547,
       "name": "Multi Markup Community Group",
-      "link": "http://www.w3.org/community/mmarkup/",
+      "link": "https://www.w3.org/community/mmarkup/",
       "created": "2013-08-13T16:59:13.000Z",
       "participants": 6,
       "chairs": [],
@@ -17352,7 +17352,7 @@
     {
       "id": 65815,
       "name": "OFF/X Community Group",
-      "link": "http://www.w3.org/community/offx/",
+      "link": "https://www.w3.org/community/offx/",
       "created": "2013-08-23T00:59:14.000Z",
       "participants": 6,
       "chairs": [],
@@ -17422,7 +17422,7 @@
     {
       "id": 65880,
       "name": "Age Labels Data Model Community Group",
-      "link": "http://www.w3.org/community/agelabels/",
+      "link": "https://www.w3.org/community/agelabels/",
       "created": "2013-08-27T15:47:03.000Z",
       "participants": 12,
       "chairs": [
@@ -17492,7 +17492,7 @@
     {
       "id": 65912,
       "name": "Remote DOM Community Group",
-      "link": "http://www.w3.org/community/remotedom/",
+      "link": "https://www.w3.org/community/remotedom/",
       "created": "2013-08-27T14:59:35.000Z",
       "participants": 11,
       "chairs": [],
@@ -17573,7 +17573,7 @@
     {
       "id": 66053,
       "name": "Federated Identities for the Open Web Community Group",
-      "link": "http://www.w3.org/community/fedid/",
+      "link": "https://www.w3.org/community/fedid/",
       "created": "2013-09-02T15:49:09.000Z",
       "participants": 21,
       "chairs": [],
@@ -17644,7 +17644,7 @@
     {
       "id": 66256,
       "name": "Chinese Web Accessibility Community Group",
-      "link": "http://www.w3.org/community/cnwa/",
+      "link": "https://www.w3.org/community/cnwa/",
       "created": "2013-09-11T15:54:45.000Z",
       "participants": 37,
       "chairs": [
@@ -17766,7 +17766,7 @@
     {
       "id": 66346,
       "name": "ETL Markup Language Community Group",
-      "link": "http://www.w3.org/community/etlml/",
+      "link": "https://www.w3.org/community/etlml/",
       "created": "2013-09-14T13:15:28.000Z",
       "participants": 8,
       "chairs": [],
@@ -17830,7 +17830,7 @@
     {
       "id": 66476,
       "name": "Property Graphs Model and API Community Group",
-      "link": "http://www.w3.org/community/propertygraphs/",
+      "link": "https://www.w3.org/community/propertygraphs/",
       "created": "2013-09-20T12:04:26.000Z",
       "participants": 23,
       "chairs": [],
@@ -17919,7 +17919,7 @@
     {
       "id": 66773,
       "name": "RDF JavaScript Libraries Community Group",
-      "link": "http://www.w3.org/community/rdfjs/",
+      "link": "https://www.w3.org/community/rdfjs/",
       "created": "2013-10-02T20:16:23.000Z",
       "participants": 79,
       "chairs": [
@@ -18064,7 +18064,7 @@
           "2019-01": 100,
           "2019-02": 47,
           "2019-03": 37,
-          "2019-04": 33
+          "2019-04": 35
         },
         "join": {
           "2018-05": 1,
@@ -18085,7 +18085,7 @@
     {
       "id": 66775,
       "name": "Traffic Event Ontology Community Group",
-      "link": "http://www.w3.org/community/traffic/",
+      "link": "https://www.w3.org/community/traffic/",
       "created": "2013-10-02T20:25:51.000Z",
       "participants": 10,
       "chairs": [
@@ -18177,7 +18177,7 @@
     {
       "id": 66776,
       "name": "Zakim on Web Community Group",
-      "link": "http://www.w3.org/community/webzakim/",
+      "link": "https://www.w3.org/community/webzakim/",
       "created": "2013-10-03T00:34:32.000Z",
       "participants": 5,
       "chairs": [],
@@ -18246,7 +18246,7 @@
     {
       "id": 66944,
       "name": "Stereoscopic 3D Web Community Group",
-      "link": "http://www.w3.org/community/stereoweb/",
+      "link": "https://www.w3.org/community/stereoweb/",
       "created": "2013-10-08T13:01:30.000Z",
       "participants": 7,
       "chairs": [
@@ -18313,7 +18313,7 @@
     {
       "id": 66948,
       "name": "Web Copyright Community Group",
-      "link": "http://www.w3.org/community/web-copyright/",
+      "link": "https://www.w3.org/community/web-copyright/",
       "created": "2013-10-08T15:20:21.000Z",
       "participants": 12,
       "chairs": [],
@@ -18383,7 +18383,7 @@
     {
       "id": 67216,
       "name": "Open and Interactive Widgets for STEM Community Group",
-      "link": "http://www.w3.org/community/stemwidgets/",
+      "link": "https://www.w3.org/community/stemwidgets/",
       "created": "2013-10-18T22:30:48.000Z",
       "participants": 11,
       "chairs": [
@@ -18451,7 +18451,7 @@
     {
       "id": 67359,
       "name": "Media Resource In-band Tracks Community Group",
-      "link": "http://www.w3.org/community/inbandtracks/",
+      "link": "https://www.w3.org/community/inbandtracks/",
       "created": "2013-10-23T06:16:27.000Z",
       "participants": 11,
       "chairs": [],
@@ -18569,7 +18569,7 @@
     {
       "id": 67497,
       "name": "Touch Events Community Group",
-      "link": "http://www.w3.org/community/touchevents/",
+      "link": "https://www.w3.org/community/touchevents/",
       "created": "2013-10-29T14:08:20.000Z",
       "participants": 11,
       "chairs": [
@@ -18717,7 +18717,7 @@
     {
       "id": 67671,
       "name": "Session management functionality exposed to the browser Community Group",
-      "link": "http://www.w3.org/community/sesmanbro/",
+      "link": "https://www.w3.org/community/sesmanbro/",
       "created": "2013-11-05T12:49:27.000Z",
       "participants": 5,
       "chairs": [
@@ -18799,7 +18799,7 @@
     {
       "id": 67710,
       "name": "Second Screen Community Group",
-      "link": "http://www.w3.org/community/webscreens/",
+      "link": "https://www.w3.org/community/webscreens/",
       "created": "2013-11-07T08:28:51.000Z",
       "participants": 39,
       "chairs": [
@@ -18955,7 +18955,7 @@
     {
       "id": 67869,
       "name": "Web Array Math Community Group",
-      "link": "http://www.w3.org/community/webarraymath/",
+      "link": "https://www.w3.org/community/webarraymath/",
       "created": "2013-11-14T19:11:28.000Z",
       "participants": 6,
       "chairs": [],
@@ -19023,7 +19023,7 @@
     {
       "id": 67885,
       "name": "SVG Streaming Community Group",
-      "link": "http://www.w3.org/community/svgstreaming/",
+      "link": "https://www.w3.org/community/svgstreaming/",
       "created": "2013-11-15T09:09:23.000Z",
       "participants": 7,
       "chairs": [],
@@ -19094,7 +19094,7 @@
     {
       "id": 68293,
       "name": "Linked Data for Language Technology Community Group",
-      "link": "http://www.w3.org/community/ld4lt/",
+      "link": "https://www.w3.org/community/ld4lt/",
       "created": "2013-12-09T15:49:15.000Z",
       "participants": 71,
       "chairs": [
@@ -19244,7 +19244,7 @@
     {
       "id": 68482,
       "name": "Semantic Statistics Community Group",
-      "link": "http://www.w3.org/community/semstats/",
+      "link": "https://www.w3.org/community/semstats/",
       "created": "2013-12-18T02:00:23.000Z",
       "participants": 30,
       "chairs": [
@@ -19319,7 +19319,7 @@
     {
       "id": 68812,
       "name": "Linked Data Models for Emotion and Sentiment Analysis Community Group",
-      "link": "http://www.w3.org/community/sentiment/",
+      "link": "https://www.w3.org/community/sentiment/",
       "created": "2014-01-07T15:01:15.000Z",
       "participants": 37,
       "chairs": [
@@ -19434,7 +19434,7 @@
     {
       "id": 68845,
       "name": "Chinese Digital Publishing Community Group",
-      "link": "http://www.w3.org/community/cndpubcg/",
+      "link": "https://www.w3.org/community/cndpubcg/",
       "created": "2014-01-09T05:43:01.000Z",
       "participants": 31,
       "chairs": [],
@@ -19510,7 +19510,7 @@
     {
       "id": 68990,
       "name": "Webize Everything Community Group",
-      "link": "http://www.w3.org/community/webize/",
+      "link": "https://www.w3.org/community/webize/",
       "created": "2014-01-15T13:22:18.000Z",
       "participants": 13,
       "chairs": [
@@ -19606,7 +19606,7 @@
     {
       "id": 69290,
       "name": "HTML for email Community Group",
-      "link": "http://www.w3.org/community/htmail/",
+      "link": "https://www.w3.org/community/htmail/",
       "created": "2014-01-29T19:17:42.000Z",
       "participants": 108,
       "chairs": [
@@ -19720,7 +19720,7 @@
     {
       "id": 69757,
       "name": "Declarative Linked Data Apps Community Group",
-      "link": "http://www.w3.org/community/declarative-apps/",
+      "link": "https://www.w3.org/community/declarative-apps/",
       "created": "2014-02-19T13:10:57.000Z",
       "participants": 63,
       "chairs": [
@@ -19832,7 +19832,7 @@
     {
       "id": 69802,
       "name": "Quick-fix support for XML Community Group",
-      "link": "http://www.w3.org/community/quickfix/",
+      "link": "https://www.w3.org/community/quickfix/",
       "created": "2014-02-20T12:15:58.000Z",
       "participants": 22,
       "chairs": [
@@ -19928,7 +19928,7 @@
     {
       "id": 70061,
       "name": "ORTC (Object Real-time Communications) Community Group",
-      "link": "http://www.w3.org/community/ortc/",
+      "link": "https://www.w3.org/community/ortc/",
       "created": "2014-03-05T23:47:22.000Z",
       "participants": 96,
       "chairs": [
@@ -20065,7 +20065,7 @@
     {
       "id": 70186,
       "name": "Semantic Water interoperability Model Community Group",
-      "link": "http://www.w3.org/community/swim/",
+      "link": "https://www.w3.org/community/swim/",
       "created": "2016-08-01T21:30:24.000Z",
       "participants": 4,
       "chairs": [
@@ -20142,7 +20142,7 @@
     {
       "id": 70223,
       "name": "Collaborative Software Community Group",
-      "link": "http://www.w3.org/community/collaboration/",
+      "link": "https://www.w3.org/community/collaboration/",
       "created": "2014-03-14T01:52:35.000Z",
       "participants": 25,
       "chairs": [],
@@ -20228,7 +20228,7 @@
     {
       "id": 71107,
       "name": "TV Control API Community Group",
-      "link": "http://www.w3.org/community/tvapi/",
+      "link": "https://www.w3.org/community/tvapi/",
       "created": "2014-04-24T12:27:41.000Z",
       "participants": 38,
       "chairs": [
@@ -20379,7 +20379,7 @@
     {
       "id": 71470,
       "name": "Automated WCAG Monitoring Community Group",
-      "link": "http://www.w3.org/community/auto-wcag/",
+      "link": "https://www.w3.org/community/auto-wcag/",
       "created": "2014-05-12T18:20:41.000Z",
       "participants": 88,
       "chairs": [
@@ -20534,7 +20534,7 @@
           "2019-01": 60,
           "2019-02": 18,
           "2019-03": 59,
-          "2019-04": 23
+          "2019-04": 24
         },
         "tracker": {
           "type": "tracker",
@@ -20569,7 +20569,7 @@
     {
       "id": 71608,
       "name": "Robustness and Archiving Community Group",
-      "link": "http://www.w3.org/community/irobar/",
+      "link": "https://www.w3.org/community/irobar/",
       "created": "2014-05-19T17:50:38.000Z",
       "participants": 9,
       "chairs": [
@@ -20643,7 +20643,7 @@
     {
       "id": 71714,
       "name": "Browser Sync Community Group",
-      "link": "http://www.w3.org/community/browsersync/",
+      "link": "https://www.w3.org/community/browsersync/",
       "created": "2014-05-25T12:46:07.000Z",
       "participants": 12,
       "chairs": [],
@@ -20709,7 +20709,7 @@
     {
       "id": 71940,
       "name": "Human Services Community Group",
-      "link": "http://www.w3.org/community/humanservices/",
+      "link": "https://www.w3.org/community/humanservices/",
       "created": "2014-06-10T02:48:07.000Z",
       "participants": 23,
       "chairs": [],
@@ -20791,7 +20791,7 @@
     {
       "id": 72291,
       "name": "Linked Building Data Community Group",
-      "link": "http://www.w3.org/community/lbd/",
+      "link": "https://www.w3.org/community/lbd/",
       "created": "2014-06-30T11:24:07.000Z",
       "participants": 84,
       "chairs": [
@@ -20933,7 +20933,7 @@
     {
       "id": 72794,
       "name": "Web Bluetooth Community Group",
-      "link": "http://www.w3.org/community/web-bluetooth/",
+      "link": "https://www.w3.org/community/web-bluetooth/",
       "created": "2014-07-31T15:12:08.000Z",
       "participants": 72,
       "chairs": [
@@ -21082,9 +21082,9 @@
     {
       "id": 72898,
       "name": "Credentials Community Group",
-      "link": "http://www.w3.org/community/credentials/",
+      "link": "https://www.w3.org/community/credentials/",
       "created": "2014-08-06T18:29:41.000Z",
-      "participants": 223,
+      "participants": 224,
       "chairs": [
         "Christopher Allen",
         "Joe Andrieu"
@@ -21156,7 +21156,7 @@
           }
         },
         "lists": {
-          "2019-04": 130,
+          "2019-04": 135,
           "2019-03": 79,
           "2019-02": 89,
           "2019-01": 107,
@@ -21226,7 +21226,7 @@
           "2019-01": 61,
           "2019-02": 70,
           "2019-03": 43,
-          "2019-04": 36
+          "2019-04": 42
         },
         "join": {
           "2018-05": 6,
@@ -21240,14 +21240,14 @@
           "2019-01": 5,
           "2019-02": 12,
           "2019-03": 11,
-          "2019-04": 7
+          "2019-04": 8
         }
       }
     },
     {
       "id": 73097,
       "name": "Character Description Language Community Group",
-      "link": "http://www.w3.org/community/cdl/",
+      "link": "https://www.w3.org/community/cdl/",
       "created": "2014-08-16T15:33:27.000Z",
       "participants": 21,
       "chairs": [
@@ -21325,7 +21325,7 @@
     {
       "id": 73620,
       "name": "URI Specification Community Group",
-      "link": "http://www.w3.org/community/urispec/",
+      "link": "https://www.w3.org/community/urispec/",
       "created": "2014-09-12T13:19:46.000Z",
       "participants": 10,
       "chairs": [
@@ -21392,7 +21392,7 @@
     {
       "id": 74226,
       "name": "Agriculture Community Group",
-      "link": "http://www.w3.org/community/agri/",
+      "link": "https://www.w3.org/community/agri/",
       "created": "2014-10-15T15:05:32.000Z",
       "participants": 52,
       "chairs": [
@@ -21468,7 +21468,7 @@
     {
       "id": 74380,
       "name": "Browsers and Robotics Community Group",
-      "link": "http://www.w3.org/community/browserobo/",
+      "link": "https://www.w3.org/community/browserobo/",
       "created": "2015-03-25T01:00:38.000Z",
       "participants": 13,
       "chairs": [
@@ -21559,7 +21559,7 @@
     {
       "id": 74381,
       "name": "Exploration of Semantic Data Community Group",
-      "link": "http://www.w3.org/community/exploresemdata/",
+      "link": "https://www.w3.org/community/exploresemdata/",
       "created": "2014-10-22T12:13:07.000Z",
       "participants": 30,
       "chairs": [],
@@ -21626,7 +21626,7 @@
     {
       "id": 75075,
       "name": "Colour blindness accessibility Community Group",
-      "link": "http://www.w3.org/community/colourblindness/",
+      "link": "https://www.w3.org/community/colourblindness/",
       "created": "2014-11-27T13:40:10.000Z",
       "participants": 17,
       "chairs": [
@@ -21699,7 +21699,7 @@
     {
       "id": 75369,
       "name": "Benchmarking for the Web Community Group",
-      "link": "http://www.w3.org/community/benchweb/",
+      "link": "https://www.w3.org/community/benchweb/",
       "created": "2014-12-17T07:23:55.000Z",
       "participants": 10,
       "chairs": [
@@ -21766,7 +21766,7 @@
     {
       "id": 75457,
       "name": "Data Visualization Community Group",
-      "link": "http://www.w3.org/community/datavis/",
+      "link": "https://www.w3.org/community/datavis/",
       "created": "2014-12-21T08:41:04.000Z",
       "participants": 46,
       "chairs": [
@@ -21842,7 +21842,7 @@
     {
       "id": 75796,
       "name": "HTML5 Japanese Community Group",
-      "link": "http://www.w3.org/community/html5jp/",
+      "link": "https://www.w3.org/community/html5jp/",
       "created": "2015-01-14T13:00:46.000Z",
       "participants": 65,
       "chairs": [
@@ -21922,7 +21922,7 @@
     {
       "id": 75856,
       "name": "Trust & Permissions Community Group",
-      "link": "http://www.w3.org/community/trustperms/",
+      "link": "https://www.w3.org/community/trustperms/",
       "created": "2015-01-16T08:17:13.000Z",
       "participants": 11,
       "chairs": [],
@@ -22005,7 +22005,7 @@
     {
       "id": 75857,
       "name": "HTML Tidy Advocacy Community Group",
-      "link": "http://www.w3.org/community/htacg/",
+      "link": "https://www.w3.org/community/htacg/",
       "created": "2015-01-15T23:59:12.000Z",
       "participants": 11,
       "chairs": [
@@ -22078,7 +22078,7 @@
     {
       "id": 76245,
       "name": "Multi-device Timing Community Group",
-      "link": "http://www.w3.org/community/webtiming/",
+      "link": "https://www.w3.org/community/webtiming/",
       "created": "2015-02-03T13:00:22.000Z",
       "participants": 29,
       "chairs": [
@@ -22209,7 +22209,7 @@
     {
       "id": 76291,
       "name": "Organisation Profile Documents Community Group",
-      "link": "http://www.w3.org/community/opd/",
+      "link": "https://www.w3.org/community/opd/",
       "created": "2015-02-05T09:48:07.000Z",
       "participants": 2,
       "chairs": [],
@@ -22274,7 +22274,7 @@
     {
       "id": 76491,
       "name": "Internet Protocol Identity Community Group",
-      "link": "http://www.w3.org/community/ipid/",
+      "link": "https://www.w3.org/community/ipid/",
       "created": "2015-02-15T23:17:18.000Z",
       "participants": 6,
       "chairs": [],
@@ -22339,7 +22339,7 @@
     {
       "id": 76935,
       "name": "Exposing IEEE LOM metadata as Linked Data Community Group",
-      "link": "http://www.w3.org/community/lom2ld/",
+      "link": "https://www.w3.org/community/lom2ld/",
       "created": "2015-03-13T12:39:13.000Z",
       "participants": 7,
       "chairs": [
@@ -22410,7 +22410,7 @@
     {
       "id": 76940,
       "name": "Extensible Data Model Declaration Language for Education Community Group",
-      "link": "http://www.w3.org/community/xdmdl/",
+      "link": "https://www.w3.org/community/xdmdl/",
       "created": "2015-03-10T15:54:59.000Z",
       "participants": 11,
       "chairs": [
@@ -22482,7 +22482,7 @@
     {
       "id": 76978,
       "name": "Web NFC Community Group",
-      "link": "http://www.w3.org/community/web-nfc/",
+      "link": "https://www.w3.org/community/web-nfc/",
       "created": "2015-03-12T15:08:15.000Z",
       "participants": 30,
       "chairs": [
@@ -22607,7 +22607,7 @@
     {
       "id": 77051,
       "name": "HTML5 Korean Community Group",
-      "link": "http://www.w3.org/community/html5kr/",
+      "link": "https://www.w3.org/community/html5kr/",
       "created": "2015-03-16T02:29:11.000Z",
       "participants": 46,
       "chairs": [
@@ -22699,7 +22699,7 @@
     {
       "id": 77375,
       "name": "Schema.org Community Group",
-      "link": "http://www.w3.org/community/schemaorg/",
+      "link": "https://www.w3.org/community/schemaorg/",
       "created": "2015-03-31T18:36:46.000Z",
       "participants": 342,
       "chairs": [
@@ -22755,7 +22755,7 @@
           }
         },
         "lists": {
-          "2019-04": 32,
+          "2019-04": 33,
           "2019-03": 58,
           "2019-02": 18,
           "2019-01": 24,
@@ -22833,7 +22833,7 @@
           "2019-01": 25,
           "2019-02": 38,
           "2019-03": 31,
-          "2019-04": 54
+          "2019-04": 58
         },
         "join": {
           "2018-05": 6,
@@ -22854,7 +22854,7 @@
     {
       "id": 77431,
       "name": "Federated Infrastructures Community Group",
-      "link": "http://www.w3.org/community/omn/",
+      "link": "https://www.w3.org/community/omn/",
       "created": "2015-04-02T13:35:17.000Z",
       "participants": 16,
       "chairs": [
@@ -22955,7 +22955,7 @@
     {
       "id": 77432,
       "name": "Cryptoledgers Community Group",
-      "link": "http://www.w3.org/community/cryptoledgers/",
+      "link": "https://www.w3.org/community/cryptoledgers/",
       "created": "2015-04-02T15:19:32.000Z",
       "participants": 27,
       "chairs": [],
@@ -23021,7 +23021,7 @@
     {
       "id": 77570,
       "name": "Decentralized Sharing Community Group",
-      "link": "http://www.w3.org/community/decsharing/",
+      "link": "https://www.w3.org/community/decsharing/",
       "created": "2015-04-08T20:08:54.000Z",
       "participants": 20,
       "chairs": [],
@@ -23085,7 +23085,7 @@
     {
       "id": 77612,
       "name": "Accessible Online Learning Community Group",
-      "link": "http://www.w3.org/community/accesslearn/",
+      "link": "https://www.w3.org/community/accesslearn/",
       "created": "2015-04-10T12:37:13.000Z",
       "participants": 117,
       "chairs": [
@@ -23199,7 +23199,7 @@
     {
       "id": 77888,
       "name": "Math Protocol Handler Community Group",
-      "link": "http://www.w3.org/community/mathprotocol/",
+      "link": "https://www.w3.org/community/mathprotocol/",
       "created": "2015-06-26T09:46:29.000Z",
       "participants": 2,
       "chairs": [],
@@ -23263,7 +23263,7 @@
     {
       "id": 77929,
       "name": "Wearable Web Community Group",
-      "link": "http://www.w3.org/community/wearableweb/",
+      "link": "https://www.w3.org/community/wearableweb/",
       "created": "2015-04-24T01:39:24.000Z",
       "participants": 11,
       "chairs": [],
@@ -23327,7 +23327,7 @@
     {
       "id": 77980,
       "name": "Annotation UX Community Group",
-      "link": "http://www.w3.org/community/annoux/",
+      "link": "https://www.w3.org/community/annoux/",
       "created": "2015-04-26T16:17:44.000Z",
       "participants": 24,
       "chairs": [
@@ -23394,7 +23394,7 @@
     {
       "id": 78037,
       "name": "Restaurant Ontology Community Group",
-      "link": "http://www.w3.org/community/restonto/",
+      "link": "https://www.w3.org/community/restonto/",
       "created": "2015-04-28T13:35:05.000Z",
       "participants": 14,
       "chairs": [
@@ -23463,7 +23463,7 @@
     {
       "id": 78073,
       "name": "WebAssembly Community Group",
-      "link": "http://www.w3.org/community/webassembly/",
+      "link": "https://www.w3.org/community/webassembly/",
       "created": "2015-04-29T17:28:24.000Z",
       "participants": 974,
       "chairs": [
@@ -23581,7 +23581,7 @@
     {
       "id": 78237,
       "name": "Browser Extension Community Group",
-      "link": "http://www.w3.org/community/browserext/",
+      "link": "https://www.w3.org/community/browserext/",
       "created": "2015-05-12T14:53:07.000Z",
       "participants": 51,
       "chairs": [
@@ -23726,7 +23726,7 @@
     {
       "id": 78250,
       "name": "Automotive Ontology Community Group",
-      "link": "http://www.w3.org/community/gao/",
+      "link": "https://www.w3.org/community/gao/",
       "created": "2015-05-08T07:05:06.000Z",
       "participants": 66,
       "chairs": [
@@ -23821,7 +23821,7 @@
     {
       "id": 78701,
       "name": "Healthcare Schema Vocabulary Community Group",
-      "link": "http://www.w3.org/community/schemed/",
+      "link": "https://www.w3.org/community/schemed/",
       "created": "2015-05-29T12:34:10.000Z",
       "participants": 39,
       "chairs": [
@@ -23947,7 +23947,7 @@
     {
       "id": 78975,
       "name": "Exposing and Linking Cultural Heritage data Community Group",
-      "link": "http://www.w3.org/community/linkedculture/",
+      "link": "https://www.w3.org/community/linkedculture/",
       "created": "2015-06-04T12:59:15.000Z",
       "participants": 13,
       "chairs": [],
@@ -24013,7 +24013,7 @@
     {
       "id": 79043,
       "name": "Stroke Fonts Community Group",
-      "link": "http://www.w3.org/community/stroke-fonts/",
+      "link": "https://www.w3.org/community/stroke-fonts/",
       "created": "2015-06-05T22:25:14.000Z",
       "participants": 12,
       "chairs": [],
@@ -24083,7 +24083,7 @@
     {
       "id": 80261,
       "name": "Sport Schema Community Group",
-      "link": "http://www.w3.org/community/sport-schema/",
+      "link": "https://www.w3.org/community/sport-schema/",
       "created": "2015-06-26T21:22:52.000Z",
       "participants": 20,
       "chairs": [
@@ -24176,7 +24176,7 @@
     {
       "id": 80485,
       "name": "Web Platform Incubator Community Group",
-      "link": "http://www.w3.org/community/wicg/",
+      "link": "https://www.w3.org/community/wicg/",
       "created": "2015-07-02T16:02:06.000Z",
       "participants": 170,
       "chairs": [
@@ -24372,7 +24372,7 @@
           }
         },
         "lists": {
-          "2019-04": 94,
+          "2019-04": 96,
           "2019-03": 88,
           "2018-11": 107,
           "2018-10": 47,
@@ -24410,7 +24410,7 @@
           "2019-01": 236,
           "2019-02": 155,
           "2019-03": 202,
-          "2019-04": 191
+          "2019-04": 197
         },
         "join": {
           "2018-05": 8,
@@ -24431,7 +24431,7 @@
     {
       "id": 80526,
       "name": "The Hardware Pixel Community Group",
-      "link": "http://www.w3.org/community/hardware-pixels/",
+      "link": "https://www.w3.org/community/hardware-pixels/",
       "created": "2015-07-04T08:51:02.000Z",
       "participants": 3,
       "chairs": [],
@@ -24495,7 +24495,7 @@
     {
       "id": 80620,
       "name": "Schema Architypes Community Group",
-      "link": "http://www.w3.org/community/architypes/",
+      "link": "https://www.w3.org/community/architypes/",
       "created": "2015-07-07T08:41:45.000Z",
       "participants": 60,
       "chairs": [
@@ -24589,7 +24589,7 @@
     {
       "id": 80928,
       "name": "LDP Next Community Group",
-      "link": "http://www.w3.org/community/ldpnext/",
+      "link": "https://www.w3.org/community/ldpnext/",
       "created": "2015-07-17T10:51:34.000Z",
       "participants": 35,
       "chairs": [
@@ -24696,7 +24696,7 @@
     {
       "id": 80970,
       "name": "Experience API (xAPI) Vocabulary & Semantic Interoperability Community Group",
-      "link": "http://www.w3.org/community/xapivocabulary/",
+      "link": "https://www.w3.org/community/xapivocabulary/",
       "created": "2015-07-17T16:42:49.000Z",
       "participants": 24,
       "chairs": [
@@ -24778,7 +24778,7 @@
     {
       "id": 81249,
       "name": "Music Notation Community Group",
-      "link": "http://www.w3.org/community/music-notation/",
+      "link": "https://www.w3.org/community/music-notation/",
       "created": "2015-07-27T16:27:46.000Z",
       "participants": 269,
       "chairs": [
@@ -24926,7 +24926,7 @@
     {
       "id": 82552,
       "name": "RDF Test Suite Curation Community Group",
-      "link": "http://www.w3.org/community/rdf-tests/",
+      "link": "https://www.w3.org/community/rdf-tests/",
       "created": "2015-09-04T21:56:09.000Z",
       "participants": 19,
       "chairs": [
@@ -25014,7 +25014,7 @@
     {
       "id": 82719,
       "name": "Social Economy Community Group",
-      "link": "http://www.w3.org/community/economy/",
+      "link": "https://www.w3.org/community/economy/",
       "created": "2015-09-11T15:59:07.000Z",
       "participants": 22,
       "chairs": [
@@ -25084,7 +25084,7 @@
     {
       "id": 83156,
       "name": "Machine Learning Schema Community Group",
-      "link": "http://www.w3.org/community/ml-schema/",
+      "link": "https://www.w3.org/community/ml-schema/",
       "created": "2015-09-28T13:10:02.000Z",
       "participants": 44,
       "chairs": [
@@ -25187,7 +25187,7 @@
     {
       "id": 83380,
       "name": "Interledger Payments Community Group",
-      "link": "http://www.w3.org/community/interledger/",
+      "link": "https://www.w3.org/community/interledger/",
       "created": "2015-10-06T14:39:16.000Z",
       "participants": 364,
       "chairs": [
@@ -25294,7 +25294,7 @@
           "2019-01": 12,
           "2019-02": 22,
           "2019-03": 19,
-          "2019-04": 6
+          "2019-04": 8
         },
         "join": {
           "2018-05": 5,
@@ -25315,7 +25315,7 @@
     {
       "id": 84066,
       "name": "Advancing Web Platform Application Testing Community Group",
-      "link": "http://www.w3.org/community/awpat/",
+      "link": "https://www.w3.org/community/awpat/",
       "created": "2015-10-28T05:02:27.000Z",
       "participants": 21,
       "chairs": [
@@ -25405,7 +25405,7 @@
     {
       "id": 84086,
       "name": "Technical Documentation in the Semantic Web Community Group",
-      "link": "http://www.w3.org/community/semtechdoc/",
+      "link": "https://www.w3.org/community/semtechdoc/",
       "created": "2015-10-28T21:13:01.000Z",
       "participants": 6,
       "chairs": [
@@ -25503,7 +25503,7 @@
     {
       "id": 84102,
       "name": "Publications Object Model Community Group",
-      "link": "http://www.w3.org/community/pom/",
+      "link": "https://www.w3.org/community/pom/",
       "created": "2015-10-29T07:12:44.000Z",
       "participants": 11,
       "chairs": [
@@ -25576,7 +25576,7 @@
     {
       "id": 84116,
       "name": "Web Archivability Community Group",
-      "link": "http://www.w3.org/community/webarchivability/",
+      "link": "https://www.w3.org/community/webarchivability/",
       "created": "2015-10-29T15:17:07.000Z",
       "participants": 19,
       "chairs": [],
@@ -25640,7 +25640,7 @@
     {
       "id": 84117,
       "name": "DataSheets Community Group",
-      "link": "http://www.w3.org/community/datasheets/",
+      "link": "https://www.w3.org/community/datasheets/",
       "created": "2015-10-29T14:10:37.000Z",
       "participants": 6,
       "chairs": [
@@ -25725,7 +25725,7 @@
     {
       "id": 84521,
       "name": "Financial Industry Business Ontology Community Group",
-      "link": "http://www.w3.org/community/fibo/",
+      "link": "https://www.w3.org/community/fibo/",
       "created": "2015-11-13T20:25:20.000Z",
       "participants": 48,
       "chairs": [
@@ -25816,7 +25816,7 @@
     {
       "id": 84588,
       "name": "Virtual Reality website and Metaverse Community Group",
-      "link": "http://www.w3.org/community/vrwebmetaverse/",
+      "link": "https://www.w3.org/community/vrwebmetaverse/",
       "created": "2015-11-16T14:13:47.000Z",
       "participants": 16,
       "chairs": [
@@ -25882,7 +25882,7 @@
     {
       "id": 84622,
       "name": "Natural Language Interfaces for the Web of Data Community Group",
-      "link": "http://www.w3.org/community/nli/",
+      "link": "https://www.w3.org/community/nli/",
       "created": "2015-11-17T12:46:56.000Z",
       "participants": 23,
       "chairs": [],
@@ -25973,7 +25973,7 @@
     {
       "id": 84628,
       "name": "Open knowledge-driven service-oriented system architectures and APIs (KiSS) Community Group",
-      "link": "http://www.w3.org/community/kiss/",
+      "link": "https://www.w3.org/community/kiss/",
       "created": "2015-11-17T15:38:41.000Z",
       "participants": 9,
       "chairs": [
@@ -26078,7 +26078,7 @@
     {
       "id": 84855,
       "name": "Scholarly HTML Community Group",
-      "link": "http://www.w3.org/community/scholarlyhtml/",
+      "link": "https://www.w3.org/community/scholarlyhtml/",
       "created": "2015-11-25T13:49:39.000Z",
       "participants": 45,
       "chairs": [
@@ -26191,7 +26191,7 @@
     {
       "id": 85094,
       "name": "Respectful Terms of Service Community Group",
-      "link": "http://www.w3.org/community/rtos/",
+      "link": "https://www.w3.org/community/rtos/",
       "created": "2015-12-04T00:05:36.000Z",
       "participants": 4,
       "chairs": [],
@@ -26261,7 +26261,7 @@
     {
       "id": 85190,
       "name": "The Tourism Structured Web Data Community Group",
-      "link": "http://www.w3.org/community/tourismdata/",
+      "link": "https://www.w3.org/community/tourismdata/",
       "created": "2015-12-08T16:25:23.000Z",
       "participants": 40,
       "chairs": [
@@ -26336,7 +26336,7 @@
     {
       "id": 85246,
       "name": "Schema Course extension Community Group",
-      "link": "http://www.w3.org/community/schema-course-extend/",
+      "link": "https://www.w3.org/community/schema-course-extend/",
       "created": "2015-12-10T14:06:33.000Z",
       "participants": 45,
       "chairs": [
@@ -26429,7 +26429,7 @@
     {
       "id": 85405,
       "name": "Universal Images Community Group",
-      "link": "http://www.w3.org/community/universalimages/",
+      "link": "https://www.w3.org/community/universalimages/",
       "created": "2015-12-16T13:36:34.000Z",
       "participants": 9,
       "chairs": [
@@ -26515,7 +26515,7 @@
     {
       "id": 85874,
       "name": "CSV on the Web Community Group",
-      "link": "http://www.w3.org/community/csvw/",
+      "link": "https://www.w3.org/community/csvw/",
       "created": "2016-01-06T18:44:54.000Z",
       "participants": 31,
       "chairs": [
@@ -26616,7 +26616,7 @@
     {
       "id": 86793,
       "name": "World Archives of Sciences Community Group",
-      "link": "http://www.w3.org/community/wasarchives/",
+      "link": "https://www.w3.org/community/wasarchives/",
       "created": "2016-01-26T19:44:12.000Z",
       "participants": 3,
       "chairs": [],
@@ -26680,7 +26680,7 @@
     {
       "id": 86794,
       "name": "Web We Can Afford Community Group",
-      "link": "http://www.w3.org/community/wwca/",
+      "link": "https://www.w3.org/community/wwca/",
       "created": "2016-01-22T13:51:41.000Z",
       "participants": 50,
       "chairs": [
@@ -26751,7 +26751,7 @@
     {
       "id": 86999,
       "name": "Meat Products Community Group",
-      "link": "http://www.w3.org/community/meat/",
+      "link": "https://www.w3.org/community/meat/",
       "created": "2016-01-29T15:51:59.000Z",
       "participants": 12,
       "chairs": [
@@ -26820,7 +26820,7 @@
     {
       "id": 87321,
       "name": "Data Pipelining Use Cases Community Group",
-      "link": "http://www.w3.org/community/datapipelining/",
+      "link": "https://www.w3.org/community/datapipelining/",
       "created": "2016-02-11T15:28:13.000Z",
       "participants": 24,
       "chairs": [
@@ -26889,7 +26889,7 @@
     {
       "id": 87846,
       "name": "Immersive Web Community Group",
-      "link": "http://www.w3.org/community/immersive-web/",
+      "link": "https://www.w3.org/community/immersive-web/",
       "created": "2016-03-01T17:05:43.000Z",
       "participants": 201,
       "chairs": [
@@ -26970,7 +26970,7 @@
           }
         },
         "lists": {
-          "2019-04": 10,
+          "2019-04": 11,
           "2019-03": 12,
           "2019-02": 27,
           "2019-01": 15,
@@ -26994,7 +26994,7 @@
           "2019-01": 122,
           "2019-02": 159,
           "2019-03": 67,
-          "2019-04": 84
+          "2019-04": 105
         },
         "join": {
           "2018-05": 7,
@@ -27015,7 +27015,7 @@
     {
       "id": 88235,
       "name": "Blockchain Community Group",
-      "link": "http://www.w3.org/community/blockchain/",
+      "link": "https://www.w3.org/community/blockchain/",
       "created": "2016-03-14T22:16:19.000Z",
       "participants": 193,
       "chairs": [
@@ -27140,7 +27140,7 @@
     {
       "id": 89635,
       "name": "Hardware Based Secure Services Community Group",
-      "link": "http://www.w3.org/community/hb-secure-services/",
+      "link": "https://www.w3.org/community/hb-secure-services/",
       "created": "2016-04-05T19:05:21.000Z",
       "participants": 30,
       "chairs": [
@@ -27230,7 +27230,7 @@
     {
       "id": 89749,
       "name": "Big Data Europe Community Group",
-      "link": "http://www.w3.org/community/bde/",
+      "link": "https://www.w3.org/community/bde/",
       "created": "2016-04-09T06:17:36.000Z",
       "participants": 31,
       "chairs": [],
@@ -27294,7 +27294,7 @@
     {
       "id": 89827,
       "name": "OpenActive Community Group",
-      "link": "http://www.w3.org/community/openactive/",
+      "link": "https://www.w3.org/community/openactive/",
       "created": "2016-04-11T15:38:31.000Z",
       "participants": 74,
       "chairs": [
@@ -27451,7 +27451,7 @@
           "2019-01": 57,
           "2019-02": 50,
           "2019-03": 53,
-          "2019-04": 30
+          "2019-04": 32
         },
         "tracker": {
           "type": "tracker",
@@ -27497,7 +27497,7 @@
     {
       "id": 89907,
       "name": "Getting Math onto Web Pages Community Group",
-      "link": "http://www.w3.org/community/mathonwebpages/",
+      "link": "https://www.w3.org/community/mathonwebpages/",
       "created": "2016-04-13T12:48:34.000Z",
       "participants": 58,
       "chairs": [
@@ -27620,7 +27620,7 @@
     {
       "id": 90106,
       "name": "Internet of Kendo Secure Equipment Community Group",
-      "link": "http://www.w3.org/community/iok-se/",
+      "link": "https://www.w3.org/community/iok-se/",
       "created": "2016-04-21T17:06:36.000Z",
       "participants": 4,
       "chairs": [],
@@ -27683,7 +27683,7 @@
     {
       "id": 90503,
       "name": "Bible Perikopes Community Group",
-      "link": "http://www.w3.org/community/bibperik/",
+      "link": "https://www.w3.org/community/bibperik/",
       "created": "2017-06-07T01:35:14.000Z",
       "participants": 2,
       "chairs": [],
@@ -27747,7 +27747,7 @@
     {
       "id": 91185,
       "name": "RDF and XML Interoperability Community Group",
-      "link": "http://www.w3.org/community/rax/",
+      "link": "https://www.w3.org/community/rax/",
       "created": "2016-06-01T12:02:20.000Z",
       "participants": 33,
       "chairs": [
@@ -27844,7 +27844,7 @@
     {
       "id": 91249,
       "name": "Accessible Playlist Community Group",
-      "link": "http://www.w3.org/community/playlist-a11y/",
+      "link": "https://www.w3.org/community/playlist-a11y/",
       "created": "2016-06-03T11:51:16.000Z",
       "participants": 9,
       "chairs": [
@@ -27908,7 +27908,7 @@
     {
       "id": 91376,
       "name": "Voice Interaction Community Group",
-      "link": "http://www.w3.org/community/voiceinteraction/",
+      "link": "https://www.w3.org/community/voiceinteraction/",
       "created": "2016-06-08T13:38:23.000Z",
       "participants": 28,
       "chairs": [
@@ -28008,7 +28008,7 @@
     {
       "id": 91428,
       "name": "Smart Manufacturing Community Group",
-      "link": "http://www.w3.org/community/smartmfg/",
+      "link": "https://www.w3.org/community/smartmfg/",
       "created": "2016-06-09T07:25:12.000Z",
       "participants": 9,
       "chairs": [
@@ -28080,7 +28080,7 @@
     {
       "id": 91636,
       "name": "Open Educational Resources Schema Community Group",
-      "link": "http://www.w3.org/community/oerschema/",
+      "link": "https://www.w3.org/community/oerschema/",
       "created": "2016-06-17T02:13:57.000Z",
       "participants": 23,
       "chairs": [
@@ -28177,7 +28177,7 @@
     {
       "id": 91978,
       "name": "SPARQL Maintenance (EXISTS) Community Group",
-      "link": "http://www.w3.org/community/sparql-exists/",
+      "link": "https://www.w3.org/community/sparql-exists/",
       "created": "2016-07-01T12:54:06.000Z",
       "participants": 16,
       "chairs": [
@@ -28272,7 +28272,7 @@
     {
       "id": 92074,
       "name": "experimental protocols Community Group",
-      "link": "http://www.w3.org/community/exp-protocols/",
+      "link": "https://www.w3.org/community/exp-protocols/",
       "created": "2016-07-05T18:49:56.000Z",
       "participants": 10,
       "chairs": [
@@ -28337,7 +28337,7 @@
     {
       "id": 92127,
       "name": "Blockchain Digital Assets Community Group",
-      "link": "http://www.w3.org/community/digital-asset/",
+      "link": "https://www.w3.org/community/digital-asset/",
       "created": "2016-07-18T15:41:32.000Z",
       "participants": 29,
       "chairs": [
@@ -28403,7 +28403,7 @@
     {
       "id": 92517,
       "name": "PDF and Open Data Community Group",
-      "link": "http://www.w3.org/community/pdf-open-data/",
+      "link": "https://www.w3.org/community/pdf-open-data/",
       "created": "2016-07-21T21:56:34.000Z",
       "participants": 12,
       "chairs": [
@@ -28478,7 +28478,7 @@
     {
       "id": 93489,
       "name": "Web Media API Community Group",
-      "link": "http://www.w3.org/community/webmediaapi/",
+      "link": "https://www.w3.org/community/webmediaapi/",
       "created": "2016-09-06T16:07:36.000Z",
       "participants": 30,
       "chairs": [
@@ -28580,7 +28580,7 @@
     {
       "id": 93667,
       "name": "Chainpoint Community Group",
-      "link": "http://www.w3.org/community/chainpoint/",
+      "link": "https://www.w3.org/community/chainpoint/",
       "created": "2016-09-14T13:31:14.000Z",
       "participants": 23,
       "chairs": [
@@ -28703,7 +28703,7 @@
     {
       "id": 93702,
       "name": "Offline URL Community Group",
-      "link": "http://www.w3.org/community/offline-url/",
+      "link": "https://www.w3.org/community/offline-url/",
       "created": "2016-09-15T12:53:22.000Z",
       "participants": 2,
       "chairs": [
@@ -28767,7 +28767,7 @@
     {
       "id": 93915,
       "name": "Paid Content Community Group",
-      "link": "http://www.w3.org/community/paidcontent/",
+      "link": "https://www.w3.org/community/paidcontent/",
       "created": null,
       "participants": 0,
       "chairs": [],
@@ -28828,7 +28828,7 @@
     {
       "id": 94248,
       "name": "Digital Offers Community Group",
-      "link": "http://www.w3.org/community/digitaloffers/",
+      "link": "https://www.w3.org/community/digitaloffers/",
       "created": "2016-10-10T16:06:48.000Z",
       "participants": 22,
       "chairs": [
@@ -28921,7 +28921,7 @@
     {
       "id": 94549,
       "name": "Declarative WebVR Community Group",
-      "link": "http://www.w3.org/community/decwebvr/",
+      "link": "https://www.w3.org/community/decwebvr/",
       "created": "2016-10-27T00:18:35.000Z",
       "participants": 39,
       "chairs": [
@@ -29004,7 +29004,7 @@
     {
       "id": 94559,
       "name": "Digital Verification Community Group",
-      "link": "http://www.w3.org/community/digital-verification/",
+      "link": "https://www.w3.org/community/digital-verification/",
       "created": "2016-10-24T04:51:02.000Z",
       "participants": 33,
       "chairs": [],
@@ -29042,7 +29042,7 @@
           }
         },
         "lists": {
-          "2019-04": 8,
+          "2019-04": 9,
           "2019-03": 11,
           "2019-02": 6,
           "2019-01": 7,
@@ -29088,7 +29088,7 @@
     {
       "id": 95154,
       "name": "Video Game Schema Community Group",
-      "link": "http://www.w3.org/community/videogameschema/",
+      "link": "https://www.w3.org/community/videogameschema/",
       "created": "2016-11-17T14:36:02.000Z",
       "participants": 7,
       "chairs": [
@@ -29153,7 +29153,7 @@
     {
       "id": 95188,
       "name": "Social Web Incubator Community Group",
-      "link": "http://www.w3.org/community/socialcg/",
+      "link": "https://www.w3.org/community/socialcg/",
       "created": "2016-11-18T20:00:13.000Z",
       "participants": 82,
       "chairs": [
@@ -29234,7 +29234,7 @@
     {
       "id": 95453,
       "name": "Schema.org for datasets Community Group",
-      "link": "http://www.w3.org/community/schemaorg4datasets/",
+      "link": "https://www.w3.org/community/schemaorg4datasets/",
       "created": "2016-12-01T19:14:50.000Z",
       "participants": 43,
       "chairs": [
@@ -29300,7 +29300,7 @@
     {
       "id": 95478,
       "name": "SKOS and OWL for Interoperabilty Community Group",
-      "link": "http://www.w3.org/community/skosowlinterop/",
+      "link": "https://www.w3.org/community/skosowlinterop/",
       "created": "2016-12-02T20:19:23.000Z",
       "participants": 15,
       "chairs": [],
@@ -29365,7 +29365,7 @@
     {
       "id": 95701,
       "name": "Shape Expressions Community Group",
-      "link": "http://www.w3.org/community/shex/",
+      "link": "https://www.w3.org/community/shex/",
       "created": "2016-12-12T16:08:17.000Z",
       "participants": 34,
       "chairs": [
@@ -29488,7 +29488,7 @@
     {
       "id": 95726,
       "name": "WebAPI Discovery Community Group",
-      "link": "http://www.w3.org/community/web-api-discovery/",
+      "link": "https://www.w3.org/community/web-api-discovery/",
       "created": "2016-12-13T12:14:56.000Z",
       "participants": 23,
       "chairs": [
@@ -29572,7 +29572,7 @@
     {
       "id": 96377,
       "name": "Enterprise Ethereum Community Group",
-      "link": "http://www.w3.org/community/enterprise-ethereum/",
+      "link": "https://www.w3.org/community/enterprise-ethereum/",
       "created": "2017-01-19T21:25:35.000Z",
       "participants": 22,
       "chairs": [],
@@ -29634,7 +29634,7 @@
     {
       "id": 96574,
       "name": "Color on the Web Community Group",
-      "link": "http://www.w3.org/community/colorweb/",
+      "link": "https://www.w3.org/community/colorweb/",
       "created": "2017-01-27T18:21:40.000Z",
       "participants": 27,
       "chairs": [
@@ -29735,7 +29735,7 @@
     {
       "id": 96642,
       "name": "OpenTrack Community Group",
-      "link": "http://www.w3.org/community/opentrack/",
+      "link": "https://www.w3.org/community/opentrack/",
       "created": "2017-01-31T13:02:11.000Z",
       "participants": 20,
       "chairs": [
@@ -29835,7 +29835,7 @@
     {
       "id": 96716,
       "name": "Public Alert Community Group",
-      "link": "http://www.w3.org/community/palcg/",
+      "link": "https://www.w3.org/community/palcg/",
       "created": "2017-02-02T18:37:55.000Z",
       "participants": 4,
       "chairs": [
@@ -29902,7 +29902,7 @@
     {
       "id": 96773,
       "name": "HTTPS in Local Network Community Group",
-      "link": "http://www.w3.org/community/httpslocal/",
+      "link": "https://www.w3.org/community/httpslocal/",
       "created": "2017-02-06T02:50:16.000Z",
       "participants": 24,
       "chairs": [
@@ -30020,9 +30020,9 @@
     {
       "id": 96810,
       "name": "EPUB 3 Community Group",
-      "link": "http://www.w3.org/community/epub3/",
+      "link": "https://www.w3.org/community/epub3/",
       "created": "2017-02-06T19:54:12.000Z",
-      "participants": 198,
+      "participants": 199,
       "chairs": [
         "Rachel Comerford",
         "Dave Cramer"
@@ -30069,7 +30069,7 @@
           }
         },
         "lists": {
-          "2019-04": 7,
+          "2019-04": 10,
           "2019-03": 21,
           "2019-02": 13,
           "2019-01": 10,
@@ -30121,14 +30121,14 @@
           "2019-01": 1,
           "2019-02": 1,
           "2019-03": 6,
-          "2019-04": 2
+          "2019-04": 3
         }
       }
     },
     {
       "id": 96813,
       "name": "Data on the Web Best Practices Community Group",
-      "link": "http://www.w3.org/community/dwbp/",
+      "link": "https://www.w3.org/community/dwbp/",
       "created": "2017-02-06T21:06:40.000Z",
       "participants": 22,
       "chairs": [
@@ -30194,7 +30194,7 @@
     {
       "id": 96877,
       "name": "GPU for the Web Community Group",
-      "link": "http://www.w3.org/community/gpu/",
+      "link": "https://www.w3.org/community/gpu/",
       "created": "2017-02-08T00:01:00.000Z",
       "participants": 135,
       "chairs": [
@@ -30280,7 +30280,7 @@
           "2019-01": 108,
           "2019-02": 47,
           "2019-03": 67,
-          "2019-04": 31
+          "2019-04": 34
         },
         "join": {
           "2018-05": 2,
@@ -30301,7 +30301,7 @@
     {
       "id": 96976,
       "name": "Schema Generator Community Group",
-      "link": "http://www.w3.org/community/schema-gen/",
+      "link": "https://www.w3.org/community/schema-gen/",
       "created": "2017-02-08T16:58:56.000Z",
       "participants": 17,
       "chairs": [
@@ -30372,7 +30372,7 @@
     {
       "id": 97084,
       "name": "Distributed User Interfaces Community Group",
-      "link": "http://www.w3.org/community/dui/",
+      "link": "https://www.w3.org/community/dui/",
       "created": "2017-02-10T14:24:01.000Z",
       "participants": 9,
       "chairs": [
@@ -30436,7 +30436,7 @@
     {
       "id": 97665,
       "name": "Bioschemas for lifesciences Community Group",
-      "link": "http://www.w3.org/community/bioschemas/",
+      "link": "https://www.w3.org/community/bioschemas/",
       "created": "2017-02-27T16:55:18.000Z",
       "participants": 58,
       "chairs": [
@@ -30564,7 +30564,7 @@
     {
       "id": 97739,
       "name": "Open Science Community Group",
-      "link": "http://www.w3.org/community/opensci/",
+      "link": "https://www.w3.org/community/opensci/",
       "created": "2017-03-01T13:12:11.000Z",
       "participants": 14,
       "chairs": [
@@ -30630,7 +30630,7 @@
     {
       "id": 97756,
       "name": "Licensed Content Community Group",
-      "link": "http://www.w3.org/community/licensed-content/",
+      "link": "https://www.w3.org/community/licensed-content/",
       "created": "2017-03-01T19:33:40.000Z",
       "participants": 4,
       "chairs": [
@@ -30694,7 +30694,7 @@
     {
       "id": 97786,
       "name": "Web Platform Chinese Community Group",
-      "link": "http://www.w3.org/community/webplatzh/",
+      "link": "https://www.w3.org/community/webplatzh/",
       "created": "2018-02-08T23:44:37.000Z",
       "participants": 1,
       "chairs": [],
@@ -30756,7 +30756,7 @@
     {
       "id": 97795,
       "name": "Silver Community Group",
-      "link": "http://www.w3.org/community/silver/",
+      "link": "https://www.w3.org/community/silver/",
       "created": "2017-03-03T00:00:42.000Z",
       "participants": 129,
       "chairs": [
@@ -30833,7 +30833,7 @@
           }
         },
         "lists": {
-          "2019-04": 43,
+          "2019-04": 52,
           "2019-03": 64,
           "2019-02": 35,
           "2019-01": 30,
@@ -30911,7 +30911,7 @@
     {
       "id": 98025,
       "name": "XPath Next Community Group",
-      "link": "http://www.w3.org/community/xpath-next/",
+      "link": "https://www.w3.org/community/xpath-next/",
       "created": "2017-03-10T16:37:16.000Z",
       "participants": 8,
       "chairs": [
@@ -30974,7 +30974,7 @@
     {
       "id": 98033,
       "name": "Physical Ledger Community Group",
-      "link": "http://www.w3.org/community/physical-ledger/",
+      "link": "https://www.w3.org/community/physical-ledger/",
       "created": "2017-03-10T21:33:44.000Z",
       "participants": 7,
       "chairs": [
@@ -31037,7 +31037,7 @@
     {
       "id": 98377,
       "name": "Mixed Reality Service Community Group",
-      "link": "http://www.w3.org/community/mixedreality/",
+      "link": "https://www.w3.org/community/mixedreality/",
       "created": "2017-03-22T17:53:50.000Z",
       "participants": 56,
       "chairs": [
@@ -31146,7 +31146,7 @@
     {
       "id": 98447,
       "name": "Decentralized Communications Community Group",
-      "link": "http://www.w3.org/community/decentralizdcomm/",
+      "link": "https://www.w3.org/community/decentralizdcomm/",
       "created": "2017-03-24T12:52:07.000Z",
       "participants": 29,
       "chairs": [],
@@ -31212,7 +31212,7 @@
     {
       "id": 99502,
       "name": "Web Payments and Commerce Accessibility Community Group",
-      "link": "http://www.w3.org/community/payments-commerce-a11y/",
+      "link": "https://www.w3.org/community/payments-commerce-a11y/",
       "created": "2017-05-10T13:03:19.000Z",
       "participants": 11,
       "chairs": [],
