@@ -192,5 +192,6 @@
   "games": {"workshop": "https://www.w3.org/2018/12/games-workshop/"},
   "cdnpubcg": {"wg": 100074},
   "trustperms": {"workshop": "http://www.w3.org/2014/07/permissions/", "wg": 58119, "nospec": true},
-  "act-r": {"nospec": true, "wg": 35422}
+  "act-r": {"nospec": true, "wg": 35422},
+  "chem-web-pub": {"wg": 100074}
 }
