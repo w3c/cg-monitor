@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-06-06T05:18:09.328Z",
+  "timestamp": "2019-06-07T05:17:44.503Z",
   "data": [
     {
       "id": 100367,
@@ -882,6 +882,7 @@
           }
         },
         "lists": {
+          "2019-06": 1,
           "2019-05": 1,
           "2019-04": 4,
           "2019-03": 1,
@@ -1842,6 +1843,7 @@
           }
         },
         "lists": {
+          "2019-06": 1,
           "2019-05": 5,
           "2019-04": 3,
           "2019-03": 6,
@@ -2010,7 +2012,7 @@
           }
         },
         "lists": {
-          "2019-06": 19,
+          "2019-06": 20,
           "2019-05": 28,
           "2019-04": 114,
           "2019-03": 41,
@@ -2067,7 +2069,7 @@
           "2019-03": 0,
           "2019-04": 10,
           "2019-05": 15,
-          "2019-06": 12
+          "2019-06": 19
         },
         "join": {
           "2018-07": 6,
@@ -2090,7 +2092,7 @@
       "name": "Smart Contracts Community Group",
       "link": "https://www.w3.org/community/smartcontracts/",
       "created": "2018-05-30T12:00:58.000Z",
-      "participants": 11,
+      "participants": 12,
       "chairs": [],
       "staff": [
         {
@@ -2146,7 +2148,7 @@
           "2019-03": 1,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -2155,7 +2157,7 @@
       "name": "AI KR (Artificial Intelligence Knowledge Representation) Community Group",
       "link": "https://www.w3.org/community/aikr/",
       "created": "2018-07-03T11:05:28.000Z",
-      "participants": 43,
+      "participants": 44,
       "chairs": [
         "Paola Di Maio"
       ],
@@ -2236,7 +2238,7 @@
           "2019-03": 1,
           "2019-04": 2,
           "2019-05": 1,
-          "2019-06": 1
+          "2019-06": 2
         }
       }
     },
@@ -2735,6 +2737,7 @@
           }
         },
         "lists": {
+          "2019-06": 1,
           "2019-05": 2,
           "2019-04": 6,
           "2019-03": 4,
@@ -2840,7 +2843,7 @@
           }
         },
         "lists": {
-          "2019-06": 5,
+          "2019-06": 6,
           "2019-05": 39,
           "2019-04": 28,
           "2019-03": 77,
@@ -2860,9 +2863,9 @@
           "2019-01": 0,
           "2019-02": 0,
           "2019-03": 0,
-          "2019-04": 5,
+          "2019-04": 1,
           "2019-05": 21,
-          "2019-06": 1
+          "2019-06": 3
         },
         "repository": {
           "2018-07": 0,
@@ -2876,7 +2879,7 @@
           "2019-03": 17,
           "2019-04": 8,
           "2019-05": 34,
-          "2019-06": 3
+          "2019-06": 4
         },
         "join": {
           "2018-07": 0,
@@ -2899,7 +2902,7 @@
       "name": "Machine Learning for the Web Community Group",
       "link": "https://www.w3.org/community/webmachinelearning/",
       "created": "2018-10-03T14:55:41.000Z",
-      "participants": 32,
+      "participants": 33,
       "chairs": [
         "Anssi Kostiainen"
       ],
@@ -2952,6 +2955,7 @@
           }
         },
         "lists": {
+          "2019-06": 2,
           "2019-05": 8,
           "2019-04": 9,
           "2019-03": 8,
@@ -2987,7 +2991,7 @@
           "2019-03": 3,
           "2019-04": 1,
           "2019-05": 2,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -3164,7 +3168,7 @@
       "name": "Audio Community Group",
       "link": "https://www.w3.org/community/audio-comgp/",
       "created": "2018-10-28T22:08:20.000Z",
-      "participants": 24,
+      "participants": 25,
       "chairs": [
         "Paul Adenot",
         "Matthew Paradis"
@@ -3211,6 +3215,7 @@
           }
         },
         "lists": {
+          "2019-06": 1,
           "2019-05": 2,
           "2019-04": 3,
           "2019-03": 2,
@@ -3244,7 +3249,7 @@
           "2019-03": 5,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -4022,7 +4027,7 @@
       "name": "MathML Refresh Community Group",
       "link": "https://www.w3.org/community/mathml4/",
       "created": "2019-01-24T17:32:17.000Z",
-      "participants": 26,
+      "participants": 27,
       "chairs": [
         "Neil Soiffer"
       ],
@@ -4104,7 +4109,7 @@
           "2019-03": 5,
           "2019-04": 1,
           "2019-05": 0,
-          "2019-06": 2
+          "2019-06": 3
         }
       }
     },
@@ -4135,6 +4140,7 @@
           "2019-06": 0
         },
         "lists": {
+          "2019-06": 3,
           "2019-05": 40,
           "2019-04": 33,
           "2019-03": 14,
@@ -4491,7 +4497,7 @@
           "2019-03": 3,
           "2019-04": 74,
           "2019-05": 17,
-          "2019-06": 2
+          "2019-06": 5
         },
         "join": {
           "2018-07": 0,
@@ -5178,10 +5184,10 @@
           "2019-03": 7,
           "2019-04": 0,
           "2019-05": 3,
-          "2019-06": 1
+          "2019-06": 2
         },
         "lists": {
-          "2019-06": 4,
+          "2019-06": 5,
           "2019-05": 9,
           "2019-04": 3,
           "2019-03": 8,
@@ -6151,7 +6157,7 @@
       "name": "Augmented Reality Community Group",
       "link": "https://www.w3.org/community/ar/",
       "created": "2011-08-29T15:54:40.000Z",
-      "participants": 128,
+      "participants": 129,
       "chairs": [
         "Rob Manson"
       ],
@@ -6265,7 +6271,7 @@
           "2019-03": 1,
           "2019-04": 0,
           "2019-05": 2,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -7004,7 +7010,7 @@
       "name": "High-Performance Computing Community Group",
       "link": "https://www.w3.org/community/hpcweb/",
       "created": "2011-10-21T21:00:44.000Z",
-      "participants": 39,
+      "participants": 40,
       "chairs": [
         "Rion Dooley"
       ],
@@ -7113,7 +7119,7 @@
           "2019-03": 1,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -8172,6 +8178,7 @@
           }
         },
         "lists": {
+          "2019-06": 2,
           "2019-05": 33,
           "2019-04": 12,
           "2019-03": 82,
@@ -8386,7 +8393,7 @@
       "name": "Cloud Computing Community Group",
       "link": "https://www.w3.org/community/cloud/",
       "created": "2012-03-16T13:07:02.000Z",
-      "participants": 67,
+      "participants": 69,
       "chairs": [
         "Russell Potter"
       ],
@@ -8492,7 +8499,7 @@
           "2019-03": 0,
           "2019-04": 1,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 2
         }
       }
     },
@@ -10692,7 +10699,7 @@
       "name": "User Identity on the Web Community Group",
       "link": "https://www.w3.org/community/w3id/",
       "created": "2012-03-15T11:21:22.000Z",
-      "participants": 25,
+      "participants": 26,
       "chairs": [
         "Serge K. Keller"
       ],
@@ -10751,7 +10758,7 @@
           "2019-03": 1,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -11845,7 +11852,7 @@
       "name": "Big Data Community Group",
       "link": "https://www.w3.org/community/bigdata/",
       "created": "2012-04-16T19:31:49.000Z",
-      "participants": 130,
+      "participants": 132,
       "chairs": [
         "Peter Bajcsy",
         "Ashwini Balu",
@@ -11927,7 +11934,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 2
         }
       }
     },
@@ -12364,7 +12371,7 @@
       "name": "Technical Architecture Community Group",
       "link": "https://www.w3.org/community/opentag/",
       "created": "2012-08-20T16:08:19.000Z",
-      "participants": 24,
+      "participants": 25,
       "chairs": [],
       "staff": [
         {
@@ -12428,7 +12435,7 @@
           "2019-03": 1,
           "2019-04": 1,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -14976,7 +14983,7 @@
       "name": "Information Architecture Community Group",
       "link": "https://www.w3.org/community/informationarchitecture/",
       "created": "2013-02-08T14:49:38.000Z",
-      "participants": 75,
+      "participants": 76,
       "chairs": [
         "Bev Corwin",
         "Noreen Whysel"
@@ -15059,7 +15066,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -16815,6 +16822,7 @@
           }
         },
         "lists": {
+          "2019-06": 4,
           "2019-05": 75,
           "2019-04": 36,
           "2019-03": 24,
@@ -16885,8 +16893,7 @@
           "2013-09": 12,
           "2013-08": 19,
           "2013-07": 13,
-          "2013-06": 7,
-          "2019-06": null
+          "2013-06": 7
         },
         "twitter": {
           "type": "twitter",
@@ -18885,6 +18892,7 @@
           }
         },
         "lists": {
+          "2019-06": 1,
           "2019-05": 1,
           "2019-04": 1,
           "2019-03": 1,
@@ -19584,7 +19592,7 @@
       "name": "Linked Data Models for Emotion and Sentiment Analysis Community Group",
       "link": "https://www.w3.org/community/sentiment/",
       "created": "2014-01-07T15:01:15.000Z",
-      "participants": 37,
+      "participants": 38,
       "chairs": [
         "Björn Schuller",
         "J. Fernando Sánchez"
@@ -19637,7 +19645,7 @@
           }
         },
         "lists": {
-          "2019-06": 3,
+          "2019-06": 4,
           "2019-05": 3,
           "2019-04": 1,
           "2019-03": 2,
@@ -19692,7 +19700,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -19873,7 +19881,7 @@
       "name": "HTML for email Community Group",
       "link": "https://www.w3.org/community/htmail/",
       "created": "2014-01-29T19:17:42.000Z",
-      "participants": 108,
+      "participants": 109,
       "chairs": [
         "Charles McCathie Nevile"
       ],
@@ -19978,7 +19986,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -20801,7 +20809,7 @@
           "2019-03": 59,
           "2019-04": 33,
           "2019-05": 158,
-          "2019-06": 6
+          "2019-06": 11
         },
         "tracker": {
           "type": "tracker",
@@ -21060,7 +21068,7 @@
       "name": "Linked Building Data Community Group",
       "link": "https://www.w3.org/community/lbd/",
       "created": "2014-06-30T11:24:07.000Z",
-      "participants": 86,
+      "participants": 87,
       "chairs": [
         "Kris McGlinn",
         "Pieter Pauwels"
@@ -21113,7 +21121,7 @@
           }
         },
         "lists": {
-          "2019-06": 1,
+          "2019-06": 2,
           "2019-05": 8,
           "2019-04": 4,
           "2019-03": 3,
@@ -21195,7 +21203,7 @@
           "2019-03": 1,
           "2019-04": 5,
           "2019-05": 2,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -21261,6 +21269,7 @@
           }
         },
         "lists": {
+          "2019-06": 2,
           "2019-05": 16,
           "2019-04": 60,
           "2019-03": 15,
@@ -21299,7 +21308,6 @@
           "2014-10": 4,
           "2014-09": 1,
           "2014-08": 51,
-          "2019-06": null,
           "2019-01": null,
           "2018-12": null,
           "2018-11": null,
@@ -21355,10 +21363,11 @@
       "name": "Credentials Community Group",
       "link": "https://www.w3.org/community/credentials/",
       "created": "2014-08-06T18:29:41.000Z",
-      "participants": 234,
+      "participants": 236,
       "chairs": [
         "Christopher Allen",
-        "Joe Andrieu"
+        "Joe Andrieu",
+        "Kim Duffy"
       ],
       "staff": [],
       "repositories": [
@@ -21428,7 +21437,7 @@
           }
         },
         "lists": {
-          "2019-06": 6,
+          "2019-06": 7,
           "2019-05": 77,
           "2019-04": 170,
           "2019-03": 79,
@@ -21500,7 +21509,7 @@
           "2019-03": 43,
           "2019-04": 74,
           "2019-05": 48,
-          "2019-06": 22
+          "2019-06": 24
         },
         "join": {
           "2018-07": 8,
@@ -21514,7 +21523,7 @@
           "2019-03": 11,
           "2019-04": 9,
           "2019-05": 9,
-          "2019-06": 1
+          "2019-06": 3
         }
       }
     },
@@ -21976,7 +21985,7 @@
       "name": "Benchmarking for the Web Community Group",
       "link": "https://www.w3.org/community/benchweb/",
       "created": "2014-12-17T07:23:55.000Z",
-      "participants": 10,
+      "participants": 11,
       "chairs": [
         "Ryoichi Kawada"
       ],
@@ -22034,7 +22043,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -22804,7 +22813,7 @@
           }
         },
         "lists": {
-          "2019-06": 3,
+          "2019-06": 4,
           "2019-05": 52,
           "2019-04": 11,
           "2019-03": 33,
@@ -22863,7 +22872,7 @@
           "2019-03": 8,
           "2019-04": 1,
           "2019-05": 16,
-          "2019-06": 2
+          "2019-06": 3
         },
         "join": {
           "2018-07": 0,
@@ -22978,7 +22987,7 @@
       "name": "Schema.org Community Group",
       "link": "https://www.w3.org/community/schemaorg/",
       "created": "2015-03-31T18:36:46.000Z",
-      "participants": 350,
+      "participants": 352,
       "chairs": [
         "Dan Brickley"
       ],
@@ -23112,7 +23121,7 @@
           "2019-03": 31,
           "2019-04": 64,
           "2019-05": 25,
-          "2019-06": 7
+          "2019-06": 8
         },
         "join": {
           "2018-07": 5,
@@ -23126,7 +23135,7 @@
           "2019-03": 3,
           "2019-04": 8,
           "2019-05": 9,
-          "2019-06": 0
+          "2019-06": 2
         }
       }
     },
@@ -23236,7 +23245,7 @@
       "name": "Cryptoledgers Community Group",
       "link": "https://www.w3.org/community/cryptoledgers/",
       "created": "2015-04-02T15:19:32.000Z",
-      "participants": 28,
+      "participants": 29,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -23293,7 +23302,7 @@
           "2019-03": 0,
           "2019-04": 1,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -24463,7 +24472,7 @@
       "name": "Web Platform Incubator Community Group",
       "link": "https://www.w3.org/community/wicg/",
       "created": "2015-07-02T16:02:06.000Z",
-      "participants": 178,
+      "participants": 179,
       "chairs": [
         "Marcos Caceres",
         "Yoav Weiss",
@@ -24671,8 +24680,9 @@
           }
         },
         "lists": {
+          "2019-06": 45,
           "2019-05": 71,
-          "2019-04": 141,
+          "2019-04": 142,
           "2019-03": 88,
           "2018-11": 107,
           "2018-10": 47,
@@ -24696,8 +24706,7 @@
           "2018-08": null,
           "2018-12": null,
           "2019-01": null,
-          "2019-02": null,
-          "2019-06": null
+          "2019-02": null
         },
         "repository": {
           "2018-07": 282,
@@ -24711,7 +24720,7 @@
           "2019-03": 203,
           "2019-04": 280,
           "2019-05": 337,
-          "2019-06": 41
+          "2019-06": 56
         },
         "join": {
           "2018-07": 0,
@@ -24725,7 +24734,7 @@
           "2019-03": 1,
           "2019-04": 0,
           "2019-05": 7,
-          "2019-06": 1
+          "2019-06": 2
         }
       }
     },
@@ -25137,7 +25146,7 @@
           }
         },
         "lists": {
-          "2019-06": 1,
+          "2019-06": 3,
           "2019-05": 2,
           "2019-04": 5,
           "2019-03": 22,
@@ -25389,7 +25398,7 @@
       "name": "Machine Learning Schema Community Group",
       "link": "https://www.w3.org/community/ml-schema/",
       "created": "2015-09-28T13:10:02.000Z",
-      "participants": 45,
+      "participants": 46,
       "chairs": [
         "Diego Esteves",
         "Agnieszka Lawrynowicz",
@@ -25483,7 +25492,7 @@
           "2019-03": 0,
           "2019-04": 1,
           "2019-05": 1,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -25621,7 +25630,7 @@
       "name": "Advancing Web Platform Application Testing Community Group",
       "link": "https://www.w3.org/community/awpat/",
       "created": "2015-10-28T05:02:27.000Z",
-      "participants": 21,
+      "participants": 22,
       "chairs": [
         "Xiaoxuan Kuang",
         "Kepeng Li"
@@ -25702,7 +25711,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -27302,7 +27311,7 @@
           "2019-03": 63,
           "2019-04": 133,
           "2019-05": 134,
-          "2019-06": 34
+          "2019-06": 46
         },
         "join": {
           "2018-07": 8,
@@ -27325,7 +27334,7 @@
       "name": "Blockchain Community Group",
       "link": "https://www.w3.org/community/blockchain/",
       "created": "2016-03-14T22:16:19.000Z",
-      "participants": 196,
+      "participants": 197,
       "chairs": [
         "Colleen Kirtland",
         "Mountie Lee",
@@ -27441,7 +27450,7 @@
           "2019-03": 1,
           "2019-04": 2,
           "2019-05": 2,
-          "2019-06": 1
+          "2019-06": 2
         }
       }
     },
@@ -28971,9 +28980,9 @@
           "2019-01": 91,
           "2019-02": 78,
           "2019-03": 85,
-          "2019-04": 53,
+          "2019-04": 63,
           "2019-05": 25,
-          "2019-06": 0
+          "2019-06": 3
         },
         "twitter": {
           "type": "twitter",
@@ -29313,7 +29322,7 @@
       "name": "Digital Verification Community Group",
       "link": "https://www.w3.org/community/digital-verification/",
       "created": "2016-10-24T04:51:02.000Z",
-      "participants": 33,
+      "participants": 35,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -29390,7 +29399,7 @@
           "2019-03": 0,
           "2019-04": 1,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 2
         }
       }
     },
@@ -29947,7 +29956,7 @@
       "name": "Color on the Web Community Group",
       "link": "https://www.w3.org/community/colorweb/",
       "created": "2017-01-27T18:21:40.000Z",
-      "participants": 27,
+      "participants": 28,
       "chairs": [
         "Chris Lilley"
       ],
@@ -29996,6 +30005,7 @@
           }
         },
         "lists": {
+          "2019-06": 1,
           "2019-05": 4,
           "2019-04": 3,
           "2019-03": 12,
@@ -30040,7 +30050,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -30275,6 +30285,7 @@
           }
         },
         "lists": {
+          "2019-06": 1,
           "2019-05": 2,
           "2019-04": 4,
           "2019-03": 1,
@@ -30597,7 +30608,7 @@
           "2019-03": 67,
           "2019-04": 37,
           "2019-05": 61,
-          "2019-06": 14
+          "2019-06": 15
         },
         "join": {
           "2018-07": 2,
@@ -31151,7 +31162,7 @@
           }
         },
         "lists": {
-          "2019-06": 6,
+          "2019-06": 12,
           "2019-05": 53,
           "2019-04": 79,
           "2019-03": 64,
@@ -31296,7 +31307,7 @@
       "name": "Physical Ledger Community Group",
       "link": "https://www.w3.org/community/physical-ledger/",
       "created": "2017-03-10T21:33:44.000Z",
-      "participants": 7,
+      "participants": 8,
       "chairs": [
         "jollen chen"
       ],
@@ -31350,7 +31361,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -31468,7 +31479,7 @@
       "name": "Decentralized Communications Community Group",
       "link": "https://www.w3.org/community/decentralizdcomm/",
       "created": "2017-03-24T12:52:07.000Z",
-      "participants": 29,
+      "participants": 30,
       "chairs": [],
       "staff": [
         {
@@ -31525,7 +31536,7 @@
           "2019-03": 1,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
