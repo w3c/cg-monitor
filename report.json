@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-06-16T05:16:04.203Z",
+  "timestamp": "2019-06-17T05:18:27.992Z",
   "data": [
     {
       "id": 100367,
@@ -583,7 +583,7 @@
           "2019-03": 50,
           "2019-04": 77,
           "2019-05": 72,
-          "2019-06": 65
+          "2019-06": 84
         },
         "join": {
           "2018-07": 0,
@@ -2797,7 +2797,7 @@
       "name": "Solid Community Group",
       "link": "https://www.w3.org/community/solid/",
       "created": "2018-10-03T09:17:10.000Z",
-      "participants": 92,
+      "participants": 93,
       "chairs": [
         "Philip Laszkowicz",
         "Mitzi László",
@@ -2895,7 +2895,7 @@
           "2019-03": 20,
           "2019-04": 9,
           "2019-05": 5,
-          "2019-06": 3
+          "2019-06": 4
         }
       }
     },
@@ -4501,7 +4501,7 @@
           "2019-03": 3,
           "2019-04": 74,
           "2019-05": 17,
-          "2019-06": 5
+          "2019-06": 6
         },
         "join": {
           "2018-07": 0,
@@ -8303,7 +8303,7 @@
           }
         },
         "lists": {
-          "2019-06": 11,
+          "2019-06": 12,
           "2019-05": 33,
           "2019-04": 12,
           "2019-03": 82,
@@ -16076,7 +16076,7 @@
       "name": "Sustainable Web Design Community Group",
       "link": "https://www.w3.org/community/sustyweb/",
       "created": "2013-04-04T01:45:23.000Z",
-      "participants": 45,
+      "participants": 46,
       "chairs": [
         "Tim Frick",
         "Pete markiewicz"
@@ -16159,7 +16159,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 1,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -23247,7 +23247,7 @@
           "2019-03": 31,
           "2019-04": 64,
           "2019-05": 25,
-          "2019-06": 20
+          "2019-06": 22
         },
         "join": {
           "2018-07": 5,
@@ -30525,7 +30525,7 @@
           }
         },
         "lists": {
-          "2019-06": 12,
+          "2019-06": 13,
           "2019-05": 88,
           "2019-04": 10,
           "2019-03": 21,
@@ -30910,10 +30910,8 @@
         "https://github.com/BioSchemas/bioschemas-scraper",
         "https://github.com/BioSchemas/map2model",
         "https://github.com/BioSchemas/schemaorg",
-        "https://github.com/BioSchemas/bioschemas-uniprot-adapter",
         "https://github.com/BioSchemas/bioschemas-goweb",
         "https://github.com/BioSchemas/bioschemas-protein-render",
-        "https://github.com/BioSchemas/bioschemas-pdbe-adapter",
         "https://github.com/BioSchemas/bioschemas-proteins-to-crawl",
         "https://github.com/bioschemas"
       ],
@@ -30949,7 +30947,7 @@
           }
         },
         "lists": {
-          "2019-06": 9,
+          "2019-06": 11,
           "2019-05": 32,
           "2019-04": 4,
           "2019-03": 10,
