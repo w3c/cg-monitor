@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-06-21T05:16:14.639Z",
+  "timestamp": "2019-06-22T05:15:12.358Z",
   "data": [
     {
       "id": 100367,
@@ -584,7 +584,7 @@
           "2019-03": 50,
           "2019-04": 77,
           "2019-05": 72,
-          "2019-06": 93
+          "2019-06": 99
         },
         "join": {
           "2018-07": 0,
@@ -2200,7 +2200,7 @@
           }
         },
         "lists": {
-          "2019-06": 13,
+          "2019-06": 14,
           "2019-05": 24,
           "2019-04": 39,
           "2019-03": 41,
@@ -2865,8 +2865,8 @@
           "2019-02": 0,
           "2019-03": 0,
           "2019-04": 0,
-          "2019-05": 11,
-          "2019-06": 16
+          "2019-05": 10,
+          "2019-06": 17
         },
         "repository": {
           "2018-07": 0,
@@ -2880,7 +2880,7 @@
           "2019-03": 17,
           "2019-04": 8,
           "2019-05": 34,
-          "2019-06": 11
+          "2019-06": 12
         },
         "join": {
           "2018-07": 0,
@@ -3217,7 +3217,7 @@
           }
         },
         "lists": {
-          "2019-06": 1,
+          "2019-06": 2,
           "2019-05": 2,
           "2019-04": 3,
           "2019-03": 2,
@@ -3758,7 +3758,7 @@
       "name": "Knowledge Graph Construction Community Group",
       "link": "https://www.w3.org/community/kg-construct/",
       "created": "2019-01-08T07:56:39.000Z",
-      "participants": 28,
+      "participants": 29,
       "chairs": [
         "Anastasia Dimou",
         "Alessandro Negro",
@@ -3813,7 +3813,7 @@
           "2019-03": 1,
           "2019-04": 1,
           "2019-05": 3,
-          "2019-06": 1
+          "2019-06": 2
         }
       }
     },
@@ -4078,7 +4078,7 @@
           }
         },
         "lists": {
-          "2019-06": 15,
+          "2019-06": 16,
           "2019-05": 24,
           "2019-04": 25,
           "2019-03": 33,
@@ -4142,7 +4142,7 @@
           "2019-06": 0
         },
         "lists": {
-          "2019-06": 17,
+          "2019-06": 25,
           "2019-05": 40,
           "2019-04": 33,
           "2019-03": 14,
@@ -4783,6 +4783,7 @@
       "staff": [],
       "repositories": [
         "https://github.com/reconciliation-api/charter",
+        "https://github.com/reconciliation-api/testbench",
         "https://github.com/reconciliation-api"
       ],
       "activity": {
@@ -4817,7 +4818,7 @@
           }
         },
         "lists": {
-          "2019-06": 8
+          "2019-06": 14
         },
         "repository": {
           "2018-07": 0,
@@ -4831,7 +4832,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 3
+          "2019-06": 32
         },
         "join": {
           "2018-07": 0,
@@ -4911,7 +4912,7 @@
       "name": "Digital Identity Community Group",
       "link": "https://www.w3.org/community/dic/",
       "created": "2019-06-20T14:07:36.000Z",
-      "participants": 3,
+      "participants": 4,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -4959,7 +4960,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 3
+          "2019-06": 4
         }
       }
     },
@@ -5384,7 +5385,7 @@
           "2019-06": 2
         },
         "lists": {
-          "2019-06": 6,
+          "2019-06": 7,
           "2019-05": 9,
           "2019-04": 3,
           "2019-03": 8,
@@ -9152,7 +9153,7 @@
       "name": "E-learning: Evolving technologies and growing reach Community Group",
       "link": "https://www.w3.org/community/learnonline/",
       "created": "2012-02-13T00:03:52.000Z",
-      "participants": 63,
+      "participants": 64,
       "chairs": [
         "lissa coffey"
       ],
@@ -9221,7 +9222,7 @@
           "2019-03": 0,
           "2019-04": 1,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -16379,7 +16380,7 @@
           }
         },
         "lists": {
-          "2019-06": 1,
+          "2019-06": 2,
           "2019-05": 1,
           "2019-04": 1,
           "2019-03": 1,
@@ -16411,7 +16412,7 @@
           "2019-03": 44,
           "2019-04": 67,
           "2019-05": 77,
-          "2019-06": 42
+          "2019-06": 48
         },
         "join": {
           "2018-07": 1,
@@ -17508,7 +17509,7 @@
         "https://github.com/streamreasoning/rsplib",
         "https://github.com/streamreasoning/vois",
         "https://github.com/streamreasoning/wvot",
-        "https://github.com/streamreasoning/DEBS-2019",
+        "https://github.com/streamreasoning/DEBS-2019-Tutorial",
         "https://github.com/streamreasoning"
       ],
       "activity": {
@@ -17615,7 +17616,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 1,
-          "2019-06": 5
+          "2019-06": 6
         },
         "join": {
           "2018-07": 2,
@@ -21011,7 +21012,7 @@
           "2019-03": 59,
           "2019-04": 33,
           "2019-05": 158,
-          "2019-06": 54
+          "2019-06": 59
         },
         "tracker": {
           "type": "tracker",
@@ -21270,7 +21271,7 @@
       "name": "Linked Building Data Community Group",
       "link": "https://www.w3.org/community/lbd/",
       "created": "2014-06-30T11:24:07.000Z",
-      "participants": 89,
+      "participants": 91,
       "chairs": [
         "Kris McGlinn",
         "Pieter Pauwels"
@@ -21293,6 +21294,7 @@
         "https://github.com/w3c-lbd-cg/props",
         "https://github.com/w3c-lbd-cg/project",
         "https://github.com/w3c-lbd-cg/IFCtoLBD",
+        "https://github.com/w3c-lbd-cg/tools",
         "https://github.com/w3c-lbd-cg/"
       ],
       "activity": {
@@ -21327,7 +21329,7 @@
           }
         },
         "lists": {
-          "2019-06": 2,
+          "2019-06": 3,
           "2019-05": 8,
           "2019-04": 4,
           "2019-03": 3,
@@ -21395,7 +21397,7 @@
           "2019-03": 1,
           "2019-04": 1,
           "2019-05": 3,
-          "2019-06": 0
+          "2019-06": 7
         },
         "join": {
           "2018-07": 1,
@@ -21409,7 +21411,7 @@
           "2019-03": 1,
           "2019-04": 5,
           "2019-05": 2,
-          "2019-06": 3
+          "2019-06": 5
         }
       }
     },
@@ -21643,7 +21645,7 @@
           }
         },
         "lists": {
-          "2019-06": 35,
+          "2019-06": 36,
           "2019-05": 77,
           "2019-04": 170,
           "2019-03": 79,
@@ -23760,7 +23762,7 @@
       "name": "Wearable Web Community Group",
       "link": "https://www.w3.org/community/wearableweb/",
       "created": "2015-04-24T01:39:24.000Z",
-      "participants": 11,
+      "participants": 12,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -23815,7 +23817,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -23960,7 +23962,7 @@
       "name": "WebAssembly Community Group",
       "link": "https://www.w3.org/community/webassembly/",
       "created": "2015-04-29T17:28:24.000Z",
-      "participants": 994,
+      "participants": 995,
       "chairs": [
         "Ben Smith"
       ],
@@ -24075,7 +24077,7 @@
           "2019-03": 10,
           "2019-04": 16,
           "2019-05": 9,
-          "2019-06": 4
+          "2019-06": 5
         }
       }
     },
@@ -24325,7 +24327,7 @@
       "name": "Healthcare Schema Vocabulary Community Group",
       "link": "https://www.w3.org/community/schemed/",
       "created": "2015-05-29T12:34:10.000Z",
-      "participants": 39,
+      "participants": 40,
       "chairs": [
         "Marc Twagirumukiza"
       ],
@@ -24442,7 +24444,7 @@
           "2019-03": 1,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -24891,7 +24893,7 @@
           }
         },
         "lists": {
-          "2019-06": 105,
+          "2019-06": 107,
           "2019-05": 71,
           "2019-04": 142,
           "2019-03": 88,
@@ -24931,7 +24933,7 @@
           "2019-03": 203,
           "2019-04": 285,
           "2019-05": 337,
-          "2019-06": 155
+          "2019-06": 177
         },
         "join": {
           "2018-07": 0,
@@ -25609,7 +25611,7 @@
       "name": "Machine Learning Schema Community Group",
       "link": "https://www.w3.org/community/ml-schema/",
       "created": "2015-09-28T13:10:02.000Z",
-      "participants": 48,
+      "participants": 49,
       "chairs": [
         "Diego Esteves",
         "Agnieszka Lawrynowicz",
@@ -25703,7 +25705,7 @@
           "2019-03": 0,
           "2019-04": 1,
           "2019-05": 1,
-          "2019-06": 3
+          "2019-06": 4
         }
       }
     },
@@ -25729,6 +25731,7 @@
         "https://github.com/interledger/network",
         "https://github.com/interledger/jmeter-samplers",
         "https://github.com/interledger/presentations",
+        "https://github.com/interledger/paymentpointers.org",
         "https://github.com/interledger"
       ],
       "activity": {
@@ -25820,7 +25823,7 @@
           "2019-03": 19,
           "2019-04": 8,
           "2019-05": 27,
-          "2019-06": 14
+          "2019-06": 18
         },
         "join": {
           "2018-07": 6,
@@ -26253,7 +26256,7 @@
       "name": "Financial Industry Business Ontology Community Group",
       "link": "https://www.w3.org/community/fibo/",
       "created": "2015-11-13T20:25:20.000Z",
-      "participants": 49,
+      "participants": 50,
       "chairs": [
         "David Newman",
         "Mirek Sopek",
@@ -26336,7 +26339,7 @@
           "2019-03": 1,
           "2019-04": 0,
           "2019-05": 1,
-          "2019-06": 0
+          "2019-06": 1
         }
       }
     },
@@ -27526,7 +27529,7 @@
           "2019-03": 63,
           "2019-04": 125,
           "2019-05": 134,
-          "2019-06": 140
+          "2019-06": 145
         },
         "join": {
           "2018-07": 8,
@@ -27889,6 +27892,7 @@
         "https://github.com/openactive/livestream",
         "https://github.com/openactive/dataset-site-template",
         "https://github.com/openactive/dataset-site-template-example-dotnet",
+        "https://github.com/openactive/programmes",
         "http://github.com/openactive"
       ],
       "activity": {
@@ -27984,7 +27988,7 @@
           "2019-03": 47,
           "2019-04": 46,
           "2019-05": 28,
-          "2019-06": 8
+          "2019-06": 11
         },
         "tracker": {
           "type": "tracker",
@@ -30562,7 +30566,7 @@
       "name": "EPUB 3 Community Group",
       "link": "https://www.w3.org/community/epub3/",
       "created": "2017-02-06T19:54:12.000Z",
-      "participants": 202,
+      "participants": 203,
       "chairs": [
         "Rachel Comerford",
         "Dave Cramer"
@@ -30667,7 +30671,7 @@
           "2019-03": 6,
           "2019-04": 3,
           "2019-05": 2,
-          "2019-06": 4
+          "2019-06": 5
         }
       }
     },
@@ -30827,7 +30831,7 @@
           "2019-03": 67,
           "2019-04": 37,
           "2019-05": 61,
-          "2019-06": 51
+          "2019-06": 56
         },
         "join": {
           "2018-07": 2,
@@ -30985,7 +30989,7 @@
       "name": "Bioschemas for lifesciences Community Group",
       "link": "https://www.w3.org/community/bioschemas/",
       "created": "2017-02-27T16:55:18.000Z",
-      "participants": 60,
+      "participants": 62,
       "chairs": [
         "Alasdair Gray",
         "Rafael Jimenez"
@@ -31074,7 +31078,7 @@
           "2019-03": 127,
           "2019-04": 140,
           "2019-05": 68,
-          "2019-06": 42
+          "2019-06": 44
         },
         "twitter": {
           "type": "twitter",
@@ -31104,7 +31108,7 @@
           "2019-03": 0,
           "2019-04": 1,
           "2019-05": 1,
-          "2019-06": 1
+          "2019-06": 3
         }
       }
     },
@@ -31305,7 +31309,7 @@
       "name": "Silver Community Group",
       "link": "https://www.w3.org/community/silver/",
       "created": "2017-03-03T00:00:42.000Z",
-      "participants": 128,
+      "participants": 127,
       "chairs": [
         "Shawn Lauriat",
         "Jeanne F Spellman"
@@ -31380,7 +31384,7 @@
           }
         },
         "lists": {
-          "2019-06": 36,
+          "2019-06": 43,
           "2019-05": 53,
           "2019-04": 79,
           "2019-03": 64,
@@ -31445,7 +31449,7 @@
           "2018-07": 16,
           "2018-08": 7,
           "2018-09": 3,
-          "2018-10": 5,
+          "2018-10": 4,
           "2018-11": 5,
           "2018-12": 1,
           "2019-01": 2,
