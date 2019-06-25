@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-06-24T05:16:19.886Z",
+  "timestamp": "2019-06-25T05:16:33.346Z",
   "data": [
     {
       "id": 100367,
@@ -27,7 +27,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#rsocket",
+          "link": "irc://irc.w3.org/#rsocket",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -109,7 +109,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#shacl",
+          "link": "irc://irc.w3.org/#shacl",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -205,7 +205,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#w3cdevhr",
+          "link": "irc://irc.w3.org/#w3cdevhr",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -283,7 +283,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#mqmcg",
+          "link": "irc://irc.w3.org/#mqmcg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -362,7 +362,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#brazilpub",
+          "link": "irc://irc.w3.org/#brazilpub",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -455,7 +455,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#syndicatedmedia",
+          "link": "irc://irc.w3.org/#syndicatedmedia",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -543,7 +543,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#xproc-next",
+          "link": "irc://irc.w3.org/#xproc-next",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -630,7 +630,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#base",
+          "link": "irc://irc.w3.org/#base",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -697,7 +697,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#digitalassetmanagement",
+          "link": "irc://irc.w3.org/#digitalassetmanagement",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -780,7 +780,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#bigdata-tools",
+          "link": "irc://irc.w3.org/#bigdata-tools",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -867,7 +867,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#credibility",
+          "link": "irc://irc.w3.org/#credibility",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -882,7 +882,7 @@
           }
         },
         "lists": {
-          "2019-06": 2,
+          "2019-06": 3,
           "2019-05": 1,
           "2019-04": 4,
           "2019-03": 1,
@@ -969,7 +969,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#eocred-schema",
+          "link": "irc://irc.w3.org/#eocred-schema",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -1053,7 +1053,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#mwma",
+          "link": "irc://irc.w3.org/#mwma",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -1123,7 +1123,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#art",
+          "link": "irc://irc.w3.org/#art",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -1208,7 +1208,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#web-commerce",
+          "link": "irc://irc.w3.org/#web-commerce",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -1279,7 +1279,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#sync-media-pub",
+          "link": "irc://irc.w3.org/#sync-media-pub",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -1360,7 +1360,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#pronto",
+          "link": "irc://irc.w3.org/#pronto",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -1422,7 +1422,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#dapps",
+          "link": "irc://irc.w3.org/#dapps",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -1486,7 +1486,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#distributed-compute",
+          "link": "irc://irc.w3.org/#distributed-compute",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -1598,7 +1598,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#idcg",
+          "link": "irc://irc.w3.org/#idcg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -1685,7 +1685,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#veres-one",
+          "link": "irc://irc.w3.org/#veres-one",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -1755,7 +1755,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#opendatanepal",
+          "link": "irc://irc.w3.org/#opendatanepal",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -1830,7 +1830,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#audio-description",
+          "link": "irc://irc.w3.org/#audio-description",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -1917,7 +1917,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#appsdesignlab",
+          "link": "irc://irc.w3.org/#appsdesignlab",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -1997,7 +1997,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#dpvcg",
+          "link": "irc://irc.w3.org/#dpvcg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -2012,7 +2012,7 @@
           }
         },
         "lists": {
-          "2019-06": 35,
+          "2019-06": 36,
           "2019-05": 28,
           "2019-04": 114,
           "2019-03": 41,
@@ -2118,7 +2118,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#smartcontracts",
+          "link": "irc://irc.w3.org/#smartcontracts",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -2185,7 +2185,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#aikr",
+          "link": "irc://irc.w3.org/#aikr",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -2200,7 +2200,7 @@
           }
         },
         "lists": {
-          "2019-06": 14,
+          "2019-06": 15,
           "2019-05": 24,
           "2019-04": 39,
           "2019-03": 41,
@@ -2277,7 +2277,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#exercises-and-activities",
+          "link": "irc://irc.w3.org/#exercises-and-activities",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -2357,7 +2357,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#smarg",
+          "link": "irc://irc.w3.org/#smarg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -2421,7 +2421,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#exi-next",
+          "link": "irc://irc.w3.org/#exi-next",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -2483,7 +2483,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#volunteering-ontology",
+          "link": "irc://irc.w3.org/#volunteering-ontology",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -2554,7 +2554,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#voice-assistant",
+          "link": "irc://irc.w3.org/#voice-assistant",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -2622,7 +2622,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#itlcg",
+          "link": "irc://irc.w3.org/#itlcg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -2723,7 +2723,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#pwe",
+          "link": "irc://irc.w3.org/#pwe",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -2829,7 +2829,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#solid",
+          "link": "irc://irc.w3.org/#solid",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -2941,7 +2941,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#webmachinelearning",
+          "link": "irc://irc.w3.org/#webmachinelearning",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -2956,7 +2956,7 @@
           }
         },
         "lists": {
-          "2019-06": 3,
+          "2019-06": 4,
           "2019-05": 8,
           "2019-04": 9,
           "2019-03": 8,
@@ -3031,7 +3031,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#rdf-dev",
+          "link": "irc://irc.w3.org/#rdf-dev",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -3116,7 +3116,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#publishingcg",
+          "link": "irc://irc.w3.org/#publishingcg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -3202,7 +3202,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#audio-comgp",
+          "link": "irc://irc.w3.org/#audio-comgp",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -3217,7 +3217,7 @@
           }
         },
         "lists": {
-          "2019-06": 2,
+          "2019-06": 6,
           "2019-05": 2,
           "2019-04": 3,
           "2019-03": 2,
@@ -3297,7 +3297,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#bdcomacg",
+          "link": "irc://irc.w3.org/#bdcomacg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -3377,7 +3377,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#voter-decision-support",
+          "link": "irc://irc.w3.org/#voter-decision-support",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -3473,7 +3473,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#n3-dev",
+          "link": "irc://irc.w3.org/#n3-dev",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -3488,7 +3488,7 @@
           }
         },
         "lists": {
-          "2019-06": 12,
+          "2019-06": 13,
           "2019-05": 2,
           "2019-04": 3,
           "2019-03": 10,
@@ -3509,7 +3509,7 @@
           "2019-03": 1,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 0
+          "2019-06": 4
         },
         "join": {
           "2018-07": 0,
@@ -3569,7 +3569,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#aria-at",
+          "link": "irc://irc.w3.org/#aria-at",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -3641,7 +3641,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#bibframe2schema",
+          "link": "irc://irc.w3.org/#bibframe2schema",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -3719,7 +3719,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#webvmt-cg",
+          "link": "irc://irc.w3.org/#webvmt-cg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -3783,7 +3783,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#kg-construct",
+          "link": "irc://irc.w3.org/#kg-construct",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -3843,7 +3843,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#clads",
+          "link": "irc://irc.w3.org/#clads",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -3913,7 +3913,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#ceddl-webspec",
+          "link": "irc://irc.w3.org/#ceddl-webspec",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -3990,7 +3990,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#iotschema",
+          "link": "irc://irc.w3.org/#iotschema",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -4063,7 +4063,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#mathml4",
+          "link": "irc://irc.w3.org/#mathml4",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -4142,7 +4142,7 @@
           "2019-06": 0
         },
         "lists": {
-          "2019-06": 25,
+          "2019-06": 29,
           "2019-05": 40,
           "2019-04": 33,
           "2019-03": 14,
@@ -4201,7 +4201,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#svgcg",
+          "link": "irc://irc.w3.org/#svgcg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -4310,7 +4310,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#knowledge-domain",
+          "link": "irc://irc.w3.org/#knowledge-domain",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -4370,7 +4370,7 @@
         "https://github.com/conversational-interfaces/conversational-interfaces.github.io",
         "https://github.com/conversational-interfaces/act",
         "https://github.com/w3c/dmpl",
-        "http://github.com/conversational-interfaces"
+        "https://github.com/conversational-interfaces"
       ],
       "activity": {
         "rss": {
@@ -4389,7 +4389,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#conv",
+          "link": "irc://irc.w3.org/#conv",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -4420,7 +4420,7 @@
           "2019-03": 21,
           "2019-04": 11,
           "2019-05": 0,
-          "2019-06": 10
+          "2019-06": 13
         },
         "join": {
           "2018-07": 0,
@@ -4470,7 +4470,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#sparql-12",
+          "link": "irc://irc.w3.org/#sparql-12",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -4556,7 +4556,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#act-r",
+          "link": "irc://irc.w3.org/#act-r",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -4617,7 +4617,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#fkg",
+          "link": "irc://irc.w3.org/#fkg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -4680,7 +4680,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#chem-web-pub",
+          "link": "irc://irc.w3.org/#chem-web-pub",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -4740,7 +4740,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#evm",
+          "link": "irc://irc.w3.org/#evm",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -4803,7 +4803,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#reconciliation",
+          "link": "irc://irc.w3.org/#reconciliation",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -4876,7 +4876,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#semind",
+          "link": "irc://irc.w3.org/#semind",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -4933,7 +4933,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#dic",
+          "link": "irc://irc.w3.org/#dic",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -5061,7 +5061,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#declarative3d",
+          "link": "irc://irc.w3.org/#declarative3d",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -5634,7 +5634,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webed",
+          "link": "irc://irc.w3.org/#webed",
           "shortdesc": "IRC",
           "longdesc": "IRC",
           "external": false,
@@ -5891,7 +5891,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#semnews",
+          "link": "irc://irc.w3.org/#semnews",
           "shortdesc": "IRC",
           "longdesc": "IRC",
           "external": false,
@@ -5967,7 +5967,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#rww",
+          "link": "irc://irc.w3.org/#rww",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -6119,7 +6119,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webskillprofiles",
+          "link": "irc://irc.w3.org/#webskillprofiles",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -6220,7 +6220,7 @@
         "lists": {},
         "tracker": {
           "type": "tracker",
-          "link": "http://www.w3.org/Bugs/Public/buglist.cgi?component=HTML+Editing+API",
+          "link": "https://www.w3.org/Bugs/Public/buglist.cgi?component=HTML+Editing+API",
           "shortdesc": "",
           "longdesc": "",
           "external": false,
@@ -6295,7 +6295,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#native-web-apps",
+          "link": "irc://irc.w3.org/#native-web-apps",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -6392,7 +6392,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#ar",
+          "link": "irc://irc.w3.org/#ar",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -6499,7 +6499,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#test2",
+          "link": "irc://irc.w3.org/#test2",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -6576,7 +6576,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webcryptoapi",
+          "link": "irc://irc.w3.org/#webcryptoapi",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -6663,7 +6663,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#community-io",
+          "link": "irc://irc.w3.org/#community-io",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -6773,7 +6773,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#json-ld",
+          "link": "irc://irc.w3.org/#json-ld",
           "shortdesc": "irc",
           "longdesc": "",
           "external": false,
@@ -6957,7 +6957,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#unhosted",
+          "link": "irc://irc.w3.org/#unhosted",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -7160,7 +7160,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#council",
+          "link": "irc://irc.w3.org/#council",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -7246,7 +7246,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#hpcweb",
+          "link": "irc://irc.w3.org/#hpcweb",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -7350,7 +7350,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#vivo",
+          "link": "irc://irc.w3.org/#vivo",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -7422,7 +7422,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#userix",
+          "link": "irc://irc.w3.org/#userix",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -7516,7 +7516,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#games",
+          "link": "irc://irc.w3.org/#games",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -7616,7 +7616,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#texttracks",
+          "link": "irc://irc.w3.org/#texttracks",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -7631,7 +7631,7 @@
           }
         },
         "lists": {
-          "2019-06": 6,
+          "2019-06": 7,
           "2019-05": 2,
           "2019-04": 4,
           "2019-03": 3,
@@ -7732,7 +7732,7 @@
           "2019-03": 3,
           "2019-04": 4,
           "2019-05": 4,
-          "2019-06": 7
+          "2019-06": 9
         },
         "join": {
           "2018-07": 1,
@@ -7792,7 +7792,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#networked-data",
+          "link": "irc://irc.w3.org/#networked-data",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -7871,7 +7871,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#cssacc",
+          "link": "irc://irc.w3.org/#cssacc",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -7949,7 +7949,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#timed-text",
+          "link": "irc://irc.w3.org/#timed-text",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -8027,7 +8027,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#svgopentype",
+          "link": "irc://irc.w3.org/#svgopentype",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -8143,7 +8143,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#dntrack",
+          "link": "irc://irc.w3.org/#dntrack",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -8231,7 +8231,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#scriptlib",
+          "link": "irc://irc.w3.org/#scriptlib",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -8363,7 +8363,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#w3process",
+          "link": "irc://irc.w3.org/#w3process",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -8378,7 +8378,7 @@
           }
         },
         "lists": {
-          "2019-06": 20,
+          "2019-06": 22,
           "2019-05": 33,
           "2019-04": 12,
           "2019-03": 82,
@@ -8532,7 +8532,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#semwebprog",
+          "link": "irc://irc.w3.org/#semwebprog",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -8630,7 +8630,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#cloud",
+          "link": "irc://irc.w3.org/#cloud",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -8743,7 +8743,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#data-driven-standards",
+          "link": "irc://irc.w3.org/#data-driven-standards",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -8846,7 +8846,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#networkfriendly",
+          "link": "irc://irc.w3.org/#networkfriendly",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -8939,7 +8939,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#mobindic",
+          "link": "irc://irc.w3.org/#mobindic",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -9007,7 +9007,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#d-tasks",
+          "link": "irc://irc.w3.org/#d-tasks",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -9097,7 +9097,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#infographics",
+          "link": "irc://irc.w3.org/#infographics",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -9181,7 +9181,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#learnonline",
+          "link": "irc://irc.w3.org/#learnonline",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -9252,7 +9252,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#spade",
+          "link": "irc://irc.w3.org/#spade",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -9320,7 +9320,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#autowebtest",
+          "link": "irc://irc.w3.org/#autowebtest",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -9410,7 +9410,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#openannotation",
+          "link": "irc://irc.w3.org/#openannotation",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -9556,7 +9556,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#pubsub",
+          "link": "irc://irc.w3.org/#pubsub",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -9646,7 +9646,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#ostatus",
+          "link": "irc://irc.w3.org/#ostatus",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -9742,7 +9742,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#fedsocweb",
+          "link": "irc://irc.w3.org/#fedsocweb",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -9975,7 +9975,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webid",
+          "link": "irc://irc.w3.org/#webid",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -10031,7 +10031,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#decisionml",
+          "link": "irc://irc.w3.org/#decisionml",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -10122,7 +10122,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#xml-er",
+          "link": "irc://irc.w3.org/#xml-er",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -10199,7 +10199,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#sensorweb",
+          "link": "irc://irc.w3.org/#sensorweb",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -10293,7 +10293,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#html5spec",
+          "link": "irc://irc.w3.org/#html5spec",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -10435,7 +10435,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#respimg",
+          "link": "irc://irc.w3.org/#respimg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -10595,7 +10595,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#ssn-cg",
+          "link": "irc://irc.w3.org/#ssn-cg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -10695,7 +10695,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#cssselfrags",
+          "link": "irc://irc.w3.org/#cssselfrags",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -10757,7 +10757,7 @@
       ],
       "repositories": [
         "https://github.com/pplcg/XSLTExtensions",
-        " https://github.com/pplcg"
+        "https://github.com/pplcg"
       ],
       "activity": {
         "wiki": {
@@ -10790,7 +10790,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#ppl",
+          "link": "irc://irc.w3.org/#ppl",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -10922,7 +10922,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#w3id",
+          "link": "irc://irc.w3.org/#w3id",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -11022,7 +11022,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#xformsusers",
+          "link": "irc://irc.w3.org/#xformsusers",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -11183,7 +11183,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#film",
+          "link": "irc://irc.w3.org/#film",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -11252,7 +11252,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webobservatory",
+          "link": "irc://irc.w3.org/#webobservatory",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -11346,7 +11346,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#activitypub",
+          "link": "irc://irc.w3.org/#activitypub",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -11418,7 +11418,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#mws",
+          "link": "irc://irc.w3.org/#mws",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -11515,7 +11515,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#devrel",
+          "link": "irc://irc.w3.org/#devrel",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -11603,7 +11603,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webapps-ui",
+          "link": "irc://irc.w3.org/#webapps-ui",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -11687,7 +11687,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webappstore",
+          "link": "irc://irc.w3.org/#webappstore",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -11770,7 +11770,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#speech-api",
+          "link": "irc://irc.w3.org/#speech-api",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -11901,7 +11901,7 @@
         "wiki": {
           "2018-07": 0,
           "2018-08": 0,
-          "2018-09": 22,
+          "2018-09": 21,
           "2018-10": 2,
           "2018-11": 0,
           "2018-12": 0,
@@ -11910,7 +11910,7 @@
           "2019-03": 1,
           "2019-04": 2,
           "2019-05": 2,
-          "2019-06": 1
+          "2019-06": 3
         },
         "rss": {
           "2018-07": 0,
@@ -11928,7 +11928,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#wai-engage",
+          "link": "irc://irc.w3.org/#wai-engage",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -12006,7 +12006,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#coders4africa",
+          "link": "irc://irc.w3.org/#coders4africa",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -12080,7 +12080,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#bigdata",
+          "link": "irc://irc.w3.org/#bigdata",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -12181,7 +12181,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#philoweb",
+          "link": "irc://irc.w3.org/#philoweb",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -12270,6 +12270,22 @@
       ],
       "repositories": [],
       "activity": {
+        "chat": {
+          "type": "chat",
+          "link": "irc://irc.freenode.net/whatwg",
+          "shortdesc": "IRC",
+          "longdesc": "",
+          "external": true,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/487"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/487/groups"
+            }
+          }
+        },
         "rss": {
           "2018-07": 0,
           "2018-08": 0,
@@ -12283,22 +12299,6 @@
           "2019-04": 0,
           "2019-05": 0,
           "2019-06": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.freenode.org/whatwg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1117"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1117/groups"
-            }
-          }
         },
         "lists": {
           "2012-07": 3,
@@ -12376,7 +12376,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#microposts",
+          "link": "irc://irc.w3.org/#microposts",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -12474,7 +12474,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#expath",
+          "link": "irc://irc.w3.org/#expath",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -12597,7 +12597,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#opentag",
+          "link": "irc://irc.w3.org/#opentag",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -12667,7 +12667,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#adopsdnt",
+          "link": "irc://irc.w3.org/#adopsdnt",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -12758,7 +12758,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#jseverywhere",
+          "link": "irc://irc.w3.org/#jseverywhere",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -12843,7 +12843,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#argumentation",
+          "link": "irc://irc.w3.org/#argumentation",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -12982,7 +12982,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webhistory",
+          "link": "irc://irc.w3.org/#webhistory",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -13100,7 +13100,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#owled",
+          "link": "irc://irc.w3.org/#owled",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -13218,7 +13218,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#dld",
+          "link": "irc://irc.w3.org/#dld",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -13312,7 +13312,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#xmlhypermedia",
+          "link": "irc://irc.w3.org/#xmlhypermedia",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -13404,7 +13404,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#microxml",
+          "link": "irc://irc.w3.org/#microxml",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -13507,7 +13507,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#mobileacc",
+          "link": "irc://irc.w3.org/#mobileacc",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -13595,7 +13595,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#locadd",
+          "link": "irc://irc.w3.org/#locadd",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -13712,7 +13712,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#law",
+          "link": "irc://irc.w3.org/#law",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -13796,7 +13796,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#schemabibex",
+          "link": "irc://irc.w3.org/#schemabibex",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -13913,7 +13913,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#pua",
+          "link": "irc://irc.w3.org/#pua",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -13981,7 +13981,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#places",
+          "link": "irc://irc.w3.org/#places",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -14072,7 +14072,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#sdshare",
+          "link": "irc://irc.w3.org/#sdshare",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -14155,7 +14155,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webperfs",
+          "link": "irc://irc.w3.org/#webperfs",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -14239,7 +14239,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#svgmap",
+          "link": "irc://irc.w3.org/#svgmap",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -14325,7 +14325,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#markdown",
+          "link": "irc://irc.w3.org/#markdown",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -14416,7 +14416,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#change",
+          "link": "irc://irc.w3.org/#change",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -14503,7 +14503,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#carto",
+          "link": "irc://irc.w3.org/#carto",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -14592,7 +14592,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#custexpdata",
+          "link": "irc://irc.w3.org/#custexpdata",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -14691,7 +14691,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#nextweb",
+          "link": "irc://irc.w3.org/#nextweb",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -14797,7 +14797,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webdevdata",
+          "link": "irc://irc.w3.org/#webdevdata",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -14883,7 +14883,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#sodata",
+          "link": "irc://irc.w3.org/#sodata",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -15030,7 +15030,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#opendataspaina",
+          "link": "irc://irc.w3.org/#opendataspaina",
           "shortdesc": "IRC",
           "external": false,
           "closed": false,
@@ -15104,7 +15104,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#geosemweb",
+          "link": "irc://irc.w3.org/#geosemweb",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -15210,7 +15210,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#informationarchitecture",
+          "link": "irc://irc.w3.org/#informationarchitecture",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -15310,7 +15310,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#audio-dev",
+          "link": "irc://irc.w3.org/#audio-dev",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -15437,7 +15437,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#accessibilityinindia",
+          "link": "irc://irc.w3.org/#accessibilityinindia",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -15529,7 +15529,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webhaptics",
+          "link": "irc://irc.w3.org/#webhaptics",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -15615,7 +15615,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#emergency",
+          "link": "irc://irc.w3.org/#emergency",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -15718,7 +15718,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#interative-apis",
+          "link": "irc://irc.w3.org/#interative-apis",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -15783,7 +15783,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#vxmlcg",
+          "link": "irc://irc.w3.org/#vxmlcg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -15867,7 +15867,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#opengov",
+          "link": "irc://irc.w3.org/#opengov",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -15998,7 +15998,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#restrictedmedia",
+          "link": "irc://irc.w3.org/#restrictedmedia",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -16096,7 +16096,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#opened",
+          "link": "irc://irc.w3.org/#opened",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -16190,7 +16190,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#sustyweb",
+          "link": "irc://irc.w3.org/#sustyweb",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -16270,7 +16270,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webmidi",
+          "link": "irc://irc.w3.org/#webmidi",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -16365,7 +16365,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#rosc",
+          "link": "irc://irc.w3.org/#rosc",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -16412,7 +16412,7 @@
           "2019-03": 44,
           "2019-04": 67,
           "2019-05": 77,
-          "2019-06": 48
+          "2019-06": 50
         },
         "join": {
           "2018-07": 1,
@@ -16481,7 +16481,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#bpmlod",
+          "link": "irc://irc.w3.org/#bpmlod",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -16632,7 +16632,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#model",
+          "link": "irc://irc.w3.org/#model",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -16719,7 +16719,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#argmntreprsnt",
+          "link": "irc://irc.w3.org/#argmntreprsnt",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -16787,7 +16787,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webappscp",
+          "link": "irc://irc.w3.org/#webappscp",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -16891,7 +16891,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#wot",
+          "link": "irc://irc.w3.org/#wot",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -17007,7 +17007,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#hydra",
+          "link": "irc://irc.w3.org/#hydra",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -17181,7 +17181,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#geometryapi",
+          "link": "irc://irc.w3.org/#geometryapi",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -17253,7 +17253,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#opendatadir",
+          "link": "irc://irc.w3.org/#opendatadir",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -17347,7 +17347,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#uad",
+          "link": "irc://irc.w3.org/#uad",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -17423,7 +17423,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#svga11y",
+          "link": "irc://irc.w3.org/#svga11y",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -17543,7 +17543,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#rsp",
+          "link": "irc://irc.w3.org/#rsp",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -17616,7 +17616,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 1,
-          "2019-06": 10
+          "2019-06": 11
         },
         "join": {
           "2018-07": 2,
@@ -17671,7 +17671,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#egovernance",
+          "link": "irc://irc.w3.org/#egovernance",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -17777,7 +17777,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#mmarkup",
+          "link": "irc://irc.w3.org/#mmarkup",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -17848,7 +17848,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#offx",
+          "link": "irc://irc.w3.org/#offx",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -17915,7 +17915,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#agelabels",
+          "link": "irc://irc.w3.org/#agelabels",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -17997,7 +17997,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#remotedom",
+          "link": "irc://irc.w3.org/#remotedom",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -18069,7 +18069,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#fedid",
+          "link": "irc://irc.w3.org/#fedid",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -18168,7 +18168,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#cnwa",
+          "link": "irc://irc.w3.org/#cnwa",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -18257,7 +18257,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#etlml",
+          "link": "irc://irc.w3.org/#etlml",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -18335,7 +18335,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#propertygraphs",
+          "link": "irc://irc.w3.org/#propertygraphs",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -18459,7 +18459,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#rdfjs",
+          "link": "irc://irc.w3.org/#rdfjs",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -18597,7 +18597,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#traffic",
+          "link": "irc://irc.w3.org/#traffic",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -18673,7 +18673,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webzakim",
+          "link": "irc://irc.w3.org/#webzakim",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -18739,7 +18739,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#stereoweb",
+          "link": "irc://irc.w3.org/#stereoweb",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -18809,7 +18809,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#web-copyright",
+          "link": "irc://irc.w3.org/#web-copyright",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -18876,7 +18876,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#stemwidgets",
+          "link": "irc://irc.w3.org/#stemwidgets",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -18963,7 +18963,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#inbandtracks",
+          "link": "irc://irc.w3.org/#inbandtracks",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -19078,7 +19078,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#touchevents",
+          "link": "irc://irc.w3.org/#touchevents",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -19093,7 +19093,7 @@
           }
         },
         "lists": {
-          "2019-06": 1,
+          "2019-06": 2,
           "2019-05": 1,
           "2019-04": 1,
           "2019-03": 1,
@@ -19227,7 +19227,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#sesmanbro",
+          "link": "irc://irc.w3.org/#sesmanbro",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -19323,7 +19323,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webscreens",
+          "link": "irc://irc.w3.org/#webscreens",
           "shortdesc": "IRC",
           "longdesc": "IRC channel",
           "external": false,
@@ -19450,7 +19450,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webarraymath",
+          "link": "irc://irc.w3.org/#webarraymath",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -19523,7 +19523,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#svgstreaming",
+          "link": "irc://irc.w3.org/#svgstreaming",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -19612,7 +19612,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#ld4lt",
+          "link": "irc://irc.w3.org/#ld4lt",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -19742,7 +19742,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#semstats",
+          "link": "irc://irc.w3.org/#semstats",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -19757,6 +19757,7 @@
           }
         },
         "lists": {
+          "2019-06": 1,
           "2019-04": 1,
           "2019-03": 1,
           "2018-05": 1,
@@ -19831,7 +19832,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#sentiment",
+          "link": "irc://irc.w3.org/#sentiment",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -19939,7 +19940,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#cndpubcg",
+          "link": "irc://irc.w3.org/#cndpubcg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -20023,7 +20024,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#webize",
+          "link": "irc://irc.w3.org/#webize",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -20127,7 +20128,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#htmail",
+          "link": "irc://irc.w3.org/#htmail",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -20225,7 +20226,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#declarative-apps",
+          "link": "irc://irc.w3.org/#declarative-apps",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -20338,7 +20339,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#quickfix",
+          "link": "irc://irc.w3.org/#quickfix",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -20431,7 +20432,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#ortc",
+          "link": "irc://irc.w3.org/#ortc",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -20567,7 +20568,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#swim",
+          "link": "irc://irc.w3.org/#swim",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -20655,7 +20656,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#collaboration",
+          "link": "irc://irc.w3.org/#collaboration",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -20746,7 +20747,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#tvapi",
+          "link": "irc://irc.w3.org/#tvapi",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -20892,7 +20893,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#auto-wcag",
+          "link": "irc://irc.w3.org/#auto-wcag",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -21078,7 +21079,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#irobar",
+          "link": "irc://irc.w3.org/#irobar",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -21144,7 +21145,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#browsersync",
+          "link": "irc://irc.w3.org/#browsersync",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -21210,7 +21211,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#humanservices",
+          "link": "irc://irc.w3.org/#humanservices",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -21271,7 +21272,7 @@
       "name": "Linked Building Data Community Group",
       "link": "https://www.w3.org/community/lbd/",
       "created": "2014-06-30T11:24:07.000Z",
-      "participants": 91,
+      "participants": 93,
       "chairs": [
         "Kris McGlinn",
         "Pieter Pauwels"
@@ -21314,7 +21315,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#lbd",
+          "link": "irc://irc.w3.org/#lbd",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -21329,7 +21330,7 @@
           }
         },
         "lists": {
-          "2019-06": 3,
+          "2019-06": 5,
           "2019-05": 8,
           "2019-04": 4,
           "2019-03": 3,
@@ -21411,7 +21412,7 @@
           "2019-03": 1,
           "2019-04": 5,
           "2019-05": 2,
-          "2019-06": 5
+          "2019-06": 7
         }
       }
     },
@@ -21462,7 +21463,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#web-bluetooth",
+          "link": "irc://irc.w3.org/#web-bluetooth",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -21477,7 +21478,7 @@
           }
         },
         "lists": {
-          "2019-06": 16,
+          "2019-06": 22,
           "2019-05": 16,
           "2019-04": 60,
           "2019-03": 15,
@@ -21548,7 +21549,7 @@
           "2019-03": 1,
           "2019-04": 11,
           "2019-05": 4,
-          "2019-06": 5
+          "2019-06": 6
         },
         "join": {
           "2018-07": 0,
@@ -21630,7 +21631,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#credentials",
+          "link": "irc://irc.w3.org/#credentials",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -21645,7 +21646,7 @@
           }
         },
         "lists": {
-          "2019-06": 36,
+          "2019-06": 37,
           "2019-05": 77,
           "2019-04": 170,
           "2019-03": 79,
@@ -21772,7 +21773,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#cdl",
+          "link": "irc://irc.w3.org/#cdl",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -21841,7 +21842,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#urispec",
+          "link": "irc://irc.w3.org/#urispec",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -21908,7 +21909,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#agri",
+          "link": "irc://irc.w3.org/#agri",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -21992,7 +21993,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#browserobo",
+          "link": "irc://irc.w3.org/#browserobo",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -22075,7 +22076,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6665/#exploresemdata",
+          "link": "irc://irc.w3.org/#exploresemdata",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -22150,7 +22151,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#colourblindness",
+          "link": "irc://irc.w3.org/#colourblindness",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -22217,7 +22218,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#benchweb",
+          "link": "irc://irc.w3.org/#benchweb",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -22289,7 +22290,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#datavis",
+          "link": "irc://irc.w3.org/#datavis",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -22369,7 +22370,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#html5jp",
+          "link": "irc://irc.w3.org/#html5jp",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -22455,7 +22456,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#trustperms",
+          "link": "irc://irc.w3.org/#trustperms",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -22523,7 +22524,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#htacg",
+          "link": "irc://irc.w3.org/#htacg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -22611,7 +22612,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#webtiming",
+          "link": "irc://irc.w3.org/#webtiming",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -22725,7 +22726,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#opd",
+          "link": "irc://irc.w3.org/#opd",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -22790,7 +22791,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#ipid",
+          "link": "irc://irc.w3.org/#ipid",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -22857,7 +22858,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#lom2ld",
+          "link": "irc://irc.w3.org/#lom2ld",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -22928,7 +22929,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#xdmdl",
+          "link": "irc://irc.w3.org/#xdmdl",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -23007,7 +23008,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#web-nfc",
+          "link": "irc://irc.w3.org/#web-nfc",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -23127,7 +23128,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#html5kr",
+          "link": "irc://irc.w3.org/#html5kr",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -23235,7 +23236,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#schemaorg",
+          "link": "irc://irc.w3.org/#schemaorg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -23250,7 +23251,7 @@
           }
         },
         "lists": {
-          "2019-06": 19,
+          "2019-06": 22,
           "2019-05": 11,
           "2019-04": 37,
           "2019-03": 58,
@@ -23378,7 +23379,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#omn",
+          "link": "irc://irc.w3.org/#omn",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -23475,7 +23476,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#cryptoledgers",
+          "link": "irc://irc.w3.org/#cryptoledgers",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -23541,7 +23542,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#decsharing",
+          "link": "irc://irc.w3.org/#decsharing",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -23617,7 +23618,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#accesslearn",
+          "link": "irc://irc.w3.org/#accesslearn",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -23719,7 +23720,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#mathprotocol",
+          "link": "irc://irc.w3.org/#mathprotocol",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -23783,7 +23784,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#wearableweb",
+          "link": "irc://irc.w3.org/#wearableweb",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -23849,7 +23850,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#annoux",
+          "link": "irc://irc.w3.org/#annoux",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -23917,7 +23918,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#restonto",
+          "link": "irc://irc.w3.org/#restonto",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -23962,7 +23963,7 @@
       "name": "WebAssembly Community Group",
       "link": "https://www.w3.org/community/webassembly/",
       "created": "2015-04-29T17:28:24.000Z",
-      "participants": 995,
+      "participants": 996,
       "chairs": [
         "Ben Smith"
       ],
@@ -23997,7 +23998,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#webassembly",
+          "link": "irc://irc.w3.org/#webassembly",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -24077,7 +24078,7 @@
           "2019-03": 10,
           "2019-04": 16,
           "2019-05": 9,
-          "2019-06": 5
+          "2019-06": 6
         }
       }
     },
@@ -24124,7 +24125,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#browserext",
+          "link": "irc://irc.w3.org/#browserext",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -24256,7 +24257,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#gao",
+          "link": "irc://irc.w3.org/#gao",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -24333,8 +24334,7 @@
       ],
       "staff": [],
       "repositories": [
-        "https://github.com/twamarc/ScheMed",
-        " https://github.com/twamarc/ScheMed"
+        "https://github.com/twamarc/ScheMed"
       ],
       "activity": {
         "rss": {
@@ -24353,7 +24353,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#schemed",
+          "link": "irc://irc.w3.org/#schemed",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -24474,7 +24474,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#linkedculture",
+          "link": "irc://irc.w3.org/#linkedculture",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -24545,7 +24545,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#stroke-fonts",
+          "link": "irc://irc.w3.org/#stroke-fonts",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -24614,7 +24614,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#sport-schema",
+          "link": "irc://irc.w3.org/#sport-schema",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -24878,7 +24878,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#wicg",
+          "link": "irc://irc.w3.org/#wicg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -24893,7 +24893,7 @@
           }
         },
         "lists": {
-          "2019-06": 108,
+          "2019-06": 112,
           "2019-05": 71,
           "2019-04": 142,
           "2019-03": 88,
@@ -24933,7 +24933,7 @@
           "2019-03": 203,
           "2019-04": 285,
           "2019-05": 337,
-          "2019-06": 179
+          "2019-06": 195
         },
         "join": {
           "2018-07": 0,
@@ -24977,7 +24977,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#hardware-pixels",
+          "link": "irc://irc.w3.org/#hardware-pixels",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -25043,7 +25043,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#architypes",
+          "link": "irc://irc.w3.org/#architypes",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -25145,7 +25145,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#ldpnext",
+          "link": "irc://irc.w3.org/#ldpnext",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -25246,7 +25246,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#xapivocabulary",
+          "link": "irc://irc.w3.org/#xapivocabulary",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -25344,7 +25344,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#music-notation",
+          "link": "irc://irc.w3.org/#music-notation",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -25478,7 +25478,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#rdf-tests",
+          "link": "irc://irc.w3.org/#rdf-tests",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -25564,7 +25564,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#economy",
+          "link": "irc://irc.w3.org/#economy",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -25641,7 +25641,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#ml-schema",
+          "link": "irc://irc.w3.org/#ml-schema",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -25751,7 +25751,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#interledger",
+          "link": "irc://irc.w3.org/#interledger",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -25823,7 +25823,7 @@
           "2019-03": 19,
           "2019-04": 8,
           "2019-05": 27,
-          "2019-06": 18
+          "2019-06": 22
         },
         "join": {
           "2018-07": 6,
@@ -25887,7 +25887,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#awpat",
+          "link": "irc://irc.w3.org/#awpat",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -25962,7 +25962,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#semtechdoc",
+          "link": "irc://irc.w3.org/#semtechdoc",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -26062,7 +26062,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#pom",
+          "link": "irc://irc.w3.org/#pom",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -26128,7 +26128,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#webarchivability",
+          "link": "irc://irc.w3.org/#webarchivability",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -26199,7 +26199,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#datasheets",
+          "link": "irc://irc.w3.org/#datasheets",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -26281,7 +26281,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#fibo",
+          "link": "irc://irc.w3.org/#fibo",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -26371,7 +26371,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#vrwebmetaverse",
+          "link": "irc://irc.w3.org/#vrwebmetaverse",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -26439,7 +26439,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#nli",
+          "link": "irc://irc.w3.org/#nli",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -26537,7 +26537,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#kiss",
+          "link": "irc://irc.w3.org/#kiss",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -26751,7 +26751,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#rtos",
+          "link": "irc://irc.w3.org/#rtos",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -26819,7 +26819,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#tourismdata",
+          "link": "irc://irc.w3.org/#tourismdata",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -26893,7 +26893,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#schema-course-extend",
+          "link": "irc://irc.w3.org/#schema-course-extend",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -26989,7 +26989,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#universalimages",
+          "link": "irc://irc.w3.org/#universalimages",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -27080,7 +27080,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#csvw",
+          "link": "irc://irc.w3.org/#csvw",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -27171,7 +27171,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#wasarchives",
+          "link": "irc://irc.w3.org/#wasarchives",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -27238,7 +27238,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#wwca",
+          "link": "irc://irc.w3.org/#wwca",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -27309,7 +27309,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#meat",
+          "link": "irc://irc.w3.org/#meat",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -27378,7 +27378,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#datapipelining",
+          "link": "irc://irc.w3.org/#datapipelining",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -27488,7 +27488,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#webvr",
+          "link": "irc://irc.w3.org/#webvr",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -27529,7 +27529,7 @@
           "2019-03": 63,
           "2019-04": 125,
           "2019-05": 134,
-          "2019-06": 145
+          "2019-06": 152
         },
         "join": {
           "2018-07": 8,
@@ -27598,7 +27598,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#blockchain",
+          "link": "irc://irc.w3.org/#blockchain",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -27714,7 +27714,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#hb-secure-services",
+          "link": "irc://irc.w3.org/#hb-secure-services",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -27788,7 +27788,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#bde",
+          "link": "irc://irc.w3.org/#bde",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -27893,7 +27893,7 @@
         "https://github.com/openactive/dataset-site-template",
         "https://github.com/openactive/dataset-site-template-example-dotnet",
         "https://github.com/openactive/programmes",
-        "http://github.com/openactive"
+        "https://github.com/openactive"
       ],
       "activity": {
         "rss": {
@@ -28008,7 +28008,7 @@
         },
         "other": {
           "type": "otherotherotherother",
-          "link": "https://calendar.google.com/calendar/embed?src=theodi.org_lcp83ia9k0a3e81h50sordnut4%40group.calendar.google.com&ctz=Europe/Londonhttps://calendar.google.com/calendar/ical/theodi.org_lcp83ia9k0a3e81h50sordnut4%40group.calendar.google.com/public/basic.icshttps://www.youtube.com/watch?v=pDYIXVFpaSM&list=PLVWjdeMZoXg58QRB_GPT3PGFYgp1IU8jahttp://status.openactive.io/",
+          "link": "https://calendar.google.com/calendar/embed?src=theodi.org_lcp83ia9k0a3e81h50sordnut4%40group.calendar.google.com&ctz=Europe/Londonhttps://calendar.google.com/calendar/ical/theodi.org_lcp83ia9k0a3e81h50sordnut4%40group.calendar.google.com/public/basic.icshttps://www.youtube.com/watch?v=pDYIXVFpaSM&list=PLVWjdeMZoXg58QRB_GPT3PGFYgp1IU8jahttps://status.openactive.io/",
           "shortdesc": "Meeting calendarMeeting calendar (ics)Meeting recordingsAPI Dashboard",
           "longdesc": "Meeting calendar on Google CalendarMeeting calendar in ics formatMeeting recordings on YoutubeOpenActive API Dashboard",
           "external": 4,
@@ -28071,7 +28071,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#mathonwebpages",
+          "link": "irc://irc.w3.org/#mathonwebpages",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -28180,7 +28180,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#iok-se",
+          "link": "irc://irc.w3.org/#iok-se",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -28243,7 +28243,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#bibperik",
+          "link": "irc://irc.w3.org/#bibperik",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -28310,7 +28310,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#rax",
+          "link": "irc://irc.w3.org/#rax",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -28406,7 +28406,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#playlist-a11y",
+          "link": "irc://irc.w3.org/#playlist-a11y",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -28480,7 +28480,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#voiceinteraction",
+          "link": "irc://irc.w3.org/#voiceinteraction",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -28576,7 +28576,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#smartmfg",
+          "link": "irc://irc.w3.org/#smartmfg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -28645,7 +28645,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#oerschema",
+          "link": "irc://irc.w3.org/#oerschema",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -28747,7 +28747,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#sparql-exists",
+          "link": "irc://irc.w3.org/#sparql-exists",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -28837,7 +28837,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#exp-protocols",
+          "link": "irc://irc.w3.org/#exp-protocols",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -28903,7 +28903,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#digital-asset",
+          "link": "irc://irc.w3.org/#digital-asset",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -28968,7 +28968,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#pdf-open-data",
+          "link": "irc://irc.w3.org/#pdf-open-data",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -29058,7 +29058,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#webmediaapi",
+          "link": "irc://irc.w3.org/#webmediaapi",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -29149,7 +29149,8 @@
         "https://github.com/chainpoint/level-rocksdb",
         "https://github.com/chainpoint/tendermint",
         "https://github.com/chainpoint/go-nist-beacon",
-        "http://github.com/chainpoint"
+        "https://github.com/chainpoint/bitcoin-header-node",
+        "https://github.com/chainpoint"
       ],
       "activity": {
         "rss": {
@@ -29168,7 +29169,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#chainpoint",
+          "link": "irc://irc.w3.org/#chainpoint",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -29200,9 +29201,9 @@
           "2019-01": 91,
           "2019-02": 78,
           "2019-03": 85,
-          "2019-04": 63,
-          "2019-05": 25,
-          "2019-06": 9
+          "2019-04": 69,
+          "2019-05": 33,
+          "2019-06": 21
         },
         "twitter": {
           "type": "twitter",
@@ -29264,7 +29265,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#offline-url",
+          "link": "irc://irc.w3.org/#offline-url",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -29326,7 +29327,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#paidcontent",
+          "link": "irc://irc.w3.org/#paidcontent",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -29394,7 +29395,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#digitaloffers",
+          "link": "irc://irc.w3.org/#digitaloffers",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -29488,7 +29489,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#decwebvr",
+          "link": "irc://irc.w3.org/#decwebvr",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -29563,7 +29564,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#digital-verification",
+          "link": "irc://irc.w3.org/#digital-verification",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -29578,7 +29579,7 @@
           }
         },
         "lists": {
-          "2019-06": 4,
+          "2019-06": 5,
           "2019-05": 7,
           "2019-04": 9,
           "2019-03": 11,
@@ -29651,7 +29652,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#videogameschema",
+          "link": "irc://irc.w3.org/#videogameschema",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -29725,7 +29726,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#social",
+          "link": "irc://irc.w3.org/#social",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -29797,7 +29798,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#schemaorg4datasets",
+          "link": "irc://irc.w3.org/#schemaorg4datasets",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -29861,7 +29862,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#skosowlinterop",
+          "link": "irc://irc.w3.org/#skosowlinterop",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -29948,7 +29949,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#shex",
+          "link": "irc://irc.w3.org/#shex",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -30058,7 +30059,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#web-api-discovery",
+          "link": "irc://irc.w3.org/#web-api-discovery",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -30135,7 +30136,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#enterprise-ethereum",
+          "link": "irc://irc.w3.org/#enterprise-ethereum",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -30210,7 +30211,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#colorweb",
+          "link": "irc://irc.w3.org/#colorweb",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -30225,7 +30226,7 @@
           }
         },
         "lists": {
-          "2019-06": 1,
+          "2019-06": 2,
           "2019-05": 4,
           "2019-04": 3,
           "2019-03": 12,
@@ -30304,7 +30305,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#opentrack",
+          "link": "irc://irc.w3.org/#opentrack",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -30402,7 +30403,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#palcg",
+          "link": "irc://irc.w3.org/#palcg",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -30490,7 +30491,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#httpslocal",
+          "link": "irc://irc.w3.org/#httpslocal",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -30505,7 +30506,7 @@
           }
         },
         "lists": {
-          "2019-06": 1,
+          "2019-06": 2,
           "2019-05": 2,
           "2019-04": 4,
           "2019-03": 1,
@@ -30602,7 +30603,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#epub3",
+          "link": "irc://irc.w3.org/#epub3",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -30657,7 +30658,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 5,
-          "2019-06": 5
+          "2019-06": 6
         },
         "join": {
           "2018-07": 1,
@@ -30703,7 +30704,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#dwbp",
+          "link": "irc://irc.w3.org/#dwbp",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -30771,7 +30772,8 @@
         "https://github.com/gpuweb/gpuweb",
         "https://github.com/gpuweb/WHLSL",
         "https://github.com/gpuweb/spirv-execution-env",
-        " https://github.com/gpuweb/"
+        "https://github.com/gpuweb/gpuweb.github.io",
+        "https://github.com/gpuweb/"
       ],
       "activity": {
         "rss": {
@@ -30831,7 +30833,7 @@
           "2019-03": 67,
           "2019-04": 37,
           "2019-05": 61,
-          "2019-06": 56
+          "2019-06": 64
         },
         "join": {
           "2018-07": 2,
@@ -30948,7 +30950,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#dui",
+          "link": "irc://irc.w3.org/#dui",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -31023,7 +31025,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#bioschemas",
+          "link": "irc://irc.w3.org/#bioschemas",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -31078,7 +31080,7 @@
           "2019-03": 127,
           "2019-04": 140,
           "2019-05": 68,
-          "2019-06": 44
+          "2019-06": 45
         },
         "twitter": {
           "type": "twitter",
@@ -31140,7 +31142,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#opensci",
+          "link": "irc://irc.w3.org/#opensci",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -31206,7 +31208,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#licensed-content",
+          "link": "irc://irc.w3.org/#licensed-content",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -31268,7 +31270,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#webplatzh",
+          "link": "irc://irc.w3.org/#webplatzh",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -31369,7 +31371,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#silver",
+          "link": "irc://irc.w3.org/#silver",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -31384,7 +31386,7 @@
           }
         },
         "lists": {
-          "2019-06": 50,
+          "2019-06": 60,
           "2019-05": 53,
           "2019-04": 79,
           "2019-03": 64,
@@ -31489,7 +31491,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#xpath-next",
+          "link": "irc://irc.w3.org/#xpath-next",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -31552,7 +31554,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#physical-ledger",
+          "link": "irc://irc.w3.org/#physical-ledger",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -31626,7 +31628,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#mixedreality",
+          "link": "irc://irc.w3.org/#mixedreality",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -31727,7 +31729,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#decentralizdcomm",
+          "link": "irc://irc.w3.org/#decentralizdcomm",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
@@ -31793,7 +31795,7 @@
         },
         "chat": {
           "type": "chat",
-          "link": "irc://irc.w3.org:6667/#payments-commerce-a11y",
+          "link": "irc://irc.w3.org/#payments-commerce-a11y",
           "shortdesc": "IRC",
           "longdesc": "",
           "external": false,
