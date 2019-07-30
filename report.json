@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-07-29T15:03:45.721Z",
+  "timestamp": "2019-07-30T05:16:47.495Z",
   "data": [
     {
       "id": 100367,
@@ -432,7 +432,12 @@
       "chairs": [
         "Christopher Kalafarski"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -493,11 +498,15 @@
       "name": "XProc Next Community Group",
       "link": "https://www.w3.org/community/xproc-next/",
       "created": "2017-07-26T11:05:42.000Z",
-      "participants": 20,
+      "participants": 21,
       "chairs": [
         "Ari Nordström"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Carine Bournez"
+        }
+      ],
       "repositories": [
         "https://github.com/xproc/1.0-specification",
         "https://github.com/xproc/extensions",
@@ -579,7 +588,7 @@
           "2019-04": 77,
           "2019-05": 72,
           "2019-06": 146,
-          "2019-07": 201
+          "2019-07": 202
         },
         "join": {
           "2018-08": 1,
@@ -593,7 +602,7 @@
           "2019-04": 0,
           "2019-05": 0,
           "2019-06": 0,
-          "2019-07": 0
+          "2019-07": 1
         }
       }
     },
@@ -822,7 +831,24 @@
       "chairs": [
         "Sandro Hawke"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        },
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        },
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        },
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/credweb",
         "https://github.com/w3c/cred-claims",
@@ -1078,7 +1104,12 @@
       "chairs": [
         "Robert Sanderson"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chunming Hu",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -1227,7 +1258,12 @@
       "chairs": [
         "Marisa DeMeglio"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Ivan Herman",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/sync-media-pub"
       ],
@@ -1496,12 +1532,56 @@
       "name": "Inclusion and Diversity Community Group",
       "link": "https://www.w3.org/community/idcg/",
       "created": "2018-01-25T12:10:58.000Z",
-      "participants": 63,
+      "participants": 64,
       "chairs": [
         "Coralie Mercier",
         "Léonie Watson"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Coralie Mercier",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/851547a2a0c3-tn.jpg"
+        },
+        {
+          "name": "Carine Bournez"
+        },
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        },
+        {
+          "name": "Naomi Yoshizawa",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
+        },
+        {
+          "name": "Tanya Mandal",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/217zlc9w5llw-tn.jpg"
+        },
+        {
+          "name": "Amy van der Hiel",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1dd01jygpw68-tn.jpg"
+        },
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        },
+        {
+          "name": "Jeff Jaffe",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
+        },
+        {
+          "name": "Shadi Abou-Zahra",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Michael Cooper",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/idcg",
         "https://github.com/w3c/idcg/"
@@ -1581,7 +1661,7 @@
           "2019-04": 6,
           "2019-05": 0,
           "2019-06": 1,
-          "2019-07": 0
+          "2019-07": 1
         }
       }
     },
@@ -1727,7 +1807,16 @@
       "chairs": [
         "Nigel Megitt"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        },
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/adpt"
       ],
@@ -1882,7 +1971,16 @@
         "Bert Bos",
         "Axel Polleres"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Bert Bos",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1cft3mestp9c-tn.jpg"
+        },
+        {
+          "name": "Rigo Wenning",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2xhuxxdqss4k-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/dpvcg/extract-sheets",
         "https://github.com/dpvcg/dpv",
@@ -1922,7 +2020,7 @@
           }
         },
         "lists": {
-          "2019-07": 37,
+          "2019-07": 38,
           "2019-06": 37,
           "2019-05": 28,
           "2019-04": 114,
@@ -2005,7 +2103,12 @@
       "created": "2018-05-30T12:00:58.000Z",
       "participants": 12,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -2067,7 +2170,16 @@
       "chairs": [
         "Paola Di Maio"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Dave Raggett",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+        },
+        {
+          "name": "Joshue O Connor",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -2101,7 +2213,7 @@
           }
         },
         "lists": {
-          "2019-07": 61,
+          "2019-07": 62,
           "2019-06": 24,
           "2019-05": 24,
           "2019-04": 39,
@@ -2155,7 +2267,12 @@
         "Ruchi Permvattana",
         "Adam Sobieski"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Marie-Claire Forgue",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -2297,7 +2414,11 @@
       "created": "2018-07-24T15:35:12.000Z",
       "participants": 8,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Carine Bournez"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -2421,7 +2542,16 @@
       "chairs": [
         "Diksha Deo"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -2485,7 +2615,11 @@
       "chairs": [
         "Daniel Mekonnen"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Richard Ishida"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -2563,7 +2697,28 @@
       "chairs": [
         "Tzviya Siegman"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael Cooper",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+        },
+        {
+          "name": "Amy van der Hiel",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1dd01jygpw68-tn.jpg"
+        },
+        {
+          "name": "Ralph Swick",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1cyiyk0s3wcg-tn.jpg"
+        },
+        {
+          "name": "Jeff Jaffe",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
+        },
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/PWETF"
       ],
@@ -2663,7 +2818,12 @@
         "Philip Laszkowicz",
         "Mitzi László"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Eric Prud'hommeaux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/solid/solid-spec",
         "https://github.com/w3c/solid"
@@ -2764,7 +2924,20 @@
       "chairs": [
         "Anssi Kostiainen"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Joshue O Connor",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/webmachinelearning/charter",
         "https://github.com/webmachinelearning/webmachinelearning.github.io",
@@ -2854,7 +3027,12 @@
       "chairs": [
         "Dan Brickley"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/EasierRDF"
       ],
@@ -2933,7 +3111,12 @@
         "Mateus Teixeira",
         "Jeff Xu"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Ivan Herman",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/publishingcg",
         "https://github.com/w3c/publishingcg/"
@@ -3015,7 +3198,12 @@
         "Paul Adenot",
         "Matthew Paradis"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/WebAudio/web-audio-cg",
         "https://github.com/WebAudio/web-audio-cg/"
@@ -3100,7 +3288,19 @@
       "chairs": [
         "Samuel Petit"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Ivan Herman",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+        },
+        {
+          "name": "Naomi Yoshizawa",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
+        },
+        {
+          "name": "Carine Bournez"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/bdcoma-cg"
       ],
@@ -3263,7 +3463,16 @@
         "Dörthe Arndt",
         "William Van Woensel"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        },
+        {
+          "name": "Dave Raggett",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/N3"
       ],
@@ -3348,7 +3557,24 @@
       "chairs": [
         "Matthew King"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Shadi Abou-Zahra",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+        },
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        },
+        {
+          "name": "Michael Cooper",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+        },
+        {
+          "name": "Ted Guild",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -3552,7 +3778,7 @@
       "name": "Knowledge Graph Construction Community Group",
       "link": "https://www.w3.org/community/kg-construct/",
       "created": "2019-01-08T07:56:39.000Z",
-      "participants": 32,
+      "participants": 33,
       "chairs": [
         "Anastasia Dimou",
         "Alessandro Negro",
@@ -3624,7 +3850,7 @@
           "2019-04": 1,
           "2019-05": 3,
           "2019-06": 2,
-          "2019-07": 3
+          "2019-07": 4
         }
       }
     },
@@ -3844,7 +4070,16 @@
       "chairs": [
         "Neil Soiffer"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        },
+        {
+          "name": "Bert Bos",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1cft3mestp9c-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/mathml"
       ],
@@ -3880,7 +4115,7 @@
           }
         },
         "lists": {
-          "2019-07": 21,
+          "2019-07": 22,
           "2019-06": 18,
           "2019-05": 24,
           "2019-04": 25,
@@ -3977,7 +4212,12 @@
       "chairs": [
         "Amelia Bellamy-Royds"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/svg-cg/projects",
         "https://github.com/svg-cg/svg-cg.github.io",
@@ -4074,7 +4314,20 @@
       "created": "2019-02-13T18:17:49.000Z",
       "participants": 14,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael Cooper",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+        },
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -4137,7 +4390,16 @@
       "chairs": [
         "Nishant Shukla"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/conversational-interfaces/charter",
         "https://github.com/conversational-interfaces/pum",
@@ -4304,7 +4566,19 @@
       "chairs": [
         "Wilco Fiers"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Shadi Abou-Zahra",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+        },
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        },
+        {
+          "name": "Daniel Montalvo"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -4642,11 +4916,16 @@
       "name": "Semantic Industries Community Group",
       "link": "https://www.w3.org/community/semind/",
       "created": "2019-06-11T07:18:55.000Z",
-      "participants": 10,
+      "participants": 11,
       "chairs": [
         "Javad Chamanara"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Dave Raggett",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -4692,7 +4971,7 @@
           "2019-04": 0,
           "2019-05": 0,
           "2019-06": 7,
-          "2019-07": 3
+          "2019-07": 4
         }
       }
     },
@@ -4701,7 +4980,7 @@
       "name": "Digital Identity Community Group",
       "link": "https://www.w3.org/community/dic/",
       "created": "2019-06-20T14:07:36.000Z",
-      "participants": 13,
+      "participants": 14,
       "chairs": [
         "dongming bi",
         "Grant Hu"
@@ -4752,7 +5031,7 @@
           "2019-04": 0,
           "2019-05": 0,
           "2019-06": 6,
-          "2019-07": 7
+          "2019-07": 8
         }
       }
     },
@@ -4828,7 +5107,12 @@
         "Johannes Behr",
         "Kristian Sons"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "lists": {
@@ -4949,7 +5233,16 @@
       "chairs": [
         "Manu Sporny"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Dave Raggett",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+        },
+        {
+          "name": "Jun Murai",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/gfj329gotxws-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/web-payments/web-payments.org",
         "https://github.com/web-payments/minutes",
@@ -5185,7 +5478,12 @@
         "Víctor Rodríguez-Doncel",
         "Michael W Steidl"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Rigo Wenning",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2xhuxxdqss4k-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/odrl",
         "https://github.com/w3c/odrl/"
@@ -5375,7 +5673,31 @@
       "chairs": [
         "Ben Friedman"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Richard Ishida"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Marie-Claire Forgue",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
+        },
+        {
+          "name": "Shawn Henry",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+        },
+        {
+          "name": "J. Alan Bird",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/d06d3cc9dad4-tn.jpg"
+        },
+        {
+          "name": "Shadi Abou-Zahra",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -5743,7 +6065,11 @@
       "chairs": [
         "Melvin Carvalho"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Tim Berners-Lee"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -6550,7 +6876,11 @@
       "chairs": [
         "Robert Sanderson"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Carine Bournez"
+        }
+      ],
       "repositories": [
         "https://github.com/json-ld/json-ld.org",
         "https://github.com/json-ld/minutes",
@@ -6813,7 +7143,32 @@
       "chairs": [
         "Ian Jacobs"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Gerald Oskoboiny",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/753a9c392bef-tn.jpg"
+        },
+        {
+          "name": "Ian Jacobs",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/6f2027413ea9-tn.jpg"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Jean-Guilhem Rouel",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/520ff88cd8e0-tn.jpg"
+        },
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        },
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "lists": {
@@ -7251,7 +7606,20 @@
       "created": "2011-11-10T11:38:57.000Z",
       "participants": 97,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Philippe Le Hégaret",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+        },
+        {
+          "name": "Marie-Claire Forgue",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
+        },
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -7342,7 +7710,12 @@
       "chairs": [
         "David Singer"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/webvtt",
         "https://dvcs.w3.org/hg/text-tracks",
@@ -7611,7 +7984,12 @@
       "chairs": [
         "Molly Holzschlag"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Shawn Henry",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -7762,7 +8140,12 @@
       "chairs": [
         "Chris Lilley"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -7954,7 +8337,20 @@
       "chairs": [
         "John Resig"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Philippe Le Hégaret",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -8026,7 +8422,50 @@
       "chairs": [
         "David Singer"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Tim Berners-Lee"
+        },
+        {
+          "name": "Philippe Le Hégaret",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Carine Bournez"
+        },
+        {
+          "name": "Jeff Jaffe",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
+        },
+        {
+          "name": "Ralph Swick",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1cyiyk0s3wcg-tn.jpg"
+        },
+        {
+          "name": "Michael Cooper",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+        },
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        },
+        {
+          "name": "J. Alan Bird",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/d06d3cc9dad4-tn.jpg"
+        },
+        {
+          "name": "Fuqiao Xue",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
+        },
+        {
+          "name": "Naomi Yoshizawa",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/w3process",
         "https://github.com/w3c/w3process/"
@@ -8501,7 +8940,19 @@
       "chairs": [
         "kamran kordi"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Philipp Hoschka",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/c734aea52c64-tn.jpg"
+        },
+        {
+          "name": "Yves Lafon"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -8589,7 +9040,12 @@
       "chairs": [
         "Noemi Andrea"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "J. Alan Bird",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/d06d3cc9dad4-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -8742,7 +9198,12 @@
         "Charissa Ramirez",
         "Bruce Walker"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Shawn Henry",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -8835,7 +9296,12 @@
       "chairs": [
         "lissa coffey"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Marie-Claire Forgue",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -9045,7 +9511,12 @@
         "Paolo Ciccarese",
         "Robert Sanderson"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Ivan Herman",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -9186,7 +9657,12 @@
       "chairs": [
         "Julien Genestoux"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -9367,7 +9843,12 @@
         "Andreas Kuckartz",
         "Evan Prodromou"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -9486,7 +9967,12 @@
       "chairs": [
         "Henry Story"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://dvcs.w3.org/hg/WebID/"
       ],
@@ -9735,7 +10221,12 @@
       "chairs": [
         "Lucas Norri"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://dvcs.w3.org/hg/xml-er"
       ],
@@ -9823,7 +10314,12 @@
       "created": "2012-02-27T14:53:20.000Z",
       "participants": 48,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Ted Guild",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -10005,7 +10501,28 @@
       "chairs": [
         "Mathew Marquis"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        },
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/ResponsiveImagesCG/picture-element",
         "https://github.com/ResponsiveImagesCG/ri-usecases",
@@ -10293,7 +10810,12 @@
         "Eric Meyer",
         "Simon St.Laurent"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -10366,7 +10888,12 @@
       "chairs": [
         "Tony Graham"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Shawn Henry",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/pplcg/XSLTExtensions",
         "https://github.com/pplcg"
@@ -10649,7 +11176,7 @@
           }
         },
         "lists": {
-          "2019-07": 27,
+          "2019-07": 28,
           "2019-06": 18,
           "2019-05": 38,
           "2019-04": 55,
@@ -11008,7 +11535,11 @@
       "chairs": [
         "Manuel Tomas Carrasco Benitez"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Richard Ishida"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -11078,7 +11609,20 @@
       "chairs": [
         "Dominique Hazaël-Massieux"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Marie-Claire Forgue",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
+        },
+        {
+          "name": "Shawn Henry",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -11339,7 +11883,12 @@
       "chairs": [
         "Glen Shires"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Kazuyuki Ashimura",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/speech-api",
         "https://github.com/w3c/speech-api/"
@@ -11450,7 +11999,7 @@
           "2019-04": 0,
           "2019-05": 0,
           "2019-06": 0,
-          "2019-07": 7
+          "2019-07": 8
         },
         "join": {
           "2018-08": 3,
@@ -11477,7 +12026,16 @@
       "chairs": [
         "Jennison Asuncion"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Shawn Henry",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+        },
+        {
+          "name": "Shadi Abou-Zahra",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -11564,7 +12122,12 @@
       "chairs": [
         "Amadou Daffe"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Shadi Abou-Zahra",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -11839,7 +12402,12 @@
         "Ian Hickson",
         "Maciej Stachowiak"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "chat": {
@@ -12006,7 +12574,11 @@
         "Florent Georges",
         "Mohamed ZERGAOUI"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Carine Bournez"
+        }
+      ],
       "repositories": [
         "https://github.com/expath/expath-cg",
         "https://github.com/expath/expath-cg/"
@@ -12141,7 +12713,12 @@
       "created": "2012-08-20T16:08:19.000Z",
       "participants": 25,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -12279,7 +12856,16 @@
       "chairs": [
         "Alexandre Morgaut"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Xiaoqian Wu",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -12486,7 +13072,24 @@
         "Dan Brickley",
         "Marc Weber"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Gerald Oskoboiny",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/753a9c392bef-tn.jpg"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        },
+        {
+          "name": "Marie-Claire Forgue",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -13005,7 +13608,28 @@
       "chairs": [
         "Serge K. Keller"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Shawn Henry",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+        },
+        {
+          "name": "Shadi Abou-Zahra",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+        },
+        {
+          "name": "Michael Cooper",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -13718,7 +14342,12 @@
       "created": "2012-10-22T13:52:13.000Z",
       "participants": 13,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -13799,7 +14428,12 @@
       "chairs": [
         "Serge K. Keller"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Fuqiao Xue",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -14061,7 +14695,12 @@
       "chairs": [
         "Aubrey Rupp"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Karen Myers",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2lwapui9a9s0-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -14150,7 +14789,12 @@
       "created": "2012-11-11T10:31:13.000Z",
       "participants": 66,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/extensibleweb/prollyfill.org",
         "https://github.com/extensibleweb/webidl.js",
@@ -14893,7 +15537,20 @@
       "chairs": [
         "Shilpi Kapoor"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Shawn Henry",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+        },
+        {
+          "name": "Shadi Abou-Zahra",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+        },
+        {
+          "name": "Joshue O Connor",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -14994,7 +15651,12 @@
       "created": "2013-02-19T18:40:49.000Z",
       "participants": 13,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -15061,7 +15723,12 @@
       "chairs": [
         "Bart van Leeuwen"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Ted Guild",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -15431,7 +16098,20 @@
       "chairs": [
         "Wendy Seltzer"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        },
+        {
+          "name": "Jeff Jaffe",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
+        },
+        {
+          "name": "Philippe Le Hégaret",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -15712,7 +16392,12 @@
       "created": "2013-04-04T21:33:26.000Z",
       "participants": 16,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael Cooper",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -15903,7 +16588,11 @@
         "Jose Emilio Labra Gayo",
         "John McCrae"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Richard Ishida"
+        }
+      ],
       "repositories": [
         "https://github.com/bpmlod/report",
         "https://github.com/bpmlod"
@@ -16296,7 +16985,28 @@
       "chairs": [
         "Dave Raggett"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Dave Raggett",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+        },
+        {
+          "name": "Philipp Hoschka",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/c734aea52c64-tn.jpg"
+        },
+        {
+          "name": "Kazuyuki Ashimura",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -16405,7 +17115,12 @@
         "Markus Lanthaler",
         "Karol Szczepański"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chunming Hu",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/HydraCG/Specifications"
       ],
@@ -16743,7 +17458,12 @@
       "chairs": [
         "Fabio Paternò"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Dave Raggett",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -16823,7 +17543,12 @@
       "created": "2013-07-18T02:44:34.000Z",
       "participants": 43,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Shawn Henry",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/SVG-access-W3CG/new-note-draft",
         "https://github.com/SVG-access-W3CG/use-case-examples",
@@ -17068,7 +17793,15 @@
         "Jeanne Holm",
         "Tomasz Janowski"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        },
+        {
+          "name": "Carine Bournez"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -17240,7 +17973,12 @@
       "created": "2013-08-23T00:59:14.000Z",
       "participants": 6,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -17456,7 +18194,12 @@
       "created": "2013-09-02T15:49:09.000Z",
       "participants": 21,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -17524,7 +18267,24 @@
       "chairs": [
         "Xitong Huang"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Shawn Henry",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+        },
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        },
+        {
+          "name": "Shadi Abou-Zahra",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+        },
+        {
+          "name": "Ruoxi Ran",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2nbdactwejk0-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -17783,7 +18543,16 @@
         "Thomas Bergwinkl",
         "Ruben Verborgh"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        },
+        {
+          "name": "Eric Prud'hommeaux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/rdfjs/N3.js",
         "https://github.com/rdfjs/rdfjs.github.io",
@@ -17925,7 +18694,12 @@
       "chairs": [
         "Noemi Andrea"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Ted Guild",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "wiki": {
@@ -18010,7 +18784,12 @@
       "created": "2013-10-03T00:34:32.000Z",
       "participants": 5,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -18141,7 +18920,12 @@
       "created": "2013-10-08T15:20:21.000Z",
       "participants": 12,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -18274,7 +19058,12 @@
       "created": "2013-10-23T06:16:27.000Z",
       "participants": 11,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/HTMLSourcingInbandTracks"
       ],
@@ -18622,7 +19411,16 @@
       "chairs": [
         "Anssi Kostiainen"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Dave Raggett",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/webscreens/wg-charter",
         "https://github.com/webscreens/requestshowmedia",
@@ -18837,7 +19635,12 @@
       "created": "2013-11-15T09:09:23.000Z",
       "participants": 7,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -19247,7 +20050,15 @@
       "created": "2014-01-09T05:43:01.000Z",
       "participants": 31,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Xiaoqian Wu",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
+        },
+        {
+          "name": "Richard Ishida"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -19413,7 +20224,12 @@
       "chairs": [
         "Charles 'chaals' (McCathie) Nevile"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/W3CGHtmail/html-email-spec",
         "https://github.com/W3CGHtmail"
@@ -20034,7 +20850,20 @@
         "Bin Hu",
         "Chris Needham"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Kazuyuki Ashimura",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        },
+        {
+          "name": "Ted Guild",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/tvapi",
         "https://github.com/w3c/tvapi/"
@@ -20171,7 +21000,16 @@
       "chairs": [
         "Wilco Fiers"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Shadi Abou-Zahra",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+        },
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/act-rules/act-rules.github.io",
         "https://github.com/auto-wcag/auto-wcag/"
@@ -20356,7 +21194,12 @@
         "Herbert Van De Sompel",
         "Ryan Westphal"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Gerald Oskoboiny",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/753a9c392bef-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -20574,7 +21417,16 @@
         "Pieter Pauwels",
         "Georg Ferdinand Schneider"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        },
+        {
+          "name": "Ted Guild",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c-lbd-cg/lbd",
         "https://github.com/w3c-lbd-cg/bot",
@@ -20714,7 +21566,24 @@
       "chairs": [
         "Jeffrey Yasskin"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        },
+        {
+          "name": "Dave Raggett",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/WebBluetoothCG/web-bluetooth"
       ],
@@ -20920,7 +21789,7 @@
           }
         },
         "lists": {
-          "2019-07": 93,
+          "2019-07": 95,
           "2019-06": 63,
           "2019-05": 77,
           "2019-04": 170,
@@ -21021,7 +21890,15 @@
         "Thomas Bishop",
         "Richard Cook"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Richard Ishida"
+        },
+        {
+          "name": "Xiaoqian Wu",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -21394,7 +22271,12 @@
         "Alexandre Plennevaux",
         "Rémy Saint Cricq"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael Cooper",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -21528,7 +22410,12 @@
       "chairs": [
         "Xiaoru Yuan"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chunming Hu",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -21599,7 +22486,16 @@
       "chairs": [
         "Masataka Yakura"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Kazuyuki Ashimura",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
+        },
+        {
+          "name": "Naomi Yoshizawa",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -21668,7 +22564,24 @@
       "created": "2015-01-16T08:17:13.000Z",
       "participants": 11,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Philipp Hoschka",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/c734aea52c64-tn.jpg"
+        },
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        },
+        {
+          "name": "Dave Raggett",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -21809,7 +22722,16 @@
       "chairs": [
         "Ingar Arntzen"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/webtiming/timingobject",
         "https://github.com/webtiming/sequencer",
@@ -22204,7 +23126,12 @@
       "chairs": [
         "Anssi Kostiainen"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Kazuyuki Ashimura",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/web-nfc"
       ],
@@ -22419,7 +23346,20 @@
       "chairs": [
         "Dan Brickley"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Ivan Herman",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+        },
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        },
+        {
+          "name": "Jeff Jaffe",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/schemaorg/schemaorg",
         "https://github.com/schemaorg/"
@@ -22796,7 +23736,16 @@
         "David Sloan",
         "Mary Ziegler"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Shawn Henry",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+        },
+        {
+          "name": "Shadi Abou-Zahra",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -23164,7 +24113,16 @@
       "chairs": [
         "Ben Smith"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        },
+        {
+          "name": "Eric Prud'hommeaux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/WebAssembly/spec",
         "https://github.com/webassembly/spec"
@@ -23253,7 +24211,7 @@
           "2019-04": 23,
           "2019-05": 40,
           "2019-06": 13,
-          "2019-07": 15
+          "2019-07": 17
         },
         "join": {
           "2018-08": 16,
@@ -23281,7 +24239,12 @@
         "Florian Rivoal",
         "Andrey Rybka"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Philippe Le Hégaret",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/browserext/browserext.github.io",
         "https://github.com/browserext/browserext",
@@ -23701,7 +24664,12 @@
       "created": "2015-06-05T22:25:14.000Z",
       "participants": 12,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -23864,7 +24832,64 @@
         "Yoav Weiss",
         "Chris Wilson"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        },
+        {
+          "name": "Jeff Jaffe",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Philippe Le Hégaret",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+        },
+        {
+          "name": "Ivan Herman",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+        },
+        {
+          "name": "Michael Cooper",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+        },
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        },
+        {
+          "name": "Denis Ah-Kang",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1lyp7xowi4tc-tn.jpg"
+        },
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        },
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        },
+        {
+          "name": "Fuqiao Xue",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        },
+        {
+          "name": "Joshue O Connor",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
+        },
+        {
+          "name": "Naomi Yoshizawa",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/WICG/serial",
         "https://github.com/WICG/netinfo",
@@ -24007,7 +25032,7 @@
           }
         },
         "lists": {
-          "2019-07": 107,
+          "2019-07": 108,
           "2019-06": 129,
           "2019-05": 72,
           "2019-04": 141,
@@ -24048,7 +25073,7 @@
           "2019-04": 260,
           "2019-05": 314,
           "2019-06": 206,
-          "2019-07": 293
+          "2019-07": 299
         },
         "join": {
           "2018-08": 3,
@@ -24234,7 +25259,12 @@
         "Raúl García Castro",
         "Andrew Woods"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/ldp-next"
       ],
@@ -24419,7 +25449,19 @@
         "Adrian Holovaty",
         "Daniel Spreadbury"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Xiaoqian Wu",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
+        },
+        {
+          "name": "Michael Cooper",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+        },
+        {
+          "name": "Carine Bournez"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/musicxml",
         "https://github.com/w3c/mnx",
@@ -24951,7 +25993,24 @@
         "Xiaoxuan Kuang",
         "Kepeng Li"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        },
+        {
+          "name": "Xiaoqian Wu",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
+        },
+        {
+          "name": "Philippe Le Hégaret",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -25121,7 +26180,12 @@
       "chairs": [
         "Daniel Glazman"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -25253,7 +26317,12 @@
       "chairs": [
         "Jonathan Crossland"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -25691,7 +26760,12 @@
       "chairs": [
         "Tzviya Siegman"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Ivan Herman",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/scholarly-html"
       ],
@@ -25797,7 +26871,12 @@
       "created": "2015-12-04T00:05:36.000Z",
       "participants": 4,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -26120,7 +27199,12 @@
         "Dan Brickley",
         "Jeni Tennison"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Ivan Herman",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/csvw"
       ],
@@ -26488,7 +27572,20 @@
       "chairs": [
         "Trevor F. Smith"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        },
+        {
+          "name": "Atsushi Shimono",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5i44x764hick-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/immersive-web/webvr-polyfill",
         "https://github.com/immersive-web/webxr",
@@ -26517,6 +27614,7 @@
         "https://github.com/immersive-web/navigation",
         "https://github.com/immersive-web/real-world-geometry",
         "https://github.com/immersive-web/dom-overlays",
+        "https://github.com/immersive-web/webxr-gamepads",
         "https://github.com/immersive-web/"
       ],
       "activity": {
@@ -26578,7 +27676,7 @@
           "2019-04": 125,
           "2019-05": 134,
           "2019-06": 184,
-          "2019-07": 105
+          "2019-07": 110
         },
         "join": {
           "2018-08": 8,
@@ -26608,7 +27706,24 @@
         "Youngwhan Lee",
         "Michael Palage"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        },
+        {
+          "name": "Naomi Yoshizawa",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
+        },
+        {
+          "name": "Samuel Weiler",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/55wvo78r92o8-tn.jpg"
+        },
+        {
+          "name": "Chunming Hu",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/web-ledger",
         "https://github.com/w3c/blockchain"
@@ -26715,7 +27830,19 @@
         "David Rogers",
         "Wendy Seltzer"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        },
+        {
+          "name": "Rigo Wenning",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2xhuxxdqss4k-tn.jpg"
+        },
+        {
+          "name": "Carine Bournez"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -26948,7 +28075,7 @@
           }
         },
         "lists": {
-          "2019-07": 2,
+          "2019-07": 3,
           "2019-06": 7,
           "2019-05": 4,
           "2019-04": 3,
@@ -27063,7 +28190,16 @@
         "Peter Krautzberger",
         "Daniel Marques"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Ivan Herman",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+        },
+        {
+          "name": "Bert Bos",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1cft3mestp9c-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/mathonwebpages"
       ],
@@ -27466,7 +28602,12 @@
         "Marco Kerwitz",
         "Brian Susko"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Kazuyuki Ashimura",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/voiceinteraction",
         "https://github.com/w3c/voiceinteraction/"
@@ -27560,7 +28701,12 @@
       "chairs": [
         "Farhad Ameri"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Dave Raggett",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -27724,7 +28870,12 @@
       "chairs": [
         "Andy Seaborne"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Eric Prud'hommeaux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/sparql-exists"
       ],
@@ -28022,7 +29173,16 @@
         "John Luther",
         "John Riviello"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        },
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/webmediaapi",
         "https://github.com/w3c/webmediaguidelines",
@@ -28360,7 +29520,12 @@
       "chairs": [
         "Linda Toth"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Ian Jacobs",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/6f2027413ea9-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -28449,7 +29614,12 @@
         "Leonard Daly",
         "Shannon Norrell"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -28558,7 +29728,7 @@
           }
         },
         "lists": {
-          "2019-07": 9,
+          "2019-07": 10,
           "2019-06": 7,
           "2019-05": 7,
           "2019-04": 9,
@@ -28679,7 +29849,12 @@
         "Aaron Parecki",
         "Christopher Webber"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/swicg/general",
         "https://github.com/swicg"
@@ -28885,7 +30060,12 @@
       "chairs": [
         "Dimitris Kontokostas"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Eric Prud'hommeaux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/shexSpec/grammar",
         "https://github.com/shexSpec/shexspec.github.io",
@@ -29154,7 +30334,16 @@
       "chairs": [
         "Chris Lilley"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/ColorWeb-CG"
       ],
@@ -29418,7 +30607,20 @@
         "Tomoyuki Shimizu",
         "Yoshiro Yoneya"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        },
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/httpslocal/cg-charter",
         "https://github.com/httpslocal/usecases",
@@ -29525,7 +30727,16 @@
         "Rachel Comerford",
         "Dave Cramer"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Ivan Herman",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+        },
+        {
+          "name": "Fuqiao Xue",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/publ-cg",
         "https://github.com/w3c/publ-cg/"
@@ -29697,7 +30908,24 @@
         "Dean Jackson",
         "Corentin Wallez"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        },
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        },
+        {
+          "name": "Joshue O Connor",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/gpuweb/admin",
         "https://github.com/gpuweb/proposals",
@@ -29766,7 +30994,7 @@
           "2019-04": 37,
           "2019-05": 61,
           "2019-06": 77,
-          "2019-07": 52
+          "2019-07": 58
         },
         "join": {
           "2018-08": 5,
@@ -30249,7 +31477,24 @@
         "Shawn Lauriat",
         "Jeanne F Spellman"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael Cooper",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+        },
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+        },
+        {
+          "name": "Shadi Abou-Zahra",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+        },
+        {
+          "name": "Ruoxi Ran",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2nbdactwejk0-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/silver",
         "https://github.com/w3c/silver/"
@@ -30302,7 +31547,7 @@
           }
         },
         "lists": {
-          "2019-07": 67,
+          "2019-07": 70,
           "2019-06": 69,
           "2019-05": 53,
           "2019-04": 79,
@@ -30515,7 +31760,16 @@
       "chairs": [
         "Mark Pesce"
       ],
-      "staff": [],
+      "staff": [
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        }
+      ],
       "repositories": [
         "https://github.com/w3c/mixedreality"
       ],
@@ -30614,7 +31868,12 @@
       "created": "2017-03-24T12:52:07.000Z",
       "participants": 30,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
@@ -30675,7 +31934,12 @@
       "created": "2017-05-10T13:03:19.000Z",
       "participants": 11,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Michael Cooper",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
