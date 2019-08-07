@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-08-06T05:16:29.145Z",
+  "timestamp": "2019-08-07T05:16:39.491Z",
   "data": [
     {
       "id": 100367,
@@ -260,7 +260,7 @@
       "name": "Multidimensional Quality Metrics (MQM) Community Group",
       "link": "https://www.w3.org/community/mqmcg/",
       "created": "2017-06-22T12:03:59.000Z",
-      "participants": 15,
+      "participants": 16,
       "chairs": [
         "Arle Lommel",
         "Alan Melby"
@@ -329,7 +329,7 @@
           "2019-05": 0,
           "2019-06": 0,
           "2019-07": 0,
-          "2019-08": 0
+          "2019-08": 1
         }
       }
     },
@@ -588,7 +588,7 @@
           "2019-05": 72,
           "2019-06": 146,
           "2019-07": 202,
-          "2019-08": 49
+          "2019-08": 53
         },
         "join": {
           "2018-09": 0,
@@ -1967,7 +1967,7 @@
       "name": "Data Privacy Vocabularies and Controls Community Group",
       "link": "https://www.w3.org/community/dpvcg/",
       "created": "2018-05-24T10:23:18.000Z",
-      "participants": 47,
+      "participants": 48,
       "chairs": [
         "Bert Bos",
         "Axel Polleres"
@@ -1980,6 +1980,10 @@
         {
           "name": "Rigo Wenning",
           "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2xhuxxdqss4k-tn.jpg"
+        },
+        {
+          "name": "Ted Guild",
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
         }
       ],
       "repositories": [
@@ -2021,7 +2025,7 @@
           }
         },
         "lists": {
-          "2019-08": 1,
+          "2019-08": 4,
           "2019-07": 39,
           "2019-06": 37,
           "2019-05": 28,
@@ -2094,7 +2098,7 @@
           "2019-05": 1,
           "2019-06": 0,
           "2019-07": 1,
-          "2019-08": 0
+          "2019-08": 1
         }
       }
     },
@@ -2793,7 +2797,7 @@
           "2019-05": 5,
           "2019-06": 5,
           "2019-07": 12,
-          "2019-08": 0
+          "2019-08": 1
         },
         "join": {
           "2018-09": 12,
@@ -2981,7 +2985,7 @@
           }
         },
         "lists": {
-          "2019-08": 2,
+          "2019-08": 3,
           "2019-07": 1,
           "2019-06": 6,
           "2019-05": 8,
@@ -3614,7 +3618,7 @@
           }
         },
         "lists": {
-          "2019-08": 1,
+          "2019-08": 3,
           "2019-07": 10,
           "2019-06": 10,
           "2019-05": 16,
@@ -4122,7 +4126,7 @@
           }
         },
         "lists": {
-          "2019-08": 12,
+          "2019-08": 18,
           "2019-07": 22,
           "2019-06": 18,
           "2019-05": 24,
@@ -4188,7 +4192,7 @@
           "2019-08": 0
         },
         "lists": {
-          "2019-08": 11,
+          "2019-08": 18,
           "2019-07": 10,
           "2019-06": 31,
           "2019-05": 40,
@@ -4530,6 +4534,7 @@
           }
         },
         "lists": {
+          "2019-08": 2,
           "2019-07": 2,
           "2019-06": 1,
           "2019-05": 5,
@@ -4571,7 +4576,7 @@
       "name": "ACT Rules Community Group",
       "link": "https://www.w3.org/community/act-r/",
       "created": "2019-04-04T16:37:58.000Z",
-      "participants": 34,
+      "participants": 35,
       "chairs": [
         "Wilco Fiers"
       ],
@@ -4638,7 +4643,7 @@
           "2019-05": 5,
           "2019-06": 4,
           "2019-07": 4,
-          "2019-08": 1
+          "2019-08": 2
         }
       }
     },
@@ -4989,7 +4994,7 @@
       "name": "Digital Identity Community Group",
       "link": "https://www.w3.org/community/dic/",
       "created": "2019-06-20T14:07:36.000Z",
-      "participants": 14,
+      "participants": 15,
       "chairs": [
         "dongming bi",
         "Grant Hu"
@@ -5040,7 +5045,7 @@
           "2019-05": 0,
           "2019-06": 6,
           "2019-07": 8,
-          "2019-08": 0
+          "2019-08": 1
         }
       }
     },
@@ -5111,7 +5116,7 @@
       "name": "Design Tokens Community Group",
       "link": "https://www.w3.org/community/design-tokens/",
       "created": "2019-07-31T20:50:44.000Z",
-      "participants": 5,
+      "participants": 6,
       "chairs": [],
       "staff": [],
       "repositories": [
@@ -5177,7 +5182,7 @@
           "2019-05": 0,
           "2019-06": 0,
           "2019-07": 1,
-          "2019-08": 4
+          "2019-08": 5
         }
       }
     },
@@ -9653,6 +9658,7 @@
           }
         },
         "lists": {
+          "2019-08": 3,
           "2019-05": 7,
           "2019-04": 1,
           "2019-03": 2,
@@ -16649,7 +16655,7 @@
           "2019-05": 77,
           "2019-06": 78,
           "2019-07": 59,
-          "2019-08": 9
+          "2019-08": 26
         },
         "join": {
           "2018-09": 0,
@@ -19564,7 +19570,7 @@
           }
         },
         "lists": {
-          "2019-08": 1,
+          "2019-08": 6,
           "2019-06": 7,
           "2019-05": 64,
           "2019-04": 38,
@@ -19633,7 +19639,7 @@
           "2019-05": 35,
           "2019-06": 0,
           "2019-07": 0,
-          "2019-08": 2
+          "2019-08": 4
         },
         "join": {
           "2018-09": 0,
@@ -20750,7 +20756,7 @@
           "2019-05": 0,
           "2019-06": 0,
           "2019-07": 0,
-          "2019-08": 0
+          "2019-08": 6
         },
         "join": {
           "2018-09": 0,
@@ -21243,7 +21249,7 @@
           "2019-05": 158,
           "2019-06": 91,
           "2019-07": 130,
-          "2019-08": 14
+          "2019-08": 16
         },
         "tracker": {
           "type": "tracker",
@@ -21805,7 +21811,7 @@
       "name": "Credentials Community Group",
       "link": "https://www.w3.org/community/credentials/",
       "created": "2014-08-06T18:29:41.000Z",
-      "participants": 249,
+      "participants": 250,
       "chairs": [
         "Christopher Allen",
         "Joe Andrieu",
@@ -21968,7 +21974,7 @@
           "2019-05": 9,
           "2019-06": 11,
           "2019-07": 6,
-          "2019-08": 1
+          "2019-08": 2
         }
       }
     },
@@ -23214,7 +23220,7 @@
       "name": "Web NFC Community Group",
       "link": "https://www.w3.org/community/web-nfc/",
       "created": "2015-03-12T15:08:15.000Z",
-      "participants": 30,
+      "participants": 29,
       "chairs": [
         "Anssi Kostiainen"
       ],
@@ -23259,7 +23265,7 @@
           }
         },
         "lists": {
-          "2019-08": 108,
+          "2019-08": 136,
           "2019-07": 61,
           "2019-06": 65,
           "2019-05": 52,
@@ -23333,7 +23339,7 @@
           "2019-04": 2,
           "2019-05": 0,
           "2019-06": 0,
-          "2019-07": 1,
+          "2019-07": 0,
           "2019-08": 0
         }
       }
@@ -25166,7 +25172,7 @@
           "2019-05": 311,
           "2019-06": 197,
           "2019-07": 305,
-          "2019-08": 38
+          "2019-08": 45
         },
         "join": {
           "2018-09": 5,
@@ -25949,7 +25955,7 @@
       "name": "Interledger Payments Community Group",
       "link": "https://www.w3.org/community/interledger/",
       "created": "2015-10-06T14:39:16.000Z",
-      "participants": 368,
+      "participants": 369,
       "chairs": [
         "Dimitri De Jonghe"
       ],
@@ -26001,6 +26007,7 @@
           }
         },
         "lists": {
+          "2019-08": 1,
           "2019-07": 2,
           "2019-06": 2,
           "2019-05": 5,
@@ -26059,7 +26066,7 @@
           "2019-05": 27,
           "2019-06": 25,
           "2019-07": 12,
-          "2019-08": 2
+          "2019-08": 5
         },
         "join": {
           "2018-09": 7,
@@ -26073,7 +26080,7 @@
           "2019-05": 0,
           "2019-06": 1,
           "2019-07": 3,
-          "2019-08": 0
+          "2019-08": 1
         }
       }
     },
@@ -27772,7 +27779,7 @@
           "2019-05": 134,
           "2019-06": 184,
           "2019-07": 122,
-          "2019-08": 25
+          "2019-08": 30
         },
         "join": {
           "2018-09": 6,
@@ -28106,6 +28113,7 @@
         "https://github.com/openactive/openactive.github.io",
         "https://github.com/openactive/open-booking-api",
         "https://github.com/openactive/validator-test-json",
+        "https://github.com/openactive/openactive-es-example",
         "https://github.com/openactive/developer-microsite",
         "https://github.com/openactive/data-model-validator",
         "https://github.com/openactive/data-model-validator-site",
@@ -28234,7 +28242,7 @@
           "2019-05": 28,
           "2019-06": 19,
           "2019-07": 50,
-          "2019-08": 6
+          "2019-08": 7
         },
         "tracker": {
           "type": "tracker",
@@ -29876,7 +29884,7 @@
       "name": "Video Game Schema Community Group",
       "link": "https://www.w3.org/community/videogameschema/",
       "created": "2016-11-17T14:36:02.000Z",
-      "participants": 7,
+      "participants": 8,
       "chairs": [
         "Aaron Bradley"
       ],
@@ -29932,7 +29940,7 @@
           "2019-05": 0,
           "2019-06": 0,
           "2019-07": 0,
-          "2019-08": 0
+          "2019-08": 1
         }
       }
     },
@@ -30088,7 +30096,7 @@
       "name": "SKOS and OWL for Interoperabilty Community Group",
       "link": "https://www.w3.org/community/skosowlinterop/",
       "created": "2016-12-02T20:19:23.000Z",
-      "participants": 15,
+      "participants": 16,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -30144,7 +30152,7 @@
           "2019-05": 0,
           "2019-06": 0,
           "2019-07": 0,
-          "2019-08": 0
+          "2019-08": 1
         }
       }
     },
@@ -30870,7 +30878,7 @@
           }
         },
         "lists": {
-          "2019-08": 1,
+          "2019-08": 2,
           "2019-07": 18,
           "2019-06": 15,
           "2019-05": 88,
@@ -30912,7 +30920,7 @@
           "2019-05": 5,
           "2019-06": 6,
           "2019-07": 2,
-          "2019-08": 0
+          "2019-08": 7
         },
         "join": {
           "2018-09": 5,
@@ -31001,7 +31009,7 @@
       "name": "GPU for the Web Community Group",
       "link": "https://www.w3.org/community/gpu/",
       "created": "2017-02-08T00:01:00.000Z",
-      "participants": 142,
+      "participants": 144,
       "chairs": [
         "Dean Jackson",
         "Corentin Wallez"
@@ -31050,7 +31058,7 @@
           "2019-08": 0
         },
         "lists": {
-          "2019-08": 4,
+          "2019-08": 14,
           "2019-07": 13,
           "2019-06": 5,
           "2019-05": 5,
@@ -31094,7 +31102,7 @@
           "2019-05": 61,
           "2019-06": 80,
           "2019-07": 84,
-          "2019-08": 16
+          "2019-08": 24
         },
         "join": {
           "2018-09": 2,
@@ -31108,7 +31116,7 @@
           "2019-05": 3,
           "2019-06": 2,
           "2019-07": 2,
-          "2019-08": 1
+          "2019-08": 3
         }
       }
     },
@@ -31266,7 +31274,6 @@
         "https://github.com/BioSchemas/schemaorg",
         "https://github.com/BioSchemas/bioschemas-goweb",
         "https://github.com/BioSchemas/bioschemas-protein-render",
-        "",
         "https://github.com/bioschemas"
       ],
       "activity": {
@@ -31573,7 +31580,7 @@
       "name": "Silver Community Group",
       "link": "https://www.w3.org/community/silver/",
       "created": "2017-03-03T00:00:42.000Z",
-      "participants": 128,
+      "participants": 129,
       "chairs": [
         "Shawn Lauriat",
         "Jeanne F Spellman"
@@ -31648,7 +31655,7 @@
           }
         },
         "lists": {
-          "2019-08": 7,
+          "2019-08": 11,
           "2019-07": 72,
           "2019-06": 69,
           "2019-05": 53,
@@ -31723,7 +31730,7 @@
           "2019-05": 2,
           "2019-06": 0,
           "2019-07": 1,
-          "2019-08": 0
+          "2019-08": 1
         }
       }
     },
