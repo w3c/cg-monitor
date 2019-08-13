@@ -202,7 +202,7 @@ recursiveW3cFetch('https://api.w3.org/affiliations/52794/participants?embed=1', 
     return recursiveW3cFetch('https://api.w3.org/groups?embed=1', 'groups');
   }, err => console.error(err))
   .then(groups => {
-    const communitygroups = groups.filter(g => g.type === 'community group' && !g['is-closed']) ;
+    const communitygroups = groups.filter(g => g.type === 'community group' && !g['is_closed']) ;
     communitygroups
       .filter(g => process.argv.length > 2 ? process.argv.map(x => parseInt(x, 10)).includes(g.id) : true)
       .map(
