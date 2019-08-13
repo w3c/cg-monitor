@@ -1,82 +1,6 @@
 {
-  "timestamp": "2019-08-13T09:40:30.380Z",
+  "timestamp": "2019-08-13T10:27:51.970Z",
   "data": [
-    {
-      "id": 100367,
-      "name": "RSocket Protocol Specification Community Group",
-      "link": "https://www.w3.org/community/rsocket/",
-      "created": "2017-06-20T16:21:07.000Z",
-      "participants": 3,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#rsocket",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/9367"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/9367/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-12": 1,
-          "2018-11": 4,
-          "2018-10": 7,
-          "2018-09": 1,
-          "2018-08": 3,
-          "2018-07": 3,
-          "2018-05": 3,
-          "2018-04": 1,
-          "2018-03": 1,
-          "2018-01": 6,
-          "2017-12": 1,
-          "2017-11": 6,
-          "2017-10": 3,
-          "2017-08": 1,
-          "2017-07": 6,
-          "2017-06": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
     {
       "id": 100368,
       "name": "SHACL Community Group",
@@ -435,7 +359,7 @@
       "staff": [
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         }
       ],
       "repositories": [],
@@ -834,19 +758,19 @@
       "staff": [
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         },
         {
           "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         },
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         },
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         }
       ],
       "repositories": [
@@ -1107,7 +1031,7 @@
       "staff": [
         {
           "name": "Chunming Hu",
-          "photo": "https://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
         }
       ],
       "repositories": [],
@@ -1189,68 +1113,6 @@
       }
     },
     {
-      "id": 103494,
-      "name": "Web Commerce Community Group",
-      "link": "https://www.w3.org/community/web-commerce/",
-      "created": "2017-11-23T23:17:39.000Z",
-      "participants": 4,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#web-commerce",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/12261"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/12261/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 1,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
       "id": 104525,
       "name": "Synchronized Multimedia for Publications Community Group",
       "link": "https://www.w3.org/community/sync-media-pub/",
@@ -1262,7 +1124,7 @@
       "staff": [
         {
           "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
       "repositories": [
@@ -1331,68 +1193,6 @@
           "2018-12": 0,
           "2019-01": 0,
           "2019-02": 2,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 104761,
-      "name": "Process Ontology Community Group",
-      "link": "https://www.w3.org/community/pronto/",
-      "created": "2018-01-19T19:04:28.000Z",
-      "participants": 4,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#pronto",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/12280"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/12280/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
@@ -1541,46 +1341,46 @@
       "staff": [
         {
           "name": "Coralie Mercier",
-          "photo": "https://www.w3.org/2006/05/u/851547a2a0c3-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/851547a2a0c3-tn.jpg"
         },
         {
           "name": "Carine Bournez"
         },
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         },
         {
           "name": "Naomi Yoshizawa",
-          "photo": "https://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
         },
         {
           "name": "Tanya Mandal",
-          "photo": "https://www.w3.org/2006/05/u/217zlc9w5llw-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/217zlc9w5llw-tn.jpg"
         },
         {
           "name": "Amy van der Hiel",
-          "photo": "https://www.w3.org/2006/05/u/1dd01jygpw68-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1dd01jygpw68-tn.jpg"
         },
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         },
         {
           "name": "Jeff Jaffe",
-          "photo": "https://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
         },
         {
           "name": "Shadi Abou-Zahra",
-          "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         },
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         }
       ],
       "repositories": [
@@ -1811,11 +1611,11 @@
       "staff": [
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         },
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         }
       ],
       "repositories": [
@@ -1977,15 +1777,15 @@
       "staff": [
         {
           "name": "Bert Bos",
-          "photo": "https://www.w3.org/2006/05/u/1cft3mestp9c-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1cft3mestp9c-tn.jpg"
         },
         {
           "name": "Rigo Wenning",
-          "photo": "https://www.w3.org/2006/05/u/2xhuxxdqss4k-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2xhuxxdqss4k-tn.jpg"
         },
         {
           "name": "Ted Guild",
-          "photo": "https://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
         }
       ],
       "repositories": [
@@ -2114,7 +1914,7 @@
       "staff": [
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         }
       ],
       "repositories": [],
@@ -2181,11 +1981,11 @@
       "staff": [
         {
           "name": "Dave Raggett",
-          "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         },
         {
           "name": "Joshue O Connor",
-          "photo": "https://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
         }
       ],
       "repositories": [],
@@ -2279,7 +2079,7 @@
       "staff": [
         {
           "name": "Marie-Claire Forgue",
-          "photo": "https://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
         }
       ],
       "repositories": [],
@@ -2347,68 +2147,6 @@
           "2019-02": 3,
           "2019-03": 0,
           "2019-04": 1,
-          "2019-05": 1,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 108447,
-      "name": "Semantic Bridge Community Group",
-      "link": "https://www.w3.org/community/smarg/",
-      "created": "2018-07-16T18:28:33.000Z",
-      "participants": 3,
-      "chairs": [
-        "Fangzheng Lin"
-      ],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#smarg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/13816"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/13816/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
           "2019-05": 1,
           "2019-06": 0,
           "2019-07": 0,
@@ -2554,11 +2292,11 @@
       "staff": [
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         },
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         }
       ],
       "repositories": [],
@@ -2709,23 +2447,23 @@
       "staff": [
         {
           "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         },
         {
           "name": "Amy van der Hiel",
-          "photo": "https://www.w3.org/2006/05/u/1dd01jygpw68-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1dd01jygpw68-tn.jpg"
         },
         {
           "name": "Ralph Swick",
-          "photo": "https://www.w3.org/2006/05/u/1cyiyk0s3wcg-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1cyiyk0s3wcg-tn.jpg"
         },
         {
           "name": "Jeff Jaffe",
-          "photo": "https://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
         },
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         }
       ],
       "repositories": [
@@ -2831,7 +2569,7 @@
       "staff": [
         {
           "name": "Eric Prud'hommeaux",
-          "photo": "https://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
         }
       ],
       "repositories": [
@@ -2938,15 +2676,15 @@
       "staff": [
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         },
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "Joshue O Connor",
-          "photo": "https://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
         }
       ],
       "repositories": [
@@ -3042,7 +2780,7 @@
       "staff": [
         {
           "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
       "repositories": [
@@ -3126,7 +2864,7 @@
       "staff": [
         {
           "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
       "repositories": [
@@ -3213,7 +2951,7 @@
       "staff": [
         {
           "name": "Chris Lilley",
-          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
       "repositories": [
@@ -3304,11 +3042,11 @@
       "staff": [
         {
           "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         },
         {
           "name": "Naomi Yoshizawa",
-          "photo": "https://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
         },
         {
           "name": "Carine Bournez"
@@ -3479,11 +3217,11 @@
       "staff": [
         {
           "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         },
         {
           "name": "Dave Raggett",
-          "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         }
       ],
       "repositories": [
@@ -3575,19 +3313,19 @@
       "staff": [
         {
           "name": "Shadi Abou-Zahra",
-          "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         },
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         },
         {
           "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         },
         {
           "name": "Ted Guild",
-          "photo": "https://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
         }
       ],
       "repositories": [],
@@ -4089,11 +3827,11 @@
       "staff": [
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         },
         {
           "name": "Bert Bos",
-          "photo": "https://www.w3.org/2006/05/u/1cft3mestp9c-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1cft3mestp9c-tn.jpg"
         }
       ],
       "repositories": [
@@ -4233,7 +3971,7 @@
       "staff": [
         {
           "name": "Chris Lilley",
-          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
       "repositories": [
@@ -4335,15 +4073,15 @@
       "staff": [
         {
           "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         },
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         },
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
       "repositories": [],
@@ -4411,11 +4149,11 @@
       "staff": [
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         },
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
       "repositories": [
@@ -4588,11 +4326,11 @@
       "staff": [
         {
           "name": "Shadi Abou-Zahra",
-          "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         },
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         },
         {
           "name": "Daniel Montalvo"
@@ -4943,7 +4681,7 @@
       "staff": [
         {
           "name": "Dave Raggett",
-          "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         }
       ],
       "repositories": [],
@@ -5205,7 +4943,7 @@
       "staff": [
         {
           "name": "Chris Lilley",
-          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
       "repositories": [],
@@ -5331,11 +5069,11 @@
       "staff": [
         {
           "name": "Dave Raggett",
-          "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         },
         {
           "name": "Jun Murai",
-          "photo": "https://www.w3.org/2006/05/u/gfj329gotxws-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/gfj329gotxws-tn.jpg"
         }
       ],
       "repositories": [
@@ -5577,7 +5315,7 @@
       "staff": [
         {
           "name": "Rigo Wenning",
-          "photo": "https://www.w3.org/2006/05/u/2xhuxxdqss4k-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2xhuxxdqss4k-tn.jpg"
         }
       ],
       "repositories": [
@@ -5776,23 +5514,23 @@
         },
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "Marie-Claire Forgue",
-          "photo": "https://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
         },
         {
           "name": "Shawn Henry",
-          "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         },
         {
           "name": "J. Alan Bird",
-          "photo": "https://www.w3.org/2006/05/u/d06d3cc9dad4-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/d06d3cc9dad4-tn.jpg"
         },
         {
           "name": "Shadi Abou-Zahra",
-          "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         }
       ],
       "repositories": [],
@@ -7245,27 +6983,27 @@
       "staff": [
         {
           "name": "Gerald Oskoboiny",
-          "photo": "https://www.w3.org/2006/05/u/753a9c392bef-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/753a9c392bef-tn.jpg"
         },
         {
           "name": "Ian Jacobs",
-          "photo": "https://www.w3.org/2006/05/u/6f2027413ea9-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/6f2027413ea9-tn.jpg"
         },
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "Jean-Guilhem Rouel",
-          "photo": "https://www.w3.org/2006/05/u/520ff88cd8e0-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/520ff88cd8e0-tn.jpg"
         },
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         },
         {
           "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
       "repositories": [],
@@ -7709,15 +7447,15 @@
       "staff": [
         {
           "name": "Philippe Le Hégaret",
-          "photo": "https://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
         },
         {
           "name": "Marie-Claire Forgue",
-          "photo": "https://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
         },
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         }
       ],
       "repositories": [],
@@ -7813,7 +7551,7 @@
       "staff": [
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         }
       ],
       "repositories": [
@@ -8087,7 +7825,7 @@
       "staff": [
         {
           "name": "Shawn Henry",
-          "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         }
       ],
       "repositories": [],
@@ -8243,7 +7981,7 @@
       "staff": [
         {
           "name": "Chris Lilley",
-          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
       "repositories": [],
@@ -8441,15 +8179,15 @@
       "staff": [
         {
           "name": "Philippe Le Hégaret",
-          "photo": "https://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
         },
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         }
       ],
       "repositories": [],
@@ -8529,42 +8267,42 @@
         },
         {
           "name": "Philippe Le Hégaret",
-          "photo": "https://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
         },
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "Carine Bournez"
         },
         {
           "name": "Jeff Jaffe",
-          "photo": "https://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
         },
         {
           "name": "Ralph Swick",
-          "photo": "https://www.w3.org/2006/05/u/1cyiyk0s3wcg-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1cyiyk0s3wcg-tn.jpg"
         },
         {
           "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         },
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         },
         {
           "name": "J. Alan Bird",
-          "photo": "https://www.w3.org/2006/05/u/d06d3cc9dad4-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/d06d3cc9dad4-tn.jpg"
         },
         {
           "name": "Fuqiao Xue",
-          "photo": "https://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
         },
         {
           "name": "Naomi Yoshizawa",
-          "photo": "https://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
         }
       ],
       "repositories": [
@@ -9045,14 +8783,14 @@
       "staff": [
         {
           "name": "Philipp Hoschka",
-          "photo": "https://www.w3.org/2006/05/u/c734aea52c64-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/c734aea52c64-tn.jpg"
         },
         {
           "name": "Yves Lafon"
         },
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         }
       ],
       "repositories": [],
@@ -9145,7 +8883,7 @@
       "staff": [
         {
           "name": "J. Alan Bird",
-          "photo": "https://www.w3.org/2006/05/u/d06d3cc9dad4-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/d06d3cc9dad4-tn.jpg"
         }
       ],
       "repositories": [],
@@ -9303,7 +9041,7 @@
       "staff": [
         {
           "name": "Shawn Henry",
-          "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         }
       ],
       "repositories": [],
@@ -9401,7 +9139,7 @@
       "staff": [
         {
           "name": "Marie-Claire Forgue",
-          "photo": "https://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
         }
       ],
       "repositories": [],
@@ -9534,76 +9272,6 @@
       }
     },
     {
-      "id": 51312,
-      "name": "Web Test Automation Community Group",
-      "link": "https://www.w3.org/community/autowebtest/",
-      "created": "2011-12-12T08:36:37.000Z",
-      "participants": 10,
-      "chairs": [
-        "lissa coffey"
-      ],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#autowebtest",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/858"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/858/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1,
-          "2012-09": 1,
-          "2012-08": 1,
-          "2012-03": 2,
-          "2011-12": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
       "id": 51318,
       "name": "Open Annotation Community Group",
       "link": "https://www.w3.org/community/openannotation/",
@@ -9616,7 +9284,7 @@
       "staff": [
         {
           "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
       "repositories": [],
@@ -9752,316 +9420,6 @@
       }
     },
     {
-      "id": 51795,
-      "name": "PubSubHubbub Community Group",
-      "link": "https://www.w3.org/community/pubsub/",
-      "created": "2012-01-13T18:33:52.000Z",
-      "participants": 44,
-      "chairs": [
-        "Julien Genestoux"
-      ],
-      "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        }
-      ],
-      "repositories": [],
-      "activity": {
-        "wiki": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#pubsub",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/890"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/890/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1,
-          "2015-03": 15,
-          "2014-12": 1,
-          "2014-05": 2,
-          "2014-03": 3,
-          "2013-06": 6,
-          "2012-09": 3,
-          "2012-08": 12,
-          "2012-06": 9,
-          "2012-04": 2,
-          "2012-01": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 1,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 51796,
-      "name": "OStatus Community Group",
-      "link": "https://www.w3.org/community/ostatus/",
-      "created": "2012-02-14T05:41:29.000Z",
-      "participants": 32,
-      "chairs": [
-        "Evan Prodromou"
-      ],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "wiki": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#ostatus",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/896"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/896/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 3,
-          "2018-03": 1,
-          "2017-04": 2,
-          "2016-03": 1,
-          "2016-01": 1,
-          "2015-12": 1,
-          "2015-10": 5,
-          "2015-05": 1,
-          "2015-01": 2,
-          "2013-06": 1,
-          "2012-09": 5,
-          "2012-04": 7,
-          "2012-02": 3,
-          "2012-01": 3
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 51813,
-      "name": "Federated Social Web Community Group",
-      "link": "https://www.w3.org/community/fedsocweb/",
-      "created": "2012-01-13T10:06:03.000Z",
-      "participants": 124,
-      "chairs": [
-        "Andreas Kuckartz",
-        "Evan Prodromou"
-      ],
-      "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        }
-      ],
-      "repositories": [],
-      "activity": {
-        "wiki": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#fedsocweb",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/902"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/902/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-12": 1,
-          "2016-05": 1,
-          "2016-03": 1,
-          "2016-01": 2,
-          "2015-06": 1,
-          "2015-03": 1,
-          "2015-02": 3,
-          "2014-12": 4,
-          "2014-11": 5,
-          "2014-10": 3,
-          "2014-09": 2,
-          "2014-08": 27,
-          "2014-07": 17,
-          "2014-06": 8,
-          "2014-05": 14,
-          "2014-04": 5,
-          "2014-03": 14,
-          "2014-02": 50,
-          "2014-01": 7,
-          "2013-12": 8,
-          "2013-11": 19,
-          "2013-10": 9,
-          "2013-09": 11,
-          "2013-08": 15,
-          "2013-07": 88,
-          "2013-06": 227,
-          "2013-05": 103,
-          "2013-03": 2,
-          "2013-02": 23,
-          "2013-01": 1,
-          "2012-12": 4,
-          "2012-11": 36,
-          "2012-10": 49,
-          "2012-09": 99,
-          "2012-08": 9,
-          "2012-07": 180,
-          "2012-06": 1,
-          "2012-05": 9,
-          "2012-04": 1,
-          "2012-02": 1,
-          "2012-01": 2
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 2,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 1,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 1,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
       "id": 51933,
       "name": "WebID Community Group",
       "link": "https://www.w3.org/community/webid/",
@@ -10073,7 +9431,7 @@
       "staff": [
         {
           "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
       "repositories": [
@@ -10327,7 +9685,7 @@
       "staff": [
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         }
       ],
       "repositories": [
@@ -10420,7 +9778,7 @@
       "staff": [
         {
           "name": "Ted Guild",
-          "photo": "https://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
         }
       ],
       "repositories": [],
@@ -10607,23 +9965,23 @@
       "staff": [
         {
           "name": "Chris Lilley",
-          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         },
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         },
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         },
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         }
       ],
       "repositories": [
@@ -10916,7 +10274,7 @@
       "staff": [
         {
           "name": "Chris Lilley",
-          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
       "repositories": [],
@@ -10994,7 +10352,7 @@
       "staff": [
         {
           "name": "Shawn Henry",
-          "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         }
       ],
       "repositories": [
@@ -11549,88 +10907,6 @@
       }
     },
     {
-      "id": 53645,
-      "name": "ActivityPub Community Group",
-      "link": "https://www.w3.org/community/activitypub/",
-      "created": "2012-03-19T17:44:57.000Z",
-      "participants": 26,
-      "chairs": [
-        "Evan Prodromou"
-      ],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "wiki": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#activitypub",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1029"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1029/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1,
-          "2012-09": 1,
-          "2012-03": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 1,
-          "2018-11": 0,
-          "2018-12": 1,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 1,
-          "2019-05": 1,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
       "id": 53711,
       "name": "Multilingual Web Sites Community Group",
       "link": "https://www.w3.org/community/mws/",
@@ -11716,15 +10992,15 @@
       "staff": [
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "Marie-Claire Forgue",
-          "photo": "https://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
         },
         {
           "name": "Shawn Henry",
-          "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         }
       ],
       "repositories": [],
@@ -11990,7 +11266,7 @@
       "staff": [
         {
           "name": "Kazuyuki Ashimura",
-          "photo": "https://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
         }
       ],
       "repositories": [
@@ -12133,11 +11409,11 @@
       "staff": [
         {
           "name": "Shawn Henry",
-          "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         },
         {
           "name": "Shadi Abou-Zahra",
-          "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         }
       ],
       "repositories": [],
@@ -12229,7 +11505,7 @@
       "staff": [
         {
           "name": "Shadi Abou-Zahra",
-          "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         }
       ],
       "repositories": [],
@@ -12509,7 +11785,7 @@
       "staff": [
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         }
       ],
       "repositories": [],
@@ -12820,7 +12096,7 @@
       "staff": [
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         }
       ],
       "repositories": [],
@@ -12961,11 +12237,11 @@
       "staff": [
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "Xiaoqian Wu",
-          "photo": "https://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
         }
       ],
       "repositories": [],
@@ -13177,19 +12453,19 @@
       "staff": [
         {
           "name": "Gerald Oskoboiny",
-          "photo": "https://www.w3.org/2006/05/u/753a9c392bef-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/753a9c392bef-tn.jpg"
         },
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         },
         {
           "name": "Marie-Claire Forgue",
-          "photo": "https://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
         }
       ],
       "repositories": [],
@@ -13713,23 +12989,23 @@
       "staff": [
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         },
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "Shawn Henry",
-          "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         },
         {
           "name": "Shadi Abou-Zahra",
-          "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         },
         {
           "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         }
       ],
       "repositories": [],
@@ -14447,7 +13723,7 @@
       "staff": [
         {
           "name": "Chris Lilley",
-          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
       "repositories": [],
@@ -14513,102 +13789,6 @@
           "2019-01": 0,
           "2019-02": 0,
           "2019-03": 1,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 58744,
-      "name": "Markdown Community Group",
-      "link": "https://www.w3.org/community/markdown/",
-      "created": "2012-11-06T10:11:39.000Z",
-      "participants": 74,
-      "chairs": [
-        "Serge K. Keller"
-      ],
-      "staff": [
-        {
-          "name": "Fuqiao Xue",
-          "photo": "https://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
-        }
-      ],
-      "repositories": [],
-      "activity": {
-        "wiki": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#markdown",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1305"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1305/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1,
-          "2014-11": 4,
-          "2014-09": 1,
-          "2014-07": 6,
-          "2014-03": 1,
-          "2014-02": 1,
-          "2013-10": 11,
-          "2013-04": 1,
-          "2013-02": 1,
-          "2012-12": 19,
-          "2012-11": 413,
-          "2012-10": 5
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
           "2019-06": 0,
@@ -14800,7 +13980,7 @@
       "staff": [
         {
           "name": "Karen Myers",
-          "photo": "https://www.w3.org/2006/05/u/2lwapui9a9s0-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2lwapui9a9s0-tn.jpg"
         }
       ],
       "repositories": [],
@@ -14894,7 +14074,7 @@
       "staff": [
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         }
       ],
       "repositories": [
@@ -15643,15 +14823,15 @@
       "staff": [
         {
           "name": "Shawn Henry",
-          "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         },
         {
           "name": "Shadi Abou-Zahra",
-          "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         },
         {
           "name": "Joshue O Connor",
-          "photo": "https://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
         }
       ],
       "repositories": [],
@@ -15757,7 +14937,7 @@
       "staff": [
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         }
       ],
       "repositories": [],
@@ -15829,7 +15009,7 @@
       "staff": [
         {
           "name": "Ted Guild",
-          "photo": "https://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
         }
       ],
       "repositories": [],
@@ -16204,15 +15384,15 @@
       "staff": [
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         },
         {
           "name": "Jeff Jaffe",
-          "photo": "https://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
         },
         {
           "name": "Philippe Le Hégaret",
-          "photo": "https://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
         }
       ],
       "repositories": [],
@@ -16483,76 +15663,6 @@
           "2019-04": 0,
           "2019-05": 1,
           "2019-06": 1,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 62455,
-      "name": "Web MIDI Community Group",
-      "link": "https://www.w3.org/community/webmidi/",
-      "created": "2013-04-04T21:33:26.000Z",
-      "participants": 16,
-      "chairs": [],
-      "staff": [
-        {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
-        }
-      ],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webmidi",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1480"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1480/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1,
-          "2015-03": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0
         }
@@ -17091,23 +16201,23 @@
       "staff": [
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "Dave Raggett",
-          "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         },
         {
           "name": "Philipp Hoschka",
-          "photo": "https://www.w3.org/2006/05/u/c734aea52c64-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/c734aea52c64-tn.jpg"
         },
         {
           "name": "Kazuyuki Ashimura",
-          "photo": "https://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
         },
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
       "repositories": [],
@@ -17221,7 +16331,7 @@
       "staff": [
         {
           "name": "Chunming Hu",
-          "photo": "https://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
         }
       ],
       "repositories": [
@@ -17395,90 +16505,6 @@
       }
     },
     {
-      "id": 64420,
-      "name": "Geometry API Community Group",
-      "link": "https://www.w3.org/community/geometryapi/",
-      "created": "2013-06-24T20:59:26.000Z",
-      "participants": 18,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "wiki": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#geometryapi",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1531"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1531/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1,
-          "2015-07": 1,
-          "2014-05": 1,
-          "2014-04": 1,
-          "2013-11": 1,
-          "2013-07": 10,
-          "2013-06": 3
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 1,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 1,
-          "2019-08": 0
-        }
-      }
-    },
-    {
       "id": 64441,
       "name": "Open Data Directory Community Group",
       "link": "https://www.w3.org/community/opendatadir/",
@@ -17565,7 +16591,7 @@
       "staff": [
         {
           "name": "Dave Raggett",
-          "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         }
       ],
       "repositories": [],
@@ -17650,7 +16676,7 @@
       "staff": [
         {
           "name": "Shawn Henry",
-          "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         }
       ],
       "repositories": [
@@ -17900,7 +16926,7 @@
       "staff": [
         {
           "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         },
         {
           "name": "Carine Bournez"
@@ -18080,7 +17106,7 @@
       "staff": [
         {
           "name": "Chris Lilley",
-          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
       "repositories": [],
@@ -18211,87 +17237,6 @@
       }
     },
     {
-      "id": 65912,
-      "name": "Remote DOM Community Group",
-      "link": "https://www.w3.org/community/remotedom/",
-      "created": "2013-08-27T14:59:35.000Z",
-      "participants": 11,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "wiki": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#remotedom",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1605"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1605/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1,
-          "2014-05": 1,
-          "2014-04": 1,
-          "2013-09": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 1,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 1,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
       "id": 66053,
       "name": "Federated Identities for the Open Web Community Group",
       "link": "https://www.w3.org/community/fedid/",
@@ -18301,7 +17246,7 @@
       "staff": [
         {
           "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
       "repositories": [],
@@ -18374,19 +17319,19 @@
       "staff": [
         {
           "name": "Shawn Henry",
-          "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         },
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         },
         {
           "name": "Shadi Abou-Zahra",
-          "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         },
         {
           "name": "Ruoxi Ran",
-          "photo": "https://www.w3.org/2006/05/u/2nbdactwejk0-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2nbdactwejk0-tn.jpg"
         }
       ],
       "repositories": [],
@@ -18650,11 +17595,11 @@
       "staff": [
         {
           "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         },
         {
           "name": "Eric Prud'hommeaux",
-          "photo": "https://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
         }
       ],
       "repositories": [
@@ -18801,7 +17746,7 @@
       "staff": [
         {
           "name": "Ted Guild",
-          "photo": "https://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
         }
       ],
       "repositories": [],
@@ -18873,75 +17818,6 @@
           "2019-01": 0,
           "2019-02": 0,
           "2019-03": 1,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 66776,
-      "name": "Zakim on Web Community Group",
-      "link": "https://www.w3.org/community/webzakim/",
-      "created": "2013-10-03T00:34:32.000Z",
-      "participants": 5,
-      "chairs": [],
-      "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        }
-      ],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webzakim",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1684"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1684/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
           "2019-06": 0,
@@ -19027,7 +17903,7 @@
       "staff": [
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         }
       ],
       "repositories": [],
@@ -19165,7 +18041,7 @@
       "staff": [
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
       "repositories": [
@@ -19425,88 +18301,6 @@
       }
     },
     {
-      "id": 67671,
-      "name": "Session management functionality exposed to the browser Community Group",
-      "link": "https://www.w3.org/community/sesmanbro/",
-      "created": "2013-11-05T12:49:27.000Z",
-      "participants": 5,
-      "chairs": [
-        "Fran Gómez",
-        "David Visiedo"
-      ],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "wiki": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#sesmanbro",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1735"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1735/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1,
-          "2013-11": 2
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
       "id": 67710,
       "name": "Second Screen Community Group",
       "link": "https://www.w3.org/community/webscreens/",
@@ -19518,11 +18312,11 @@
       "staff": [
         {
           "name": "Dave Raggett",
-          "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         },
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
       "repositories": [
@@ -19666,74 +18460,6 @@
       }
     },
     {
-      "id": 67869,
-      "name": "Web Array Math Community Group",
-      "link": "https://www.w3.org/community/webarraymath/",
-      "created": "2013-11-14T19:11:28.000Z",
-      "participants": 6,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webarraymath",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1747"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1747/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1,
-          "2014-04": 3,
-          "2014-01": 5,
-          "2013-12": 1,
-          "2013-11": 2
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
       "id": 67885,
       "name": "SVG Streaming Community Group",
       "link": "https://www.w3.org/community/svgstreaming/",
@@ -19743,7 +18469,7 @@
       "staff": [
         {
           "name": "Chris Lilley",
-          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
       "repositories": [],
@@ -20158,7 +18884,7 @@
       "staff": [
         {
           "name": "Xiaoqian Wu",
-          "photo": "https://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
         },
         {
           "name": "Richard Ishida"
@@ -20332,7 +19058,7 @@
       "staff": [
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         }
       ],
       "repositories": [
@@ -20783,83 +19509,6 @@
       }
     },
     {
-      "id": 70186,
-      "name": "Semantic Water interoperability Model Community Group",
-      "link": "https://www.w3.org/community/swim/",
-      "created": "2016-08-01T21:30:24.000Z",
-      "participants": 4,
-      "chairs": [
-        "Shaun Howell",
-        "Laurie Reynolds"
-      ],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#swim",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1980"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1980/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2017-11": 3,
-          "2017-02": 1,
-          "2016-11": 2,
-          "2016-02": 2,
-          "2016-01": 1,
-          "2015-08": 1,
-          "2015-06": 1,
-          "2015-05": 1,
-          "2015-03": 1,
-          "2015-02": 1,
-          "2015-01": 2,
-          "2014-05": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
       "id": 70223,
       "name": "Collaborative Software Community Group",
       "link": "https://www.w3.org/community/collaboration/",
@@ -20958,15 +19607,15 @@
       "staff": [
         {
           "name": "Kazuyuki Ashimura",
-          "photo": "https://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
         },
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         },
         {
           "name": "Ted Guild",
-          "photo": "https://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
         }
       ],
       "repositories": [
@@ -21108,11 +19757,11 @@
       "staff": [
         {
           "name": "Shadi Abou-Zahra",
-          "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         },
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         }
       ],
       "repositories": [
@@ -21246,18 +19895,18 @@
           }
         },
         "repository": {
-          "2018-09": 56,
+          "2018-09": 57,
           "2018-10": 90,
           "2018-11": 27,
           "2018-12": 27,
           "2019-01": 60,
           "2019-02": 18,
-          "2019-03": 59,
+          "2019-03": 60,
           "2019-04": 33,
           "2019-05": 158,
           "2019-06": 91,
           "2019-07": 130,
-          "2019-08": 66
+          "2019-08": 78
         },
         "tracker": {
           "type": "tracker",
@@ -21302,7 +19951,7 @@
       "staff": [
         {
           "name": "Gerald Oskoboiny",
-          "photo": "https://www.w3.org/2006/05/u/753a9c392bef-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/753a9c392bef-tn.jpg"
         }
       ],
       "repositories": [],
@@ -21525,11 +20174,11 @@
       "staff": [
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         },
         {
           "name": "Ted Guild",
-          "photo": "https://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
         }
       ],
       "repositories": [
@@ -21673,19 +20322,19 @@
       "staff": [
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         },
         {
           "name": "Dave Raggett",
-          "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         },
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
       "repositories": [
@@ -22002,7 +20651,7 @@
         },
         {
           "name": "Xiaoqian Wu",
-          "photo": "https://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
         }
       ],
       "repositories": [],
@@ -22047,73 +20696,6 @@
           "2015-04": 1,
           "2014-10": 1,
           "2014-08": 3
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 73620,
-      "name": "URI Specification Community Group",
-      "link": "https://www.w3.org/community/urispec/",
-      "created": "2014-09-12T13:19:46.000Z",
-      "participants": 10,
-      "chairs": [
-        "David Sheets"
-      ],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#urispec",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/2089"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/2089/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1,
-          "2014-10": 28
         },
         "join": {
           "2018-09": 0,
@@ -22380,7 +20962,7 @@
       "staff": [
         {
           "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         }
       ],
       "repositories": [],
@@ -22519,7 +21101,7 @@
       "staff": [
         {
           "name": "Chunming Hu",
-          "photo": "https://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
         }
       ],
       "repositories": [],
@@ -22595,11 +21177,11 @@
       "staff": [
         {
           "name": "Kazuyuki Ashimura",
-          "photo": "https://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
         },
         {
           "name": "Naomi Yoshizawa",
-          "photo": "https://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
         }
       ],
       "repositories": [],
@@ -22673,19 +21255,19 @@
       "staff": [
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "Philipp Hoschka",
-          "photo": "https://www.w3.org/2006/05/u/c734aea52c64-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/c734aea52c64-tn.jpg"
         },
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         },
         {
           "name": "Dave Raggett",
-          "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         }
       ],
       "repositories": [],
@@ -22831,11 +21413,11 @@
       "staff": [
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
       "repositories": [
@@ -22933,136 +21515,6 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 76291,
-      "name": "Organisation Profile Documents Community Group",
-      "link": "https://www.w3.org/community/opd/",
-      "created": "2015-02-05T09:48:07.000Z",
-      "participants": 2,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#opd",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/5931"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/5931/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2017-11": 1,
-          "2016-03": 1,
-          "2016-01": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 76491,
-      "name": "Internet Protocol Identity Community Group",
-      "link": "https://www.w3.org/community/ipid/",
-      "created": "2015-02-15T23:17:18.000Z",
-      "participants": 5,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#ipid",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/5937"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/5937/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1,
-          "2015-03": 1
         },
         "join": {
           "2018-09": 0,
@@ -23235,7 +21687,7 @@
       "staff": [
         {
           "name": "Kazuyuki Ashimura",
-          "photo": "https://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
         }
       ],
       "repositories": [
@@ -23456,15 +21908,15 @@
       "staff": [
         {
           "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         },
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         },
         {
           "name": "Jeff Jaffe",
-          "photo": "https://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
         }
       ],
       "repositories": [
@@ -23847,11 +22299,11 @@
       "staff": [
         {
           "name": "Shawn Henry",
-          "photo": "https://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/921a802bfc5f-tn.jpg"
         },
         {
           "name": "Shadi Abou-Zahra",
-          "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         }
       ],
       "repositories": [],
@@ -23941,70 +22393,6 @@
           "2019-02": 2,
           "2019-03": 0,
           "2019-04": 3,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 77888,
-      "name": "Math Protocol Handler Community Group",
-      "link": "https://www.w3.org/community/mathprotocol/",
-      "created": "2015-06-26T09:46:29.000Z",
-      "participants": 2,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#mathprotocol",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6009"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6009/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
           "2019-05": 0,
           "2019-06": 0,
           "2019-07": 0,
@@ -24224,11 +22612,11 @@
       "staff": [
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         },
         {
           "name": "Eric Prud'hommeaux",
-          "photo": "https://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
         }
       ],
       "repositories": [
@@ -24350,7 +22738,7 @@
       "staff": [
         {
           "name": "Philippe Le Hégaret",
-          "photo": "https://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
         }
       ],
       "repositories": [
@@ -24775,7 +23163,7 @@
       "staff": [
         {
           "name": "Chris Lilley",
-          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
       "repositories": [],
@@ -24943,59 +23331,59 @@
       "staff": [
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         },
         {
           "name": "Jeff Jaffe",
-          "photo": "https://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
         },
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "Philippe Le Hégaret",
-          "photo": "https://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
         },
         {
           "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         },
         {
           "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         },
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         },
         {
           "name": "Denis Ah-Kang",
-          "photo": "https://www.w3.org/2006/05/u/1lyp7xowi4tc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1lyp7xowi4tc-tn.jpg"
         },
         {
           "name": "Chris Lilley",
-          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         },
         {
           "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         },
         {
           "name": "Fuqiao Xue",
-          "photo": "https://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
         },
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         },
         {
           "name": "Joshue O Connor",
-          "photo": "https://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
         },
         {
           "name": "Naomi Yoshizawa",
-          "photo": "https://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
         }
       ],
       "repositories": [
@@ -25198,70 +23586,6 @@
       }
     },
     {
-      "id": 80526,
-      "name": "The Hardware Pixel Community Group",
-      "link": "https://www.w3.org/community/hardware-pixels/",
-      "created": "2015-07-04T08:51:02.000Z",
-      "participants": 3,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#hardware-pixels",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6106"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6106/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
       "id": 80620,
       "name": "Schema Architypes Community Group",
       "link": "https://www.w3.org/community/architypes/",
@@ -25368,7 +23692,7 @@
       "staff": [
         {
           "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
       "repositories": [
@@ -25558,11 +23882,11 @@
       "staff": [
         {
           "name": "Xiaoqian Wu",
-          "photo": "https://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
         },
         {
           "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         },
         {
           "name": "Carine Bournez"
@@ -26103,19 +24427,19 @@
       "staff": [
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         },
         {
           "name": "Xiaoqian Wu",
-          "photo": "https://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
         },
         {
           "name": "Philippe Le Hégaret",
-          "photo": "https://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
         },
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
       "repositories": [],
@@ -26290,7 +24614,7 @@
       "staff": [
         {
           "name": "Chris Lilley",
-          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
       "repositories": [],
@@ -26427,7 +24751,7 @@
       "staff": [
         {
           "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
       "repositories": [],
@@ -26870,7 +25194,7 @@
       "staff": [
         {
           "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
       "repositories": [
@@ -26962,76 +25286,6 @@
           "2018-12": 0,
           "2019-01": 0,
           "2019-02": 1,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 85094,
-      "name": "Respectful Terms of Service Community Group",
-      "link": "https://www.w3.org/community/rtos/",
-      "created": "2015-12-04T00:05:36.000Z",
-      "participants": 4,
-      "chairs": [],
-      "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        }
-      ],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#rtos",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6233"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6233/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 3,
-          "2015-12": 10
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
@@ -27309,7 +25563,7 @@
       "staff": [
         {
           "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
       "repositories": [
@@ -27390,70 +25644,6 @@
           "2019-02": 0,
           "2019-03": 0,
           "2019-04": 1,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 86793,
-      "name": "World Archives of Sciences Community Group",
-      "link": "https://www.w3.org/community/wasarchives/",
-      "created": "2016-01-26T19:44:12.000Z",
-      "participants": 3,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#wasarchives",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6271"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6271/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-03": 1,
-          "2016-01": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 1,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
           "2019-05": 0,
           "2019-06": 0,
           "2019-07": 0,
@@ -27682,15 +25872,15 @@
       "staff": [
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         },
         {
           "name": "Atsushi Shimono",
-          "photo": "https://www.w3.org/2006/05/u/5i44x764hick-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5i44x764hick-tn.jpg"
         }
       ],
       "repositories": [
@@ -27819,19 +26009,19 @@
       "staff": [
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         },
         {
           "name": "Naomi Yoshizawa",
-          "photo": "https://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
         },
         {
           "name": "Samuel Weiler",
-          "photo": "https://www.w3.org/2006/05/u/55wvo78r92o8-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/55wvo78r92o8-tn.jpg"
         },
         {
           "name": "Chunming Hu",
-          "photo": "https://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/23qamplmc874-tn.jpg"
         }
       ],
       "repositories": [
@@ -27944,11 +26134,11 @@
       "staff": [
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         },
         {
           "name": "Rigo Wenning",
-          "photo": "https://www.w3.org/2006/05/u/2xhuxxdqss4k-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2xhuxxdqss4k-tn.jpg"
         },
         {
           "name": "Carine Bournez"
@@ -28305,11 +26495,11 @@
       "staff": [
         {
           "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         },
         {
           "name": "Bert Bos",
-          "photo": "https://www.w3.org/2006/05/u/1cft3mestp9c-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1cft3mestp9c-tn.jpg"
         }
       ],
       "repositories": [
@@ -28407,133 +26597,6 @@
           "2019-01": 1,
           "2019-02": 0,
           "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 90106,
-      "name": "Internet of Kendo Secure Equipment Community Group",
-      "link": "https://www.w3.org/community/iok-se/",
-      "created": "2016-04-21T17:06:36.000Z",
-      "participants": 4,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#iok-se",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6332"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6332/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2016-04": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 90503,
-      "name": "Bible Perikopes Community Group",
-      "link": "https://www.w3.org/community/bibperik/",
-      "created": "2017-06-07T01:35:14.000Z",
-      "participants": 2,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#bibperik",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6346"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6346/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2017-05": 1,
-          "2017-02": 2
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 1,
           "2019-04": 0,
           "2019-05": 0,
           "2019-06": 0,
@@ -28717,7 +26780,7 @@
       "staff": [
         {
           "name": "Kazuyuki Ashimura",
-          "photo": "https://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5fhvk9a4dhk4-tn.jpg"
         }
       ],
       "repositories": [
@@ -28816,7 +26879,7 @@
       "staff": [
         {
           "name": "Dave Raggett",
-          "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
         }
       ],
       "repositories": [],
@@ -28985,7 +27048,7 @@
       "staff": [
         {
           "name": "Eric Prud'hommeaux",
-          "photo": "https://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
         }
       ],
       "repositories": [
@@ -29288,11 +27351,11 @@
       "staff": [
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         },
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         }
       ],
       "repositories": [
@@ -29499,131 +27562,6 @@
       }
     },
     {
-      "id": 93702,
-      "name": "Offline URL Community Group",
-      "link": "https://www.w3.org/community/offline-url/",
-      "created": "2016-09-15T12:53:22.000Z",
-      "participants": 2,
-      "chairs": [
-        "Mike Perlman"
-      ],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#offline-url",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6421"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6421/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 93915,
-      "name": "Paid Content Community Group",
-      "link": "https://www.w3.org/community/paidcontent/",
-      "created": null,
-      "participants": 0,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#paidcontent",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6430"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6430/groups"
-            }
-          }
-        },
-        "lists": {
-          "2018-03": 1,
-          "2017-01": 1,
-          "2016-10": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
       "id": 94248,
       "name": "Digital Offers Community Group",
       "link": "https://www.w3.org/community/digitaloffers/",
@@ -29635,7 +27573,7 @@
       "staff": [
         {
           "name": "Ian Jacobs",
-          "photo": "https://www.w3.org/2006/05/u/6f2027413ea9-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/6f2027413ea9-tn.jpg"
         }
       ],
       "repositories": [],
@@ -29729,7 +27667,7 @@
       "staff": [
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
       "repositories": [],
@@ -29795,94 +27733,6 @@
           "2019-05": 1,
           "2019-06": 0,
           "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 94559,
-      "name": "Digital Verification Community Group",
-      "link": "https://www.w3.org/community/digital-verification/",
-      "created": "2016-10-24T04:51:02.000Z",
-      "participants": 36,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#digital-verification",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6445"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6445/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-08": 3,
-          "2019-07": 12,
-          "2019-06": 7,
-          "2019-05": 7,
-          "2019-04": 9,
-          "2019-03": 11,
-          "2019-02": 6,
-          "2019-01": 7,
-          "2018-12": 3,
-          "2018-11": 11,
-          "2018-10": 4,
-          "2018-09": 1,
-          "2018-08": 22,
-          "2018-07": 6,
-          "2018-06": 2,
-          "2018-05": 22,
-          "2018-04": 3,
-          "2018-03": 4,
-          "2018-02": 4,
-          "2018-01": 5,
-          "2017-12": 9,
-          "2017-11": 24,
-          "2017-10": 7,
-          "2017-09": 17,
-          "2017-08": 23,
-          "2017-07": 21,
-          "2017-06": 11,
-          "2017-05": 7,
-          "2017-01": 1,
-          "2016-11": 1
-        },
-        "join": {
-          "2018-09": 2,
-          "2018-10": 1,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 2,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 1,
-          "2019-05": 0,
-          "2019-06": 3,
-          "2019-07": 1,
           "2019-08": 0
         }
       }
@@ -29965,7 +27815,7 @@
       "staff": [
         {
           "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
       "repositories": [
@@ -30176,7 +28026,7 @@
       "staff": [
         {
           "name": "Eric Prud'hommeaux",
-          "photo": "https://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
         }
       ],
       "repositories": [
@@ -30450,11 +28300,11 @@
       "staff": [
         {
           "name": "Chris Lilley",
-          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         },
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
       "repositories": [
@@ -30643,73 +28493,6 @@
       }
     },
     {
-      "id": 96716,
-      "name": "Public Alert Community Group",
-      "link": "https://www.w3.org/community/palcg/",
-      "created": "2017-02-02T18:37:55.000Z",
-      "participants": 4,
-      "chairs": [
-        "Jacob Pratt"
-      ],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#palcg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6507"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6507/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1,
-          "2017-09": 1,
-          "2017-04": 1,
-          "2017-02": 2
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 1,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
       "id": 96773,
       "name": "HTTPS in Local Network Community Group",
       "link": "https://www.w3.org/community/httpslocal/",
@@ -30723,15 +28506,15 @@
       "staff": [
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         },
         {
           "name": "Wendy Seltzer",
-          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
         },
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         }
       ],
       "repositories": [
@@ -30843,11 +28626,11 @@
       "staff": [
         {
           "name": "Ivan Herman",
-          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         },
         {
           "name": "Fuqiao Xue",
-          "photo": "https://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
         }
       ],
       "repositories": [
@@ -31025,19 +28808,19 @@
       "staff": [
         {
           "name": "Michael[tm] Smith",
-          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
         },
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         },
         {
           "name": "Chris Lilley",
-          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         },
         {
           "name": "Joshue O Connor",
-          "photo": "https://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
         }
       ],
       "repositories": [
@@ -31459,132 +29242,6 @@
       }
     },
     {
-      "id": 97756,
-      "name": "Licensed Content Community Group",
-      "link": "https://www.w3.org/community/licensed-content/",
-      "created": "2017-03-01T19:33:40.000Z",
-      "participants": 4,
-      "chairs": [
-        "Yvo Schaap"
-      ],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#licensed-content",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6567"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6567/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
-      "id": 97786,
-      "name": "Web Platform Chinese Community Group",
-      "link": "https://www.w3.org/community/webplatzh/",
-      "created": "2018-02-08T23:44:37.000Z",
-      "participants": 1,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
-      "activity": {
-        "rss": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        },
-        "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webplatzh",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6572"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6572/groups"
-            }
-          }
-        },
-        "lists": {
-          "2019-04": 1,
-          "2019-03": 1,
-          "2018-05": 1,
-          "2018-03": 1
-        },
-        "join": {
-          "2018-09": 0,
-          "2018-10": 0,
-          "2018-11": 0,
-          "2018-12": 0,
-          "2019-01": 0,
-          "2019-02": 0,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 0,
-          "2019-06": 0,
-          "2019-07": 0,
-          "2019-08": 0
-        }
-      }
-    },
-    {
       "id": 97795,
       "name": "Silver Community Group",
       "link": "https://www.w3.org/community/silver/",
@@ -31597,19 +29254,19 @@
       "staff": [
         {
           "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         },
         {
           "name": "Judy Brewer",
-          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         },
         {
           "name": "Shadi Abou-Zahra",
-          "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         },
         {
           "name": "Ruoxi Ran",
-          "photo": "https://www.w3.org/2006/05/u/2nbdactwejk0-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/2nbdactwejk0-tn.jpg"
         }
       ],
       "repositories": [
@@ -31664,7 +29321,7 @@
           }
         },
         "lists": {
-          "2019-08": 19,
+          "2019-08": 20,
           "2019-07": 72,
           "2019-06": 69,
           "2019-05": 53,
@@ -31881,11 +29538,11 @@
       "staff": [
         {
           "name": "François Daoust",
-          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
         },
         {
           "name": "Dominique Hazaël-Massieux",
-          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         }
       ],
       "repositories": [
@@ -31989,7 +29646,7 @@
       "staff": [
         {
           "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         }
       ],
       "repositories": [],
@@ -32055,7 +29712,7 @@
       "staff": [
         {
           "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "photo": "https://www.w3.orghttps://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
         }
       ],
       "repositories": [],
