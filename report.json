@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-08-17T05:15:35.907Z",
+  "timestamp": "2019-08-18T05:14:44.678Z",
   "data": [
     {
       "id": 100368,
@@ -20319,7 +20319,7 @@
           }
         },
         "lists": {
-          "2019-08": 96,
+          "2019-08": 103,
           "2019-07": 106,
           "2019-06": 63,
           "2019-05": 77,
@@ -21731,7 +21731,7 @@
           }
         },
         "lists": {
-          "2019-08": 11,
+          "2019-08": 13,
           "2019-07": 12,
           "2019-06": 26,
           "2019-05": 11,
@@ -23344,7 +23344,7 @@
           "2019-05": 311,
           "2019-06": 197,
           "2019-07": 305,
-          "2019-08": 137
+          "2019-08": 139
         },
         "join": {
           "2018-09": 5,
@@ -26099,7 +26099,6 @@
         "https://github.com/openactive/booking-api-reference-implementation",
         "https://github.com/openactive/developer-documentation",
         "https://github.com/openactive/w3c-community-group-microsite",
-        "https://github.com/openactive/w3c-community-group-video-template",
         "https://github.com/openactive/rpde-validator",
         "https://github.com/openactive/openactive-jsonld-redirect",
         "https://github.com/openactive/extensions",
@@ -29027,7 +29026,7 @@
       "name": "Silver Community Group",
       "link": "https://www.w3.org/community/silver/",
       "created": "2017-03-03T00:00:42.000Z",
-      "participants": 128,
+      "participants": 127,
       "chairs": [
         "Shawn Lauriat",
         "Jeanne F Spellman"
