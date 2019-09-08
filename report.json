@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-09-07T05:14:38.625Z",
+  "timestamp": "2019-09-08T05:13:54.453Z",
   "data": [
     {
       "id": 100368,
@@ -514,7 +514,7 @@
           "2019-06": 146,
           "2019-07": 202,
           "2019-08": 95,
-          "2019-09": 38
+          "2019-09": 41
         },
         "join": {
           "2018-10": 0,
@@ -1914,7 +1914,7 @@
       "name": "AI KR (Artificial Intelligence Knowledge Representation) Community Group",
       "link": "https://www.w3.org/community/aikr/",
       "created": "2018-07-03T11:05:28.000Z",
-      "participants": 52,
+      "participants": 53,
       "chairs": [
         "Paola Di Maio"
       ],
@@ -1961,7 +1961,7 @@
           }
         },
         "lists": {
-          "2019-09": 2,
+          "2019-09": 3,
           "2019-08": 74,
           "2019-07": 62,
           "2019-06": 24,
@@ -1989,7 +1989,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 0
+          "2019-09": 1
         },
         "join": {
           "2018-10": 3,
@@ -2003,7 +2003,7 @@
           "2019-06": 6,
           "2019-07": 3,
           "2019-08": 2,
-          "2019-09": 0
+          "2019-09": 1
         }
       }
     },
@@ -2695,7 +2695,7 @@
           "2019-06": 5,
           "2019-07": 2,
           "2019-08": 4,
-          "2019-09": 2
+          "2019-09": 3
         },
         "join": {
           "2018-10": 15,
@@ -4875,7 +4875,7 @@
           "2019-06": 10,
           "2019-07": 9,
           "2019-08": 3,
-          "2019-09": 4
+          "2019-09": 5
         },
         "join": {
           "2018-10": 0,
@@ -6893,7 +6893,7 @@
           "2019-06": 3,
           "2019-07": 1,
           "2019-08": 2,
-          "2019-09": 0
+          "2019-09": 2
         },
         "join": {
           "2018-10": 0,
@@ -11521,7 +11521,7 @@
       "name": "Big Data Community Group",
       "link": "https://www.w3.org/community/bigdata/",
       "created": "2012-04-16T19:31:49.000Z",
-      "participants": 135,
+      "participants": 136,
       "chairs": [
         "Peter Bajcsy",
         "Ashwini Balu",
@@ -11603,7 +11603,7 @@
           "2019-06": 3,
           "2019-07": 1,
           "2019-08": 1,
-          "2019-09": 0
+          "2019-09": 1
         }
       }
     },
@@ -22585,7 +22585,7 @@
           "2019-06": 13,
           "2019-07": 18,
           "2019-08": 15,
-          "2019-09": 7
+          "2019-09": 8
         },
         "join": {
           "2018-10": 7,
@@ -23405,7 +23405,7 @@
           }
         },
         "lists": {
-          "2019-09": 16,
+          "2019-09": 17,
           "2019-07": 116,
           "2019-06": 129,
           "2019-05": 72,
@@ -23882,7 +23882,7 @@
           "2019-06": 0,
           "2019-07": 7,
           "2019-08": 8,
-          "2019-09": 0
+          "2019-09": 1
         },
         "join": {
           "2018-10": 1,
@@ -27836,6 +27836,7 @@
         "https://github.com/shexSpec/shexmapTest",
         "https://github.com/shexSpec/ace-shexc-support",
         "https://github.com/shexSpec/ShExAPI",
+        "https://github.com/shexSpec/ace-shexc-user",
         "https://github.com/shexSpec"
       ],
       "activity": {
@@ -27916,7 +27917,7 @@
           "2019-06": 33,
           "2019-07": 80,
           "2019-08": 6,
-          "2019-09": 3
+          "2019-09": 7
         },
         "join": {
           "2018-10": 0,
@@ -28858,7 +28859,6 @@
         "https://github.com/BioSchemas/bioschemas-scraper",
         "https://github.com/BioSchemas/map2model",
         "https://github.com/BioSchemas/schemaorg",
-        "",
         "https://github.com/BioSchemas/bioschemas-goweb",
         "https://github.com/BioSchemas/bioschemas-protein-render",
         "https://github.com/bioschemas"
