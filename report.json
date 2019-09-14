@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-09-13T05:14:55.508Z",
+  "timestamp": "2019-09-14T05:13:43.545Z",
   "data": [
     {
       "id": 100368,
@@ -514,7 +514,7 @@
           "2019-06": 146,
           "2019-07": 202,
           "2019-08": 95,
-          "2019-09": 51
+          "2019-09": 56
         },
         "join": {
           "2018-10": 0,
@@ -1766,7 +1766,7 @@
           }
         },
         "lists": {
-          "2019-09": 12,
+          "2019-09": 16,
           "2019-08": 11,
           "2019-07": 39,
           "2019-06": 37,
@@ -2551,7 +2551,7 @@
           }
         },
         "lists": {
-          "2019-09": 3,
+          "2019-09": 4,
           "2019-08": 35,
           "2019-07": 36,
           "2019-06": 15,
@@ -3820,7 +3820,7 @@
           }
         },
         "lists": {
-          "2019-09": 16,
+          "2019-09": 17,
           "2019-08": 32,
           "2019-07": 22,
           "2019-06": 18,
@@ -4823,7 +4823,7 @@
       "name": "Design Tokens Community Group",
       "link": "https://www.w3.org/community/design-tokens/",
       "created": "2019-07-31T20:50:44.000Z",
-      "participants": 30,
+      "participants": 31,
       "chairs": [],
       "staff": [],
       "repositories": [
@@ -4889,7 +4889,7 @@
           "2019-06": 0,
           "2019-07": 1,
           "2019-08": 10,
-          "2019-09": 19
+          "2019-09": 20
         }
       }
     },
@@ -4898,7 +4898,7 @@
       "name": "Web Certificate API Community Group",
       "link": "https://www.w3.org/community/web-cert-api/",
       "created": "2019-09-02T08:29:50.000Z",
-      "participants": 7,
+      "participants": 8,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -4946,7 +4946,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 7
+          "2019-09": 8
         }
       }
     },
@@ -5701,7 +5701,7 @@
           "2019-09": 0
         },
         "lists": {
-          "2019-09": 5,
+          "2019-09": 6,
           "2019-08": 18,
           "2019-07": 22,
           "2019-06": 8,
@@ -8385,7 +8385,7 @@
           }
         },
         "lists": {
-          "2019-09": 29,
+          "2019-09": 31,
           "2019-08": 17,
           "2019-07": 11,
           "2019-06": 34,
@@ -9225,7 +9225,7 @@
       "name": "Open Annotation Community Group",
       "link": "https://www.w3.org/community/openannotation/",
       "created": "2012-08-27T20:27:24.000Z",
-      "participants": 143,
+      "participants": 144,
       "chairs": [
         "Paolo Ciccarese",
         "Robert Sanderson"
@@ -9364,7 +9364,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 0
+          "2019-09": 1
         }
       }
     },
@@ -15641,7 +15641,7 @@
           "2019-06": 78,
           "2019-07": 59,
           "2019-08": 61,
-          "2019-09": 31
+          "2019-09": 33
         },
         "join": {
           "2018-10": 0,
@@ -18244,7 +18244,7 @@
           }
         },
         "lists": {
-          "2019-09": 71,
+          "2019-09": 76,
           "2019-08": 108,
           "2019-06": 7,
           "2019-05": 64,
@@ -19083,7 +19083,7 @@
           }
         },
         "lists": {
-          "2019-09": 4,
+          "2019-09": 10,
           "2019-06": 1,
           "2019-04": 1,
           "2019-03": 1,
@@ -20345,7 +20345,7 @@
       "name": "Credentials Community Group",
       "link": "https://www.w3.org/community/credentials/",
       "created": "2014-08-06T18:29:41.000Z",
-      "participants": 255,
+      "participants": 257,
       "chairs": [
         "Christopher Allen",
         "Joe Andrieu",
@@ -20419,7 +20419,7 @@
           }
         },
         "lists": {
-          "2019-09": 39,
+          "2019-09": 62,
           "2019-08": 149,
           "2019-07": 106,
           "2019-06": 63,
@@ -20508,7 +20508,7 @@
           "2019-06": 11,
           "2019-07": 4,
           "2019-08": 5,
-          "2019-09": 6
+          "2019-09": 8
         }
       }
     },
@@ -23374,6 +23374,7 @@
         "https://github.com/WICG/largest-contentful-paint",
         "https://github.com/WICG/open-ui",
         "https://github.com/WICG/ad-click-attribution",
+        "https://github.com/WICG/web-codecs",
         "https://github.com/WICG/discourse-wicg-theme",
         "https://github.com/wicg/"
       ],
@@ -23409,7 +23410,7 @@
           }
         },
         "lists": {
-          "2019-09": 31,
+          "2019-09": 35,
           "2019-07": 116,
           "2019-06": 130,
           "2019-05": 71,
@@ -23448,10 +23449,10 @@
           "2019-03": 182,
           "2019-04": 255,
           "2019-05": 311,
-          "2019-06": 199,
-          "2019-07": 306,
-          "2019-08": 269,
-          "2019-09": 101
+          "2019-06": 203,
+          "2019-07": 308,
+          "2019-08": 279,
+          "2019-09": 113
         },
         "join": {
           "2018-10": 3,
@@ -25771,7 +25772,7 @@
           "2019-06": 184,
           "2019-07": 122,
           "2019-08": 173,
-          "2019-09": 72
+          "2019-09": 86
         },
         "join": {
           "2018-10": 5,
@@ -26090,7 +26091,6 @@
         "https://github.com/openactive/openactive-w3c-cg",
         "https://github.com/openactive/public-openactive-w3c",
         "https://github.com/openactive/modelling-opportunity-data",
-        "https://github.com/openactive/learn",
         "https://github.com/openactive/ns",
         "https://github.com/openactive/opportunity-data-primer",
         "https://github.com/openactive/model-validator",
@@ -26614,7 +26614,7 @@
           }
         },
         "lists": {
-          "2019-09": 3,
+          "2019-09": 4,
           "2019-08": 7,
           "2019-06": 1,
           "2019-04": 1,
@@ -28394,7 +28394,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 2,
-          "2019-09": 6
+          "2019-09": 12
         },
         "join": {
           "2018-10": 3,
@@ -28649,6 +28649,7 @@
           "2019-09": 0
         },
         "lists": {
+          "2019-09": 1,
           "2019-08": 36,
           "2019-07": 13,
           "2019-06": 5,
@@ -28693,7 +28694,7 @@
           "2019-06": 80,
           "2019-07": 84,
           "2019-08": 91,
-          "2019-09": 15
+          "2019-09": 25
         },
         "join": {
           "2018-10": 3,
@@ -28863,7 +28864,6 @@
         "https://github.com/BioSchemas/bioschemas-scraper",
         "https://github.com/BioSchemas/map2model",
         "https://github.com/BioSchemas/schemaorg",
-        "",
         "https://github.com/BioSchemas/bioschemas-goweb",
         "https://github.com/BioSchemas/bioschemas-protein-render",
         "https://github.com/bioschemas"
@@ -29122,7 +29122,7 @@
           }
         },
         "lists": {
-          "2019-09": 20,
+          "2019-09": 26,
           "2019-08": 69,
           "2019-07": 72,
           "2019-06": 69,
@@ -29167,10 +29167,10 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 2,
+          "2019-06": 1,
           "2019-07": 4,
           "2019-08": 4,
-          "2019-09": 10
+          "2019-09": 11
         },
         "repository": {
           "2018-10": 16,
@@ -29348,6 +29348,7 @@
         }
       ],
       "repositories": [
+        "",
         "https://github.com/w3c/mixedreality"
       ],
       "activity": {
