@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-09-21T05:13:25.009Z",
+  "timestamp": "2019-09-22T05:12:59.146Z",
   "data": [
     {
       "id": 100368,
@@ -514,7 +514,7 @@
           "2019-06": 146,
           "2019-07": 202,
           "2019-08": 95,
-          "2019-09": 75
+          "2019-09": 77
         },
         "join": {
           "2018-10": 0,
@@ -4839,7 +4839,7 @@
       "name": "Design Tokens Community Group",
       "link": "https://www.w3.org/community/design-tokens/",
       "created": "2019-07-31T20:50:44.000Z",
-      "participants": 36,
+      "participants": 37,
       "chairs": [
         "Jina Anne",
         "Kaelig Deloumeau-Prigent"
@@ -4908,7 +4908,7 @@
           "2019-06": 0,
           "2019-07": 1,
           "2019-08": 10,
-          "2019-09": 25
+          "2019-09": 26
         }
       }
     },
@@ -4977,7 +4977,7 @@
       "name": "Immersive Captions Community Group",
       "link": "https://www.w3.org/community/immersive-captions/",
       "created": "2019-09-17T20:57:53.000Z",
-      "participants": 7,
+      "participants": 8,
       "chairs": [
         "Christopher Patnoe"
       ],
@@ -5029,7 +5029,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 7
+          "2019-09": 8
         }
       }
     },
@@ -5179,9 +5179,13 @@
       "id": 117993,
       "name": "Bitcoin Community Group",
       "link": "https://www.w3.org/community/bitcoin/",
-      "created": null,
-      "participants": 0,
-      "chairs": [],
+      "created": "2019-09-21T06:14:21.000Z",
+      "participants": 8,
+      "chairs": [
+        "Aaron Burns",
+        "Andrew DeSantis",
+        "Victoria DeSantis"
+      ],
       "staff": [],
       "repositories": [],
       "activity": {
@@ -5230,7 +5234,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 0
+          "2019-09": 8
         }
       }
     },
@@ -17872,7 +17876,7 @@
           "2019-06": 11,
           "2019-07": 14,
           "2019-08": 5,
-          "2019-09": 14
+          "2019-09": 16
         },
         "join": {
           "2018-10": 4,
@@ -19370,7 +19374,7 @@
           }
         },
         "lists": {
-          "2019-09": 36,
+          "2019-09": 37,
           "2019-06": 1,
           "2019-04": 1,
           "2019-03": 1,
@@ -20535,7 +20539,7 @@
           }
         },
         "lists": {
-          "2019-09": 11,
+          "2019-09": 12,
           "2019-08": 4,
           "2019-07": 24,
           "2019-06": 24,
@@ -20609,7 +20613,7 @@
           "2019-06": 6,
           "2019-07": 7,
           "2019-08": 2,
-          "2019-09": 1
+          "2019-09": 2
         },
         "join": {
           "2018-10": 1,
@@ -20632,7 +20636,7 @@
       "name": "Credentials Community Group",
       "link": "https://www.w3.org/community/credentials/",
       "created": "2014-08-06T18:29:41.000Z",
-      "participants": 257,
+      "participants": 256,
       "chairs": [
         "Christopher Allen",
         "Joe Andrieu",
@@ -20790,7 +20794,7 @@
           "2019-01": 5,
           "2019-02": 11,
           "2019-03": 11,
-          "2019-04": 8,
+          "2019-04": 7,
           "2019-05": 9,
           "2019-06": 11,
           "2019-07": 4,
@@ -20882,7 +20886,7 @@
       "name": "Agriculture Community Group",
       "link": "https://www.w3.org/community/agri/",
       "created": "2014-10-15T15:05:32.000Z",
-      "participants": 54,
+      "participants": 55,
       "chairs": [
         "Takuji Kiura"
       ],
@@ -20951,7 +20955,7 @@
           "2019-06": 0,
           "2019-07": 2,
           "2019-08": 0,
-          "2019-09": 0
+          "2019-09": 1
         }
       }
     },
@@ -22458,7 +22462,7 @@
       "name": "Accessible Online Learning Community Group",
       "link": "https://www.w3.org/community/accesslearn/",
       "created": "2015-04-10T12:37:13.000Z",
-      "participants": 119,
+      "participants": 120,
       "chairs": [
         "David Sloan",
         "Mary Ziegler"
@@ -22563,7 +22567,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 0
+          "2019-09": 1
         }
       }
     },
@@ -22772,7 +22776,7 @@
       "name": "WebAssembly Community Group",
       "link": "https://www.w3.org/community/webassembly/",
       "created": "2015-04-29T17:28:24.000Z",
-      "participants": 1018,
+      "participants": 1019,
       "chairs": [
         "Ben Smith"
       ],
@@ -22890,7 +22894,7 @@
           "2019-06": 10,
           "2019-07": 8,
           "2019-08": 8,
-          "2019-09": 4
+          "2019-09": 5
         }
       }
     },
@@ -23703,7 +23707,7 @@
           }
         },
         "lists": {
-          "2019-09": 65,
+          "2019-09": 68,
           "2019-07": 116,
           "2019-06": 129,
           "2019-05": 72,
@@ -26065,7 +26069,7 @@
           "2019-06": 183,
           "2019-07": 121,
           "2019-08": 173,
-          "2019-09": 151
+          "2019-09": 154
         },
         "join": {
           "2018-10": 5,
@@ -28758,7 +28762,7 @@
           }
         },
         "lists": {
-          "2019-09": 6,
+          "2019-09": 7,
           "2019-08": 41,
           "2019-07": 18,
           "2019-06": 15,
