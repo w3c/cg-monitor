@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-09-25T05:13:58.857Z",
+  "timestamp": "2019-09-26T05:14:11.738Z",
   "data": [
     {
       "id": 100368,
@@ -1358,7 +1358,7 @@
           }
         },
         "lists": {
-          "2019-09": 4,
+          "2019-09": 5,
           "2019-07": 9,
           "2019-06": 2,
           "2019-05": 1,
@@ -2557,7 +2557,7 @@
           }
         },
         "lists": {
-          "2019-09": 9,
+          "2019-09": 15,
           "2019-08": 35,
           "2019-07": 36,
           "2019-06": 15,
@@ -2593,7 +2593,7 @@
           "2019-03": 16,
           "2019-04": 8,
           "2019-05": 34,
-          "2019-06": 15,
+          "2019-06": 14,
           "2019-07": 18,
           "2019-08": 3,
           "2019-09": 0
@@ -3266,7 +3266,7 @@
       "name": "ARIA and Assistive Technologies Community Group",
       "link": "https://www.w3.org/community/aria-at/",
       "created": "2018-11-30T18:20:49.000Z",
-      "participants": 44,
+      "participants": 45,
       "chairs": [
         "Michael Fairchild",
         "Matthew King"
@@ -3322,7 +3322,7 @@
           }
         },
         "lists": {
-          "2019-09": 12,
+          "2019-09": 13,
           "2019-08": 10,
           "2019-07": 10,
           "2019-06": 10,
@@ -3345,7 +3345,7 @@
           "2019-06": 1,
           "2019-07": 3,
           "2019-08": 2,
-          "2019-09": 2
+          "2019-09": 3
         }
       }
     },
@@ -3974,7 +3974,7 @@
           }
         },
         "lists": {
-          "2019-09": 2,
+          "2019-09": 4,
           "2019-07": 1,
           "2019-06": 2,
           "2019-04": 10,
@@ -4285,7 +4285,7 @@
       "name": "ACT Rules Community Group",
       "link": "https://www.w3.org/community/act-r/",
       "created": "2019-04-04T16:37:58.000Z",
-      "participants": 49,
+      "participants": 50,
       "chairs": [
         "Wilco Fiers"
       ],
@@ -4335,7 +4335,7 @@
           }
         },
         "lists": {
-          "2019-09": 12,
+          "2019-09": 13,
           "2019-08": 16,
           "2019-07": 11,
           "2019-06": 4,
@@ -4354,7 +4354,7 @@
           "2019-06": 4,
           "2019-07": 3,
           "2019-08": 7,
-          "2019-09": 10
+          "2019-09": 11
         }
       }
     },
@@ -4608,7 +4608,7 @@
           }
         },
         "lists": {
-          "2019-09": 3,
+          "2019-09": 6,
           "2019-08": 1,
           "2019-07": 16,
           "2019-06": 21
@@ -4625,7 +4625,7 @@
           "2019-06": 10,
           "2019-07": 9,
           "2019-08": 4,
-          "2019-09": 10
+          "2019-09": 19
         },
         "join": {
           "2018-10": 0,
@@ -4839,7 +4839,7 @@
       "name": "Design Tokens Community Group",
       "link": "https://www.w3.org/community/design-tokens/",
       "created": "2019-07-31T20:50:44.000Z",
-      "participants": 38,
+      "participants": 39,
       "chairs": [
         "Jina Anne",
         "Kaelig Deloumeau-Prigent"
@@ -4908,7 +4908,7 @@
           "2019-06": 0,
           "2019-07": 1,
           "2019-08": 10,
-          "2019-09": 27
+          "2019-09": 28
         }
       }
     },
@@ -4993,7 +4993,7 @@
       "name": "Immersive Captions Community Group",
       "link": "https://www.w3.org/community/immersive-captions/",
       "created": "2019-09-17T20:57:53.000Z",
-      "participants": 10,
+      "participants": 11,
       "chairs": [
         "Christopher Patnoe"
       ],
@@ -5050,7 +5050,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 10
+          "2019-09": 11
         }
       }
     },
@@ -5060,7 +5060,9 @@
       "link": "https://www.w3.org/community/web-thing-protocol/",
       "created": "2019-09-17T10:29:32.000Z",
       "participants": 6,
-      "chairs": [],
+      "chairs": [
+        "Ben Francis"
+      ],
       "staff": [
         {
           "name": "Dave Raggett",
@@ -5212,12 +5214,7 @@
         "Victoria DeSantis",
         "Josh Petty"
       ],
-      "staff": [
-        {
-          "name": "Denis Ah-Kang",
-          "photo": "https://www.w3.org/2006/05/u/1lyp7xowi4tc-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [],
       "activity": {
         "rss": {
@@ -5251,7 +5248,7 @@
           }
         },
         "lists": {
-          "2019-09": 3
+          "2019-09": 4
         },
         "wiki": {
           "2018-10": 0,
@@ -15970,12 +15967,12 @@
           "2019-01": 15,
           "2019-02": 60,
           "2019-03": 44,
-          "2019-04": 67,
-          "2019-05": 77,
-          "2019-06": 78,
-          "2019-07": 59,
-          "2019-08": 61,
-          "2019-09": 58
+          "2019-04": 50,
+          "2019-05": 31,
+          "2019-06": 67,
+          "2019-07": 17,
+          "2019-08": 33,
+          "2019-09": 9
         },
         "join": {
           "2018-10": 0,
@@ -20115,7 +20112,7 @@
           "2019-06": 91,
           "2019-07": 130,
           "2019-08": 238,
-          "2019-09": 144
+          "2019-09": 164
         },
         "tracker": {
           "type": "tracker",
@@ -20752,7 +20749,7 @@
           }
         },
         "lists": {
-          "2019-09": 133,
+          "2019-09": 134,
           "2019-08": 149,
           "2019-07": 106,
           "2019-06": 63,
@@ -20827,7 +20824,7 @@
           "2019-06": 77,
           "2019-07": 76,
           "2019-08": 73,
-          "2019-09": 20
+          "2019-09": 24
         },
         "join": {
           "2018-10": 4,
@@ -21936,7 +21933,7 @@
           }
         },
         "lists": {
-          "2019-09": 171,
+          "2019-09": 175,
           "2019-08": 365,
           "2019-07": 61,
           "2019-06": 65,
@@ -21998,7 +21995,7 @@
           "2019-06": 15,
           "2019-07": 16,
           "2019-08": 121,
-          "2019-09": 45
+          "2019-09": 46
         },
         "join": {
           "2018-10": 0,
@@ -22059,6 +22056,7 @@
           }
         },
         "lists": {
+          "2019-09": 1,
           "2019-04": 1,
           "2019-03": 1,
           "2018-09": 1,
@@ -22250,7 +22248,7 @@
           "2019-06": 48,
           "2019-07": 23,
           "2019-08": 21,
-          "2019-09": 18
+          "2019-09": 19
         },
         "join": {
           "2018-10": 8,
@@ -22922,7 +22920,7 @@
           "2019-06": 13,
           "2019-07": 18,
           "2019-08": 15,
-          "2019-09": 20
+          "2019-09": 24
         },
         "join": {
           "2018-10": 7,
@@ -23670,7 +23668,6 @@
         "https://github.com/WICG/device-memory",
         "https://github.com/WICG/priority-hints",
         "https://github.com/WICG/gesture-delegation",
-        "https://github.com/WICG/trusted-types",
         "https://github.com/WICG/web-locks",
         "https://github.com/WICG/spatial-navigation",
         "https://github.com/WICG/permissions-request",
@@ -23749,11 +23746,11 @@
           }
         },
         "lists": {
-          "2019-09": 87,
+          "2019-09": 89,
           "2019-07": 116,
-          "2019-06": 130,
-          "2019-05": 71,
-          "2019-04": 142,
+          "2019-06": 129,
+          "2019-05": 72,
+          "2019-04": 141,
           "2019-03": 88,
           "2018-11": 107,
           "2018-10": 47,
@@ -23780,18 +23777,18 @@
           "2019-08": null
         },
         "repository": {
-          "2018-10": 228,
-          "2018-11": 253,
-          "2018-12": 192,
-          "2019-01": 222,
-          "2019-02": 156,
-          "2019-03": 177,
-          "2019-04": 253,
-          "2019-05": 311,
-          "2019-06": 202,
-          "2019-07": 308,
-          "2019-08": 279,
-          "2019-09": 217
+          "2018-10": 208,
+          "2018-11": 248,
+          "2018-12": 190,
+          "2019-01": 182,
+          "2019-02": 140,
+          "2019-03": 164,
+          "2019-04": 241,
+          "2019-05": 269,
+          "2019-06": 190,
+          "2019-07": 276,
+          "2019-08": 267,
+          "2019-09": 201
         },
         "join": {
           "2018-10": 3,
@@ -24227,7 +24224,7 @@
           "2019-06": 0,
           "2019-07": 7,
           "2019-08": 8,
-          "2019-09": 4
+          "2019-09": 5
         },
         "join": {
           "2018-10": 1,
@@ -24622,7 +24619,7 @@
           "2019-06": 25,
           "2019-07": 12,
           "2019-08": 28,
-          "2019-09": 6
+          "2019-09": 7
         },
         "join": {
           "2018-10": 13,
@@ -26110,8 +26107,8 @@
           "2019-05": 132,
           "2019-06": 183,
           "2019-07": 121,
-          "2019-08": 173,
-          "2019-09": 170
+          "2019-08": 170,
+          "2019-09": 174
         },
         "join": {
           "2018-10": 5,
@@ -26456,7 +26453,6 @@
         "https://github.com/openactive/rpde-validator",
         "https://github.com/openactive/accessibility-support",
         "https://github.com/openactive/extension-documentation-generator",
-        "https://github.com/openactive/activity-list-xml-json",
         "https://github.com/openactive/csv_converter",
         "https://github.com/openactive/iqvoc",
         "https://github.com/openactive/concept-scheme-restriction-generator",
@@ -26478,6 +26474,12 @@
         "https://github.com/openactive/models-lib",
         "https://github.com/openactive/dataset-site-template-php",
         "https://github.com/openactive/dataset-site-template-ruby",
+        "https://github.com/openactive/booking-reference-implementation-.net",
+        "https://github.com/openactive/booking-reference-implementation-php",
+        "https://github.com/openactive/booking-reference-implementation-ruby",
+        "https://github.com/openactive/booking-reference-implementation-shared",
+        "https://github.com/openactive/harvester",
+        "https://github.com/openactive/rolling-validator",
         "https://github.com/openactive"
       ],
       "activity": {
@@ -26512,7 +26514,7 @@
           }
         },
         "lists": {
-          "2019-09": 5,
+          "2019-09": 6,
           "2019-08": 3,
           "2019-07": 3,
           "2019-06": 7,
@@ -26576,7 +26578,7 @@
           "2019-06": 19,
           "2019-07": 52,
           "2019-08": 31,
-          "2019-09": 48
+          "2019-09": 91
         },
         "tracker": {
           "type": "tracker",
@@ -28513,7 +28515,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 1
+          "2019-09": 2
         },
         "join": {
           "2018-10": 0,
@@ -28971,6 +28973,7 @@
         "https://github.com/gpuweb/WSL",
         "https://github.com/gpuweb/spirv-execution-env",
         "https://github.com/gpuweb/cts",
+        "https://github.com/gpuweb/types",
         "https://github.com/gpuweb/gpuweb.github.io",
         "https://github.com/gpuweb/"
       ],
@@ -28990,7 +28993,7 @@
           "2019-09": 0
         },
         "lists": {
-          "2019-09": 1,
+          "2019-09": 2,
           "2019-08": 36,
           "2019-07": 13,
           "2019-06": 5,
@@ -29035,7 +29038,7 @@
           "2019-06": 80,
           "2019-07": 84,
           "2019-08": 91,
-          "2019-09": 75
+          "2019-09": 81
         },
         "join": {
           "2018-10": 3,
