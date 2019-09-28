@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-09-27T05:13:50.673Z",
+  "timestamp": "2019-09-28T05:13:31.785Z",
   "data": [
     {
       "id": 100368,
@@ -514,7 +514,7 @@
           "2019-06": 146,
           "2019-07": 202,
           "2019-08": 95,
-          "2019-09": 83
+          "2019-09": 85
         },
         "join": {
           "2018-10": 0,
@@ -747,6 +747,7 @@
           }
         },
         "lists": {
+          "2019-09": 2,
           "2019-08": 4,
           "2019-07": 1,
           "2019-06": 3,
@@ -3219,7 +3220,7 @@
           }
         },
         "lists": {
-          "2019-09": 2,
+          "2019-09": 3,
           "2019-08": 3,
           "2019-07": 7,
           "2019-06": 21,
@@ -4335,7 +4336,7 @@
           }
         },
         "lists": {
-          "2019-09": 13,
+          "2019-09": 14,
           "2019-08": 16,
           "2019-07": 11,
           "2019-06": 4,
@@ -4625,7 +4626,7 @@
           "2019-06": 10,
           "2019-07": 9,
           "2019-08": 4,
-          "2019-09": 19
+          "2019-09": 22
         },
         "join": {
           "2018-10": 0,
@@ -4895,7 +4896,7 @@
           "2019-06": 10,
           "2019-07": 9,
           "2019-08": 3,
-          "2019-09": 9
+          "2019-09": 11
         },
         "twitter": {
           "type": "twitter",
@@ -5010,7 +5011,7 @@
       "name": "Immersive Captions Community Group",
       "link": "https://www.w3.org/community/immersive-captions/",
       "created": "2019-09-17T20:57:53.000Z",
-      "participants": 12,
+      "participants": 13,
       "chairs": [
         "Christopher Patnoe"
       ],
@@ -5071,7 +5072,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 12
+          "2019-09": 13
         }
       }
     },
@@ -5146,7 +5147,7 @@
       "name": "MiniApps Ecosystem Community Group",
       "link": "https://www.w3.org/community/miniapps/",
       "created": "2019-09-19T09:22:00.000Z",
-      "participants": 14,
+      "participants": 15,
       "chairs": [
         "Angel Li"
       ],
@@ -5174,6 +5175,10 @@
         {
           "name": "François Daoust",
           "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        },
+        {
+          "name": "Judy Brewer",
+          "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         }
       ],
       "repositories": [],
@@ -5223,7 +5228,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 14
+          "2019-09": 15
         }
       }
     },
@@ -5232,7 +5237,7 @@
       "name": "Bitcoin Hypermedia Community Group",
       "link": "https://www.w3.org/community/bitcoin/",
       "created": "2019-09-21T06:14:21.000Z",
-      "participants": 24,
+      "participants": 26,
       "chairs": [
         "Aaron Burns",
         "Andrew DeSantis",
@@ -5301,7 +5306,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 24
+          "2019-09": 26
         }
       }
     },
@@ -5310,7 +5315,7 @@
       "name": "Bullet Chatting Community Group",
       "link": "https://www.w3.org/community/bullet-chatting/",
       "created": "2019-09-26T09:06:56.000Z",
-      "participants": 4,
+      "participants": 6,
       "chairs": [],
       "staff": [
         {
@@ -5373,7 +5378,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 4
+          "2019-09": 6
         }
       }
     },
@@ -8925,7 +8930,7 @@
           "2019-06": 9,
           "2019-07": 14,
           "2019-08": 21,
-          "2019-09": 7
+          "2019-09": 9
         },
         "join": {
           "2018-10": 3,
@@ -18012,7 +18017,7 @@
           "2019-06": 11,
           "2019-07": 14,
           "2019-08": 5,
-          "2019-09": 17
+          "2019-09": 18
         },
         "join": {
           "2018-10": 4,
@@ -19510,7 +19515,7 @@
           }
         },
         "lists": {
-          "2019-09": 44,
+          "2019-09": 46,
           "2019-06": 1,
           "2019-04": 1,
           "2019-03": 1,
@@ -20675,7 +20680,7 @@
           }
         },
         "lists": {
-          "2019-09": 16,
+          "2019-09": 17,
           "2019-08": 4,
           "2019-07": 24,
           "2019-06": 24,
@@ -20846,7 +20851,7 @@
           }
         },
         "lists": {
-          "2019-09": 135,
+          "2019-09": 136,
           "2019-08": 149,
           "2019-07": 106,
           "2019-06": 63,
@@ -22030,7 +22035,7 @@
           }
         },
         "lists": {
-          "2019-09": 195,
+          "2019-09": 202,
           "2019-08": 365,
           "2019-07": 61,
           "2019-06": 65,
@@ -23017,7 +23022,7 @@
           "2019-06": 13,
           "2019-07": 18,
           "2019-08": 15,
-          "2019-09": 27
+          "2019-09": 30
         },
         "join": {
           "2018-10": 7,
@@ -23788,6 +23793,7 @@
         "https://github.com/WICG/element-timing",
         "https://github.com/WICG/is-input-pending",
         "https://github.com/WICG/display-locking",
+        "https://github.com/WICG/imageresource",
         "https://github.com/WICG/file-handling",
         "https://github.com/WICG/main-thread-scheduling",
         "https://github.com/WICG/webhid",
@@ -23809,6 +23815,8 @@
         "https://github.com/WICG/ad-click-attribution",
         "https://github.com/WICG/web-codecs",
         "https://github.com/WICG/discourse-wicg-theme",
+        "https://github.com/WICG/aria-virtualcontent",
+        "https://github.com/WICG/media-latency-hint",
         "https://github.com/wicg/"
       ],
       "activity": {
@@ -23843,7 +23851,7 @@
           }
         },
         "lists": {
-          "2019-09": 107,
+          "2019-09": 117,
           "2019-07": 116,
           "2019-06": 130,
           "2019-05": 71,
@@ -23885,7 +23893,7 @@
           "2019-06": 190,
           "2019-07": 276,
           "2019-08": 267,
-          "2019-09": 213
+          "2019-09": 236
         },
         "join": {
           "2018-10": 3,
@@ -26205,7 +26213,7 @@
           "2019-06": 183,
           "2019-07": 121,
           "2019-08": 170,
-          "2019-09": 175
+          "2019-09": 179
         },
         "join": {
           "2018-10": 5,
@@ -28042,7 +28050,7 @@
       "name": "Social Web Incubator Community Group",
       "link": "https://www.w3.org/community/socialcg/",
       "created": "2016-11-18T20:00:13.000Z",
-      "participants": 90,
+      "participants": 91,
       "chairs": [
         "Aaron Parecki",
         "Christopher Webber"
@@ -28114,7 +28122,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 4
+          "2019-09": 5
         }
       }
     },
@@ -28857,7 +28865,7 @@
       "name": "EPUB 3 Community Group",
       "link": "https://www.w3.org/community/epub3/",
       "created": "2017-02-06T19:54:12.000Z",
-      "participants": 205,
+      "participants": 206,
       "chairs": [
         "Rachel Comerford",
         "Dave Cramer"
@@ -28965,7 +28973,7 @@
           "2019-06": 5,
           "2019-07": 0,
           "2019-08": 3,
-          "2019-09": 0
+          "2019-09": 1
         }
       }
     },
@@ -29135,7 +29143,7 @@
           "2019-06": 80,
           "2019-07": 84,
           "2019-08": 91,
-          "2019-09": 83
+          "2019-09": 85
         },
         "join": {
           "2018-10": 3,
@@ -29563,7 +29571,7 @@
           }
         },
         "lists": {
-          "2019-09": 48,
+          "2019-09": 49,
           "2019-08": 69,
           "2019-07": 72,
           "2019-06": 69,
