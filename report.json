@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-10-11T05:15:07.015Z",
+  "timestamp": "2019-10-12T05:14:14.762Z",
   "data": [
     {
       "id": 100368,
@@ -1102,7 +1102,7 @@
           }
         },
         "lists": {
-          "2019-10": 1,
+          "2019-10": 4,
           "2019-06": 5,
           "2019-04": 1,
           "2019-03": 1,
@@ -2459,7 +2459,7 @@
           }
         },
         "lists": {
-          "2019-10": 14,
+          "2019-10": 15,
           "2019-09": 6,
           "2019-08": 10,
           "2019-07": 34,
@@ -3424,7 +3424,7 @@
           "2019-07": 0,
           "2019-08": 0,
           "2019-09": 0,
-          "2019-10": 4
+          "2019-10": 5
         },
         "join": {
           "2018-11": 0,
@@ -5199,7 +5199,7 @@
           }
         },
         "lists": {
-          "2019-10": 1,
+          "2019-10": 2,
           "2019-09": 1
         },
         "repository": {
@@ -17983,7 +17983,7 @@
       "name": "RDF JavaScript Libraries Community Group",
       "link": "https://www.w3.org/community/rdfjs/",
       "created": "2013-10-02T20:16:23.000Z",
-      "participants": 78,
+      "participants": 79,
       "chairs": [
         "Thomas Bergwinkl",
         "Ruben Verborgh"
@@ -17996,6 +17996,10 @@
         {
           "name": "Eric Prud'hommeaux",
           "photo": "https://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
+        },
+        {
+          "name": "Ivan Herman",
+          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
       "repositories": [
@@ -18126,7 +18130,7 @@
           "2019-07": 0,
           "2019-08": 1,
           "2019-09": 1,
-          "2019-10": 0
+          "2019-10": 1
         }
       }
     },
@@ -19778,7 +19782,7 @@
       "name": "ORTC (Object Real-time Communications) Community Group",
       "link": "https://www.w3.org/community/ortc/",
       "created": "2014-03-05T23:47:22.000Z",
-      "participants": 97,
+      "participants": 96,
       "chairs": [
         "Robin Raymond"
       ],
@@ -20104,20 +20108,6 @@
           "2019-08": 0,
           "2019-09": 0,
           "2019-10": 0
-        },
-        "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/community/tvapi/track/",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/2034"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/2034/groups"
-            }
-          }
         },
         "repository": {
           "2018-11": 0,
@@ -20935,7 +20925,7 @@
           }
         },
         "lists": {
-          "2019-10": 15,
+          "2019-10": 17,
           "2019-09": 137,
           "2019-08": 149,
           "2019-07": 106,
@@ -22120,7 +22110,7 @@
           }
         },
         "lists": {
-          "2019-10": 54,
+          "2019-10": 76,
           "2019-09": 234,
           "2019-08": 365,
           "2019-07": 61,
@@ -22183,7 +22173,7 @@
           "2019-07": 16,
           "2019-08": 121,
           "2019-09": 49,
-          "2019-10": 11
+          "2019-10": 15
         },
         "join": {
           "2018-11": 0,
@@ -22691,7 +22681,7 @@
       "name": "Accessible Online Learning Community Group",
       "link": "https://www.w3.org/community/accesslearn/",
       "created": "2015-04-10T12:37:13.000Z",
-      "participants": 120,
+      "participants": 121,
       "chairs": [
         "David Sloan",
         "Mary Ziegler"
@@ -22704,6 +22694,10 @@
         {
           "name": "Shadi Abou-Zahra",
           "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
+        },
+        {
+          "name": "Hidde de Vries",
+          "photo": "https://www.w3.org/2006/05/u/36xbqkbc9egw-tn.jpg"
         }
       ],
       "repositories": [],
@@ -22797,7 +22791,7 @@
           "2019-07": 0,
           "2019-08": 0,
           "2019-09": 1,
-          "2019-10": 0
+          "2019-10": 1
         }
       }
     },
@@ -23006,7 +23000,7 @@
       "name": "WebAssembly Community Group",
       "link": "https://www.w3.org/community/webassembly/",
       "created": "2015-04-29T17:28:24.000Z",
-      "participants": 1024,
+      "participants": 1025,
       "chairs": [
         "Ben Smith"
       ],
@@ -23056,7 +23050,7 @@
           }
         },
         "lists": {
-          "2019-10": 1,
+          "2019-10": 2,
           "2019-09": 4,
           "2019-08": 2,
           "2019-07": 4,
@@ -23125,7 +23119,7 @@
           "2019-07": 8,
           "2019-08": 8,
           "2019-09": 7,
-          "2019-10": 5
+          "2019-10": 6
         }
       }
     },
@@ -23984,7 +23978,7 @@
           "2019-07": 276,
           "2019-08": 271,
           "2019-09": 266,
-          "2019-10": 103
+          "2019-10": 112
         },
         "join": {
           "2018-11": 1,
@@ -26308,7 +26302,7 @@
           "2019-07": 119,
           "2019-08": 170,
           "2019-09": 187,
-          "2019-10": 59
+          "2019-10": 65
         },
         "join": {
           "2018-11": 6,
@@ -26780,7 +26774,7 @@
           "2019-07": 52,
           "2019-08": 31,
           "2019-09": 92,
-          "2019-10": 7
+          "2019-10": 15
         },
         "tracker": {
           "type": "tracker",
@@ -27160,7 +27154,7 @@
           }
         },
         "lists": {
-          "2019-10": 2,
+          "2019-10": 3,
           "2019-09": 9,
           "2019-08": 7,
           "2019-06": 1,
@@ -27193,7 +27187,7 @@
           "2019-07": 0,
           "2019-08": 0,
           "2019-09": 0,
-          "2019-10": 0
+          "2019-10": 1
         },
         "join": {
           "2018-11": 0,
@@ -27789,7 +27783,7 @@
       "name": "Chainpoint Community Group",
       "link": "https://www.w3.org/community/chainpoint/",
       "created": "2016-09-14T13:31:14.000Z",
-      "participants": 23,
+      "participants": 24,
       "chairs": [
         "Wayne Vaughan"
       ],
@@ -27896,7 +27890,7 @@
           "2019-07": 0,
           "2019-08": 0,
           "2019-09": 0,
-          "2019-10": 0
+          "2019-10": 1
         }
       }
     },
@@ -28962,7 +28956,7 @@
       "name": "EPUB 3 Community Group",
       "link": "https://www.w3.org/community/epub3/",
       "created": "2017-02-06T19:54:12.000Z",
-      "participants": 209,
+      "participants": 210,
       "chairs": [
         "Rachel Comerford",
         "Dave Cramer"
@@ -28975,6 +28969,10 @@
         {
           "name": "Fuqiao Xue",
           "photo": "https://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
+        },
+        {
+          "name": "Jeff Jaffe",
+          "photo": "https://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
         }
       ],
       "repositories": [
@@ -29071,7 +29069,7 @@
           "2019-07": 0,
           "2019-08": 3,
           "2019-09": 1,
-          "2019-10": 3
+          "2019-10": 4
         }
       }
     },
@@ -29242,7 +29240,7 @@
           "2019-07": 84,
           "2019-08": 91,
           "2019-09": 90,
-          "2019-10": 60
+          "2019-10": 64
         },
         "join": {
           "2018-11": 3,
@@ -29671,7 +29669,7 @@
           }
         },
         "lists": {
-          "2019-10": 19,
+          "2019-10": 25,
           "2019-09": 49,
           "2019-08": 69,
           "2019-07": 72,
@@ -29719,7 +29717,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 17,
+          "2019-09": 14,
           "2019-10": 1
         },
         "repository": {
