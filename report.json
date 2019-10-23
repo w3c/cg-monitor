@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-10-22T05:17:09.597Z",
+  "timestamp": "2019-10-23T05:14:29.638Z",
   "data": [
     {
       "id": 100368,
@@ -514,7 +514,7 @@
           "2019-07": 202,
           "2019-08": 95,
           "2019-09": 100,
-          "2019-10": 79
+          "2019-10": 84
         },
         "join": {
           "2018-11": 0,
@@ -747,7 +747,7 @@
           }
         },
         "lists": {
-          "2019-10": 6,
+          "2019-10": 8,
           "2019-09": 2,
           "2019-08": 4,
           "2019-07": 1,
@@ -3511,7 +3511,7 @@
       "name": "Knowledge Graph Construction Community Group",
       "link": "https://www.w3.org/community/kg-construct/",
       "created": "2019-01-08T07:56:39.000Z",
-      "participants": 35,
+      "participants": 36,
       "chairs": [
         "Anastasia Dimou",
         "Alessandro Negro",
@@ -3583,7 +3583,7 @@
           "2019-07": 5,
           "2019-08": 1,
           "2019-09": 0,
-          "2019-10": 0
+          "2019-10": 1
         }
       }
     },
@@ -4367,7 +4367,7 @@
           }
         },
         "lists": {
-          "2019-10": 10,
+          "2019-10": 12,
           "2019-09": 14,
           "2019-08": 16,
           "2019-07": 11,
@@ -4820,7 +4820,7 @@
       "name": "Design Tokens Community Group",
       "link": "https://www.w3.org/community/design-tokens/",
       "created": "2019-07-31T20:50:44.000Z",
-      "participants": 49,
+      "participants": 50,
       "chairs": [
         "Jina Anne",
         "Kaelig Deloumeau-Prigent"
@@ -4906,7 +4906,7 @@
           "2019-07": 1,
           "2019-08": 10,
           "2019-09": 29,
-          "2019-10": 9
+          "2019-10": 10
         }
       }
     },
@@ -5664,7 +5664,7 @@
       "name": "Web Payments Community Group",
       "link": "https://www.w3.org/community/webpayments/",
       "created": "2012-03-27T08:43:29.000Z",
-      "participants": 228,
+      "participants": 227,
       "chairs": [
         "Manu Sporny"
       ],
@@ -7203,7 +7203,7 @@
       "name": "Community I/O Community Group",
       "link": "https://www.w3.org/community/community-io/",
       "created": "2011-12-23T10:29:03.000Z",
-      "participants": 16,
+      "participants": 15,
       "chairs": [
         "Pavlik elf"
       ],
@@ -7752,20 +7752,6 @@
             },
             "groups": {
               "href": "https://api.w3.org/services/579/groups"
-            }
-          }
-        },
-        "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/community/council/track/",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/583"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/583/groups"
             }
           }
         },
@@ -8968,7 +8954,7 @@
           }
         },
         "lists": {
-          "2019-10": 6,
+          "2019-10": 10,
           "2019-09": 38,
           "2019-08": 17,
           "2019-07": 11,
@@ -9082,7 +9068,7 @@
           "2019-07": 14,
           "2019-08": 21,
           "2019-09": 9,
-          "2019-10": 3
+          "2019-10": 4
         },
         "join": {
           "2018-11": 0,
@@ -9665,10 +9651,8 @@
       "name": "E-learning: Evolving technologies and growing reach Community Group",
       "link": "https://www.w3.org/community/learnonline/",
       "created": "2012-02-13T00:03:52.000Z",
-      "participants": 64,
-      "chairs": [
-        "lissa coffey"
-      ],
+      "participants": 63,
+      "chairs": [],
       "staff": [
         {
           "name": "Marie-Claire Forgue",
@@ -12400,7 +12384,7 @@
       "name": "EXPath Community Group",
       "link": "https://www.w3.org/community/expath/",
       "created": "2012-04-24T21:25:53.000Z",
-      "participants": 32,
+      "participants": 33,
       "chairs": [
         "Florent Georges",
         "Mohamed ZERGAOUI"
@@ -12533,7 +12517,7 @@
           "2019-07": 0,
           "2019-08": 0,
           "2019-09": 0,
-          "2019-10": 0
+          "2019-10": 1
         }
       }
     },
@@ -14422,7 +14406,7 @@
       "name": "Customer Experience Digital Data Community Group",
       "link": "https://www.w3.org/community/custexpdata/",
       "created": "2012-11-07T18:19:09.000Z",
-      "participants": 137,
+      "participants": 136,
       "chairs": [
         "Aubrey Rupp"
       ],
@@ -19976,7 +19960,7 @@
       "name": "Collaborative Software Community Group",
       "link": "https://www.w3.org/community/collaboration/",
       "created": "2014-03-14T01:52:35.000Z",
-      "participants": 25,
+      "participants": 24,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -20356,7 +20340,7 @@
           "2019-07": 127,
           "2019-08": 235,
           "2019-09": 166,
-          "2019-10": 38
+          "2019-10": 40
         },
         "join": {
           "2018-11": 2,
@@ -20603,7 +20587,11 @@
       "created": "2014-06-30T11:24:07.000Z",
       "participants": 99,
       "chairs": [
-        "Kris McGlinn"
+        "Rui de Klerk Mota",
+        "Maxime Lefrançois",
+        "Kris McGlinn",
+        "Mads Holten Rasmussen",
+        "Georg Ferdinand Schneider"
       ],
       "staff": [
         {
@@ -20638,7 +20626,7 @@
           "2019-07": 0,
           "2019-08": 0,
           "2019-09": 0,
-          "2019-10": 0
+          "2019-10": 1
         },
         "chat": {
           "type": "chat",
@@ -20657,6 +20645,7 @@
           }
         },
         "lists": {
+          "2019-10": 1,
           "2019-09": 1,
           "2019-07": 6,
           "2019-06": 5,
@@ -20807,7 +20796,7 @@
           }
         },
         "lists": {
-          "2019-10": 1,
+          "2019-10": 2,
           "2019-09": 21,
           "2019-08": 4,
           "2019-07": 24,
@@ -20905,7 +20894,7 @@
       "name": "Credentials Community Group",
       "link": "https://www.w3.org/community/credentials/",
       "created": "2014-08-06T18:29:41.000Z",
-      "participants": 259,
+      "participants": 260,
       "chairs": [
         "Christopher Allen",
         "Joe Andrieu",
@@ -20978,7 +20967,7 @@
           }
         },
         "lists": {
-          "2019-10": 29,
+          "2019-10": 31,
           "2019-09": 137,
           "2019-08": 149,
           "2019-07": 106,
@@ -21068,7 +21057,7 @@
           "2019-07": 4,
           "2019-08": 5,
           "2019-09": 12,
-          "2019-10": 4
+          "2019-10": 5
         }
       }
     },
@@ -21465,7 +21454,7 @@
       "name": "Benchmarking for the Web Community Group",
       "link": "https://www.w3.org/community/benchweb/",
       "created": "2014-12-17T07:23:55.000Z",
-      "participants": 11,
+      "participants": 10,
       "chairs": [
         "Ryoichi Kawada"
       ],
@@ -22163,7 +22152,7 @@
           }
         },
         "lists": {
-          "2019-10": 236,
+          "2019-10": 246,
           "2019-09": 234,
           "2019-08": 365,
           "2019-07": 61,
@@ -22226,7 +22215,7 @@
           "2019-07": 16,
           "2019-08": 121,
           "2019-09": 49,
-          "2019-10": 67
+          "2019-10": 71
         },
         "join": {
           "2018-11": 0,
@@ -22398,7 +22387,7 @@
           }
         },
         "lists": {
-          "2019-10": 24,
+          "2019-10": 32,
           "2019-09": 7,
           "2019-08": 26,
           "2019-07": 12,
@@ -22482,7 +22471,7 @@
           "2019-07": 23,
           "2019-08": 21,
           "2019-09": 22,
-          "2019-10": 26
+          "2019-10": 29
         },
         "join": {
           "2018-11": 5,
@@ -22505,7 +22494,7 @@
       "name": "Federated Infrastructures Community Group",
       "link": "https://www.w3.org/community/omn/",
       "created": "2015-04-02T13:35:17.000Z",
-      "participants": 17,
+      "participants": 16,
       "chairs": [
         "Alexander Willner"
       ],
@@ -23055,7 +23044,7 @@
       "name": "WebAssembly Community Group",
       "link": "https://www.w3.org/community/webassembly/",
       "created": "2015-04-29T17:28:24.000Z",
-      "participants": 1027,
+      "participants": 1029,
       "chairs": [
         "Ben Smith"
       ],
@@ -23160,7 +23149,7 @@
           "2019-07": 18,
           "2019-08": 15,
           "2019-09": 34,
-          "2019-10": 18
+          "2019-10": 19
         },
         "join": {
           "2018-11": 6,
@@ -23174,7 +23163,7 @@
           "2019-07": 8,
           "2019-08": 8,
           "2019-09": 7,
-          "2019-10": 8
+          "2019-10": 10
         }
       }
     },
@@ -23231,7 +23220,33 @@
             }
           }
         },
-        "lists": {},
+        "lists": {
+          "2019-06": 1,
+          "2019-04": 1,
+          "2019-03": 1,
+          "2018-05": 1,
+          "2018-03": 1,
+          "2017-12": 1,
+          "2017-11": 1,
+          "2017-07": 2,
+          "2017-03": 3,
+          "2017-02": 5,
+          "2017-01": 5,
+          "2016-12": 6,
+          "2016-11": 9,
+          "2016-10": 11,
+          "2016-09": 5,
+          "2016-08": 2,
+          "2016-07": 2,
+          "2016-06": 1,
+          "2016-05": 28,
+          "2016-03": 8,
+          "2016-01": 1,
+          "2015-10": 8,
+          "2015-09": 1,
+          "2015-06": 1,
+          "2015-05": 1
+        },
         "repository": {
           "2018-11": 0,
           "2018-12": 0,
@@ -23965,7 +23980,7 @@
           }
         },
         "lists": {
-          "2019-10": 77,
+          "2019-10": 82,
           "2019-09": 127,
           "2019-07": 116,
           "2019-06": 130,
@@ -24008,7 +24023,7 @@
           "2019-07": 284,
           "2019-08": 280,
           "2019-09": 270,
-          "2019-10": 177
+          "2019-10": 189
         },
         "join": {
           "2018-11": 1,
@@ -24314,7 +24329,7 @@
       "name": "Music Notation Community Group",
       "link": "https://www.w3.org/community/music-notation/",
       "created": "2015-07-27T16:27:46.000Z",
-      "participants": 276,
+      "participants": 275,
       "chairs": [
         "Michael Good",
         "Adrian Holovaty",
@@ -24370,7 +24385,7 @@
           }
         },
         "lists": {
-          "2019-10": 11,
+          "2019-10": 17,
           "2019-09": 4,
           "2019-08": 4,
           "2019-07": 4,
@@ -24445,7 +24460,7 @@
           "2019-07": 7,
           "2019-08": 8,
           "2019-09": 6,
-          "2019-10": 6
+          "2019-10": 8
         },
         "join": {
           "2018-11": 2,
@@ -24556,7 +24571,7 @@
       "name": "Social Economy Community Group",
       "link": "https://www.w3.org/community/economy/",
       "created": "2015-09-11T15:59:07.000Z",
-      "participants": 22,
+      "participants": 21,
       "chairs": [
         "Pavlik elf"
       ],
@@ -26302,7 +26317,7 @@
           }
         },
         "lists": {
-          "2019-10": 8,
+          "2019-10": 9,
           "2019-09": 13,
           "2019-08": 14,
           "2019-07": 18,
@@ -26332,7 +26347,7 @@
           "2019-07": 119,
           "2019-08": 170,
           "2019-09": 187,
-          "2019-10": 121
+          "2019-10": 132
         },
         "join": {
           "2018-11": 6,
@@ -26805,7 +26820,7 @@
           "2019-07": 52,
           "2019-08": 31,
           "2019-09": 85,
-          "2019-10": 83
+          "2019-10": 100
         },
         "tracker": {
           "type": "tracker",
@@ -29699,7 +29714,7 @@
           }
         },
         "lists": {
-          "2019-10": 85,
+          "2019-10": 91,
           "2019-09": 49,
           "2019-08": 69,
           "2019-07": 72,
@@ -29747,7 +29762,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 14,
+          "2019-09": 12,
           "2019-10": 1
         },
         "repository": {
@@ -29762,7 +29777,7 @@
           "2019-07": 0,
           "2019-08": 6,
           "2019-09": 0,
-          "2019-10": 2
+          "2019-10": 4
         },
         "join": {
           "2018-11": 5,
