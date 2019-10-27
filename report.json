@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-10-26T05:14:31.052Z",
+  "timestamp": "2019-10-27T05:14:11.292Z",
   "data": [
     {
       "id": 100368,
@@ -4281,7 +4281,7 @@
           "2019-07": 2,
           "2019-08": 0,
           "2019-09": 1,
-          "2019-10": 0
+          "2019-10": 1
         },
         "join": {
           "2018-11": 0,
@@ -4694,7 +4694,7 @@
       "name": "Digital Identity Community Group",
       "link": "https://www.w3.org/community/dic/",
       "created": "2019-06-20T14:07:36.000Z",
-      "participants": 19,
+      "participants": 20,
       "chairs": [
         "dongming bi",
         "Grant Hu"
@@ -4745,7 +4745,7 @@
           "2019-07": 8,
           "2019-08": 4,
           "2019-09": 0,
-          "2019-10": 1
+          "2019-10": 2
         }
       }
     },
@@ -4969,8 +4969,8 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 3,
-          "2019-10": 1
+          "2019-09": 0,
+          "2019-10": 20
         },
         "join": {
           "2018-11": 0,
@@ -5245,7 +5245,7 @@
       "name": "Bitcoin Hypermedia Community Group",
       "link": "https://www.w3.org/community/bitcoin/",
       "created": "2019-09-21T06:14:21.000Z",
-      "participants": 33,
+      "participants": 34,
       "chairs": [
         "Aaron Burns",
         "Andrew DeSantis",
@@ -5315,7 +5315,7 @@
           "2019-07": 0,
           "2019-08": 0,
           "2019-09": 26,
-          "2019-10": 7
+          "2019-10": 8
         }
       }
     },
@@ -20883,7 +20883,7 @@
       "name": "Credentials Community Group",
       "link": "https://www.w3.org/community/credentials/",
       "created": "2014-08-06T18:29:41.000Z",
-      "participants": 262,
+      "participants": 263,
       "chairs": [
         "Christopher Allen",
         "Joe Andrieu",
@@ -20956,7 +20956,7 @@
           }
         },
         "lists": {
-          "2019-10": 35,
+          "2019-10": 36,
           "2019-09": 137,
           "2019-08": 149,
           "2019-07": 106,
@@ -21032,7 +21032,7 @@
           "2019-07": 76,
           "2019-08": 73,
           "2019-09": 25,
-          "2019-10": 26
+          "2019-10": 30
         },
         "join": {
           "2018-11": 7,
@@ -21046,7 +21046,7 @@
           "2019-07": 4,
           "2019-08": 5,
           "2019-09": 12,
-          "2019-10": 7
+          "2019-10": 8
         }
       }
     },
@@ -23969,7 +23969,7 @@
           }
         },
         "lists": {
-          "2019-10": 91,
+          "2019-10": 93,
           "2019-09": 127,
           "2019-07": 116,
           "2019-06": 130,
@@ -24012,7 +24012,7 @@
           "2019-07": 284,
           "2019-08": 280,
           "2019-09": 267,
-          "2019-10": 219
+          "2019-10": 224
         },
         "join": {
           "2018-11": 1,
@@ -26680,6 +26680,7 @@
         "https://github.com/openactive/w3c-community-group-microsite",
         "https://github.com/openactive/rpde-validator",
         "https://github.com/openactive/openactive-jsonld-redirect",
+        "https://github.com/openactive/extensions",
         "https://github.com/openactive/accessibility-support",
         "https://github.com/openactive/extension-documentation-generator",
         "https://github.com/openactive/iqvoc",
@@ -26710,6 +26711,8 @@
         "https://github.com/openactive/rolling-validator",
         "https://github.com/openactive/booking-libs-sketch",
         "https://github.com/openactive/booking-flow-validator",
+        "https://github.com/openactive/Stubble.Extensions.JsonNet",
+        "https://github.com/openactive/OpenActive.Server.NET",
         "https://github.com/openactive"
       ],
       "activity": {
@@ -26806,10 +26809,10 @@
           "2019-04": 45,
           "2019-05": 23,
           "2019-06": 19,
-          "2019-07": 52,
-          "2019-08": 31,
+          "2019-07": 59,
+          "2019-08": 33,
           "2019-09": 82,
-          "2019-10": 118
+          "2019-10": 127
         },
         "tracker": {
           "type": "tracker",
@@ -29480,7 +29483,7 @@
           }
         },
         "lists": {
-          "2019-10": 12,
+          "2019-10": 14,
           "2019-08": 3,
           "2019-07": 3,
           "2019-06": 25,
