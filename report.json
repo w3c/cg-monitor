@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-10-28T05:14:39.530Z",
+  "timestamp": "2019-10-29T05:14:55.106Z",
   "data": [
     {
       "id": 100368,
@@ -747,7 +747,7 @@
           }
         },
         "lists": {
-          "2019-10": 9,
+          "2019-10": 10,
           "2019-09": 2,
           "2019-08": 4,
           "2019-07": 1,
@@ -1776,7 +1776,7 @@
           }
         },
         "lists": {
-          "2019-10": 12,
+          "2019-10": 13,
           "2019-09": 27,
           "2019-08": 11,
           "2019-07": 39,
@@ -2741,7 +2741,7 @@
       "name": "RDF-DEV Community Group",
       "link": "https://www.w3.org/community/rdf-dev/",
       "created": "2018-10-16T12:07:01.000Z",
-      "participants": 45,
+      "participants": 46,
       "chairs": [
         "Dan Brickley"
       ],
@@ -2819,7 +2819,7 @@
           "2019-07": 1,
           "2019-08": 0,
           "2019-09": 3,
-          "2019-10": 0
+          "2019-10": 1
         }
       }
     },
@@ -3945,7 +3945,7 @@
       "name": "SVG Community Group",
       "link": "https://www.w3.org/community/svgcg/",
       "created": "2019-02-13T16:50:17.000Z",
-      "participants": 33,
+      "participants": 34,
       "chairs": [
         "Amelia Bellamy-Royds"
       ],
@@ -4041,7 +4041,7 @@
           "2019-07": 1,
           "2019-08": 0,
           "2019-09": 0,
-          "2019-10": 0
+          "2019-10": 1
         }
       }
     },
@@ -4260,7 +4260,7 @@
           }
         },
         "lists": {
-          "2019-10": 3,
+          "2019-10": 4,
           "2019-09": 1,
           "2019-08": 2,
           "2019-07": 2,
@@ -5222,7 +5222,7 @@
           "2019-07": 0,
           "2019-08": 0,
           "2019-09": 18,
-          "2019-10": 0
+          "2019-10": 2
         },
         "join": {
           "2018-11": 0,
@@ -5245,7 +5245,7 @@
       "name": "Bitcoin Hypermedia Community Group",
       "link": "https://www.w3.org/community/bitcoin/",
       "created": "2019-09-21T06:14:21.000Z",
-      "participants": 34,
+      "participants": 36,
       "chairs": [
         "Aaron Burns",
         "Andrew DeSantis",
@@ -5315,7 +5315,7 @@
           "2019-07": 0,
           "2019-08": 0,
           "2019-09": 26,
-          "2019-10": 8
+          "2019-10": 10
         }
       }
     },
@@ -5393,7 +5393,7 @@
           "2019-07": 13,
           "2019-08": 18,
           "2019-09": 13,
-          "2019-10": 8
+          "2019-10": 12
         },
         "join": {
           "2018-11": 0,
@@ -13917,7 +13917,7 @@
       "name": "Places Community Group",
       "link": "https://www.w3.org/community/places/",
       "created": "2012-10-05T17:42:21.000Z",
-      "participants": 23,
+      "participants": 24,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -13979,7 +13979,7 @@
           "2019-07": 0,
           "2019-08": 0,
           "2019-09": 0,
-          "2019-10": 0
+          "2019-10": 1
         }
       }
     },
@@ -20345,7 +20345,7 @@
           "2019-07": 127,
           "2019-08": 235,
           "2019-09": 166,
-          "2019-10": 66
+          "2019-10": 68
         },
         "join": {
           "2018-11": 2,
@@ -20785,7 +20785,7 @@
           }
         },
         "lists": {
-          "2019-10": 15,
+          "2019-10": 17,
           "2019-09": 21,
           "2019-08": 4,
           "2019-07": 24,
@@ -22141,7 +22141,7 @@
           }
         },
         "lists": {
-          "2019-10": 295,
+          "2019-10": 325,
           "2019-09": 234,
           "2019-08": 365,
           "2019-07": 61,
@@ -22204,7 +22204,7 @@
           "2019-07": 16,
           "2019-08": 121,
           "2019-09": 49,
-          "2019-10": 86
+          "2019-10": 99
         },
         "join": {
           "2018-11": 0,
@@ -22376,7 +22376,7 @@
           }
         },
         "lists": {
-          "2019-10": 37,
+          "2019-10": 41,
           "2019-09": 7,
           "2019-08": 26,
           "2019-07": 12,
@@ -22460,7 +22460,7 @@
           "2019-07": 23,
           "2019-08": 21,
           "2019-09": 22,
-          "2019-10": 36
+          "2019-10": 37
         },
         "join": {
           "2018-11": 5,
@@ -23969,7 +23969,7 @@
           }
         },
         "lists": {
-          "2019-10": 94,
+          "2019-10": 100,
           "2019-09": 127,
           "2019-07": 116,
           "2019-06": 130,
@@ -24012,7 +24012,7 @@
           "2019-07": 284,
           "2019-08": 280,
           "2019-09": 267,
-          "2019-10": 225
+          "2019-10": 230
         },
         "join": {
           "2018-11": 1,
@@ -24449,7 +24449,7 @@
           "2019-07": 7,
           "2019-08": 8,
           "2019-09": 6,
-          "2019-10": 9
+          "2019-10": 12
         },
         "join": {
           "2018-11": 2,
@@ -25730,7 +25730,7 @@
       "name": "Schema Course extension Community Group",
       "link": "https://www.w3.org/community/schema-course-extend/",
       "created": "2015-12-10T14:06:33.000Z",
-      "participants": 45,
+      "participants": 44,
       "chairs": [
         "Phil Barker"
       ],
@@ -26306,7 +26306,7 @@
           }
         },
         "lists": {
-          "2019-10": 9,
+          "2019-10": 10,
           "2019-09": 13,
           "2019-08": 14,
           "2019-07": 18,
@@ -26336,7 +26336,7 @@
           "2019-07": 119,
           "2019-08": 170,
           "2019-09": 187,
-          "2019-10": 139
+          "2019-10": 144
         },
         "join": {
           "2018-11": 6,
@@ -26684,7 +26684,6 @@
         "https://github.com/openactive/accessibility-support",
         "https://github.com/openactive/extension-documentation-generator",
         "https://github.com/openactive/iqvoc",
-        "https://github.com/openactive/concept-scheme-restriction-generator",
         "https://github.com/openactive/lorem-fitsum",
         "https://github.com/openactive/skos.js",
         "https://github.com/openactive/azure-rpde-proxy",
@@ -26812,7 +26811,7 @@
           "2019-07": 59,
           "2019-08": 33,
           "2019-09": 82,
-          "2019-10": 127
+          "2019-10": 157
         },
         "tracker": {
           "type": "tracker",
@@ -27192,7 +27191,7 @@
           }
         },
         "lists": {
-          "2019-10": 6,
+          "2019-10": 7,
           "2019-09": 9,
           "2019-08": 7,
           "2019-06": 1,
@@ -27839,7 +27838,6 @@
         "https://github.com/chainpoint/chainpoint-client-js",
         "https://github.com/chainpoint/chainpoint-org",
         "https://github.com/chainpoint/chainpoint-client-web",
-        "https://github.com/chainpoint/chainpoint-roughtime",
         "https://github.com/chainpoint/homebrew-taps",
         "https://github.com/chainpoint/tendermint",
         "https://github.com/chainpoint/go-nist-beacon",
@@ -28324,7 +28322,7 @@
       "name": "SKOS and OWL for Interoperabilty Community Group",
       "link": "https://www.w3.org/community/skosowlinterop/",
       "created": "2016-12-02T20:19:23.000Z",
-      "participants": 16,
+      "participants": 17,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -28380,7 +28378,7 @@
           "2019-07": 0,
           "2019-08": 1,
           "2019-09": 0,
-          "2019-10": 0
+          "2019-10": 1
         }
       }
     },
@@ -28497,7 +28495,7 @@
           "2019-07": 92,
           "2019-08": 21,
           "2019-09": 15,
-          "2019-10": 9
+          "2019-10": 10
         },
         "join": {
           "2018-11": 0,
@@ -29277,7 +29275,7 @@
           "2019-07": 84,
           "2019-08": 91,
           "2019-09": 90,
-          "2019-10": 117
+          "2019-10": 119
         },
         "join": {
           "2018-11": 3,
@@ -29526,7 +29524,7 @@
           "2019-07": 24,
           "2019-08": 17,
           "2019-09": 21,
-          "2019-10": 8
+          "2019-10": 12
         },
         "twitter": {
           "type": "twitter",
@@ -29631,7 +29629,7 @@
       "name": "Silver Community Group",
       "link": "https://www.w3.org/community/silver/",
       "created": "2017-03-03T00:00:42.000Z",
-      "participants": 128,
+      "participants": 129,
       "chairs": [
         "Shawn Lauriat",
         "Jeanne F Spellman"
@@ -29706,7 +29704,7 @@
           }
         },
         "lists": {
-          "2019-10": 96,
+          "2019-10": 98,
           "2019-09": 49,
           "2019-08": 69,
           "2019-07": 72,
@@ -29783,7 +29781,7 @@
           "2019-07": 1,
           "2019-08": 2,
           "2019-09": 1,
-          "2019-10": 1
+          "2019-10": 2
         }
       }
     },
