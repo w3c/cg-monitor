@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-11-03T05:14:20.549Z",
+  "timestamp": "2019-11-04T06:14:49.779Z",
   "data": [
     {
       "id": 100368,
@@ -424,7 +424,7 @@
       "name": "XProc Next Community Group",
       "link": "https://www.w3.org/community/xproc-next/",
       "created": "2017-07-26T11:05:42.000Z",
-      "participants": 21,
+      "participants": 20,
       "chairs": [
         "Ari Nordström"
       ],
@@ -622,7 +622,7 @@
       "name": "Vocabularies for big data analysis Community Group",
       "link": "https://www.w3.org/community/bigdata-tools/",
       "created": "2017-10-19T08:16:41.000Z",
-      "participants": 13,
+      "participants": 14,
       "chairs": [
         "Aad Versteden"
       ],
@@ -679,7 +679,7 @@
           "2019-08": 0,
           "2019-09": 0,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -964,7 +964,7 @@
       "name": "Art & Culture (Museums) On The Web Community Group",
       "link": "https://www.w3.org/community/art/",
       "created": "2017-11-17T16:30:32.000Z",
-      "participants": 67,
+      "participants": 68,
       "chairs": [
         "Robert Sanderson"
       ],
@@ -1048,7 +1048,7 @@
           "2019-08": 0,
           "2019-09": 0,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -2460,7 +2460,7 @@
           }
         },
         "lists": {
-          "2019-11": 1,
+          "2019-11": 2,
           "2019-10": 29,
           "2019-09": 6,
           "2019-08": 10,
@@ -4545,7 +4545,7 @@
       "name": "Entity Reconciliation Community Group",
       "link": "https://www.w3.org/community/reconciliation/",
       "created": "2019-06-11T08:21:34.000Z",
-      "participants": 27,
+      "participants": 26,
       "chairs": [
         "Antonin Delpeuch"
       ],
@@ -4616,7 +4616,7 @@
           "2019-03": 0,
           "2019-04": 0,
           "2019-05": 0,
-          "2019-06": 20,
+          "2019-06": 19,
           "2019-07": 2,
           "2019-08": 1,
           "2019-09": 2,
@@ -6249,7 +6249,7 @@
       "name": "Ontology-Lexica Community Group",
       "link": "https://www.w3.org/community/ontolex/",
       "created": "2011-11-02T09:28:57.000Z",
-      "participants": 108,
+      "participants": 109,
       "chairs": [
         "Julia Bosque-Gil",
         "Philipp Cimiano",
@@ -6418,7 +6418,7 @@
           "2019-08": 0,
           "2019-09": 1,
           "2019-10": 1,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -8963,6 +8963,7 @@
           }
         },
         "lists": {
+          "2019-11": 2,
           "2019-10": 15,
           "2019-09": 38,
           "2019-08": 17,
@@ -9077,7 +9078,7 @@
           "2019-08": 21,
           "2019-09": 9,
           "2019-10": 5,
-          "2019-11": 0
+          "2019-11": 4
         },
         "join": {
           "2018-12": 0,
@@ -9802,7 +9803,7 @@
       "name": "Open Annotation Community Group",
       "link": "https://www.w3.org/community/openannotation/",
       "created": "2012-08-27T20:27:24.000Z",
-      "participants": 143,
+      "participants": 144,
       "chairs": [
         "Paolo Ciccarese",
         "Robert Sanderson"
@@ -9943,7 +9944,7 @@
           "2019-08": 0,
           "2019-09": 1,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -11091,7 +11092,7 @@
       "name": "XForms Users Community Group",
       "link": "https://www.w3.org/community/xformsusers/",
       "created": "2012-03-14T15:41:09.000Z",
-      "participants": 34,
+      "participants": 33,
       "chairs": [
         "Mark Seaborne"
       ],
@@ -19735,7 +19736,7 @@
       "name": "Quick-fix support for XML Community Group",
       "link": "https://www.w3.org/community/quickfix/",
       "created": "2014-02-20T12:15:58.000Z",
-      "participants": 23,
+      "participants": 22,
       "chairs": [
         "George Bina",
         "Nico Kutscherauer",
@@ -19815,7 +19816,7 @@
           "2019-01": 0,
           "2019-02": 0,
           "2019-03": 0,
-          "2019-04": 1,
+          "2019-04": 0,
           "2019-05": 0,
           "2019-06": 0,
           "2019-07": 0,
@@ -20963,7 +20964,7 @@
           }
         },
         "lists": {
-          "2019-11": 2,
+          "2019-11": 3,
           "2019-10": 40,
           "2019-09": 137,
           "2019-08": 149,
@@ -21040,7 +21041,7 @@
           "2019-08": 73,
           "2019-09": 25,
           "2019-10": 31,
-          "2019-11": 11
+          "2019-11": 13
         },
         "join": {
           "2018-12": 6,
@@ -21311,7 +21312,7 @@
       "name": "Exploration of Semantic Data Community Group",
       "link": "https://www.w3.org/community/exploresemdata/",
       "created": "2014-10-22T12:13:07.000Z",
-      "participants": 30,
+      "participants": 31,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -21369,7 +21370,7 @@
           "2019-08": 0,
           "2019-09": 0,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -22330,7 +22331,7 @@
       "name": "Schema.org Community Group",
       "link": "https://www.w3.org/community/schemaorg/",
       "created": "2015-03-31T18:36:46.000Z",
-      "participants": 372,
+      "participants": 373,
       "chairs": [
         "Dan Brickley"
       ],
@@ -22385,7 +22386,7 @@
           }
         },
         "lists": {
-          "2019-11": 2,
+          "2019-11": 3,
           "2019-10": 45,
           "2019-09": 7,
           "2019-08": 26,
@@ -22484,7 +22485,7 @@
           "2019-08": 6,
           "2019-09": 4,
           "2019-10": 3,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -23414,7 +23415,7 @@
       "name": "Healthcare Schema Vocabulary Community Group",
       "link": "https://www.w3.org/community/schemed/",
       "created": "2015-05-29T12:34:10.000Z",
-      "participants": 41,
+      "participants": 42,
       "chairs": [
         "Marc Twagirumukiza"
       ],
@@ -23530,7 +23531,7 @@
           "2019-08": 0,
           "2019-09": 0,
           "2019-10": 1,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -24024,7 +24025,7 @@
           "2019-08": 285,
           "2019-09": 271,
           "2019-10": 259,
-          "2019-11": 11
+          "2019-11": 13
         },
         "join": {
           "2018-12": 0,
@@ -26165,7 +26166,7 @@
       "name": "Data Pipelining Use Cases Community Group",
       "link": "https://www.w3.org/community/datapipelining/",
       "created": "2016-02-11T15:28:13.000Z",
-      "participants": 24,
+      "participants": 23,
       "chairs": [
         "Nic Gibson",
         "Ari Nordström"
@@ -26817,7 +26818,7 @@
           "2018-12": 20,
           "2019-01": 52,
           "2019-02": 35,
-          "2019-03": 47,
+          "2019-03": 44,
           "2019-04": 45,
           "2019-05": 23,
           "2019-06": 19,
@@ -26825,7 +26826,7 @@
           "2019-08": 33,
           "2019-09": 82,
           "2019-10": 178,
-          "2019-11": 15
+          "2019-11": 17
         },
         "tracker": {
           "type": "tracker",
@@ -26996,7 +26997,7 @@
       "name": "RDF and XML Interoperability Community Group",
       "link": "https://www.w3.org/community/rax/",
       "created": "2016-06-01T12:02:20.000Z",
-      "participants": 33,
+      "participants": 32,
       "chairs": [
         "Christian Dirschl",
         "Phil Ritchie"
@@ -27526,7 +27527,7 @@
       "name": "experimental protocols Community Group",
       "link": "https://www.w3.org/community/exp-protocols/",
       "created": "2016-07-05T18:49:56.000Z",
-      "participants": 10,
+      "participants": 11,
       "chairs": [
         "alexander garcia",
         "Tazro Ohta"
@@ -27582,7 +27583,7 @@
           "2019-08": 0,
           "2019-09": 0,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -29245,7 +29246,7 @@
           "2019-11": 0
         },
         "lists": {
-          "2019-11": 3,
+          "2019-11": 5,
           "2019-10": 9,
           "2019-09": 2,
           "2019-08": 36,
@@ -29498,6 +29499,7 @@
           }
         },
         "lists": {
+          "2019-11": 1,
           "2019-10": 14,
           "2019-08": 3,
           "2019-07": 3,
