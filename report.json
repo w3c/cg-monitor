@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-11-04T06:14:49.779Z",
+  "timestamp": "2019-11-05T06:14:51.971Z",
   "data": [
     {
       "id": 100368,
@@ -186,7 +186,7 @@
       "name": "Multidimensional Quality Metrics (MQM) Community Group",
       "link": "https://www.w3.org/community/mqmcg/",
       "created": "2017-06-22T12:03:59.000Z",
-      "participants": 16,
+      "participants": 17,
       "chairs": [
         "Arle Lommel",
         "Alan Melby"
@@ -255,7 +255,7 @@
           "2019-08": 1,
           "2019-09": 0,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -514,7 +514,7 @@
           "2019-08": 95,
           "2019-09": 100,
           "2019-10": 94,
-          "2019-11": 0
+          "2019-11": 6
         },
         "join": {
           "2018-12": 0,
@@ -747,6 +747,7 @@
           }
         },
         "lists": {
+          "2019-11": 1,
           "2019-10": 14,
           "2019-09": 2,
           "2019-08": 4,
@@ -3283,7 +3284,7 @@
       "name": "ARIA and Assistive Technologies Community Group",
       "link": "https://www.w3.org/community/aria-at/",
       "created": "2018-11-30T18:20:49.000Z",
-      "participants": 45,
+      "participants": 44,
       "chairs": [
         "Michael Fairchild",
         "Matthew King"
@@ -3339,6 +3340,7 @@
           }
         },
         "lists": {
+          "2019-11": 1,
           "2019-10": 18,
           "2019-09": 14,
           "2019-08": 10,
@@ -3354,7 +3356,7 @@
         "join": {
           "2018-12": 21,
           "2019-01": 3,
-          "2019-02": 2,
+          "2019-02": 1,
           "2019-03": 5,
           "2019-04": 1,
           "2019-05": 2,
@@ -4307,7 +4309,7 @@
       "name": "ACT Rules Community Group",
       "link": "https://www.w3.org/community/act-r/",
       "created": "2019-04-04T16:37:58.000Z",
-      "participants": 55,
+      "participants": 56,
       "chairs": [
         "Wilco Fiers"
       ],
@@ -4391,7 +4393,7 @@
           "2019-08": 7,
           "2019-09": 12,
           "2019-10": 3,
-          "2019-11": 1
+          "2019-11": 2
         }
       }
     },
@@ -5961,6 +5963,7 @@
           "2019-11": 0
         },
         "lists": {
+          "2019-11": 2,
           "2019-10": 7,
           "2019-09": 4,
           "2019-08": 3,
@@ -8422,7 +8425,7 @@
       "name": "CSS Accessibility Community Group",
       "link": "https://www.w3.org/community/cssacc/",
       "created": "2011-10-25T16:39:15.000Z",
-      "participants": 72,
+      "participants": 71,
       "chairs": [
         "Molly Holzschlag"
       ],
@@ -8963,7 +8966,7 @@
           }
         },
         "lists": {
-          "2019-11": 2,
+          "2019-11": 8,
           "2019-10": 15,
           "2019-09": 38,
           "2019-08": 17,
@@ -9078,7 +9081,7 @@
           "2019-08": 21,
           "2019-09": 9,
           "2019-10": 5,
-          "2019-11": 4
+          "2019-11": 5
         },
         "join": {
           "2018-12": 0,
@@ -9561,7 +9564,7 @@
       "name": "Accessible Infographics Community Group",
       "link": "https://www.w3.org/community/infographics/",
       "created": "2011-12-08T16:33:08.000Z",
-      "participants": 58,
+      "participants": 57,
       "chairs": [
         "Carlos Iglesias",
         "Charissa Ramirez",
@@ -12189,7 +12192,7 @@
       "name": "Philosophy of the Web Community Group",
       "link": "https://www.w3.org/community/philoweb/",
       "created": "2012-04-25T15:27:15.000Z",
-      "participants": 72,
+      "participants": 71,
       "chairs": [
         "Alexandre Monnin",
         "Henry Story"
@@ -13426,7 +13429,7 @@
       "name": "Mobile Accessibility Community Group",
       "link": "https://www.w3.org/community/mobileacc/",
       "created": "2012-07-26T03:31:04.000Z",
-      "participants": 54,
+      "participants": 53,
       "chairs": [
         "Serge K. Keller"
       ],
@@ -16216,7 +16219,7 @@
           "2019-08": 33,
           "2019-09": 9,
           "2019-10": 22,
-          "2019-11": 6
+          "2019-11": 11
         },
         "join": {
           "2018-12": 0,
@@ -16639,7 +16642,7 @@
       "name": "Web of Things Community Group",
       "link": "https://www.w3.org/community/wot/",
       "created": "2013-06-05T15:08:52.000Z",
-      "participants": 226,
+      "participants": 225,
       "chairs": [
         "Dave Raggett"
       ],
@@ -17118,7 +17121,7 @@
       "name": "Accessible SVG Community Group",
       "link": "https://www.w3.org/community/svga11y/",
       "created": "2013-07-18T02:44:34.000Z",
-      "participants": 44,
+      "participants": 43,
       "chairs": [],
       "staff": [
         {
@@ -17164,6 +17167,7 @@
           }
         },
         "lists": {
+          "2019-11": 2,
           "2019-04": 1,
           "2019-03": 1,
           "2018-10": 3,
@@ -19507,7 +19511,7 @@
       "name": "HTML for email Community Group",
       "link": "https://www.w3.org/community/htmail/",
       "created": "2014-01-29T20:06:13.000Z",
-      "participants": 108,
+      "participants": 107,
       "chairs": [
         "Charles 'chaals' (McCathie) Nevile"
       ],
@@ -20351,7 +20355,7 @@
           "2019-08": 235,
           "2019-09": 166,
           "2019-10": 74,
-          "2019-11": 0
+          "2019-11": 4
         },
         "join": {
           "2018-12": 1,
@@ -20867,7 +20871,7 @@
           "2019-08": 2,
           "2019-09": 6,
           "2019-10": 5,
-          "2019-11": 1
+          "2019-11": 3
         },
         "join": {
           "2018-12": 0,
@@ -20890,7 +20894,7 @@
       "name": "Credentials Community Group",
       "link": "https://www.w3.org/community/credentials/",
       "created": "2014-08-06T18:29:41.000Z",
-      "participants": 267,
+      "participants": 268,
       "chairs": [
         "Christopher Allen",
         "Joe Andrieu",
@@ -20964,7 +20968,7 @@
           }
         },
         "lists": {
-          "2019-11": 3,
+          "2019-11": 4,
           "2019-10": 40,
           "2019-09": 137,
           "2019-08": 149,
@@ -21055,7 +21059,7 @@
           "2019-08": 5,
           "2019-09": 12,
           "2019-10": 12,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -22150,7 +22154,7 @@
           }
         },
         "lists": {
-          "2019-11": 1,
+          "2019-11": 10,
           "2019-10": 358,
           "2019-09": 234,
           "2019-08": 365,
@@ -22214,7 +22218,7 @@
           "2019-08": 121,
           "2019-09": 49,
           "2019-10": 113,
-          "2019-11": 0
+          "2019-11": 3
         },
         "join": {
           "2018-12": 0,
@@ -22331,7 +22335,7 @@
       "name": "Schema.org Community Group",
       "link": "https://www.w3.org/community/schemaorg/",
       "created": "2015-03-31T18:36:46.000Z",
-      "participants": 373,
+      "participants": 374,
       "chairs": [
         "Dan Brickley"
       ],
@@ -22386,7 +22390,7 @@
           }
         },
         "lists": {
-          "2019-11": 3,
+          "2019-11": 8,
           "2019-10": 45,
           "2019-09": 7,
           "2019-08": 26,
@@ -22485,7 +22489,7 @@
           "2019-08": 6,
           "2019-09": 4,
           "2019-10": 3,
-          "2019-11": 1
+          "2019-11": 2
         }
       }
     },
@@ -24025,7 +24029,7 @@
           "2019-08": 285,
           "2019-09": 271,
           "2019-10": 259,
-          "2019-11": 13
+          "2019-11": 28
         },
         "join": {
           "2018-12": 0,
@@ -24746,7 +24750,7 @@
       "name": "Interledger Payments Community Group",
       "link": "https://www.w3.org/community/interledger/",
       "created": "2015-10-06T14:39:16.000Z",
-      "participants": 373,
+      "participants": 372,
       "chairs": [
         "Dimitri De Jonghe"
       ],
@@ -25668,7 +25672,7 @@
       "name": "The Tourism Structured Web Data Community Group",
       "link": "https://www.w3.org/community/tourismdata/",
       "created": "2015-12-08T16:25:23.000Z",
-      "participants": 43,
+      "participants": 44,
       "chairs": [
         "Felipe Santi",
         "Richard Wallis"
@@ -25734,7 +25738,7 @@
           "2019-08": 1,
           "2019-09": 1,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -26319,6 +26323,7 @@
           }
         },
         "lists": {
+          "2019-11": 1,
           "2019-10": 13,
           "2019-09": 13,
           "2019-08": 14,
@@ -26349,7 +26354,7 @@
           "2019-08": 170,
           "2019-09": 187,
           "2019-10": 163,
-          "2019-11": 7
+          "2019-11": 10
         },
         "join": {
           "2018-12": 1,
@@ -26652,7 +26657,7 @@
       "name": "OpenActive Community Group",
       "link": "https://www.w3.org/community/openactive/",
       "created": "2016-04-11T15:38:31.000Z",
-      "participants": 84,
+      "participants": 86,
       "chairs": [
         "Leigh Dodds",
         "Timothy Hill"
@@ -26826,7 +26831,7 @@
           "2019-08": 33,
           "2019-09": 82,
           "2019-10": 178,
-          "2019-11": 17
+          "2019-11": 20
         },
         "tracker": {
           "type": "tracker",
@@ -26865,7 +26870,7 @@
           "2019-08": 1,
           "2019-09": 1,
           "2019-10": 7,
-          "2019-11": 0
+          "2019-11": 2
         }
       }
     },
@@ -28762,7 +28767,7 @@
           "2019-08": 0,
           "2019-09": 2,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 10
         },
         "join": {
           "2018-12": 0,
@@ -29246,7 +29251,7 @@
           "2019-11": 0
         },
         "lists": {
-          "2019-11": 5,
+          "2019-11": 9,
           "2019-10": 9,
           "2019-09": 2,
           "2019-08": 36,
@@ -29293,7 +29298,7 @@
           "2019-08": 91,
           "2019-09": 90,
           "2019-10": 132,
-          "2019-11": 6
+          "2019-11": 8
         },
         "join": {
           "2018-12": 1,
@@ -29723,7 +29728,7 @@
           }
         },
         "lists": {
-          "2019-11": 5,
+          "2019-11": 6,
           "2019-10": 106,
           "2019-09": 49,
           "2019-08": 69,
