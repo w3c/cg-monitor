@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-11-10T06:14:35.395Z",
+  "timestamp": "2019-11-11T06:14:51.059Z",
   "data": [
     {
       "id": 100368,
@@ -454,6 +454,7 @@
         "https://github.com/xproc/xproc.org",
         "https://github.com/xproc/Workshop-2019-11",
         "https://github.com/xproc/xvrl-tools",
+        "https://github.com/xproc/3.0-grammar",
         "https://github.com/xproc/"
       ],
       "activity": {
@@ -515,7 +516,7 @@
           "2019-08": 95,
           "2019-09": 100,
           "2019-10": 94,
-          "2019-11": 23
+          "2019-11": 42
         },
         "join": {
           "2018-12": 0,
@@ -1150,7 +1151,7 @@
       "name": "Blockchain and Decentralized Apps Community Group",
       "link": "https://www.w3.org/community/dapps/",
       "created": "2018-01-19T15:17:20.000Z",
-      "participants": 12,
+      "participants": 13,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -1203,7 +1204,7 @@
           "2019-08": 0,
           "2019-09": 0,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -2919,7 +2920,7 @@
       "name": "Audio Community Group",
       "link": "https://www.w3.org/community/audio-comgp/",
       "created": "2018-10-28T22:08:20.000Z",
-      "participants": 30,
+      "participants": 31,
       "chairs": [
         "Paul Adenot",
         "Matthew Paradis"
@@ -3005,7 +3006,7 @@
           "2019-08": 0,
           "2019-09": 1,
           "2019-10": 3,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -4613,7 +4614,7 @@
           }
         },
         "lists": {
-          "2019-11": 2,
+          "2019-11": 4,
           "2019-10": 6,
           "2019-09": 10,
           "2019-08": 1,
@@ -5512,7 +5513,7 @@
       "name": "Business Data APIs and Interchange Community Group",
       "link": "https://www.w3.org/community/businessdata/",
       "created": "2019-10-21T18:37:46.000Z",
-      "participants": 4,
+      "participants": 5,
       "chairs": [
         "Sateesh jain"
       ],
@@ -5562,7 +5563,7 @@
           "2019-08": 0,
           "2019-09": 0,
           "2019-10": 3,
-          "2019-11": 1
+          "2019-11": 2
         }
       }
     },
@@ -10409,7 +10410,7 @@
       "name": "HTML5 Specifications Community Group",
       "link": "https://www.w3.org/community/html5spec/",
       "created": "2012-02-16T10:50:49.000Z",
-      "participants": 121,
+      "participants": 122,
       "chairs": [
         "Serge K. Keller"
       ],
@@ -10502,7 +10503,7 @@
           "2019-08": 0,
           "2019-09": 0,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -15171,7 +15172,7 @@
       "name": "Web Audio Developers Community Group",
       "link": "https://www.w3.org/community/audio-dev/",
       "created": "2013-02-09T15:24:07.000Z",
-      "participants": 76,
+      "participants": 77,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -15278,7 +15279,7 @@
           "2019-08": 0,
           "2019-09": 1,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -16667,7 +16668,7 @@
       "name": "Web of Things Community Group",
       "link": "https://www.w3.org/community/wot/",
       "created": "2013-06-05T15:08:52.000Z",
-      "participants": 225,
+      "participants": 226,
       "chairs": [
         "Dave Raggett"
       ],
@@ -16787,7 +16788,7 @@
           "2019-08": 0,
           "2019-09": 0,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -18515,7 +18516,7 @@
       "name": "Media Resource In-band Tracks Community Group",
       "link": "https://www.w3.org/community/inbandtracks/",
       "created": "2013-10-23T06:16:27.000Z",
-      "participants": 11,
+      "participants": 12,
       "chairs": [],
       "staff": [
         {
@@ -18624,7 +18625,7 @@
           "2019-08": 0,
           "2019-09": 0,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -20921,7 +20922,7 @@
       "name": "Credentials Community Group",
       "link": "https://www.w3.org/community/credentials/",
       "created": "2014-08-06T18:29:41.000Z",
-      "participants": 271,
+      "participants": 272,
       "chairs": [
         "Christopher Allen",
         "Joe Andrieu",
@@ -20995,7 +20996,7 @@
           }
         },
         "lists": {
-          "2019-11": 27,
+          "2019-11": 28,
           "2019-10": 40,
           "2019-09": 137,
           "2019-08": 149,
@@ -21086,7 +21087,7 @@
           "2019-08": 5,
           "2019-09": 12,
           "2019-10": 12,
-          "2019-11": 4
+          "2019-11": 5
         }
       }
     },
@@ -22181,7 +22182,7 @@
           }
         },
         "lists": {
-          "2019-11": 80,
+          "2019-11": 84,
           "2019-10": 358,
           "2019-09": 234,
           "2019-08": 365,
@@ -22245,7 +22246,7 @@
           "2019-08": 121,
           "2019-09": 49,
           "2019-10": 113,
-          "2019-11": 18
+          "2019-11": 20
         },
         "join": {
           "2018-12": 0,
@@ -24057,7 +24058,7 @@
           "2019-08": 285,
           "2019-09": 271,
           "2019-10": 259,
-          "2019-11": 79
+          "2019-11": 80
         },
         "join": {
           "2018-12": 0,
@@ -26405,7 +26406,7 @@
       "name": "Blockchain Community Group",
       "link": "https://www.w3.org/community/blockchain/",
       "created": "2016-03-14T22:16:19.000Z",
-      "participants": 201,
+      "participants": 202,
       "chairs": [
         "Colleen Kirtland",
         "Mountie Lee",
@@ -26522,7 +26523,7 @@
           "2019-08": 1,
           "2019-09": 1,
           "2019-10": 1,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -26860,7 +26861,7 @@
           "2019-08": 57,
           "2019-09": 93,
           "2019-10": 217,
-          "2019-11": 64
+          "2019-11": 66
         },
         "tracker": {
           "type": "tracker",
@@ -27128,7 +27129,7 @@
       "name": "Accessible Playlist Community Group",
       "link": "https://www.w3.org/community/playlist-a11y/",
       "created": "2016-06-03T11:51:16.000Z",
-      "participants": 9,
+      "participants": 10,
       "chairs": [
         "Terrill Thompson"
       ],
@@ -27183,7 +27184,7 @@
           "2019-08": 0,
           "2019-09": 0,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -27627,7 +27628,7 @@
       "name": "Blockchain Digital Assets Community Group",
       "link": "https://www.w3.org/community/digital-asset/",
       "created": "2016-07-18T15:41:32.000Z",
-      "participants": 33,
+      "participants": 34,
       "chairs": [
         "Rodolphe Marques",
         "Trent McConaghy",
@@ -27684,7 +27685,7 @@
           "2019-08": 0,
           "2019-09": 0,
           "2019-10": 0,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
@@ -27768,7 +27769,7 @@
       "name": "Web Media API Community Group",
       "link": "https://www.w3.org/community/webmediaapi/",
       "created": "2016-09-06T16:07:36.000Z",
-      "participants": 31,
+      "participants": 32,
       "chairs": [
         "John Luther",
         "John Riviello"
@@ -27861,7 +27862,7 @@
           "2019-08": 0,
           "2019-09": 0,
           "2019-10": 1,
-          "2019-11": 0
+          "2019-11": 1
         }
       }
     },
