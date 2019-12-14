@@ -1,5 +1,5 @@
 {
-  "timestamp": "2019-12-13T06:15:17.599Z",
+  "timestamp": "2019-12-14T06:14:39.953Z",
   "data": [
     {
       "id": 100368,
@@ -516,7 +516,7 @@
           "2019-09": 100,
           "2019-10": 94,
           "2019-11": 119,
-          "2019-12": 18
+          "2019-12": 20
         },
         "join": {
           "2019-01": 0,
@@ -1784,7 +1784,7 @@
           }
         },
         "lists": {
-          "2019-12": 7,
+          "2019-12": 14,
           "2019-11": 28,
           "2019-10": 17,
           "2019-09": 27,
@@ -3203,7 +3203,7 @@
       "name": "Notation 3 (N3) Community Group",
       "link": "https://www.w3.org/community/n3-dev/",
       "created": "2018-11-27T17:48:18.000Z",
-      "participants": 30,
+      "participants": 29,
       "chairs": [
         "Dörthe Arndt",
         "William Van Woensel"
@@ -11325,7 +11325,7 @@
           }
         },
         "lists": {
-          "2019-12": 23,
+          "2019-12": 25,
           "2019-11": 8,
           "2019-10": 29,
           "2019-09": 20,
@@ -18934,7 +18934,6 @@
         "https://github.com/webscreens/wg-charter",
         "https://github.com/webscreens/requestshowmedia",
         "https://github.com/webscreens/cg-charter",
-        "https://github.com/webscreens/openscreenprotocol",
         "https://github.com/webscreens/window-placement",
         "https://github.com/webscreens/screen-enumeration",
         "https://github.com/webscreens/webscreens.github.io",
@@ -19048,18 +19047,18 @@
           "2013-11": 2
         },
         "repository": {
-          "2019-01": 12,
-          "2019-02": 2,
-          "2019-03": 7,
-          "2019-04": 22,
-          "2019-05": 35,
+          "2019-01": 0,
+          "2019-02": 0,
+          "2019-03": 0,
+          "2019-04": 0,
+          "2019-05": 2,
           "2019-06": 0,
           "2019-07": 0,
-          "2019-08": 80,
-          "2019-09": 57,
-          "2019-10": 16,
+          "2019-08": 31,
+          "2019-09": 10,
+          "2019-10": 11,
           "2019-11": 16,
-          "2019-12": 8
+          "2019-12": 6
         },
         "join": {
           "2019-01": 0,
@@ -20502,7 +20501,7 @@
           "2019-09": 166,
           "2019-10": 74,
           "2019-11": 70,
-          "2019-12": 40
+          "2019-12": 44
         },
         "join": {
           "2019-01": 2,
@@ -21043,7 +21042,7 @@
       "name": "Credentials Community Group",
       "link": "https://www.w3.org/community/credentials/",
       "created": "2014-08-06T18:29:41.000Z",
-      "participants": 283,
+      "participants": 284,
       "chairs": [
         "Christopher Allen",
         "Joe Andrieu",
@@ -21120,7 +21119,7 @@
           }
         },
         "lists": {
-          "2019-12": 58,
+          "2019-12": 67,
           "2019-11": 146,
           "2019-10": 40,
           "2019-09": 137,
@@ -21212,7 +21211,7 @@
           "2019-09": 12,
           "2019-10": 12,
           "2019-11": 14,
-          "2019-12": 3
+          "2019-12": 4
         }
       }
     },
@@ -22308,7 +22307,7 @@
           }
         },
         "lists": {
-          "2019-12": 98,
+          "2019-12": 118,
           "2019-11": 194,
           "2019-10": 358,
           "2019-09": 234,
@@ -22373,7 +22372,7 @@
           "2019-09": 49,
           "2019-10": 113,
           "2019-11": 43,
-          "2019-12": 16
+          "2019-12": 29
         },
         "join": {
           "2019-01": 0,
@@ -22631,7 +22630,7 @@
           "2019-09": 22,
           "2019-10": 47,
           "2019-11": 36,
-          "2019-12": 26
+          "2019-12": 28
         },
         "join": {
           "2019-01": 3,
@@ -23309,7 +23308,7 @@
           "2019-08": 15,
           "2019-09": 34,
           "2019-10": 19,
-          "2019-11": 17,
+          "2019-11": 16,
           "2019-12": 5
         },
         "join": {
@@ -24111,6 +24110,9 @@
         "https://github.com/WICG/media-latency-hint",
         "https://github.com/WICG/video-editing",
         "https://github.com/WICG/custom-state-pseudo-class",
+        "https://github.com/WICG/crash-reporting",
+        "https://github.com/WICG/intervention-reporting",
+        "https://github.com/WICG/deprecation-reporting",
         "https://github.com/wicg/"
       ],
       "activity": {
@@ -24189,7 +24191,7 @@
           "2019-09": 260,
           "2019-10": 276,
           "2019-11": 294,
-          "2019-12": 110
+          "2019-12": 149
         },
         "join": {
           "2019-01": 3,
@@ -26486,7 +26488,7 @@
           }
         },
         "lists": {
-          "2019-12": 7,
+          "2019-12": 8,
           "2019-11": 10,
           "2019-10": 13,
           "2019-09": 13,
@@ -26518,7 +26520,7 @@
           "2019-09": 187,
           "2019-10": 163,
           "2019-11": 104,
-          "2019-12": 82
+          "2019-12": 88
         },
         "join": {
           "2019-01": 4,
@@ -27000,7 +27002,7 @@
           "2019-09": 91,
           "2019-10": 216,
           "2019-11": 235,
-          "2019-12": 105
+          "2019-12": 109
         },
         "tracker": {
           "type": "tracker",
@@ -28020,12 +28022,10 @@
         "https://github.com/chainpoint/chainpoint-validate-js",
         "https://github.com/chainpoint/w3id.org",
         "https://github.com/chainpoint/chainpoint-binary",
-        "https://github.com/chainpoint/chainpoint-services",
         "https://github.com/chainpoint/chainpoint-proof-json-schema",
         "https://github.com/chainpoint/chainpoint-parse",
         "https://github.com/chainpoint/chainpoint-cli",
         "https://github.com/chainpoint/chainpoint-node-src",
-        "https://github.com/chainpoint/chainpoint-node",
         "https://github.com/chainpoint/chainpoint-client-js",
         "https://github.com/chainpoint/chainpoint-org",
         "https://github.com/chainpoint/chainpoint-client-web",
@@ -28076,17 +28076,17 @@
         },
         "repository": {
           "2019-01": 174,
-          "2019-02": 138,
+          "2019-02": 137,
           "2019-03": 200,
           "2019-04": 176,
           "2019-05": 129,
           "2019-06": 128,
           "2019-07": 77,
           "2019-08": 54,
-          "2019-09": 80,
+          "2019-09": 79,
           "2019-10": 86,
-          "2019-11": 117,
-          "2019-12": 12
+          "2019-11": 116,
+          "2019-12": 11
         },
         "twitter": {
           "type": "twitter",
@@ -28548,7 +28548,7 @@
           }
         },
         "lists": {
-          "2019-12": 1,
+          "2019-12": 3,
           "2019-11": 4,
           "2019-10": 3,
           "2019-08": 4,
@@ -29382,7 +29382,7 @@
           "2019-09": 90,
           "2019-10": 132,
           "2019-11": 78,
-          "2019-12": 22
+          "2019-12": 28
         },
         "join": {
           "2019-01": 2,
@@ -29813,7 +29813,7 @@
           }
         },
         "lists": {
-          "2019-12": 24,
+          "2019-12": 29,
           "2019-11": 50,
           "2019-10": 106,
           "2019-09": 49,
