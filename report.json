@@ -1,5 +1,5 @@
 {
-  "timestamp": "2020-01-18T06:17:59.425Z",
+  "timestamp": "2020-01-19T06:17:26.432Z",
   "data": [
     {
       "id": 100368,
@@ -517,7 +517,7 @@
           "2019-10": 94,
           "2019-11": 119,
           "2019-12": 133,
-          "2020-01": 107
+          "2020-01": 117
         },
         "join": {
           "2019-02": 0,
@@ -4338,7 +4338,7 @@
           }
         },
         "lists": {
-          "2020-01": 6,
+          "2020-01": 7,
           "2019-12": 3,
           "2019-11": 6,
           "2019-10": 9,
@@ -4701,7 +4701,7 @@
           }
         },
         "lists": {
-          "2020-01": 4,
+          "2020-01": 5,
           "2019-12": 4,
           "2019-11": 8,
           "2019-10": 6,
@@ -4996,7 +4996,7 @@
           "2019-10": 8,
           "2019-11": 6,
           "2019-12": 0,
-          "2020-01": 13
+          "2020-01": 14
         },
         "twitter": {
           "type": "twitter",
@@ -5247,7 +5247,7 @@
       "name": "MiniApps Ecosystem Community Group",
       "link": "https://www.w3.org/community/miniapps/",
       "created": "2019-09-19T09:22:00.000Z",
-      "participants": 30,
+      "participants": 31,
       "chairs": [
         "Keith Gu",
         "Angel Li",
@@ -5355,7 +5355,7 @@
           "2019-10": 7,
           "2019-11": 4,
           "2019-12": 2,
-          "2020-01": 0
+          "2020-01": 1
         }
       }
     },
@@ -5804,7 +5804,7 @@
       "name": "Privacy Community Group",
       "link": "https://www.w3.org/community/privacycg/",
       "created": "2020-01-17T18:05:33.000Z",
-      "participants": 18,
+      "participants": 25,
       "chairs": [
         "Erik Anderson",
         "Theresa O'Connor",
@@ -5869,7 +5869,7 @@
           "2019-10": 0,
           "2019-11": 0,
           "2019-12": 0,
-          "2020-01": 19
+          "2020-01": 20
         },
         "join": {
           "2019-02": 0,
@@ -5883,7 +5883,7 @@
           "2019-10": 0,
           "2019-11": 0,
           "2019-12": 0,
-          "2020-01": 18
+          "2020-01": 25
         }
       }
     },
@@ -10227,6 +10227,7 @@
           }
         },
         "lists": {
+          "2020-01": 1,
           "2019-12": 16,
           "2019-10": 1,
           "2019-09": 7,
@@ -19347,7 +19348,7 @@
       "name": "Linked Data for Language Technology Community Group",
       "link": "https://www.w3.org/community/ld4lt/",
       "created": "2013-12-09T15:49:15.000Z",
-      "participants": 71,
+      "participants": 72,
       "chairs": [
         "Andreas Blumauer",
         "Christian Chiarcos",
@@ -19477,7 +19478,7 @@
           "2019-10": 0,
           "2019-11": 0,
           "2019-12": 0,
-          "2020-01": 0
+          "2020-01": 1
         }
       }
     },
@@ -20944,7 +20945,7 @@
       "name": "Linked Building Data Community Group",
       "link": "https://www.w3.org/community/lbd/",
       "created": "2014-06-30T11:24:07.000Z",
-      "participants": 99,
+      "participants": 100,
       "chairs": [
         "Rui de Klerk Mota",
         "Maxime Lefrançois",
@@ -21075,7 +21076,7 @@
           "2019-10": 4,
           "2019-11": 0,
           "2019-12": 0,
-          "2020-01": 0
+          "2020-01": 1
         }
       }
     },
@@ -21270,6 +21271,7 @@
         "https://github.com/w3c-ccg/did-hackathon-2018",
         "https://github.com/w3c-ccg/ld-cryptosuite-registry",
         "https://github.com/w3c-ccg/did-method-registry",
+        "https://github.com/w3c-ccg/lds-ed25519-2018",
         "https://github.com/w3c-ccg/vc-examples",
         "https://github.com/w3c-ccg/community",
         "https://github.com/w3c-ccg/didm-btcr",
@@ -21325,7 +21327,7 @@
           }
         },
         "lists": {
-          "2020-01": 89,
+          "2020-01": 90,
           "2019-12": 81,
           "2019-11": 146,
           "2019-10": 40,
@@ -21396,15 +21398,15 @@
           "2019-02": 70,
           "2019-03": 45,
           "2019-04": 78,
-          "2019-05": 48,
-          "2019-06": 77,
+          "2019-05": 50,
+          "2019-06": 78,
           "2019-07": 78,
           "2019-08": 74,
           "2019-09": 25,
           "2019-10": 31,
           "2019-11": 40,
           "2019-12": 45,
-          "2020-01": 13
+          "2020-01": 19
         },
         "join": {
           "2019-02": 11,
@@ -26743,7 +26745,7 @@
           "2019-10": 163,
           "2019-11": 104,
           "2019-12": 125,
-          "2020-01": 105
+          "2020-01": 107
         },
         "join": {
           "2019-02": 3,
@@ -27228,7 +27230,7 @@
           "2019-10": 216,
           "2019-11": 235,
           "2019-12": 140,
-          "2020-01": 27
+          "2020-01": 30
         },
         "tracker": {
           "type": "tracker",
@@ -29515,7 +29517,7 @@
       "name": "GPU for the Web Community Group",
       "link": "https://www.w3.org/community/gpu/",
       "created": "2017-02-08T00:01:00.000Z",
-      "participants": 154,
+      "participants": 155,
       "chairs": [
         "Dean Jackson",
         "Corentin Wallez"
@@ -29628,7 +29630,7 @@
           "2019-10": 3,
           "2019-11": 2,
           "2019-12": 1,
-          "2020-01": 1
+          "2020-01": 2
         }
       }
     },
