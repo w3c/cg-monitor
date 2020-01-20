@@ -4,6 +4,9 @@ let activityLevels = [];
 main.setAttribute("aria-busy", true);
 
 const period = location.search ? Math.min(12, parseInt(location.search.slice(1), 10)): 12;
+
+document.getElementById('period').textContent = period;
+
 const lastXMonths = ((period = period) => {
   const now = new Date();
   const ayearago = new Date();
