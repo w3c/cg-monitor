@@ -18,6 +18,12 @@ const lastTwelveMonths = (() => {
   return months;
 })();
 
+const shortType = {
+  'business group', 'bg',
+  'community group': 'cg',
+  'interest group': 'ig',
+  'working group': 'wg'
+};
 
 const loadDir = async dirPath => {
   const files = await util.promisify(fs.readdir)(dirPath);
@@ -34,6 +40,7 @@ const loadDir = async dirPath => {
               const staffids = Array.isArray(staff) ? staff.map(s => s._links.self.href) : [];
               cgData.id = data[0].id;
               cgData.name = data[0].name;
+              cgData.type = shortType[data[0].type];
               cgData.link = data[0]._links.homepage.href;
               // Approximating creation date to date of first person joining
               cgData.created = new Date((data[3][0] || {}).created + "Z");

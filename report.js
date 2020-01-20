@@ -3,9 +3,12 @@ let activityLevels = [];
 
 main.setAttribute("aria-busy", true);
 
-const period = location.search ? Math.min(12, parseInt(location.search.slice(1), 10)): 12;
+const period = 12;
+
+const grouptypes = location.search ? location.search.split(',') : ['cg','bg'];
 
 document.getElementById('period').textContent = period;
+[...document.querySelectorAll('.grouptype')].forEach(n => n.textContent = grouptypes.includes('cg') && grouptypes.includes('wg') ? 'All groups' : (grouptypes.includes('cg') ? 'Community Groups' : 'Working Groups'));
 
 const lastXMonths = ((period = period) => {
   const now = new Date();
@@ -70,7 +73,8 @@ Promise.all([
   fetch("annotations.json").then(r => r.json())
 ])
   .then(([{data: groupdata, timestamp}, annotations]) => {
-    groupdata.forEach(d => {
+    groupdata.filter(d => grouptypes.includes(d.type))
+      .forEach(d => {
       if (!d) return;
       document.getElementById('timestamp').textContent = new Date(timestamp).toJSON().slice(0,10);
 

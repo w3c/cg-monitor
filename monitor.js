@@ -23,7 +23,7 @@ const queue = new RequestQueue(null, {
   'item': ({url}, done) => {
     console.warn("fetching " + url);
     const headers =  [
-      ['User-Agent', 'W3C CG dashboard https://github.com/w3c/cg-monitor']
+      ['User-Agent', 'W3C Group dashboard https://github.com/w3c/cg-monitor']
     ];
     if (url.match(/https:\/\/api\.github\.com\//)) {
       headers.push(['Authorization', 'token ' + config.ghapitoken]);
@@ -202,19 +202,19 @@ recursiveW3cFetch('https://api.w3.org/affiliations/52794/participants?embed=1', 
     return recursiveW3cFetch('https://api.w3.org/groups?embed=1', 'groups');
   }, err => console.error(err))
   .then(groups => {
-    const communitygroups = groups.filter(g => g.type === 'community group' && !g['is_closed']) ;
-    communitygroups
+    const w3cgroups = groups.filter(g => (g.type === 'community group' || g.type === 'business group' || g.type === 'working group' || g.type === 'interest group') && !g['is_closed']) ;
+    w3cgroups
       .filter(g => process.argv.length > 2 ? process.argv.map(x => parseInt(x, 10)).includes(g.id) : true)
       .map(
-        cg =>
+        w3cg =>
           Promise.all([
-            Promise.resolve(cg),
-            recursiveW3cFetch(cg._links.chairs.href, 'chairs'),
-            recursiveW3cFetch(cg._links.services.href + '?embed=1', 'services')
+            Promise.resolve(w3cg),
+            recursiveW3cFetch(w3cg._links.chairs.href, 'chairs'),
+            recursiveW3cFetch(w3cg._links.services.href + '?embed=1', 'services')
               .then(services => Promise.all(
                 services
                   .map(fetchServiceActivity))),
-            recursiveW3cFetch(cg._links.participations.href + '?embed=1', 'participations')
-          ]).then(data => save(cg.id, data))
+            recursiveW3cFetch(w3cg._links.participations.href + '?embed=1', 'participations')
+          ]).then(data => save(w3cg.id, data))
       );
   });
