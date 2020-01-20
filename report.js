@@ -17,14 +17,32 @@ const lastXMonths = ((period = 12) => {
   return months;
 })(period);
 
+const barWidth = 5;
+const heightFactor = 1/3;
+
+const monthBar = (month, value, type, height) => {
+  const bar = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+  bar.setAttribute("x", month * barWidth);
+  bar.setAttribute("y", (height-value)*heightFactor);
+  bar.setAttribute("width", barWidth);
+  bar.setAttribute("height", value*heightFactor);
+  bar.setAttribute("class", type);
+  const title = document.createElementNS("http://www.w3.org/2000/svg", "title");
+  title.textContent = value + " " + type + " events in " + lastXMonths[month];
+  bar.appendChild(title);
+  return bar.outerHTML;
+}
+
 const arrayfi = x => Array.isArray(x) ? x : [x];
 
 // this aligns 3000 to ~50
 const factor = Math.log(1.173);
 
-const bar = (count, type, group, fillname) => {
-  const width = count ? 2*Math.log(count)/factor + 1 : 0;
-  return `<svg width=${width} height='16' viewBox='0 0 ${width} 16' class='${fillname}' role='presentation'><rect x='0' y='0' height='16' width='${width}' fill='transparent'/></svg><span title='${count} ${type} events for ${group}'>${count ? count : ''}</span>`;
+const bar = (values, type, group, fillname) => {
+  const height = Math.max(...values, 0) ;
+  const width = barWidth*13;
+  const count = values.reduce((acc, d) => acc + d, 0);
+  return `<svg width='${width}' height='${height*heightFactor}' viewBox='0 0 ${width} ${height * heightFactor}' role='presentation'>` + values.map((v,i) => monthBar(i, v, fillname, height)).join(' ') + `</svg><span title='${count} ${type} events for ${group} in the last 12 months'>${count ? count : ''}</span>`;
 };
 
 const groupLink = (id) => {
@@ -74,13 +92,13 @@ Promise.all([
           const activitywrapper = document.createElement("td");
           const activity = document.createElement("p");
           const data = d.activity[servicetype];
-          let val = 0;
+          let values = [];
           if (data && Object.keys(data)) {
-            val = lastXMonths.reduce((acc, m) => acc + (data[m] || 0), 0);
+            values = lastXMonths.map(m => data[m] || 0);
           }
-          if (val) activitywrapper.classList.add('num');
-          activity.innerHTML = bar(val, servicetype, d.name, servicetype);
-          total += val;
+          if (values.length) activitywrapper.classList.add('num');
+          activity.innerHTML = bar(values, servicetype, d.name, servicetype);
+          total += values.reduce((acc, d) => acc + d, 0);
           activitywrapper.appendChild(activity);
           section.appendChild(activitywrapper);
         });
