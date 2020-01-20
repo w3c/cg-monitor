@@ -18,14 +18,20 @@ const lastXMonths = ((period = 12) => {
 })(period);
 
 const barWidth = 5;
-const heightFactor = 1/3;
+const heightFactor = {
+  lists: 1/3,
+  repository: 1/3,
+  wiki: 1,
+  rss: 1,
+  join: 1
+};
 
 const monthBar = (month, value, type, height) => {
   const bar = document.createElementNS("http://www.w3.org/2000/svg", "rect");
   bar.setAttribute("x", month * barWidth);
-  bar.setAttribute("y", (height-value)*heightFactor);
+  bar.setAttribute("y", (height-value)*heightFactor[type]);
   bar.setAttribute("width", barWidth);
-  bar.setAttribute("height", value*heightFactor);
+  bar.setAttribute("height", value*heightFactor[type]);
   bar.setAttribute("class", type);
   const title = document.createElementNS("http://www.w3.org/2000/svg", "title");
   title.textContent = value + " " + type + " events in " + lastXMonths[month];
@@ -35,14 +41,11 @@ const monthBar = (month, value, type, height) => {
 
 const arrayfi = x => Array.isArray(x) ? x : [x];
 
-// this aligns 3000 to ~50
-const factor = Math.log(1.173);
-
 const bar = (values, type, group, fillname) => {
   const height = Math.max(...values, 0) ;
   const width = barWidth*13;
   const count = values.reduce((acc, d) => acc + d, 0);
-  return `<svg width='${width}' height='${height*heightFactor}' viewBox='0 0 ${width} ${height * heightFactor}' role='presentation'>` + values.map((v,i) => monthBar(i, v, fillname, height)).join(' ') + `</svg><span title='${count} ${type} events for ${group} in the last 12 months'>${count ? count : ''}</span>`;
+  return `<svg width='${width}' height='${height*heightFactor[fillname]}' viewBox='0 0 ${width} ${height * heightFactor[fillname]}' role='presentation'>` + values.map((v,i) => monthBar(i, v, fillname, height)).join(' ') + `</svg><span title='${count} ${type} events for ${group} in the last 12 months'>${count ? count : ''}</span>`;
 };
 
 const groupLink = (id) => {
