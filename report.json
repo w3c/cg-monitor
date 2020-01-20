@@ -1,5 +1,5 @@
 {
-  "timestamp": "2020-01-19T06:17:26.432Z",
+  "timestamp": "2020-01-20T06:19:11.334Z",
   "data": [
     {
       "id": 100368,
@@ -517,7 +517,7 @@
           "2019-10": 94,
           "2019-11": 119,
           "2019-12": 133,
-          "2020-01": 117
+          "2020-01": 123
         },
         "join": {
           "2019-02": 0,
@@ -1701,7 +1701,7 @@
           }
         },
         "lists": {
-          "2020-01": 7,
+          "2020-01": 8,
           "2019-12": 4,
           "2019-08": 3,
           "2019-07": 1,
@@ -1993,7 +1993,7 @@
           }
         },
         "lists": {
-          "2020-01": 103,
+          "2020-01": 106,
           "2019-12": 49,
           "2019-11": 52,
           "2019-10": 11,
@@ -3903,7 +3903,7 @@
           }
         },
         "lists": {
-          "2020-01": 16,
+          "2020-01": 17,
           "2019-12": 17,
           "2019-11": 16,
           "2019-10": 26,
@@ -5767,7 +5767,7 @@
           }
         },
         "lists": {
-          "2020-01": 2
+          "2020-01": 3
         },
         "repository": {
           "2019-02": 0,
@@ -5781,7 +5781,7 @@
           "2019-10": 0,
           "2019-11": 0,
           "2019-12": 0,
-          "2020-01": 43
+          "2020-01": 62
         },
         "join": {
           "2019-02": 0,
@@ -5804,7 +5804,7 @@
       "name": "Privacy Community Group",
       "link": "https://www.w3.org/community/privacycg/",
       "created": "2020-01-17T18:05:33.000Z",
-      "participants": 25,
+      "participants": 29,
       "chairs": [
         "Erik Anderson",
         "Theresa O'Connor",
@@ -5883,7 +5883,7 @@
           "2019-10": 0,
           "2019-11": 0,
           "2019-12": 0,
-          "2020-01": 25
+          "2020-01": 29
         }
       }
     },
@@ -12283,7 +12283,7 @@
       "name": "WAI-Engage: Web Accessibility Community Group",
       "link": "https://www.w3.org/community/wai-engage/",
       "created": "2012-04-17T01:23:10.000Z",
-      "participants": 81,
+      "participants": 82,
       "chairs": [
         "Jennison Asuncion"
       ],
@@ -12310,8 +12310,8 @@
           "2019-09": 0,
           "2019-10": 0,
           "2019-11": 0,
-          "2019-12": 15,
-          "2020-01": 8
+          "2019-12": 10,
+          "2020-01": 17
         },
         "rss": {
           "2019-02": 0,
@@ -12370,7 +12370,7 @@
           "2019-10": 1,
           "2019-11": 0,
           "2019-12": 1,
-          "2020-01": 0
+          "2020-01": 1
         }
       }
     },
@@ -15446,7 +15446,7 @@
           }
         },
         "lists": {
-          "2020-01": 11,
+          "2020-01": 12,
           "2019-12": 6,
           "2019-08": 6,
           "2019-07": 9,
@@ -18520,7 +18520,7 @@
           "2019-10": 11,
           "2019-11": 9,
           "2019-12": 13,
-          "2020-01": 8
+          "2020-01": 9
         },
         "join": {
           "2019-02": 1,
@@ -21265,7 +21265,6 @@
         "https://github.com/w3c-ccg/edu_occ_verifiable_credentials",
         "https://github.com/w3c-ccg/vc-lifecycle",
         "https://github.com/w3c-ccg/vc-extension-registry",
-        "https://github.com/w3c-ccg/vc-csl2017",
         "https://github.com/w3c-ccg/zcap-ld",
         "https://github.com/w3c-ccg/announcements",
         "https://github.com/w3c-ccg/did-hackathon-2018",
@@ -21279,10 +21278,6 @@
         "https://github.com/w3c-ccg/did-wg-charter",
         "https://github.com/w3c-ccg/did-resolution",
         "https://github.com/w3c-ccg/did-primer",
-        "https://github.com/w3c-ccg/did-wg-proposal",
-        "https://github.com/w3c-ccg/did-explainer",
-        "https://github.com/w3c-ccg/w3c-ccg-process",
-        "https://github.com/w3c-ccg/registries-process",
         "https://github.com/w3c-ccg/security-vocab",
         "https://github.com/w3c-ccg/amira",
         "https://github.com/w3c-ccg/create-repo",
@@ -21293,6 +21288,8 @@
         "",
         "https://github.com/w3c-ccg/did-method-key",
         "https://github.com/w3c-ccg/webkms",
+        "https://github.com/w3c-ccg/vc-issuer-http-api",
+        "https://github.com/w3c-ccg/vc-verifier-http-api",
         "https://github.com/w3c-ccg"
       ],
       "activity": {
@@ -21327,7 +21324,7 @@
           }
         },
         "lists": {
-          "2020-01": 90,
+          "2020-01": 91,
           "2019-12": 81,
           "2019-11": 146,
           "2019-10": 40,
@@ -21406,7 +21403,7 @@
           "2019-10": 31,
           "2019-11": 40,
           "2019-12": 45,
-          "2020-01": 19
+          "2020-01": 23
         },
         "join": {
           "2019-02": 11,
@@ -22519,7 +22516,7 @@
           }
         },
         "lists": {
-          "2020-01": 162,
+          "2020-01": 163,
           "2019-12": 262,
           "2019-11": 194,
           "2019-10": 358,
@@ -23418,7 +23415,7 @@
       "name": "WebAssembly Community Group",
       "link": "https://www.w3.org/community/webassembly/",
       "created": "2015-04-29T17:28:24.000Z",
-      "participants": 1057,
+      "participants": 1058,
       "chairs": [
         "Ben Smith"
       ],
@@ -23540,7 +23537,7 @@
           "2019-10": 12,
           "2019-11": 15,
           "2019-12": 8,
-          "2020-01": 5
+          "2020-01": 6
         }
       }
     },
@@ -24411,7 +24408,7 @@
           "2019-10": 273,
           "2019-11": 294,
           "2019-12": 223,
-          "2020-01": 128
+          "2020-01": 134
         },
         "join": {
           "2019-02": 3,
@@ -24773,7 +24770,7 @@
           }
         },
         "lists": {
-          "2020-01": 6,
+          "2020-01": 10,
           "2019-12": 4,
           "2019-11": 2,
           "2019-10": 20,
@@ -24851,7 +24848,7 @@
           "2019-10": 13,
           "2019-11": 10,
           "2019-12": 2,
-          "2020-01": 0
+          "2020-01": 1
         },
         "join": {
           "2019-02": 1,
@@ -26745,7 +26742,7 @@
           "2019-10": 163,
           "2019-11": 104,
           "2019-12": 125,
-          "2020-01": 107
+          "2020-01": 108
         },
         "join": {
           "2019-02": 3,
@@ -29616,7 +29613,7 @@
           "2019-10": 132,
           "2019-11": 78,
           "2019-12": 58,
-          "2020-01": 52
+          "2020-01": 54
         },
         "join": {
           "2019-02": 3,
