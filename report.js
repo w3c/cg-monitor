@@ -4,7 +4,7 @@ let activityLevels = [];
 main.setAttribute("aria-busy", true);
 
 const period = location.search ? Math.min(12, parseInt(location.search.slice(1), 10)): 12;
-const lastXMonths = ((period = 12) => {
+const lastXMonths = ((period = period) => {
   const now = new Date();
   const ayearago = new Date();
   const months = [];
@@ -28,13 +28,14 @@ const heightFactor = {
 
 const monthBar = (month, value, type, height) => {
   const bar = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+  const isLast = month === period - 1;
   bar.setAttribute("x", month * barWidth);
   bar.setAttribute("y", (height-value)*heightFactor[type]);
   bar.setAttribute("width", barWidth);
   bar.setAttribute("height", value*heightFactor[type]);
-  bar.setAttribute("class", type);
+  bar.setAttribute("class", type + (isLast ? " last" : ""));
   const title = document.createElementNS("http://www.w3.org/2000/svg", "title");
-  title.textContent = value + " " + type + " events in " + lastXMonths[month];
+  title.textContent = value + " " + type + " events in " + lastXMonths[month] + (isLast ? " (data as of " + document.getElementById('timestamp').textContent + ")" : "");
   bar.appendChild(title);
   return bar.outerHTML;
 }
@@ -45,7 +46,7 @@ const bar = (values, type, group, fillname) => {
   const height = Math.max(...values, 0) ;
   const width = barWidth*13;
   const count = values.reduce((acc, d) => acc + d, 0);
-  return `<svg width='${width}' height='${height*heightFactor[fillname]}' viewBox='0 0 ${width} ${height * heightFactor[fillname]}' role='presentation'>` + values.map((v,i) => monthBar(i, v, fillname, height)).join(' ') + `</svg><span title='${count} ${type} events for ${group} in the last 12 months'>${count ? count : ''}</span>`;
+  return `<svg width='${width}' height='${height*heightFactor[fillname]}' viewBox='0 0 ${width} ${height * heightFactor[fillname]}' role='presentation'>` + values.map((v,i) => monthBar(i, v, fillname, height)).join(' ') + `</svg><span title='${count} ${type} events for ${group} in the last ${period} months'>${count ? count : ''}</span>`;
 };
 
 const groupLink = (id) => {
