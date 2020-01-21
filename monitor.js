@@ -216,7 +216,7 @@ fetch('https://w3c.github.io/validate-repos/report.json')
         w3cg =>
           Promise.all([
             Promise.resolve(w3cg),
-            Promise.all(groupRepos[w3cg.id].map(({fullName}) => fetchGithub('https://github.com/' + fullName))),
+            Promise.all((groupRepos[w3cg.id] || []).map(({fullName}) => fetchGithub('https://github.com/' + fullName))),
             recursiveW3cFetch(w3cg._links.chairs.href, 'chairs'),
             recursiveW3cFetch(w3cg._links.services.href + '?embed=1', 'services')
               .then(services => Promise.all(
