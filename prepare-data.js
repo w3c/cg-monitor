@@ -43,7 +43,7 @@ const loadDir = async dirPath => {
               cgData.type = shortType[data[0].type];
               cgData.link = data[0]._links.homepage.href;
               // Approximating creation date to date of first person joining
-              cgData.created = new Date((data[3][0] || {}).created + "Z");
+              cgData.created = new Date((data[4][0] || {}).created + "Z");
               cgData.participants = data[4].length;
               cgData.chairs = data[2].filter(x => x).map(c => c.title);
               cgData.staff = data[4].filter(u => u._links.user && staffids.includes(u._links.user.href)).map(u => { const team = staff.find(s => s._links.self.href === u._links.user.href); return { name: team.name, photo: (team._links.photos ? team._links.photos.find(p => p.name === "tiny").href : undefined) } ;});
@@ -57,7 +57,10 @@ const loadDir = async dirPath => {
                   data[3] = [];
                 }
                 data[1].forEach(({items}) => {
-                  data[3].push({service: {type: repository}, data: {items}});
+                  const repoUrl = items.map(i => (i.html_url || '').split('/').slice(0,5).join('/')).filter(x => x)[0];
+                  if (!data[3].find(({service}) => service.type === 'repository' && (service.link === repoUrl || service.link === repoUrl + '/'))) {
+                    data[3].push({service: {type: 'repository'}, data: {items}});
+                  }
                 });
               }
 
@@ -72,7 +75,7 @@ const loadDir = async dirPath => {
                         return data.items.map(i => (i.html_url || '').split('/').slice(0,5).join('/'))})
                   ).concat(data[3].filter(({service}) => service.type === "repository").map(({service}) => service.link));
                 });
-                cgData.repositories = [...new Set(cgData.repositories)];
+                cgData.repositories = [...new Set(cgData.repositories.filter(x => x))];
 
                 // aggregate by service type
                 data[3].forEach(({service, data}) => {
@@ -102,7 +105,7 @@ const loadDir = async dirPath => {
 
               cgData.activity['join'] = lastTwelveMonths
                 .reduce((acc, m) => {
-                  acc[m] = data[3].filter(j => j.created.startsWith(m)).length;
+                  acc[m] = data[4].filter(j => j.created.startsWith(m)).length;
                   return acc;
                 }, {});
               return cgData;
