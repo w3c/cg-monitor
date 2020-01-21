@@ -21,7 +21,7 @@ ayearago.setFullYear(ayearago.getFullYear() - 1);
 
 const queue = new RequestQueue(null, {
   'item': ({url}, done) => {
-    console.warn("fetching " + url);
+    console.log("fetching " + url);
     const headers =  [
       ['User-Agent', 'W3C Group dashboard https://github.com/w3c/cg-monitor']
     ];
@@ -79,6 +79,8 @@ function recursiveFetchDiscourse(url, before = null, acc = []) {
   return fetch(fetchedUrl)
     .then(({body: text}) => JSON.parse(text))
     .then(({latest_posts}) => {
+      console.error("Failed to retrieve Discourse posts from " + url);
+      if (!latest_posts) return acc;
       acc = acc.concat(latest_posts);
       if (latest_posts[latest_posts.length - 1].updated_at > ayearago.toJSON()) {
         return recursiveFetchDiscourse(url, before = latest_posts[latest_posts.length - 1].id, acc);
@@ -210,19 +212,19 @@ fetch('https://w3c.github.io/validate-repos/report.json')
   }, err => console.error(err))
   .then(groups => {
     const w3cgroups = groups.filter(g => (g.type === 'community group' || g.type === 'business group' || g.type === 'working group' || g.type === 'interest group') && !g['is_closed']) ;
-    w3cgroups
+    return Promise.all(w3cgroups
       .filter(g => process.argv.length > 2 ? process.argv.map(x => parseInt(x, 10)).includes(g.id) : true)
       .map(
         w3cg =>
           Promise.all([
             Promise.resolve(w3cg),
             Promise.all((groupRepos[w3cg.id] || {repos:[]}).repos.map(({fullName}) => fetchGithub('https://github.com/' + fullName))),
-            recursiveW3cFetch(w3cg._links.chairs.href, 'chairs'),
-            recursiveW3cFetch(w3cg._links.services.href + '?embed=1', 'services')
+            recursiveW3cFetch((w3cg._links.chairs || {}).href, 'chairs'),
+            recursiveW3cFetch((w3cg._links.services || {}).href + '?embed=1', 'services')
               .then(services => Promise.all(
                 services
                   .map(fetchServiceActivity))),
-            recursiveW3cFetch(w3cg._links.participations.href + '?embed=1', 'participations')
-          ]).then(data => save(w3cg.id, data))
-      );
-  });
+            recursiveW3cFetch((w3cg._links.participations || {}).href + '?embed=1', 'participations').catch(err => {console.error("Error fetching data on " + w3cg.id, err); return [w3ccg, [], [], [], []];})
+          ]).then(data => save(w3cg.id, data)).catch(err => {console.error("Error dealing with " + w3cg.id, err)})
+      ));
+  }).catch(err => console.error(err));
