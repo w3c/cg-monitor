@@ -5,7 +5,7 @@ main.setAttribute("aria-busy", true);
 
 const period = 12;
 
-const grouptypes = location.search ? location.search.split(',') : ['cg','bg'];
+const grouptypes = location.search ? location.search.slice(1).split(',') : ['cg','bg'];
 
 document.getElementById('period').textContent = period;
 [...document.querySelectorAll('.grouptype')].forEach(n => n.textContent = grouptypes.includes('cg') && grouptypes.includes('wg') ? 'All groups' : (grouptypes.includes('cg') ? 'Community Groups' : 'Working Groups'));
