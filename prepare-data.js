@@ -19,7 +19,7 @@ const lastTwelveMonths = (() => {
 })();
 
 const shortType = {
-  'business group', 'bg',
+  'business group': 'bg',
   'community group': 'cg',
   'interest group': 'ig',
   'working group': 'wg'
