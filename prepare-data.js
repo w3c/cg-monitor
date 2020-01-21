@@ -50,9 +50,14 @@ const loadDir = async dirPath => {
 
               cgData.repositories = [];
               cgData.activity = {};
+
+              // Merge data coming from validate-repos assoication of groups/repos into the other list of data fetched from services db
               if (data[1] && data[1].length) {
+                if (!data[3]) {
+                  data[3] = [];
+                }
                 data[1].forEach(({items}) => {
-                  cgData.repositories = cgData.repositories.concat(items.map(i => (i.html_url || '').split('/').slice(0,5).join('/')));
+                  data[3].push({service: {type: repository}, data: {items}});
                 });
               }
 
@@ -68,6 +73,7 @@ const loadDir = async dirPath => {
                   ).concat(data[3].filter(({service}) => service.type === "repository").map(({service}) => service.link));
                 });
                 cgData.repositories = [...new Set(cgData.repositories)];
+
                 // aggregate by service type
                 data[3].forEach(({service, data}) => {
                   let perMonthData;
