@@ -196,7 +196,14 @@ const log = err => { console.error(err); return err;};
 
 const save = (id, data) => { fs.writeFileSync('./data/' + id + '.json', JSON.stringify(data, null, 2)); return data; };
 
-recursiveW3cFetch('https://api.w3.org/affiliations/52794/participants?embed=1', 'participants')
+let groupRepos;
+
+fetch('https://w3c.github.io/validate-repos/report.json')
+  .then(({body}) => JSON.parse(body))
+  .then(data =>
+        { groupRepos = data.groups;
+          return recursiveW3cFetch('https://api.w3.org/affiliations/52794/participants?embed=1', 'participants')
+        })
   .then(staff => {
     save('staff', staff);
     return recursiveW3cFetch('https://api.w3.org/groups?embed=1', 'groups');
@@ -209,6 +216,7 @@ recursiveW3cFetch('https://api.w3.org/affiliations/52794/participants?embed=1', 
         w3cg =>
           Promise.all([
             Promise.resolve(w3cg),
+            Promise.all(groupRepos[w3cg.id].map(({fullName}) => fetchGithub('https://github.com/' + fullName))),
             recursiveW3cFetch(w3cg._links.chairs.href, 'chairs'),
             recursiveW3cFetch(w3cg._links.services.href + '?embed=1', 'services')
               .then(services => Promise.all(
