@@ -73,7 +73,7 @@ Promise.all([
   fetch("annotations.json").then(r => r.json())
 ])
   .then(([{data: groupdata, timestamp}, annotations]) => {
-    groupdata.filter(d => grouptypes.includes(d.type))
+    groupdata.filter(d => d && grouptypes.includes(d.type))
       .forEach(d => {
       if (!d) return;
       document.getElementById('timestamp').textContent = new Date(timestamp).toJSON().slice(0,10);
