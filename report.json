@@ -1,5 +1,5 @@
 {
-  "timestamp": "2020-01-21T08:51:37.001Z",
+  "timestamp": "2020-01-21T10:41:30.593Z",
   "data": [
     {
       "id": 100369,
@@ -1500,7 +1500,18 @@
           "photo": "https://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/correlation-context",
+        "https://github.com/w3c/distributed-tracing-wg",
+        "https://github.com/w3c/trace-context",
+        "https://github.com/w3c/trace-context-amqp",
+        "https://github.com/w3c/trace-context-binary",
+        "https://github.com/w3c/trace-context-mqtt",
+        "https://github.com/w3c/trace-context-protocols-registry",
+        "https://github.com/w3c/trace-interchange-format",
+        "https://github.com/w3c/trace-response-headers",
+        "https://github.com/w3c/trace-state-ids-registry"
+      ],
       "activity": {
         "lists": {
           "2020-01": 2,
@@ -1551,6 +1562,20 @@
           "external": 3,
           "closed": 0,
           "_links": "[object Object][object Object][object Object]"
+        },
+        "repository": {
+          "2019-02": 47,
+          "2019-03": 19,
+          "2019-04": 34,
+          "2019-05": 65,
+          "2019-06": 8,
+          "2019-07": 37,
+          "2019-08": 10,
+          "2019-09": 7,
+          "2019-10": 17,
+          "2019-11": 32,
+          "2019-12": 14,
+          "2020-01": 3
         },
         "join": {
           "2019-02": 0,
@@ -1743,7 +1768,13 @@
           "photo": "https://www.w3.org/2006/05/u/2nbdactwejk0-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/chinese-ig",
+        "https://github.com/w3c/chinese-ig-charter",
+        "https://github.com/w3c/danmaku",
+        "https://github.com/w3c/mini-app-white-paper",
+        "https://github.com/w3c/miniapp"
+      ],
       "activity": {
         "lists": {
           "2020-01": 1,
@@ -1774,6 +1805,20 @@
               "href": "https://api.w3.org/services/17284/groups"
             }
           }
+        },
+        "repository": {
+          "2019-02": 37,
+          "2019-03": 54,
+          "2019-04": 36,
+          "2019-05": 71,
+          "2019-06": 4,
+          "2019-07": 13,
+          "2019-08": 19,
+          "2019-09": 32,
+          "2019-10": 16,
+          "2019-11": 17,
+          "2019-12": 8,
+          "2020-01": 6
         },
         "join": {
           "2019-02": 0,
@@ -1817,7 +1862,10 @@
         }
       ],
       "repositories": [
-        "https://github.com/immersive-web/homepage"
+        "https://github.com/immersive-web/homepage",
+        "https://github.com/immersive-web/webxr",
+        "https://github.com/immersive-web/webxr-ar-module",
+        "https://github.com/immersive-web/webxr-gamepads-module"
       ],
       "activity": {
         "lists": {
@@ -1856,18 +1904,18 @@
           }
         },
         "repository": {
-          "2019-02": 1,
-          "2019-03": 0,
-          "2019-04": 6,
-          "2019-05": 4,
-          "2019-06": 2,
-          "2019-07": 0,
-          "2019-08": 0,
-          "2019-09": 2,
-          "2019-10": 2,
-          "2019-11": 0,
-          "2019-12": 2,
-          "2020-01": 3
+          "2019-02": 65,
+          "2019-03": 38,
+          "2019-04": 74,
+          "2019-05": 93,
+          "2019-06": 104,
+          "2019-07": 48,
+          "2019-08": 81,
+          "2019-09": 98,
+          "2019-10": 83,
+          "2019-11": 50,
+          "2019-12": 29,
+          "2020-01": 16
         },
         "join": {
           "2019-02": 2,
@@ -2343,6 +2391,7 @@
       "staff": [],
       "repositories": [
         "https://github.com/ceddl/ceddl-website-and-spec",
+        "https://github.com/w3c/analytics-personalization-datalayer",
         "https://github.com/ceddl"
       ],
       "activity": {
@@ -2382,7 +2431,7 @@
         },
         "repository": {
           "2019-02": 0,
-          "2019-03": 8,
+          "2019-03": 15,
           "2019-04": 0,
           "2019-05": 4,
           "2019-06": 0,
@@ -2438,6 +2487,7 @@
         "https://github.com/conversational-interfaces/dms-compiler",
         "https://github.com/conversational-interfaces/dms-scratchpad",
         "https://github.com/w3c/dmpl",
+        "https://github.com/w3c/dms",
         "https://github.com/conversational-interfaces"
       ],
       "activity": {
@@ -2489,9 +2539,9 @@
           "2019-08": 3,
           "2019-09": 0,
           "2019-10": 1,
-          "2019-11": 18,
-          "2019-12": 1,
-          "2020-01": 9
+          "2019-11": 20,
+          "2019-12": 2,
+          "2020-01": 10
         },
         "join": {
           "2019-02": 3,
@@ -2872,7 +2922,9 @@
           "photo": "https://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/htmlwg"
+      ],
       "activity": {
         "lists": {
           "2020-01": 3,
@@ -3038,6 +3090,20 @@
           "external": 2,
           "closed": 0,
           "_links": "[object Object][object Object]"
+        },
+        "repository": {
+          "2019-02": 0,
+          "2019-03": 0,
+          "2019-04": 0,
+          "2019-05": 0,
+          "2019-06": 5,
+          "2019-07": 0,
+          "2019-08": 4,
+          "2019-09": 1,
+          "2019-10": 0,
+          "2019-11": 1,
+          "2019-12": 1,
+          "2020-01": 0
         },
         "join": {
           "2019-02": 0,
@@ -3318,7 +3384,13 @@
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/did-core",
+        "https://github.com/w3c/did-rubric",
+        "https://github.com/w3c/did-test-suite",
+        "https://github.com/w3c/did-use-cases",
+        "https://github.com/w3c/did-wg"
+      ],
       "activity": {
         "lists": {
           "2020-01": 27,
@@ -3326,6 +3398,20 @@
           "2019-11": 47,
           "2019-10": 23,
           "2019-09": 20
+        },
+        "repository": {
+          "2019-02": 0,
+          "2019-03": 0,
+          "2019-04": 0,
+          "2019-05": 0,
+          "2019-06": 0,
+          "2019-07": 0,
+          "2019-08": 0,
+          "2019-09": 83,
+          "2019-10": 85,
+          "2019-11": 126,
+          "2019-12": 34,
+          "2020-01": 10
         },
         "join": {
           "2019-02": 0,
@@ -3899,6 +3985,11 @@
       ],
       "repositories": [
         "https://github.com/w3c/csswg-drafts",
+        "https://github.com/w3c/css-a11y",
+        "https://github.com/w3c/css-houdini-drafts",
+        "https://github.com/w3c/csswg-apiclient",
+        "https://github.com/w3c/csswg-www",
+        "https://github.com/w3c/fxtf-drafts",
         "https://github.com/w3c/csswg-drafts/"
       ],
       "activity": {
@@ -3917,18 +4008,18 @@
           "2020-01": 0
         },
         "repository": {
-          "2019-02": 119,
-          "2019-03": 117,
-          "2019-04": 119,
-          "2019-05": 156,
-          "2019-06": 98,
-          "2019-07": 115,
-          "2019-08": 116,
-          "2019-09": 151,
-          "2019-10": 104,
-          "2019-11": 79,
-          "2019-12": 99,
-          "2020-01": 51
+          "2019-02": 133,
+          "2019-03": 139,
+          "2019-04": 133,
+          "2019-05": 186,
+          "2019-06": 133,
+          "2019-07": 145,
+          "2019-08": 147,
+          "2019-09": 208,
+          "2019-10": 117,
+          "2019-11": 87,
+          "2019-12": 109,
+          "2020-01": 53
         },
         "lists": {
           "2020-01": 7,
@@ -4314,7 +4405,14 @@
           "photo": "https://www.w3.org/2006/05/u/9773dcda29ff-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/earl",
+        "https://github.com/w3c/low-vision-a11y-tf",
+        "https://github.com/w3c/wcag",
+        "https://github.com/w3c/wcag-act",
+        "https://github.com/w3c/wcag-act-rules-cg",
+        "https://github.com/w3c/wcag-eo"
+      ],
       "activity": {
         "tracker": {
           "type": "tracker",
@@ -4439,6 +4537,20 @@
           "1997-12": 53,
           "1997-09": 1
         },
+        "repository": {
+          "2019-02": 73,
+          "2019-03": 69,
+          "2019-04": 62,
+          "2019-05": 78,
+          "2019-06": 110,
+          "2019-07": 86,
+          "2019-08": 49,
+          "2019-09": 48,
+          "2019-10": 18,
+          "2019-11": 67,
+          "2019-12": 31,
+          "2020-01": 8
+        },
         "join": {
           "2019-02": 0,
           "2019-03": 0,
@@ -4495,7 +4607,48 @@
           "photo": "https://www.w3.org/2006/05/u/36xbqkbc9egw-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/EasyChecks",
+        "https://github.com/w3c/wai-accessibility-principles",
+        "https://github.com/w3c/wai-bad-demo",
+        "https://github.com/w3c/wai-bcase",
+        "https://github.com/w3c/wai-combined-expertise",
+        "https://github.com/w3c/wai-components",
+        "https://github.com/w3c/wai-components-gallery",
+        "https://github.com/w3c/wai-contacting-orgs",
+        "https://github.com/w3c/wai-curricula",
+        "https://github.com/w3c/wai-develop-training",
+        "https://github.com/w3c/wai-dynamic-planning",
+        "https://github.com/w3c/wai-eo-online-learning",
+        "https://github.com/w3c/wai-eval-report-templates",
+        "https://github.com/w3c/wai-eval-tools",
+        "https://github.com/w3c/wai-first-aid",
+        "https://github.com/w3c/wai-inclusion",
+        "https://github.com/w3c/wai-intro-accessibility",
+        "https://github.com/w3c/wai-InvolveUsersAll",
+        "https://github.com/w3c/wai-InvolveUsersEval",
+        "https://github.com/w3c/wai-media-guide",
+        "https://github.com/w3c/wai-mobile-intro",
+        "https://github.com/w3c/wai-org-policies",
+        "https://github.com/w3c/wai-people-use-web",
+        "https://github.com/w3c/wai-perspective-videos",
+        "https://github.com/w3c/wai-planning-and-implementation",
+        "https://github.com/w3c/wai-planning-and-managing",
+        "https://github.com/w3c/wai-policies-prototype",
+        "https://github.com/w3c/wai-presentations2all",
+        "https://github.com/w3c/wai-quick-start",
+        "https://github.com/w3c/wai-roles-responsbilities",
+        "https://github.com/w3c/wai-selecting-eval-tools",
+        "https://github.com/w3c/wai-shared-experiences",
+        "https://github.com/w3c/wai-statements",
+        "https://github.com/w3c/wai-std-harmonization",
+        "https://github.com/w3c/wai-tips-procuring",
+        "https://github.com/w3c/wai-tutorial-images",
+        "https://github.com/w3c/wai-tutorials",
+        "https://github.com/w3c/wai-wcag-mob-overlap",
+        "https://github.com/w3c/wai-wcag-quickref",
+        "https://github.com/w3c/wcag-em-report-tool"
+      ],
       "activity": {
         "tracker": {
           "type": "trackertracker",
@@ -4597,6 +4750,20 @@
           "1998-06": 31,
           "1998-03": 1
         },
+        "repository": {
+          "2019-02": 33,
+          "2019-03": 72,
+          "2019-04": 52,
+          "2019-05": 50,
+          "2019-06": 64,
+          "2019-07": 129,
+          "2019-08": 175,
+          "2019-09": 54,
+          "2019-10": 36,
+          "2019-11": 96,
+          "2019-12": 25,
+          "2020-01": 5
+        },
         "join": {
           "2019-02": 0,
           "2019-03": 0,
@@ -4634,7 +4801,25 @@
           "photo": "https://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/accelerometer",
+        "https://github.com/w3c/ambient-light",
+        "https://github.com/w3c/battery",
+        "https://github.com/w3c/dap-charter",
+        "https://github.com/w3c/deviceorientation",
+        "https://github.com/w3c/devicesensors-wg",
+        "https://github.com/w3c/geolocation-api",
+        "https://github.com/w3c/geolocation-sensor",
+        "https://github.com/w3c/gyroscope",
+        "https://github.com/w3c/html-media-capture",
+        "https://github.com/w3c/magnetometer",
+        "https://github.com/w3c/motion-sensors",
+        "https://github.com/w3c/orientation-sensor",
+        "https://github.com/w3c/proximity",
+        "https://github.com/w3c/sensors",
+        "https://github.com/w3c/vibration",
+        "https://github.com/w3c/wake-lock"
+      ],
       "activity": {
         "lists": {
           "2020-01": 1,
@@ -4770,6 +4955,20 @@
           "2009-03": 3,
           "2009-02": 7
         },
+        "repository": {
+          "2019-02": 50,
+          "2019-03": 50,
+          "2019-04": 61,
+          "2019-05": 36,
+          "2019-06": 15,
+          "2019-07": 9,
+          "2019-08": 54,
+          "2019-09": 24,
+          "2019-10": 35,
+          "2019-11": 7,
+          "2019-12": 10,
+          "2020-01": 2
+        },
         "join": {
           "2019-02": 0,
           "2019-03": 3,
@@ -4803,7 +5002,13 @@
           "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/WebAudio/Audio-EQ-Cookbook",
+        "https://github.com/WebAudio/demo-list",
+        "https://github.com/WebAudio/web-audio-api",
+        "https://github.com/WebAudio/web-audio-api-v2",
+        "https://github.com/WebAudio/web-midi-api"
+      ],
       "activity": {
         "lists": {
           "2020-03": 5,
@@ -4859,6 +5064,20 @@
               "href": "https://api.w3.org/services/15644/groups"
             }
           }
+        },
+        "repository": {
+          "2019-02": 7,
+          "2019-03": 23,
+          "2019-04": 6,
+          "2019-05": 123,
+          "2019-06": 42,
+          "2019-07": 73,
+          "2019-08": 51,
+          "2019-09": 26,
+          "2019-10": 37,
+          "2019-11": 21,
+          "2019-12": 29,
+          "2020-01": 31
         },
         "join": {
           "2019-02": 0,
@@ -5776,7 +5995,9 @@
           "photo": "https://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/webdriver"
+      ],
       "activity": {
         "lists": {
           "2020-03": 1,
@@ -5813,6 +6034,20 @@
           "2012-06": 5,
           "2012-03": 6,
           "2011-12": 2
+        },
+        "repository": {
+          "2019-02": 8,
+          "2019-03": 10,
+          "2019-04": 12,
+          "2019-05": 16,
+          "2019-06": 1,
+          "2019-07": 10,
+          "2019-08": 1,
+          "2019-09": 13,
+          "2019-10": 13,
+          "2019-11": 9,
+          "2019-12": 24,
+          "2020-01": 5
         },
         "join": {
           "2019-02": 0,
@@ -8343,7 +8578,9 @@
           "photo": "https://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/automotive-bg"
+      ],
       "activity": {
         "wiki": {
           "2019-02": 0,
@@ -8462,6 +8699,20 @@
           "2013-05": 30,
           "2013-04": 17,
           "2013-03": 5
+        },
+        "repository": {
+          "2019-02": 0,
+          "2019-03": 0,
+          "2019-04": 0,
+          "2019-05": 0,
+          "2019-06": 4,
+          "2019-07": 0,
+          "2019-08": 2,
+          "2019-09": 0,
+          "2019-10": 0,
+          "2019-11": 0,
+          "2019-12": 0,
+          "2020-01": 0
         },
         "join": {
           "2019-02": 0,
@@ -10492,7 +10743,6 @@
         "https://github.com/w3c-ccg/did-test-suite",
         "https://github.com/w3c-ccg/did-method-web",
         "https://github.com/w3c-ccg/vc-json-schemas",
-        "",
         "https://github.com/w3c-ccg/did-method-key",
         "https://github.com/w3c-ccg/webkms",
         "https://github.com/w3c-ccg/vc-issuer-http-api",
@@ -11346,7 +11596,9 @@
           "photo": "https://www.w3.org/2006/05/u/517eabff0321-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/automotive"
+      ],
       "activity": {
         "lists": {
           "2020-01": 23,
@@ -11440,6 +11692,20 @@
               "href": "https://api.w3.org/services/17348/groups"
             }
           }
+        },
+        "repository": {
+          "2019-02": 19,
+          "2019-03": 1,
+          "2019-04": 6,
+          "2019-05": 0,
+          "2019-06": 3,
+          "2019-07": 0,
+          "2019-08": 0,
+          "2019-09": 0,
+          "2019-10": 10,
+          "2019-11": 12,
+          "2019-12": 1,
+          "2020-01": 1
         },
         "join": {
           "2019-02": 0,
@@ -12801,7 +13067,19 @@
           "photo": "https://www.w3.org/2006/05/u/2nbdactwejk0-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/accname",
+        "https://github.com/w3c/annotation-aria",
+        "https://github.com/w3c/aria",
+        "https://github.com/w3c/aria-common",
+        "https://github.com/w3c/aria-practices",
+        "https://github.com/w3c/core-aam",
+        "https://github.com/w3c/css-a11y",
+        "https://github.com/w3c/dpub-aam",
+        "https://github.com/w3c/graphics-aam",
+        "https://github.com/w3c/graphics-aria",
+        "https://github.com/w3c/mathml-aam"
+      ],
       "activity": {
         "wiki": {
           "2019-02": 3,
@@ -12886,6 +13164,20 @@
           "2017-01": null,
           "2016-12": null
         },
+        "repository": {
+          "2019-02": 57,
+          "2019-03": 67,
+          "2019-04": 96,
+          "2019-05": 82,
+          "2019-06": 77,
+          "2019-07": 143,
+          "2019-08": 95,
+          "2019-09": 87,
+          "2019-10": 126,
+          "2019-11": 72,
+          "2019-12": 52,
+          "2020-01": 59
+        },
         "join": {
           "2019-02": 1,
           "2019-03": 0,
@@ -12938,7 +13230,13 @@
           "photo": "https://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/apa",
+        "https://github.com/w3c/css-a11y",
+        "https://github.com/w3c/personalization-semantics",
+        "https://github.com/w3c/pronunciation",
+        "https://github.com/w3c/rqtf"
+      ],
       "activity": {
         "wiki": {
           "2019-02": 0,
@@ -13020,6 +13318,20 @@
           "2016-03": 46,
           "2016-02": 58,
           "2016-01": 72
+        },
+        "repository": {
+          "2019-02": 5,
+          "2019-03": 33,
+          "2019-04": 7,
+          "2019-05": 17,
+          "2019-06": 18,
+          "2019-07": 15,
+          "2019-08": 11,
+          "2019-09": 1,
+          "2019-10": 2,
+          "2019-11": 18,
+          "2019-12": 4,
+          "2020-01": 6
         },
         "join": {
           "2019-02": 1,
@@ -13595,18 +13907,18 @@
           "2018-06": 10
         },
         "repository": {
-          "2019-02": 149,
-          "2019-03": 63,
-          "2019-04": 106,
-          "2019-05": 132,
-          "2019-06": 179,
-          "2019-07": 119,
-          "2019-08": 170,
-          "2019-09": 187,
-          "2019-10": 163,
-          "2019-11": 104,
-          "2019-12": 125,
-          "2020-01": 114
+          "2019-02": 234,
+          "2019-03": 88,
+          "2019-04": 144,
+          "2019-05": 175,
+          "2019-06": 256,
+          "2019-07": 190,
+          "2019-08": 259,
+          "2019-09": 278,
+          "2019-10": 245,
+          "2019-11": 158,
+          "2019-12": 223,
+          "2020-01": 215
         },
         "join": {
           "2019-02": 3,
@@ -13929,7 +14241,9 @@
         }
       ],
       "repositories": [
-        "https://github.com/w3c/mathonwebpages"
+        "https://github.com/w3c/mathonwebpages",
+        "https://github.com/w3c/math-aam",
+        "https://github.com/w3c/math-aria"
       ],
       "activity": {
         "rss": {
@@ -14748,6 +15062,8 @@
       ],
       "repositories": [
         "https://github.com/w3c/publ-cg",
+        "https://github.com/w3c/epubcheck",
+        "https://github.com/w3c/publ-epub-revision",
         "https://github.com/w3c/publ-cg/"
       ],
       "activity": {
@@ -14818,18 +15134,18 @@
           "2017-02": 22
         },
         "repository": {
-          "2019-02": 2,
-          "2019-03": 0,
-          "2019-04": 0,
-          "2019-05": 5,
-          "2019-06": 6,
-          "2019-07": 2,
-          "2019-08": 8,
-          "2019-09": 0,
-          "2019-10": 0,
-          "2019-11": 0,
-          "2019-12": 0,
-          "2020-01": 0
+          "2019-02": 69,
+          "2019-03": 87,
+          "2019-04": 41,
+          "2019-05": 38,
+          "2019-06": 13,
+          "2019-07": 25,
+          "2019-08": 24,
+          "2019-09": 13,
+          "2019-10": 11,
+          "2019-11": 9,
+          "2019-12": 5,
+          "2020-01": 4
         },
         "join": {
           "2019-02": 1,
@@ -15323,7 +15639,11 @@
           "photo": "https://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c/dxwg",
+        "https://github.com/w3c/prof-conneg-testing",
+        "https://github.com/w3c/prof-voc-reg"
+      ],
       "activity": {
         "wiki": {
           "2019-02": 0,
@@ -15398,6 +15718,20 @@
           "external": 1,
           "closed": 0,
           "_links": "[object Object][object Object]"
+        },
+        "repository": {
+          "2019-02": 86,
+          "2019-03": 137,
+          "2019-04": 78,
+          "2019-05": 47,
+          "2019-06": 31,
+          "2019-07": 94,
+          "2019-08": 43,
+          "2019-09": 89,
+          "2019-10": 72,
+          "2019-11": 54,
+          "2019-12": 23,
+          "2020-01": 18
         },
         "join": {
           "2019-02": 0,
