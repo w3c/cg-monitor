@@ -44,26 +44,32 @@ const loadDir = async dirPath => {
               cgData.link = data[0]._links.homepage.href;
               // Approximating creation date to date of first person joining
               cgData.created = new Date((data[3][0] || {}).created + "Z");
-              cgData.participants = data[3].length;
-              cgData.chairs = data[1].filter(x => x).map(c => c.title);
-              cgData.staff = data[3].filter(u => u._links.user && staffids.includes(u._links.user.href)).map(u => { const team = staff.find(s => s._links.self.href === u._links.user.href); return { name: team.name, photo: (team._links.photos ? team._links.photos.find(p => p.name === "tiny").href : undefined) } ;});
+              cgData.participants = data[4].length;
+              cgData.chairs = data[2].filter(x => x).map(c => c.title);
+              cgData.staff = data[4].filter(u => u._links.user && staffids.includes(u._links.user.href)).map(u => { const team = staff.find(s => s._links.self.href === u._links.user.href); return { name: team.name, photo: (team._links.photos ? team._links.photos.find(p => p.name === "tiny").href : undefined) } ;});
 
               cgData.repositories = [];
               cgData.activity = {};
-              if (data[2] && data[2].length) {
-                // treat forums as mailing lists
-                data[2].forEach(({service}) => {
-                  if (service.type === "forum") service.type = "lists";
-                  cgData.repositories = [...new Set(
-                    [].concat(
-                      ...data[2].filter(({service}) => service.type === "repository")
-                        .map(({data}) => {
-                          if (!data.items) return [];
-                          return data.items.map(i => (i.html_url || '').split('/').slice(0,5).join('/'))})
-                    ).concat(data[2].filter(({service}) => service.type === "repository").map(({service}) => service.link)))];
+              if (data[1] && data[1].length) {
+                data[1].forEach(({items}) => {
+                  cgData.repositories = cgData.repositories.concat(items.map(i => (i.html_url || '').split('/').slice(0,5).join('/')));
                 });
+              }
+
+              if (data[3] && data[3].length) {
+                // treat forums as mailing lists
+                data[3].forEach(({service}) => {
+                  if (service.type === "forum") service.type = "lists";
+                  cgData.repositories = cgData.repositories.concat(
+                    ...data[3].filter(({service}) => service.type === "repository")
+                      .map(({data}) => {
+                        if (!data.items) return [];
+                        return data.items.map(i => (i.html_url || '').split('/').slice(0,5).join('/'))})
+                  ).concat(data[3].filter(({service}) => service.type === "repository").map(({service}) => service.link));
+                });
+                cgData.repositories = [...new Set(cgData.repositories)];
                 // aggregate by service type
-                data[2].forEach(({service, data}) => {
+                data[3].forEach(({service, data}) => {
                   let perMonthData;
                   if (data && data.items) {
                     perMonthData = lastTwelveMonths
