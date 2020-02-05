@@ -104,7 +104,10 @@ Promise.all([
           const activity = document.createElement("p");
           const data = d.activity[servicetype];
           let values = [];
-          if (data && Object.keys(data)) {
+          if (!data) {
+            activitywrapper.classList.add('nosource');
+            activitywrapper.title = "No known " + servicetype ;
+          } else if (Object.keys(data)) {
             values = lastXMonths.map(m => data[m] || 0);
           }
           if (values.length) activitywrapper.classList.add('num');
