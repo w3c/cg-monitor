@@ -89,7 +89,7 @@ Promise.all([
       h2.appendChild(sp);
 
       const link = document.createElement("a");
-      link.appendChild(document.createTextNode(d.name.replace(/ Community Group/, '')));
+        link.appendChild(document.createTextNode(d.name.replace(/ Community Group/, ' CG').replace(/ Working Group/, ' WG').replace(/ Interest Group/, ' IG').replace(/ Business Group/, ' BG')));
       link.href = d.link;
       h2.appendChild(link);
       const cgshortname = d.link.split('/')[4];
