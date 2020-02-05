@@ -180,6 +180,9 @@ function wrapService(service) {
 
 function fetchServiceActivity(service) {
   switch(service.type) {
+  case "blog":
+    // optimistic approach at getting the RSS feed
+    return fetchRSS(service.link + "feed").then(wrapService({...service, type: "rss"}));
   case "rss":
     return fetchRSS(service.link).then(wrapService(service));
   case "lists":
