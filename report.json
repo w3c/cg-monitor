@@ -1,5 +1,5 @@
 {
-  "timestamp": "2020-02-05T06:46:59.841Z",
+  "timestamp": "2020-02-05T13:20:34.464Z",
   "data": [
     {
       "id": 100074,
@@ -70,21 +70,19 @@
           "2017-07": 303,
           "2017-06": 73
         },
-        "blog": {
-          "type": "blog",
-          "link": "https://www.w3.org/blog/dpub/",
-          "shortdesc": "Group blog",
-          "longdesc": "Activity blog",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17265"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17265/groups"
-            }
-          }
+        "rss": {
+          "2019-03": 0,
+          "2019-04": 0,
+          "2019-05": 0,
+          "2019-06": 0,
+          "2019-07": 0,
+          "2019-08": 1,
+          "2019-09": 2,
+          "2019-10": 3,
+          "2019-11": 3,
+          "2019-12": 1,
+          "2020-01": 0,
+          "2020-02": 0
         },
         "other": {
           "type": "otherotherother",
@@ -3636,7 +3634,7 @@
           "2019-03": 16,
           "2019-04": 8,
           "2019-05": 34,
-          "2019-06": 12,
+          "2019-06": 11,
           "2019-07": 18,
           "2019-08": 3,
           "2019-09": 0,
@@ -5003,9 +5001,10 @@
           "2019-11": 0,
           "2019-12": 0,
           "2020-01": 0,
-          "2020-02": 0
+          "2020-02": 1
         },
         "lists": {
+          "2020-02": 2,
           "2019-11": 12,
           "2019-10": 12,
           "2019-08": 79,
@@ -5579,7 +5578,7 @@
           "2019-11": 139,
           "2019-12": 94,
           "2020-01": 171,
-          "2020-02": 39
+          "2020-02": 45
         },
         "join": {
           "2019-03": 0,
@@ -7560,7 +7559,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/privacycg/",
       "created": "2020-01-17T18:05:33.000Z",
-      "participants": 55,
+      "participants": 56,
       "chairs": [
         "Erik Anderson",
         "Theresa O'Connor",
@@ -7631,7 +7630,7 @@
           "2019-11": 0,
           "2019-12": 0,
           "2020-01": 58,
-          "2020-02": 24
+          "2020-02": 28
         },
         "join": {
           "2019-03": 0,
@@ -7645,7 +7644,7 @@
           "2019-11": 0,
           "2019-12": 0,
           "2020-01": 52,
-          "2020-02": 3
+          "2020-02": 4
         }
       }
     },
@@ -8342,21 +8341,19 @@
           "1995-06": 14,
           "1995-05": 15
         },
-        "blog": {
-          "type": "blog",
-          "link": "https://www.w3.org/blog/CSS/",
-          "shortdesc": "CSS blog",
-          "longdesc": "CSS WG Blog",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15622"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15622/groups"
-            }
-          }
+        "rss": {
+          "2019-03": 0,
+          "2019-04": 0,
+          "2019-05": 0,
+          "2019-06": 0,
+          "2019-07": 0,
+          "2019-08": 0,
+          "2019-09": 0,
+          "2019-10": 0,
+          "2019-11": 4,
+          "2019-12": 3,
+          "2020-01": 3,
+          "2020-02": 0
         },
         "other": {
           "type": "other",
@@ -8555,7 +8552,7 @@
           "2019-11": 83,
           "2019-12": 67,
           "2020-01": 68,
-          "2020-02": 94
+          "2020-02": 129
         },
         "join": {
           "2019-03": 0,
@@ -8917,7 +8914,7 @@
           "2020-02": 1
         },
         "lists": {
-          "2020-03": 152,
+          "2020-03": 155,
           "2019-12": 174,
           "2019-09": 231,
           "2019-06": 209,
@@ -9478,7 +9475,7 @@
           "2019-11": 7,
           "2019-12": 10,
           "2020-01": 3,
-          "2020-02": 1
+          "2020-02": 3
         },
         "join": {
           "2019-03": 3,
@@ -10303,7 +10300,7 @@
           "2020-02": 0
         },
         "lists": {
-          "2020-02": 16,
+          "2020-02": 20,
           "2020-01": 102,
           "2019-12": 66,
           "2019-11": 84,
@@ -10423,7 +10420,7 @@
           "2019-11": 127,
           "2019-12": 118,
           "2020-01": 128,
-          "2020-02": 18
+          "2020-02": 31
         },
         "join": {
           "2019-03": 0,
@@ -11203,7 +11200,7 @@
           "2020-02": 0
         },
         "lists": {
-          "2020-02": 6,
+          "2020-02": 7,
           "2020-01": 20,
           "2019-12": 26,
           "2019-11": 8,
@@ -12262,11 +12259,6 @@
       ],
       "repositories": [
         "https://github.com/json-ld/json-ld.org",
-        "https://github.com/json-ld/minutes",
-        "https://github.com/json-ld/normalization",
-        "https://github.com/json-ld/charter",
-        "https://github.com/json-ld/scrawl.js",
-        "https://github.com/json-ld/json-ld-patch",
         "https://github.com/json-ld"
       ],
       "activity": {
@@ -12406,12 +12398,12 @@
         "repository": {
           "2019-03": 0,
           "2019-04": 9,
-          "2019-05": 5,
+          "2019-05": 2,
           "2019-06": 3,
           "2019-07": 1,
           "2019-08": 2,
           "2019-09": 4,
-          "2019-10": 6,
+          "2019-10": 2,
           "2019-11": 1,
           "2019-12": 2,
           "2020-01": 4,
@@ -16243,7 +16235,6 @@
         }
       ],
       "repositories": [
-        "https://github.com/pplcg/XSLTExtensions",
         "https://github.com/pplcg"
       ],
       "activity": {
@@ -16342,7 +16333,7 @@
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
-          "2019-09": 1,
+          "2019-09": 0,
           "2019-10": 0,
           "2019-11": 0,
           "2019-12": 0,
@@ -16491,7 +16482,7 @@
           "2019-11": 0,
           "2019-12": 0,
           "2020-01": 1,
-          "2020-02": 0
+          "2020-02": 2
         },
         "rss": {
           "2019-03": 0,
@@ -16524,6 +16515,7 @@
           }
         },
         "lists": {
+          "2020-02": 9,
           "2020-01": 14,
           "2019-12": 27,
           "2019-11": 8,
@@ -23225,14 +23217,6 @@
       ],
       "staff": [],
       "repositories": [
-        "https://github.com/streamreasoning/CSPARQL-engine",
-        "https://github.com/streamreasoning/CSPARQL-ReadyToGoPack",
-        "https://github.com/streamreasoning/rsp-services-client-example",
-        "https://github.com/streamreasoning/rsp-services-api",
-        "https://github.com/streamreasoning/rsp-services-csparql",
-        "https://github.com/streamreasoning/RSP-QL",
-        "https://github.com/streamreasoning/heaven",
-        "https://github.com/streamreasoning/TripleWave",
         "https://github.com/streamreasoning/rsplab",
         "https://github.com/streamreasoning/rsplib",
         "https://github.com/streamreasoning/vois",
@@ -23335,13 +23319,13 @@
         "repository": {
           "2019-03": 0,
           "2019-04": 0,
-          "2019-05": 1,
+          "2019-05": 0,
           "2019-06": 12,
           "2019-07": 43,
-          "2019-08": 1,
+          "2019-08": 0,
           "2019-09": 0,
           "2019-10": 0,
-          "2019-11": 2,
+          "2019-11": 0,
           "2019-12": 0,
           "2020-01": 0,
           "2020-02": 0
@@ -24063,14 +24047,6 @@
         }
       ],
       "repositories": [
-        "https://github.com/rdfjs/N3.js",
-        "https://github.com/rdfjs/rdfjs.github.io",
-        "https://github.com/rdfjs/data-model-spec",
-        "https://github.com/rdfjs/comunica-browser",
-        "https://github.com/rdfjs/rdfxml-streaming-parser.js",
-        "https://github.com/rdfjs/dataset-spec",
-        "https://github.com/rdfjs/stream-spec",
-        "https://github.com/rdfjs/lib-template",
         "https://github.com/rdfjs"
       ],
       "activity": {
@@ -24170,17 +24146,17 @@
           "2013-10": 43
         },
         "repository": {
-          "2019-03": 36,
-          "2019-04": 30,
-          "2019-05": 15,
-          "2019-06": 11,
-          "2019-07": 14,
-          "2019-08": 5,
-          "2019-09": 21,
-          "2019-10": 11,
-          "2019-11": 9,
-          "2019-12": 13,
-          "2020-01": 16,
+          "2019-03": 0,
+          "2019-04": 0,
+          "2019-05": 0,
+          "2019-06": 0,
+          "2019-07": 0,
+          "2019-08": 0,
+          "2019-09": 0,
+          "2019-10": 0,
+          "2019-11": 0,
+          "2019-12": 0,
+          "2020-01": 0,
           "2020-02": 0
         },
         "join": {
@@ -25771,8 +25747,6 @@
       ],
       "staff": [],
       "repositories": [
-        "https://github.com/schematron-quickfix/sqf",
-        "https://github.com/schematron-quickfix/escali-package",
         "https://github.com/schematron-quickfix"
       ],
       "activity": {
@@ -25826,9 +25800,9 @@
         },
         "repository": {
           "2019-03": 0,
-          "2019-04": 2,
-          "2019-05": 1,
-          "2019-06": 1,
+          "2019-04": 0,
+          "2019-05": 0,
+          "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
           "2019-09": 0,
@@ -26551,7 +26525,7 @@
           "2019-11": 70,
           "2019-12": 57,
           "2020-01": 78,
-          "2020-02": 23
+          "2020-02": 29
         },
         "join": {
           "2019-03": 1,
@@ -26819,13 +26793,6 @@
         }
       ],
       "repositories": [
-        "https://github.com/w3c-lbd-cg/lbd",
-        "https://github.com/w3c-lbd-cg/bot",
-        "https://github.com/w3c-lbd-cg/product",
-        "https://github.com/w3c-lbd-cg/opm",
-        "https://github.com/w3c-lbd-cg/project",
-        "https://github.com/w3c-lbd-cg/tools",
-        "https://github.com/w3c-lbd-cg/ontologies",
         "https://github.com/w3c-lbd-cg/"
       ],
       "activity": {
@@ -26908,16 +26875,16 @@
         },
         "repository": {
           "2019-03": 0,
-          "2019-04": 1,
-          "2019-05": 3,
-          "2019-06": 3,
-          "2019-07": 5,
-          "2019-08": 8,
+          "2019-04": 0,
+          "2019-05": 0,
+          "2019-06": 0,
+          "2019-07": 0,
+          "2019-08": 0,
           "2019-09": 0,
-          "2019-10": 3,
+          "2019-10": 0,
           "2019-11": 0,
           "2019-12": 0,
-          "2020-01": 2,
+          "2020-01": 0,
           "2020-02": 0
         },
         "join": {
@@ -27183,7 +27150,7 @@
           }
         },
         "lists": {
-          "2020-02": 11,
+          "2020-02": 12,
           "2020-01": 135,
           "2019-12": 81,
           "2019-11": 146,
@@ -28260,8 +28227,8 @@
           "2019-10": 0,
           "2019-11": 0,
           "2019-12": 0,
-          "2020-01": 12,
-          "2020-02": 14
+          "2020-01": 7,
+          "2020-02": 19
         },
         "lists": {
           "2020-02": 4,
@@ -28327,6 +28294,20 @@
           "2015-02": 38,
           "2015-01": 8
         },
+        "rss": {
+          "2019-03": 0,
+          "2019-04": 0,
+          "2019-05": 0,
+          "2019-06": 0,
+          "2019-07": 0,
+          "2019-08": 0,
+          "2019-09": 0,
+          "2019-10": 0,
+          "2019-11": 1,
+          "2019-12": 0,
+          "2020-01": 0,
+          "2020-02": 0
+        },
         "repository": {
           "2019-03": 32,
           "2019-04": 26,
@@ -28384,7 +28365,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-02": 5,
+          "2020-02": 7,
           "2020-01": 57,
           "2019-12": 20,
           "2019-11": 23,
@@ -28460,6 +28441,20 @@
               "href": "https://api.w3.org/services/17348/groups"
             }
           }
+        },
+        "rss": {
+          "2019-03": 0,
+          "2019-04": 0,
+          "2019-05": 0,
+          "2019-06": 0,
+          "2019-07": 0,
+          "2019-08": 0,
+          "2019-09": 0,
+          "2019-10": 0,
+          "2019-11": 0,
+          "2019-12": 0,
+          "2020-01": 0,
+          "2020-02": 0
         },
         "repository": {
           "2019-03": 1,
@@ -29061,6 +29056,7 @@
           }
         },
         "lists": {
+          "2020-02": 1,
           "2020-01": 16,
           "2019-12": 8,
           "2019-11": 15,
@@ -29854,7 +29850,7 @@
           "2019-11": 100,
           "2019-12": 80,
           "2020-01": 68,
-          "2020-02": 15
+          "2020-02": 19
         },
         "join": {
           "2019-03": 10,
@@ -30749,7 +30745,7 @@
           "2019-11": 587,
           "2019-12": 446,
           "2020-01": 481,
-          "2020-02": 72
+          "2020-02": 80
         },
         "join": {
           "2019-03": 1,
@@ -31532,6 +31528,7 @@
           }
         },
         "lists": {
+          "2020-02": 1,
           "2020-01": 2,
           "2019-12": 3,
           "2019-11": 2,
@@ -32012,6 +32009,20 @@
           "closed": 0,
           "_links": "[object Object][object Object]"
         },
+        "rss": {
+          "2019-03": 0,
+          "2019-04": 1,
+          "2019-05": 1,
+          "2019-06": 0,
+          "2019-07": 0,
+          "2019-08": 0,
+          "2019-09": 1,
+          "2019-10": 3,
+          "2019-11": 0,
+          "2019-12": 0,
+          "2020-01": 2,
+          "2020-02": 0
+        },
         "repository": {
           "2019-03": 54,
           "2019-04": 20,
@@ -32117,7 +32128,7 @@
           }
         },
         "lists": {
-          "2020-02": 4,
+          "2020-02": 5,
           "2020-01": 73,
           "2019-12": 16,
           "2019-11": 33,
@@ -33583,21 +33594,19 @@
           "2016-03": 159,
           "2016-02": 1
         },
-        "blog": {
-          "type": "blog",
-          "link": "https://www.w3.org/blog/webauthn/",
-          "shortdesc": "Group blog",
-          "longdesc": "Group news",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15636"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15636/groups"
-            }
-          }
+        "rss": {
+          "2019-03": 1,
+          "2019-04": 0,
+          "2019-05": 0,
+          "2019-06": 0,
+          "2019-07": 0,
+          "2019-08": 0,
+          "2019-09": 0,
+          "2019-10": 0,
+          "2019-11": 0,
+          "2019-12": 0,
+          "2020-01": 2,
+          "2020-02": 0
         },
         "repository": {
           "2019-03": 46,
@@ -34159,60 +34168,6 @@
         "https://github.com/openactive/datasets",
         "https://github.com/openactive/api-dashboard",
         "https://github.com/openactive/openactive-staging",
-        "https://github.com/openactive/openactive.github.io",
-        "https://github.com/openactive/open-booking-api",
-        "https://github.com/openactive/validator-test-json",
-        "https://github.com/openactive/openactive-es-example",
-        "https://github.com/openactive/developer-microsite",
-        "https://github.com/openactive/data-model-validator",
-        "https://github.com/openactive/data-model-validator-site",
-        "https://github.com/openactive/opportunity-api",
-        "https://github.com/openactive/data-models",
-        "https://github.com/openactive/booking-api-reference-implementation",
-        "https://github.com/openactive/developer-documentation",
-        "https://github.com/openactive/w3c-community-group-microsite",
-        "https://github.com/openactive/rpde-validator",
-        "https://github.com/openactive/openactive-jsonld-redirect",
-        "https://github.com/openactive/extensions",
-        "https://github.com/openactive/accessibility-support",
-        "https://github.com/openactive/extension-documentation-generator",
-        "https://github.com/openactive/iqvoc",
-        "https://github.com/openactive/lorem-fitsum",
-        "https://github.com/openactive/skos.js",
-        "https://github.com/openactive/azure-rpde-proxy",
-        "https://github.com/openactive/OpenActive.NET",
-        "https://github.com/openactive/facility-types",
-        "https://github.com/openactive/Schema.NET",
-        "https://github.com/openactive/dataset-api-discovery",
-        "https://github.com/openactive/livestream",
-        "https://github.com/openactive/dataset-site-template",
-        "https://github.com/openactive/dataset-site-template-example-dotnet",
-        "https://github.com/openactive/programmes",
-        "https://github.com/openactive/les-mills-programme-page-example",
-        "https://github.com/openactive/routes",
-        "https://github.com/openactive/models-php",
-        "https://github.com/openactive/models-ruby",
-        "https://github.com/openactive/models-lib",
-        "https://github.com/openactive/dataset-site-template-php",
-        "https://github.com/openactive/dataset-site-template-ruby",
-        "https://github.com/openactive/booking-reference-implementation-.net",
-        "https://github.com/openactive/booking-reference-implementation-php",
-        "https://github.com/openactive/booking-reference-implementation-ruby",
-        "https://github.com/openactive/booking-reference-implementation-shared",
-        "https://github.com/openactive/harvester",
-        "https://github.com/openactive/rolling-validator",
-        "https://github.com/openactive/booking-libs-sketch",
-        "https://github.com/openactive/booking-flow-validator",
-        "https://github.com/openactive/Stubble.Extensions.JsonNet",
-        "https://github.com/openactive/OpenActive.Server.NET",
-        "https://github.com/openactive/OpenActive.DatasetSite.NET",
-        "https://github.com/openactive/open-booking-sdk-documentation",
-        "https://github.com/openactive/OpenActive-Software-Development-Tracking",
-        "https://github.com/openactive/openactive-test-suite",
-        "https://github.com/openactive/models-ruby-test",
-        "https://github.com/openactive/models-php-test",
-        "https://github.com/openactive/booking-order-engine",
-        "https://github.com/openactive/activity-list-editor",
         "https://github.com/openactive"
       ],
       "activity": {
@@ -34304,18 +34259,18 @@
           }
         },
         "repository": {
-          "2019-03": 158,
-          "2019-04": 164,
-          "2019-05": 46,
-          "2019-06": 81,
-          "2019-07": 106,
-          "2019-08": 56,
-          "2019-09": 91,
-          "2019-10": 216,
-          "2019-11": 235,
-          "2019-12": 140,
-          "2020-01": 80,
-          "2020-02": 5
+          "2019-03": 115,
+          "2019-04": 121,
+          "2019-05": 25,
+          "2019-06": 66,
+          "2019-07": 50,
+          "2019-08": 28,
+          "2019-09": 17,
+          "2019-10": 42,
+          "2019-11": 14,
+          "2019-12": 15,
+          "2020-01": 0,
+          "2020-02": 0
         },
         "tracker": {
           "type": "tracker",
@@ -35887,7 +35842,7 @@
           }
         },
         "lists": {
-          "2020-02": 1,
+          "2020-02": 2,
           "2020-01": 5,
           "2019-12": 3,
           "2019-11": 4,
@@ -36144,7 +36099,7 @@
           "2019-11": 38,
           "2019-12": 53,
           "2020-01": 44,
-          "2020-02": 2
+          "2020-02": 3
         },
         "join": {
           "2019-03": 0,
@@ -37085,7 +37040,7 @@
           }
         },
         "lists": {
-          "2020-02": 7,
+          "2020-02": 8,
           "2020-01": 14,
           "2019-12": 10,
           "2019-11": 11,
