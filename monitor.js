@@ -79,7 +79,7 @@ function fetchMail(url) {
               data[month.toJSON().slice(0,7)] = mailCount;
             }
           } else {
-            console.error("Error parsing ml archive at " + url);
+            console.log("Empty ml archive at " + url);
           }
         });
       });
