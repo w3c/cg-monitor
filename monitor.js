@@ -31,11 +31,11 @@ const queue = new RequestQueue(null, {
     if (url.match(/https:\/\/api\.w3\.org\//)) {
       headers.push(['Authorization', 'W3C-API apikey="' + config.w3capikey + '"']);
     }
-    _fetch(url, { headers }).then(r => Promise.all([Promise.resolve(r.headers), r.text()]))
-      .then(([headers, body]) => {
+    _fetch(url, { headers }).then(r => Promise.all([Promise.resolve(r.status, r.headers), r.text()]))
+      .then(([status, headers, body]) => {
         done();
-        cache[url] = {headers, body};;
-        return Promise.all(fetchResolve[url].map(res => res({headers, body})));
+        cache[url] = {status, headers, body};;
+        return Promise.all(fetchResolve[url].map(res => res({status, headers, body})));
       }).catch(err => {console.error(err); return fetchReject[url].forEach(rej => rej(err));});
   }
 });
