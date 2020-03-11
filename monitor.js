@@ -104,6 +104,9 @@ function recursiveFetchDiscourse(url, before = null, acc = []) {
 
 function fetchForum(url) {
   if (!url.match(/discourse/)) return Promise.resolve("Did not fetch forum at " + url);
+  // TODO: fix case where discourse URL is for a specific category à la
+  // https://discourse.wicg.io/c/web-mapping
+  if (url.endsWith("/")) url = url.slice(0, -1);
   return recursiveFetchDiscourse(url + '/posts.json').then(items => { return {items}; });
 }
 
