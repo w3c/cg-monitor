@@ -1,5 +1,5 @@
 {
-  "timestamp": "2020-03-27T06:16:40.193Z",
+  "timestamp": "2020-03-27T06:55:07.959Z",
   "data": [
     {
       "id": 100074,
@@ -21862,7 +21862,6 @@
         }
       }
     },
-    null,
     {
       "id": 61210,
       "name": "Haptic Interaction on the Web Community Group",
