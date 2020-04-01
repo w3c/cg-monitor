@@ -92,7 +92,6 @@ function recursiveFetchDiscourse(url, before = null, acc = []) {
   return fetch(fetchedUrl)
     .then(({body: text}) => JSON.parse(text))
     .then(({latest_posts}) => {
-      console.error("Failed to retrieve Discourse posts from " + url);
       if (!latest_posts) return acc;
       acc = acc.concat(latest_posts);
       if (latest_posts[latest_posts.length - 1].updated_at > ayearago.toJSON()) {
