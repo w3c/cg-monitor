@@ -52,7 +52,7 @@ const bar = (values, type, group, fillname) => {
   const height = Math.max(...values, 0) ;
   const width = barWidth*13;
   const count = values.reduce((acc, d) => acc + d, 0);
-  return `<svg width='${width}' height='${height*heightFactor[fillname]}' viewBox='0 0 ${width} ${height * heightFactor[fillname]}' role='presentation'>` + values.map((v,i) => monthBar(i, v, fillname, height)).join(' ') + `</svg><span title='${count} ${type} events for ${group} in the last ${period} months'>${count ? count : ''}</span>`;
+  return `<svg width='${width}' height='${height*heightFactor[fillname]}' viewBox='0 0 ${width} ${height * heightFactor[fillname]}' role='presentation'>` + values.map((v,i) => monthBar(i, v, fillname, height)).join(' ') + `</svg><span title='${count} ${type} events for ${group} in the last ${period} months'>${count ? Math.floor(count) : ''}</span>`;
 };
 
 const groupLink = (id) => {
