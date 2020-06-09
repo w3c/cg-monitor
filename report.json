@@ -1,5 +1,5 @@
 {
-  "timestamp": "2020-06-08T01:46:18.988Z",
+  "timestamp": "2020-06-09T01:47:59.297Z",
   "data": [
     {
       "id": 100074,
@@ -37,7 +37,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-06": 5,
+          "2020-06": 10,
           "2020-05": 10,
           "2020-04": 12,
           "2020-03": 29,
@@ -97,6 +97,22 @@
           "external": 0,
           "closed": 0,
           "_links": "[object Object][object Object][object Object]"
+        },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=100074",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25888"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25888/groups"
+            }
+          }
         },
         "repository": {
           "2019-07": 11,
@@ -176,7 +192,7 @@
           }
         },
         "lists": {
-          "2020-06": 33,
+          "2020-06": 35,
           "2020-05": 18,
           "2020-04": 23,
           "2020-03": 22,
@@ -658,7 +674,7 @@
           "2020-03": 105,
           "2020-04": 76,
           "2020-05": 32,
-          "2020-06": 5
+          "2020-06": 8
         },
         "join": {
           "2019-07": 1,
@@ -763,6 +779,22 @@
             }
           }
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=101196",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25912"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25912/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 0,
           "2019-08": 0,
@@ -819,6 +851,22 @@
         "https://www.w3.org/PM/Groups/repositories.html?gid=101220"
       ],
       "activity": {
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=101220",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25890"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25890/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 13,
           "2019-08": 14,
@@ -995,6 +1043,22 @@
           "2017-12": 17,
           "2017-11": 40,
           "2017-10": 9
+        },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=102593",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25909"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25909/groups"
+            }
+          }
         },
         "repository": {
           "2019-07": 8,
@@ -1323,7 +1387,7 @@
       "type": "bg",
       "link": "https://www.w3.org/community/web-adv/",
       "created": "2017-11-07T20:34:32.000Z",
-      "participants": 113,
+      "participants": 114,
       "chairs": [
         "Wendy Seltzer"
       ],
@@ -1388,7 +1452,7 @@
           }
         },
         "lists": {
-          "2020-06": 4,
+          "2020-06": 5,
           "2020-05": 17,
           "2020-04": 19,
           "2020-03": 16,
@@ -1433,6 +1497,22 @@
           "2020-05": 16,
           "2020-06": 0
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://w3c.github.io/web-advertising/dashboard/",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": true,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25914"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25914/groups"
+            }
+          }
+        },
         "join": {
           "2019-07": 2,
           "2019-08": 1,
@@ -1445,7 +1525,7 @@
           "2020-03": 12,
           "2020-04": 11,
           "2020-05": 20,
-          "2020-06": 3
+          "2020-06": 4
         }
       }
     },
@@ -1993,7 +2073,7 @@
           }
         },
         "lists": {
-          "2020-06": 27,
+          "2020-06": 30,
           "2019-12": 10,
           "2019-10": 14,
           "2019-09": 5,
@@ -2186,7 +2266,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/audio-description/",
       "created": "2018-04-19T15:04:09.000Z",
-      "participants": 23,
+      "participants": 22,
       "chairs": [
         "Nigel Megitt"
       ],
@@ -2602,7 +2682,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-06": 9,
+          "2020-06": 11,
           "2020-05": 12,
           "2020-04": 36,
           "2020-03": 20,
@@ -2628,6 +2708,22 @@
           "2018-07": 21,
           "2018-06": 12
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=107714",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25886"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25886/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 52,
           "2019-08": 71,
@@ -2640,7 +2736,7 @@
           "2020-03": 112,
           "2020-04": 97,
           "2020-05": 48,
-          "2020-06": 6
+          "2020-06": 8
         },
         "join": {
           "2019-07": 0,
@@ -2953,6 +3049,22 @@
             }
           }
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=108594",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25881"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25881/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 37,
           "2019-08": 10,
@@ -2965,7 +3077,7 @@
           "2020-03": 46,
           "2020-04": 6,
           "2020-05": 13,
-          "2020-06": 3
+          "2020-06": 4
         },
         "join": {
           "2019-07": 0,
@@ -3474,6 +3586,22 @@
             }
           }
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=109611",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25915"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25915/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 13,
           "2019-08": 19,
@@ -3486,7 +3614,7 @@
           "2020-03": 27,
           "2020-04": 35,
           "2020-05": 57,
-          "2020-06": 6
+          "2020-06": 8
         },
         "join": {
           "2019-07": 1,
@@ -3538,7 +3666,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-06": 2,
+          "2020-06": 6,
           "2020-05": 5,
           "2020-04": 23,
           "2020-03": 10,
@@ -3577,6 +3705,22 @@
             }
           }
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=109735",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25884"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25884/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 48,
           "2019-08": 82,
@@ -3589,7 +3733,7 @@
           "2020-03": 52,
           "2020-04": 36,
           "2020-05": 107,
-          "2020-06": 21
+          "2020-06": 22
         },
         "join": {
           "2019-07": 0,
@@ -3850,7 +3994,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/rdf-dev/",
       "created": "2018-10-16T12:07:01.000Z",
-      "participants": 53,
+      "participants": 54,
       "chairs": [
         "Dan Brickley"
       ],
@@ -3937,7 +4081,7 @@
           "2020-03": 2,
           "2020-04": 1,
           "2020-05": 0,
-          "2020-06": 0
+          "2020-06": 1
         }
       }
     },
@@ -4116,6 +4260,22 @@
           "2020-04": 0,
           "2020-05": 0,
           "2020-06": 0
+        },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=110716",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25916"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25916/groups"
+            }
+          }
         },
         "join": {
           "2019-07": 1,
@@ -4367,7 +4527,7 @@
           }
         },
         "lists": {
-          "2020-06": 2,
+          "2020-06": 3,
           "2020-03": 1,
           "2020-01": 1,
           "2019-10": 1,
@@ -4477,7 +4637,7 @@
           }
         },
         "lists": {
-          "2020-06": 2,
+          "2020-06": 3,
           "2020-05": 19,
           "2020-04": 33,
           "2020-03": 11,
@@ -4509,7 +4669,7 @@
           "2020-03": 63,
           "2020-04": 36,
           "2020-05": 84,
-          "2020-06": 37
+          "2020-06": 39
         },
         "join": {
           "2019-07": 3,
@@ -4968,7 +5128,7 @@
           }
         },
         "lists": {
-          "2020-06": 5,
+          "2020-06": 7,
           "2020-05": 32,
           "2020-04": 13,
           "2020-03": 9,
@@ -5402,6 +5562,22 @@
         "https://www.w3.org/PM/Groups/repositories.html?gid=113649"
       ],
       "activity": {
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=113649",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25908"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25908/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 0,
           "2019-08": 0,
@@ -5594,7 +5770,7 @@
           }
         },
         "lists": {
-          "2020-06": 4,
+          "2020-06": 5,
           "2020-05": 20,
           "2020-04": 14,
           "2020-03": 18,
@@ -5622,7 +5798,7 @@
           "2020-03": 137,
           "2020-04": 81,
           "2020-05": 78,
-          "2020-06": 30
+          "2020-06": 32
         },
         "join": {
           "2019-07": 3,
@@ -5900,6 +6076,22 @@
           "2008-05": 160,
           "2008-04": 160
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=114929",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25899"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25899/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 112,
           "2019-08": 104,
@@ -5912,7 +6104,7 @@
           "2020-03": 81,
           "2020-04": 66,
           "2020-05": 128,
-          "2020-06": 30
+          "2020-06": 38
         },
         "join": {
           "2019-07": 5,
@@ -6046,6 +6238,7 @@
       ],
       "activity": {
         "lists": {
+          "2020-06": 1,
           "2020-04": 1,
           "2020-03": 4,
           "2020-02": 4,
@@ -6123,6 +6316,7 @@
       ],
       "activity": {
         "lists": {
+          "2020-06": 1,
           "2020-05": 4,
           "2020-04": 6,
           "2020-02": 2,
@@ -6133,6 +6327,22 @@
           "2019-09": 11,
           "2019-08": 1,
           "2019-05": 1
+        },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=115198",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25887"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25887/groups"
+            }
+          }
         },
         "repository": {
           "2019-07": 44,
@@ -6146,7 +6356,7 @@
           "2020-03": 15,
           "2020-04": 5,
           "2020-05": 6,
-          "2020-06": 2
+          "2020-06": 5
         },
         "join": {
           "2019-07": 5,
@@ -6262,7 +6472,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-06": 5,
+          "2020-06": 6,
           "2020-05": 18,
           "2020-04": 7,
           "2020-03": 7,
@@ -6421,6 +6631,22 @@
           "2007-06": 1099,
           "2007-05": 1307,
           "2007-04": 1773
+        },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=115520",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25883"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25883/groups"
+            }
+          }
         },
         "repository": {
           "2019-07": 0,
@@ -6747,7 +6973,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/design-tokens/",
       "created": "2019-07-31T20:50:44.000Z",
-      "participants": 96,
+      "participants": 97,
       "chairs": [
         "Jina Anne",
         "Kaelig Deloumeau-Prigent"
@@ -6834,7 +7060,7 @@
           "2020-03": 7,
           "2020-04": 1,
           "2020-05": 2,
-          "2020-06": 0
+          "2020-06": 1
         }
       }
     },
@@ -6944,7 +7170,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-06": 7,
+          "2020-06": 12,
           "2020-05": 41,
           "2020-04": 44,
           "2020-03": 28,
@@ -6954,6 +7180,22 @@
           "2019-11": 47,
           "2019-10": 23,
           "2019-09": 20
+        },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=117488",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25879"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25879/groups"
+            }
+          }
         },
         "repository": {
           "2019-07": 0,
@@ -6967,7 +7209,7 @@
           "2020-03": 95,
           "2020-04": 75,
           "2020-05": 73,
-          "2020-06": 21
+          "2020-06": 23
         },
         "join": {
           "2019-07": 0,
@@ -7253,7 +7495,7 @@
           "2020-03": 25,
           "2020-04": 19,
           "2020-05": 49,
-          "2020-06": 2
+          "2020-06": 4
         },
         "join": {
           "2019-07": 0,
@@ -7277,7 +7519,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/bitcoin/",
       "created": "2019-09-21T06:24:34.000Z",
-      "participants": 39,
+      "participants": 40,
       "chairs": [
         "Aaron Burns",
         "Josh Petty"
@@ -7346,7 +7588,7 @@
           "2020-03": 0,
           "2020-04": 0,
           "2020-05": 0,
-          "2020-06": 0
+          "2020-06": 1
         }
       }
     },
@@ -7693,6 +7935,7 @@
           }
         },
         "lists": {
+          "2020-06": 1,
           "2020-05": 3,
           "2020-03": 6,
           "2020-02": 7,
@@ -7710,7 +7953,7 @@
           "2020-03": 1,
           "2020-04": 0,
           "2020-05": 14,
-          "2020-06": 27
+          "2020-06": 28
         },
         "join": {
           "2019-07": 0,
@@ -7734,7 +7977,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/privacycg/",
       "created": "2020-01-17T18:05:33.000Z",
-      "participants": 115,
+      "participants": 116,
       "chairs": [
         "Erik Anderson",
         "Theresa O'Connor",
@@ -7795,7 +8038,7 @@
           }
         },
         "lists": {
-          "2020-06": 3,
+          "2020-06": 4,
           "2020-05": 4,
           "2020-04": 12,
           "2020-03": 23,
@@ -7814,7 +8057,7 @@
           "2020-03": 64,
           "2020-04": 108,
           "2020-05": 44,
-          "2020-06": 20
+          "2020-06": 44
         },
         "join": {
           "2019-07": 0,
@@ -7828,7 +8071,7 @@
           "2020-03": 11,
           "2020-04": 12,
           "2020-05": 17,
-          "2020-06": 2
+          "2020-06": 3
         }
       }
     },
@@ -7900,7 +8143,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/graphql-rdf/",
       "created": "2020-01-31T19:15:54.000Z",
-      "participants": 34,
+      "participants": 35,
       "chairs": [
         "Ruben Taelman"
       ],
@@ -7971,7 +8214,7 @@
           "2020-03": 6,
           "2020-04": 1,
           "2020-05": 0,
-          "2020-06": 1
+          "2020-06": 2
         }
       }
     },
@@ -8651,7 +8894,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/net-maint/",
       "created": "2020-04-07T00:52:08.000Z",
-      "participants": 1,
+      "participants": 2,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -8699,7 +8942,7 @@
           "2020-03": 0,
           "2020-04": 1,
           "2020-05": 0,
-          "2020-06": 0
+          "2020-06": 1
         }
       }
     },
@@ -9451,6 +9694,22 @@
           "2017-02": null,
           "2017-01": null
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=19480",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25895"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25895/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 14,
           "2019-08": 16,
@@ -9871,6 +10130,22 @@
             }
           }
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=32061",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25878"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25878/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 144,
           "2019-08": 147,
@@ -9883,7 +10158,7 @@
           "2020-03": 128,
           "2020-04": 141,
           "2020-05": 132,
-          "2020-06": 49
+          "2020-06": 55
         },
         "join": {
           "2019-07": 1,
@@ -9967,20 +10242,13 @@
       ],
       "activity": {
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/International/track/",
-          "shortdesc": "Tracker",
-          "longdesc": "Tracker",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/8"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/8/groups"
-            }
-          }
+          "type": "trackertracker",
+          "link": "https://www.w3.org/International/track/https://www.w3.org/PM/Groups/issueboard.html?gid=32113",
+          "shortdesc": "TrackerDashboard",
+          "longdesc": "TrackerIssue Dashboard",
+          "external": 0,
+          "closed": 0,
+          "_links": "[object Object][object Object]"
         },
         "wiki": {
           "2019-07": 0,
@@ -9997,9 +10265,9 @@
           "2020-06": 0
         },
         "lists": {
-          "2020-06": 35.333333333333336,
-          "2020-05": 35.333333333333336,
-          "2020-04": 35.333333333333336,
+          "2020-06": 35.666666666666664,
+          "2020-05": 35.666666666666664,
+          "2020-04": 35.666666666666664,
           "2020-03": 40.333333333333336,
           "2020-02": 40.333333333333336,
           "2020-01": 40.333333333333336,
@@ -10196,7 +10464,7 @@
           "2020-03": 59,
           "2020-04": 80,
           "2020-05": 61,
-          "2020-06": 20
+          "2020-06": 23
         },
         "join": {
           "2019-07": 0,
@@ -10454,6 +10722,22 @@
             }
           }
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=34314",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25896"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25896/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 80,
           "2019-08": 52,
@@ -10539,20 +10823,13 @@
       ],
       "activity": {
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/WAI/GL/track/",
-          "shortdesc": "Tracker",
-          "longdesc": "Accessibility Guidelines Working Group Issue/Action Summary",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/70"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/70/groups"
-            }
-          }
+          "type": "trackertracker",
+          "link": "https://www.w3.org/WAI/GL/track/https://www.w3.org/PM/Groups/issueboard.html?gid=35422",
+          "shortdesc": "TrackerDashboard",
+          "longdesc": "Accessibility Guidelines Working Group Issue/Action SummaryIssue Dashboard",
+          "external": 0,
+          "closed": 0,
+          "_links": "[object Object][object Object]"
         },
         "wiki": {
           "2019-07": 0,
@@ -10569,9 +10846,9 @@
           "2020-06": 4
         },
         "lists": {
-          "2020-06": 155,
-          "2020-05": 155,
-          "2020-04": 155,
+          "2020-06": 155.33333333333334,
+          "2020-05": 155.33333333333334,
+          "2020-04": 155.33333333333334,
           "2020-03": 113.33333333333333,
           "2020-02": 113.33333333333333,
           "2020-01": 113.33333333333333,
@@ -10858,7 +11135,7 @@
           "2020-03": 50,
           "2020-04": 37,
           "2020-05": 28,
-          "2020-06": 12
+          "2020-06": 14
         },
         "join": {
           "2019-07": 0,
@@ -10953,15 +11230,6 @@
         "https://www.w3.org/PM/Groups/repositories.html?gid=35532"
       ],
       "activity": {
-        "tracker": {
-          "type": "trackertracker",
-          "link": "https://github.com/w3c/wai-tutorialshttps://github.com/w3c/wai-wcag-quickref/wiki/requirements-analysis",
-          "shortdesc": "WAI TutorialsWCAG 2 QuickRef Redesign",
-          "longdesc": "W3C WAI’s Web Accessibility TutorialsRepository containing the mockup of \"How to Meet WCAG 2.0\"",
-          "external": 2,
-          "closed": 0,
-          "_links": "[object Object][object Object]"
-        },
         "lists": {
           "2020-06": 8.333333333333334,
           "2020-05": 8.333333333333334,
@@ -11234,6 +11502,22 @@
           "1998-02": 0.3333333333333333,
           "1998-01": 0.3333333333333333
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=35532",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25882"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25882/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 129,
           "2019-08": 175,
@@ -11485,6 +11769,22 @@
           "2009-03": 3,
           "2009-02": 7
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=43696",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25880"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25880/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 9,
           "2019-08": 54,
@@ -11540,20 +11840,13 @@
       ],
       "activity": {
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/Fonts/WG/track/",
-          "shortdesc": "Tracker",
-          "longdesc": "Web Fonts Working Group Issue/Action Summary",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/28"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/28/groups"
-            }
-          }
+          "type": "trackertracker",
+          "link": "https://www.w3.org/Fonts/WG/track/https://www.w3.org/PM/Groups/issueboard.html?gid=44556",
+          "shortdesc": "TrackerDashboard",
+          "longdesc": "Web Fonts Working Group Issue/Action SummaryIssue Dashboard",
+          "external": 0,
+          "closed": 0,
+          "_links": "[object Object][object Object]"
         },
         "wiki": {
           "2019-07": 0,
@@ -11570,7 +11863,7 @@
           "2020-06": 0
         },
         "lists": {
-          "2020-06": 3,
+          "2020-06": 8,
           "2020-05": 8,
           "2020-04": 16,
           "2020-03": 13,
@@ -11700,7 +11993,7 @@
           "2020-03": 0,
           "2020-04": 2,
           "2020-05": 8,
-          "2020-06": 2
+          "2020-06": 4
         },
         "join": {
           "2019-07": 0,
@@ -11891,7 +12184,7 @@
         },
         "tracker": {
           "type": "tracker",
-          "link": "https://www.w3.org/webperf/board/",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=45211",
           "shortdesc": "Dashboard",
           "longdesc": "Dashboard for specifications issues and pull request",
           "external": false,
@@ -12137,6 +12430,22 @@
           "2010-10": 68,
           "2010-09": 60
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=46300",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25906"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25906/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 6,
           "2019-08": 0,
@@ -12308,6 +12617,22 @@
           "2011-03": 0.6666666666666666,
           "2011-02": 0.6666666666666666,
           "2011-01": 0.6666666666666666
+        },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=46884",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25875"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25875/groups"
+            }
+          }
         },
         "repository": {
           "2019-07": 73,
@@ -12511,6 +12836,22 @@
           "2011-06": 46,
           "2011-05": 23,
           "2011-04": 2
+        },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=47318",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25904"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25904/groups"
+            }
+          }
         },
         "repository": {
           "2019-07": 92,
@@ -12970,7 +13311,7 @@
           "2020-06": 0
         },
         "lists": {
-          "2020-06": 1,
+          "2020-06": 2,
           "2020-05": 2,
           "2020-04": 17,
           "2020-03": 8,
@@ -14329,7 +14670,7 @@
           }
         },
         "lists": {
-          "2020-06": 6,
+          "2020-06": 7,
           "2020-05": 19,
           "2020-04": 18,
           "2020-03": 12,
@@ -14930,7 +15271,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-06": 1,
+          "2020-06": 2,
           "2020-05": 15,
           "2020-04": 14,
           "2020-03": 13,
@@ -15036,6 +15377,22 @@
           "2011-11": 42,
           "2011-10": 16
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=49309",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25898"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25898/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 56,
           "2019-08": 46,
@@ -15048,7 +15405,7 @@
           "2020-03": 57,
           "2020-04": 30,
           "2020-05": 40,
-          "2020-06": 7
+          "2020-06": 9
         },
         "join": {
           "2019-07": 0,
@@ -15450,6 +15807,22 @@
           "2011-11": 0.6666666666666666,
           "2011-10": 0.6666666666666666
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=49799",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25877"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25877/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 10,
           "2019-08": 1,
@@ -15462,7 +15835,7 @@
           "2020-03": 18,
           "2020-04": 4,
           "2020-05": 55,
-          "2020-06": 41
+          "2020-06": 53
         },
         "join": {
           "2019-07": 0,
@@ -18024,6 +18397,22 @@
           "2020-04": 56,
           "2020-05": 51,
           "2020-06": 30
+        },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=52497",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25910"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25910/groups"
+            }
+          }
         },
         "join": {
           "2019-07": 1,
@@ -22348,9 +22737,9 @@
           }
         },
         "lists": {
-          "2020-06": 18.666666666666668,
-          "2020-05": 18.666666666666668,
-          "2020-04": 18.666666666666668,
+          "2020-06": 19,
+          "2020-05": 19,
+          "2020-04": 19,
           "2020-03": 16,
           "2020-02": 16,
           "2020-01": 16,
@@ -23256,7 +23645,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/accessibilityinindia/",
       "created": "2013-02-13T13:11:37.000Z",
-      "participants": 110,
+      "participants": 109,
       "chairs": [
         "Shilpi Kapoor"
       ],
@@ -23755,6 +24144,22 @@
           "2013-04": 17,
           "2013-03": 5
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=61259",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25913"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25913/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 0,
           "2019-08": 2,
@@ -23791,7 +24196,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/emergency/",
       "created": "2013-02-25T14:08:55.000Z",
-      "participants": 52,
+      "participants": 53,
       "chairs": [
         "Bart van Leeuwen"
       ],
@@ -23891,7 +24296,7 @@
           "2020-03": 0,
           "2020-04": 0,
           "2020-05": 0,
-          "2020-06": 0
+          "2020-06": 1
         }
       }
     },
@@ -24104,6 +24509,7 @@
           }
         },
         "lists": {
+          "2020-06": 1,
           "2020-05": 2,
           "2019-11": 1,
           "2019-06": 1,
@@ -24575,7 +24981,7 @@
           "2020-03": 1,
           "2020-04": 14,
           "2020-05": 1,
-          "2020-06": 2
+          "2020-06": 4
         },
         "join": {
           "2019-07": 0,
@@ -25148,7 +25554,7 @@
           "2020-03": 0,
           "2020-04": 0,
           "2020-05": 2,
-          "2020-06": 0
+          "2020-06": 1
         },
         "rss": {
           "2019-07": 0,
@@ -25181,6 +25587,7 @@
           }
         },
         "lists": {
+          "2020-06": 12,
           "2020-05": 44,
           "2020-03": 19,
           "2020-02": 23,
@@ -25262,7 +25669,6 @@
           "2013-08": 19,
           "2013-07": 13,
           "2013-06": 7,
-          "2020-06": null,
           "2020-04": null,
           "2019-08": null
         },
@@ -25778,6 +26184,7 @@
           }
         },
         "lists": {
+          "2020-06": 1,
           "2019-11": 1,
           "2019-04": 1,
           "2019-03": 1,
@@ -27297,7 +27704,7 @@
           "2020-03": 2,
           "2020-04": 3,
           "2020-05": 0,
-          "2020-06": 8
+          "2020-06": 10
         },
         "join": {
           "2019-07": 0,
@@ -28439,6 +28846,7 @@
           }
         },
         "lists": {
+          "2020-06": 1,
           "2019-04": 1,
           "2019-03": 1,
           "2018-05": 1,
@@ -28624,7 +29032,7 @@
           "2020-03": 95,
           "2020-04": 54,
           "2020-05": 33,
-          "2020-06": 13
+          "2020-06": 19
         },
         "join": {
           "2019-07": 1,
@@ -29424,7 +29832,7 @@
           }
         },
         "lists": {
-          "2020-06": 33,
+          "2020-06": 49,
           "2020-05": 196,
           "2020-04": 275,
           "2020-03": 146,
@@ -29508,7 +29916,7 @@
           "2020-03": 142,
           "2020-04": 219,
           "2020-05": 110,
-          "2020-06": 7
+          "2020-06": 9
         },
         "join": {
           "2019-07": 4,
@@ -29730,6 +30138,22 @@
           "closed": 0,
           "_links": "[object Object][object Object]"
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=74168",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25889"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25889/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 2,
           "2019-08": 50,
@@ -29942,7 +30366,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/exploresemdata/",
       "created": "2014-10-22T12:13:07.000Z",
-      "participants": 31,
+      "participants": 32,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -30001,7 +30425,7 @@
           "2020-03": 0,
           "2020-04": 0,
           "2020-05": 0,
-          "2020-06": 0
+          "2020-06": 1
         }
       }
     },
@@ -30518,10 +30942,10 @@
           "2020-03": 0,
           "2020-04": 0,
           "2020-05": 0,
-          "2020-06": 23
+          "2020-06": 24
         },
         "lists": {
-          "2020-06": 5,
+          "2020-06": 7,
           "2020-05": 15,
           "2020-04": 23,
           "2020-03": 9,
@@ -30602,6 +31026,22 @@
           "2020-05": 0,
           "2020-06": 0
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=75874",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25907"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25907/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 38,
           "2019-08": 20,
@@ -30660,7 +31100,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-06": 6,
+          "2020-06": 7,
           "2020-05": 16,
           "2020-04": 21,
           "2020-03": 43,
@@ -30755,6 +31195,22 @@
           "2020-05": 0,
           "2020-06": 0
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=76043",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25876"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25876/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 0,
           "2019-08": 0,
@@ -30767,7 +31223,7 @@
           "2020-03": 6,
           "2020-04": 1,
           "2020-05": 1,
-          "2020-06": 2
+          "2020-06": 4
         },
         "join": {
           "2019-07": 1,
@@ -31359,7 +31815,7 @@
           }
         },
         "lists": {
-          "2020-06": 11,
+          "2020-06": 12,
           "2020-05": 35,
           "2020-04": 34,
           "2020-03": 34,
@@ -32034,7 +32490,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/webassembly/",
       "created": "2015-04-29T17:28:24.000Z",
-      "participants": 1091,
+      "participants": 1094,
       "chairs": [
         "Ben Smith"
       ],
@@ -32164,7 +32620,7 @@
           "2020-03": 186,
           "2020-04": 97,
           "2020-05": 132,
-          "2020-06": 48
+          "2020-06": 56
         },
         "join": {
           "2019-07": 8,
@@ -32178,7 +32634,7 @@
           "2020-03": 6,
           "2020-04": 4,
           "2020-05": 8,
-          "2020-06": 3
+          "2020-06": 6
         }
       }
     },
@@ -33084,7 +33540,23 @@
           "2020-03": 925,
           "2020-04": 608,
           "2020-05": 756,
-          "2020-06": 186
+          "2020-06": 212
+        },
+        "other": {
+          "type": "other",
+          "link": "https://wicg.github.io/tracking.html",
+          "shortdesc": "Status",
+          "longdesc": "Status",
+          "external": true,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25874"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25874/groups"
+            }
+          }
         },
         "join": {
           "2019-07": 2,
@@ -33533,7 +34005,7 @@
           "2020-03": 5,
           "2020-04": 15,
           "2020-05": 19,
-          "2020-06": 0
+          "2020-06": 1
         },
         "join": {
           "2019-07": 2,
@@ -34145,6 +34617,22 @@
           "2008-05": 160,
           "2008-04": 160
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=83482",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25911"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25911/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 8,
           "2019-08": 9,
@@ -34210,36 +34698,6 @@
         "https://www.w3.org/PM/Groups/repositories.html?gid=83726"
       ],
       "activity": {
-        "wiki": {
-          "2019-07": 0,
-          "2019-08": 0,
-          "2019-09": 1,
-          "2019-10": 0,
-          "2019-11": 0,
-          "2019-12": 0,
-          "2020-01": 4,
-          "2020-02": 0,
-          "2020-03": 1,
-          "2020-04": 0,
-          "2020-05": 0,
-          "2020-06": 0
-        },
-        "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/WAI/ARIA/track/",
-          "shortdesc": "Tracker",
-          "longdesc": "Accessible Rich Internet Applications Working Group Issue/Action Summary",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6259"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6259/groups"
-            }
-          }
-        },
         "lists": {
           "2019-07": 40,
           "2019-06": 63,
@@ -34298,6 +34756,22 @@
           "2017-01": null,
           "2016-12": null
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=83726",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25893"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25893/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 119,
           "2019-08": 85,
@@ -34310,7 +34784,7 @@
           "2020-03": 57,
           "2020-04": 96,
           "2020-05": 85,
-          "2020-06": 12
+          "2020-06": 13
         },
         "join": {
           "2019-07": 2,
@@ -34372,6 +34846,7 @@
       ],
       "activity": {
         "lists": {
+          "2020-06": 1,
           "2020-05": 35,
           "2020-04": 34,
           "2020-03": 36,
@@ -34458,6 +34933,22 @@
           "2020-04": 1,
           "2020-05": 3,
           "2020-06": 0
+        },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=83744",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25903"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25903/groups"
+            }
+          }
         },
         "repository": {
           "2019-07": 10,
@@ -34550,23 +35041,16 @@
           "2020-06": 0
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/WAI/APA/track/",
-          "shortdesc": "Tracker",
-          "longdesc": "Accessible Platform Architectures Working Group Issue/Action Summary",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6246"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6246/groups"
-            }
-          }
+          "type": "trackertracker",
+          "link": "https://www.w3.org/WAI/APA/track/https://www.w3.org/PM/Groups/issueboard.html?gid=83907",
+          "shortdesc": "TrackerDashboard",
+          "longdesc": "Accessible Platform Architectures Working Group Issue/Action SummaryIssue Dashboard",
+          "external": 0,
+          "closed": 0,
+          "_links": "[object Object][object Object]"
         },
         "lists": {
-          "2020-06": 4,
+          "2020-06": 5,
           "2020-05": 39,
           "2020-04": 45,
           "2020-03": 40,
@@ -34633,7 +35117,7 @@
           "2020-03": 35,
           "2020-04": 39,
           "2020-05": 6,
-          "2020-06": 7
+          "2020-06": 9
         },
         "join": {
           "2019-07": 0,
@@ -35989,7 +36473,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-06": 97,
+          "2020-06": 115,
           "2020-05": 161,
           "2020-04": 168,
           "2020-03": 113,
@@ -36057,6 +36541,22 @@
           "2020-05": 0,
           "2020-06": 0
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=87227",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25900"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25900/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 28,
           "2019-08": 31,
@@ -36069,7 +36569,7 @@
           "2020-03": 23,
           "2020-04": 19,
           "2020-05": 36,
-          "2020-06": 9
+          "2020-06": 12
         },
         "join": {
           "2019-07": 1,
@@ -36251,7 +36751,7 @@
           }
         },
         "lists": {
-          "2020-06": 1,
+          "2020-06": 3,
           "2020-05": 8,
           "2020-04": 13,
           "2020-03": 6,
@@ -36289,7 +36789,23 @@
           "2020-03": 168,
           "2020-04": 438,
           "2020-05": 301,
-          "2020-06": 71
+          "2020-06": 88
+        },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=87846",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25917"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25917/groups"
+            }
+          }
         },
         "join": {
           "2019-07": 1,
@@ -36788,7 +37304,7 @@
           "2020-03": 124,
           "2020-04": 95,
           "2020-05": 70,
-          "2020-06": 15
+          "2020-06": 22
         },
         "tracker": {
           "type": "tracker",
@@ -38666,7 +39182,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-06": 6,
+          "2020-06": 10,
           "2020-05": 29,
           "2020-04": 43,
           "2020-03": 18,
@@ -38718,6 +39234,22 @@
           "external": 0,
           "closed": 0,
           "_links": "[object Object][object Object]"
+        },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=95969",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25902"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25902/groups"
+            }
+          }
         },
         "repository": {
           "2019-07": 63,
@@ -39149,7 +39681,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/epub3/",
       "created": "2017-02-06T19:54:12.000Z",
-      "participants": 223,
+      "participants": 224,
       "chairs": [
         "Rachel Comerford",
         "Dave Cramer"
@@ -39270,7 +39802,7 @@
           "2020-03": 1,
           "2020-04": 2,
           "2020-05": 3,
-          "2020-06": 2
+          "2020-06": 3
         }
       }
     },
@@ -39451,7 +39983,7 @@
           "2020-03": 158,
           "2020-04": 181,
           "2020-05": 163,
-          "2020-06": 52
+          "2020-06": 59
         },
         "join": {
           "2019-07": 2,
@@ -39682,6 +40214,7 @@
           }
         },
         "lists": {
+          "2020-06": 1,
           "2020-05": 7,
           "2020-04": 15,
           "2020-03": 18,
@@ -39815,7 +40348,7 @@
           }
         },
         "lists": {
-          "2020-06": 3,
+          "2020-06": 10,
           "2020-05": 5,
           "2020-04": 2,
           "2020-03": 11,
@@ -39866,7 +40399,7 @@
           "2020-03": 42,
           "2020-04": 33,
           "2020-05": 46,
-          "2020-06": 5
+          "2020-06": 7
         },
         "twitter": {
           "type": "twitter",
@@ -40032,7 +40565,7 @@
           }
         },
         "lists": {
-          "2020-06": 15,
+          "2020-06": 17,
           "2020-05": 87,
           "2020-04": 53,
           "2020-03": 85,
@@ -40089,7 +40622,7 @@
           "2020-03": 0,
           "2020-04": 0,
           "2020-05": 0,
-          "2020-06": 35
+          "2020-06": 32
         },
         "repository": {
           "2019-07": 0,
@@ -40103,7 +40636,7 @@
           "2020-03": 6,
           "2020-04": 0,
           "2020-05": 0,
-          "2020-06": 1
+          "2020-06": 22
         },
         "join": {
           "2019-07": 1,
@@ -40505,6 +41038,22 @@
           "2017-05": 16,
           "2017-04": 2
         },
+        "tracker": {
+          "type": "tracker",
+          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=98922",
+          "shortdesc": "Dashboard",
+          "longdesc": "Issue Dashboard",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25897"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25897/groups"
+            }
+          }
+        },
         "repository": {
           "2019-07": 116,
           "2019-08": 116,
@@ -40517,7 +41066,7 @@
           "2020-03": 1,
           "2020-04": 8,
           "2020-05": 7,
-          "2020-06": 1
+          "2020-06": 2
         },
         "join": {
           "2019-07": 2,
@@ -40580,20 +41129,13 @@
           "2020-06": 5
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/2017/dxwg/track/",
-          "shortdesc": "Tracker",
-          "longdesc": "Working Group Issue/Action Summary",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/7978"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/7978/groups"
-            }
-          }
+          "type": "trackertracker",
+          "link": "https://www.w3.org/2017/dxwg/track/https://www.w3.org/PM/Groups/issueboard.html?gid=99375",
+          "shortdesc": "TrackerDashboard",
+          "longdesc": "Working Group Issue/Action SummaryIssue Dashboard",
+          "external": 0,
+          "closed": 0,
+          "_links": "[object Object][object Object]"
         },
         "lists": {
           "2020-06": 14,
