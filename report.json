@@ -1,5 +1,5 @@
 {
-  "timestamp": "2020-06-13T01:47:52.023Z",
+  "timestamp": "2020-06-14T01:46:05.821Z",
   "data": [
     {
       "id": 100074,
@@ -2032,8 +2032,7 @@
           "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
         },
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         },
         {
           "name": "Shawn Henry",
@@ -2815,7 +2814,7 @@
           }
         },
         "lists": {
-          "2020-06": 43,
+          "2020-06": 48,
           "2020-05": 117,
           "2020-04": 76,
           "2020-03": 69,
@@ -3397,8 +3396,7 @@
       ],
       "staff": [
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         },
         {
           "name": "Amy van der Hiel",
@@ -3974,7 +3972,7 @@
           "2020-03": 8,
           "2020-04": 11,
           "2020-05": 23,
-          "2020-06": 11
+          "2020-06": 13
         },
         "join": {
           "2019-07": 5,
@@ -4601,8 +4599,7 @@
           "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
         },
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         },
         {
           "name": "Ted Guild",
@@ -5135,7 +5132,7 @@
           }
         },
         "lists": {
-          "2020-06": 8,
+          "2020-06": 9,
           "2020-05": 32,
           "2020-04": 13,
           "2020-03": 9,
@@ -5371,8 +5368,7 @@
       "chairs": [],
       "staff": [
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         },
         {
           "name": "Judy Brewer",
@@ -5805,7 +5801,7 @@
           "2020-03": 137,
           "2020-04": 81,
           "2020-05": 78,
-          "2020-06": 58
+          "2020-06": 59
         },
         "join": {
           "2019-07": 3,
@@ -6111,7 +6107,7 @@
           "2020-03": 81,
           "2020-04": 66,
           "2020-05": 128,
-          "2020-06": 48
+          "2020-06": 50
         },
         "join": {
           "2019-07": 5,
@@ -6981,7 +6977,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/design-tokens/",
       "created": "2019-07-31T20:50:44.000Z",
-      "participants": 96,
+      "participants": 97,
       "chairs": [
         "Jina Anne",
         "Kaelig Deloumeau-Prigent"
@@ -7068,7 +7064,7 @@
           "2020-03": 7,
           "2020-04": 1,
           "2020-05": 2,
-          "2020-06": 1
+          "2020-06": 2
         }
       }
     },
@@ -9466,7 +9462,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/svg-zh/",
       "created": "2020-05-06T13:07:00.000Z",
-      "participants": 2,
+      "participants": 3,
       "chairs": [],
       "staff": [],
       "repositories": [],
@@ -9514,7 +9510,7 @@
           "2020-03": 0,
           "2020-04": 0,
           "2020-05": 2,
-          "2020-06": 0
+          "2020-06": 1
         }
       }
     },
@@ -10167,7 +10163,7 @@
           "2020-03": 128,
           "2020-04": 141,
           "2020-05": 132,
-          "2020-06": 78
+          "2020-06": 80
         },
         "join": {
           "2019-07": 1,
@@ -10473,7 +10469,7 @@
           "2020-03": 59,
           "2020-04": 80,
           "2020-05": 61,
-          "2020-06": 52
+          "2020-06": 53
         },
         "join": {
           "2019-07": 0,
@@ -10538,7 +10534,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-06": 10,
+          "2020-06": 12,
           "2020-05": 45,
           "2020-04": 29,
           "2020-03": 30,
@@ -10759,7 +10755,7 @@
           "2020-03": 81,
           "2020-04": 29,
           "2020-05": 29,
-          "2020-06": 18
+          "2020-06": 20
         },
         "join": {
           "2019-07": 0,
@@ -10803,8 +10799,7 @@
           "photo": "https://www.w3.org/2006/05/u/36xbqkbc9egw-tn.jpg"
         },
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         },
         {
           "name": "Steve Lee",
@@ -11144,7 +11139,7 @@
           "2020-03": 50,
           "2020-04": 37,
           "2020-05": 28,
-          "2020-06": 35
+          "2020-06": 36
         },
         "join": {
           "2019-07": 0,
@@ -12734,7 +12729,7 @@
           "2020-06": 1
         },
         "lists": {
-          "2020-06": 30,
+          "2020-06": 31,
           "2020-05": 44,
           "2020-04": 76,
           "2020-03": 55,
@@ -12890,7 +12885,7 @@
           "2020-03": 78,
           "2020-04": 102,
           "2020-05": 46,
-          "2020-06": 20
+          "2020-06": 21
         },
         "join": {
           "2019-07": 0,
@@ -13676,7 +13671,7 @@
           "2020-06": 0
         },
         "lists": {
-          "2020-06": 7,
+          "2020-06": 8,
           "2020-05": 1,
           "2020-04": 23,
           "2020-03": 2,
@@ -15709,8 +15704,7 @@
       ],
       "staff": [
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         },
         {
           "name": "Michael[tm] Smith",
@@ -16641,8 +16635,7 @@
           "photo": "https://www.w3.org/2006/05/u/1cyiyk0s3wcg-tn.jpg"
         },
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         },
         {
           "name": "Judy Brewer",
@@ -21661,8 +21654,7 @@
           "photo": "https://www.w3.org/2006/05/u/2bc50aca8577-tn.jpg"
         },
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         }
       ],
       "repositories": [],
@@ -24538,7 +24530,7 @@
           }
         },
         "lists": {
-          "2020-06": 1,
+          "2020-06": 2,
           "2020-05": 2,
           "2019-11": 1,
           "2019-06": 1,
@@ -25095,6 +25087,7 @@
           }
         },
         "lists": {
+          "2020-06": 1,
           "2020-05": 1,
           "2020-04": 2,
           "2020-02": 1,
@@ -27888,7 +27881,7 @@
           }
         },
         "lists": {
-          "2020-06": 1,
+          "2020-06": 2,
           "2020-05": 2,
           "2020-04": 5,
           "2020-03": 1,
@@ -29062,7 +29055,7 @@
           "2020-03": 95,
           "2020-04": 54,
           "2020-05": 33,
-          "2020-06": 26
+          "2020-06": 27
         },
         "join": {
           "2019-07": 1,
@@ -29861,7 +29854,7 @@
           }
         },
         "lists": {
-          "2020-06": 118,
+          "2020-06": 120,
           "2020-05": 196,
           "2020-04": 275,
           "2020-03": 146,
@@ -30471,8 +30464,7 @@
       ],
       "staff": [
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         }
       ],
       "repositories": [],
@@ -31789,7 +31781,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/schemaorg/",
       "created": "2015-03-31T18:36:46.000Z",
-      "participants": 393,
+      "participants": 392,
       "chairs": [
         "Dan Brickley"
       ],
@@ -31845,7 +31837,7 @@
           }
         },
         "lists": {
-          "2020-06": 39,
+          "2020-06": 40,
           "2020-05": 35,
           "2020-04": 34,
           "2020-03": 34,
@@ -32520,7 +32512,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/webassembly/",
       "created": "2015-04-29T17:28:24.000Z",
-      "participants": 1095,
+      "participants": 1096,
       "chairs": [
         "Ben Smith"
       ],
@@ -32651,7 +32643,7 @@
           "2020-03": 186,
           "2020-04": 97,
           "2020-05": 132,
-          "2020-06": 100
+          "2020-06": 102
         },
         "join": {
           "2019-07": 8,
@@ -32665,7 +32657,7 @@
           "2020-03": 6,
           "2020-04": 4,
           "2020-05": 8,
-          "2020-06": 7
+          "2020-06": 8
         }
       }
     },
@@ -33311,8 +33303,7 @@
           "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
         },
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         },
         {
           "name": "Wendy Seltzer",
@@ -33571,7 +33562,7 @@
           "2020-03": 925,
           "2020-04": 608,
           "2020-05": 756,
-          "2020-06": 341
+          "2020-06": 343
         },
         "other": {
           "type": "other",
@@ -33897,7 +33888,7 @@
       "type": "cg",
       "link": "https://www.w3.org/community/music-notation/",
       "created": "2015-07-27T16:27:46.000Z",
-      "participants": 276,
+      "participants": 277,
       "chairs": [
         "Michael Good",
         "Adrian Holovaty",
@@ -33909,8 +33900,7 @@
           "photo": "https://www.w3.org/2006/05/u/43qcq5guzm2o-tn.jpg"
         },
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         },
         {
           "name": "Carine Bournez"
@@ -34037,7 +34027,7 @@
           "2020-03": 5,
           "2020-04": 15,
           "2020-05": 19,
-          "2020-06": 3
+          "2020-06": 4
         },
         "join": {
           "2019-07": 2,
@@ -34051,7 +34041,7 @@
           "2020-03": 1,
           "2020-04": 1,
           "2020-05": 2,
-          "2020-06": 0
+          "2020-06": 1
         }
       }
     },
@@ -34709,8 +34699,7 @@
       ],
       "staff": [
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         },
         {
           "name": "Ruoxi Ran",
@@ -34817,7 +34806,7 @@
           "2020-03": 57,
           "2020-04": 96,
           "2020-05": 85,
-          "2020-06": 20
+          "2020-06": 22
         },
         "join": {
           "2019-07": 2,
@@ -35025,8 +35014,7 @@
       ],
       "staff": [
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         },
         {
           "name": "Ruoxi Ran",
@@ -40016,7 +40004,7 @@
           "2020-03": 316,
           "2020-04": 362,
           "2020-05": 326,
-          "2020-06": 188
+          "2020-06": 194
         },
         "join": {
           "2019-07": 2,
@@ -40546,8 +40534,7 @@
       ],
       "staff": [
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         },
         {
           "name": "Judy Brewer",
@@ -41266,8 +41253,7 @@
       "chairs": [],
       "staff": [
         {
-          "name": "Michael Cooper",
-          "photo": "https://www.w3.org/2006/05/u/5369b33e0f8d-tn.jpg"
+          "name": "Michael Cooper"
         }
       ],
       "repositories": [],
