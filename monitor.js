@@ -164,7 +164,7 @@ function fetchGithubRepo(owner, repo) {
         }
         return pulls;
       })
-  ]).then(data => [].concat(...data));
+  ]).then(data => data.flat());
 }
 
 
@@ -181,7 +181,7 @@ function fetchGithub(url) {
         return recursiveGhFetch(`https://api.github.com/${ownerType}/${owner}/repos?per_page=100`);
       })
       .then(repos => Promise.all(repos.map(r => fetchGithubRepo(r.owner.login, r.name))))
-      .then(items => { return {items: [].concat(...items)} ;});
+      .then(items => { return {items: items.flat()} ;});
   } else {
     return fetchGithubRepo(owner, repo).then(items => { return {items} ;}) ;
   }
