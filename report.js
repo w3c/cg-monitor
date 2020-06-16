@@ -117,20 +117,20 @@ Promise.all([
           section.appendChild(activitywrapper);
         });
       const related = document.createElement("td");
-      if (annotations[cgshortname] && (annotations[cgshortname].wg || annotations[cgshortname].postWG)) {
-        const groups = annotations[cgshortname].wg ? arrayfi(annotations[cgshortname].wg) : arrayfi(annotations[cgshortname].postWG);
+      if (annotations[cgshortname] && (annotations[cgshortname].wg || annotations[cgshortname].postWG || annotations[cgshortname].relatedwg)) {
+        const groups = annotations[cgshortname].wg ? arrayfi(annotations[cgshortname].wg) : (annotations[cgshortname].relatedwg ? annotations[cgshortname].relatedwg : arrayfi(annotations[cgshortname].postWG));
         const closed = !!annotations[cgshortname].postWG;
         groups.forEach(g => {
           const link = groupLink(g);
           link.classList.add("tag");
-          link.classList.add("related");
+          link.classList.add(annotations[cgshortname].wg ? "sibling" : "related");
           if (g === "schemaorg") {
             link.textContent = "S.o";
             link.title = "Building for schema.org";
           } else {
             const img = document.createElement("img");
             img.src = "group.svg";
-            img.alt = "Related " + (closed ? "closed" : "" ) + " WG/IG/CG";
+            img.alt = (annotations[cgshortname].wg ? "Sibling" : "Related ") + (closed ? "closed" : "" ) + " WG/IG/CG";
             img.height = 10;
             if (closed) link.classList.add("closed");
             link.appendChild(img);
