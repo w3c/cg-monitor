@@ -118,8 +118,9 @@ Promise.all([
         });
       const related = document.createElement("td");
       if (annotations[cgshortname] && (annotations[cgshortname].wg || annotations[cgshortname].postWG || annotations[cgshortname].relatedwg)) {
-        const groups = annotations[cgshortname].wg ? arrayfi(annotations[cgshortname].wg) : (annotations[cgshortname].relatedwg ? annotations[cgshortname].relatedwg : arrayfi(annotations[cgshortname].postWG));
+        const groups = annotations[cgshortname].wg ? arrayfi(annotations[cgshortname].wg) : (annotations[cgshortname].relatedwg ? arrayfi(annotations[cgshortname].relatedwg) : arrayfi(annotations[cgshortname].postWG || []));
         const closed = !!annotations[cgshortname].postWG;
+        console.log(groups);
         groups.forEach(g => {
           const link = groupLink(g);
           link.classList.add("tag");
