@@ -42,7 +42,7 @@ const loadDir = async dirPath => {
               cgData.shortname = data[0].shortname;
               cgData.link = data[0]._links.homepage.href;
               // Approximating creation date to date of first person joining
-              cgData.created = new Date((data[4][0] || {}).created + "Z");
+              cgData.created = new Date((data[0]["start-date"] || data[4][0] || {}).created + "Z");
               cgData.participants = data[4].length;
               cgData.chairs = data[2].filter(x => x).map(c => c.title);
               cgData.staff = data[4].filter(u => u._links.user && staffids.includes(u._links.user.href)).map(u => { const team = staff.find(s => s._links.self.href === u._links.user.href); return { name: team.name, photo: (team._links.photos ? team._links.photos.find(p => p.name === "tiny").href : undefined) } ;});
