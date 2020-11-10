@@ -44,6 +44,11 @@ data.slice(1).forEach(d => {
     if (dateCursor > now) break;
     monthCursor = dateCursor.getMonth();
   }
-  svg += `</g></svg>`;
+  svg += `</g>`;
+  for (let i = 0 ; i<12; i++) {
+    svg += `<text style="font-size: 10px; text-align: center" x="${53 + i*20}" y="${(row + 1)*20 + 10}">${monthNames[i][0]}</text>`;
+  }
+  svg += `<text style="font-size: 10px;" x="150" y="${(row + 1)*20 + 30}">Less</text><rect class="none" width="10" height="10" x="180" y="${(row + 1)*20 + 20}"></rect><rect class="low" width="10" height="10" x="195" y="${(row + 1)*20 + 20}"></rect><rect class="medium" width="10" height="10" x="210" y="${(row + 1)*20 + 20}"></rect><rect class="high" width="10" height="10" x="225" y="${(row + 1)*20 + 20}"></rect><text x="240" y="${(row + 1)*20 + 30}" style="font-size: 10px;">More</text>`;
+  svg += `</svg>`;
   fs.writeFileSync('viz/' + d.type + '/' + shortname + '.svg', svg, 'utf-8');
 });
