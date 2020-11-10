@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <title>Activity of GPU%20for%20the%20Web%20Working%20Group</title>
+  <style type="text/css">.none { fill: #aaa;}
+  .low { fill: #8ac;}
+  .medium { fill: #49a;}
+  .high { fill: #159;}
+  </style>
+
+<g transform="translate(0 0)">
+  <title>Activity in 2020</title>
+  <text x="2" y="20">2020</text><rect x="190" y="6" width="15" height="15" class="high"><title>11 emails, 154 repo event, 0 wiki edits in Aug 2020</title></rect><rect x="210" y="6" width="15" height="15" class="high"><title>2 emails, 185 repo event, 0 wiki edits in Sep 2020</title></rect><rect x="230" y="6" width="15" height="15" class="high"><title>6 emails, 160 repo event, 0 wiki edits in Oct 2020</title></rect></g></svg>

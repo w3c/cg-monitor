@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <title>Activity of WebTransport%20Working%20Group</title>
+  <style type="text/css">.none { fill: #aaa;}
+  .low { fill: #8ac;}
+  .medium { fill: #49a;}
+  .high { fill: #159;}
+  </style>
+
+<g transform="translate(0 0)">
+  <title>Activity in 2020</title>
+  <text x="2" y="20">2020</text><rect x="210" y="6" width="15" height="15" class="low"><title>2 emails, 7 repo event, 0 wiki edits in Sep 2020</title></rect><rect x="230" y="6" width="15" height="15" class="medium"><title>14 emails, 42 repo event, 0 wiki edits in Oct 2020</title></rect><rect x="250" y="6" width="15" height="15" class="low"><title>1 emails, 4 repo event, 0 wiki edits in Nov 2020</title></rect></g></svg>
