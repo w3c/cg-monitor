@@ -2,6 +2,7 @@ const fs = require("fs");
 const report = require("./report.json");
 
 const data = report.data;
+const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
 data.slice(1).forEach(d => {
   const shortname = d.shortname;
@@ -29,16 +30,16 @@ data.slice(1).forEach(d => {
       svg += `
 <g transform="translate(0 ${row*20})">
   <title>Activity in ${yearCursor}</title>
-  <text y="20">${yearCursor}</text>`;
+  <text x="2" y="20">${yearCursor}</text>`;
     }
     const monthActivity = ["lists", "repository", "wiki"].map(a => d.activity[a] ? d.activity[a][yearCursor + "-" + ((monthCursor + 1) + "").padStart(2, "0")] || 0 : 0);
     const sum = monthActivity.reduce((acc, b) => acc + b, 0);
     let activityLevel;
     if (sum === 0) activityLevel = "none"
     else if (sum < 20) activityLevel = "low"
-    else if (sum < 50) activityLevel = "medium"
+    else if (sum < 80) activityLevel = "medium"
     else activityLevel = "high";
-    svg += `<rect x="${80 + monthCursor*20}" y="8" width="15" height="15" class="${activityLevel}"><title>${monthActivity[0]} emails, ${monthActivity[1]} repo event, ${monthActivity[2]} wiki edits</title></rect>`;
+    svg += `<rect x="${50 + monthCursor*20}" y="6" width="15" height="15" class="${activityLevel}"><title>${monthActivity[0]} emails, ${monthActivity[1]} repo event, ${monthActivity[2]} wiki edits in ${monthNames[monthCursor]} ${yearCursor}</title></rect>`;
     dateCursor.setMonth(monthCursor + 1);
     if (dateCursor > now) break;
     monthCursor = dateCursor.getMonth();
