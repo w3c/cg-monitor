@@ -39,6 +39,7 @@ const loadDir = async dirPath => {
               cgData.id = data[0].id;
               cgData.name = data[0].name;
               cgData.type = shortType[data[0].type];
+              cgData.shortname = data[0].shortname;
               cgData.link = data[0]._links.homepage.href;
               // Approximating creation date to date of first person joining
               cgData.created = new Date((data[4][0] || {}).created + "Z");
