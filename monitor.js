@@ -16,8 +16,6 @@ const fetchResolve = {};
 const fetchReject = {};
 const cache = {};
 
-const ayearago = new Date();
-ayearago.setFullYear(ayearago.getFullYear() - 1);
 
 const queue = new RequestQueue(null, {
   'item': ({url}, done) => {
@@ -94,10 +92,7 @@ function recursiveFetchDiscourse(url, before = null, acc = []) {
     .then(({latest_posts}) => {
       if (!latest_posts) return acc;
       acc = acc.concat(latest_posts);
-      if (latest_posts[latest_posts.length - 1].updated_at > ayearago.toJSON()) {
-        return recursiveFetchDiscourse(url, before = latest_posts[latest_posts.length - 1].id, acc);
-      }
-      return acc;
+      return recursiveFetchDiscourse(url, before = latest_posts[latest_posts.length - 1].id, acc);
     });
 }
 
@@ -112,7 +107,7 @@ function fetchForum(url) {
 
 function fetchWiki(url) {
   if (!url.startsWith('http')) url = 'https://www.w3.org' + url;
-  return fetchRSS(url + '/api.php?action=feedrecentchanges&days=365&limit=1000');
+  return fetchRSS(url + '/api.php?action=feedrecentchanges&days=1000&limit=1000');
 }
 
 // TODO: tracker? bugzilla?
@@ -160,7 +155,7 @@ function fetchGithubRepo(owner, repo) {
       .then(pulls => {
         if (pulls.length === 0) {
           // if no pull request, we take a look at commits instead
-          return recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/commits?since=' + ayearago.toJSON() + '&per_page=100');
+          return recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/commits?per_page=100');
         }
         return pulls;
       })

@@ -5,18 +5,15 @@ const target = "./report.json";
 
 const aggregatedData = [];
 
-const lastTwelveMonths = (() => {
+const listMonthsSince = d => {
   const now = new Date();
-  const ayearago = new Date();
   const months = [];
-  ayearago.setDate(1);
-  ayearago.setMonth(ayearago.getMonth() - 11);
-  while (ayearago < now) {
-    months.push(ayearago.toJSON().slice(0,7));
-    ayearago.setMonth(ayearago.getMonth() + 1);
+  while (d < now) {
+    months.push(d.toJSON().slice(0,7));
+    d.setMonth(d.getMonth() + 1);
   }
   return months;
-})();
+}
 
 const shortType = {
   'business group': 'bg',
@@ -51,6 +48,8 @@ const loadDir = async dirPath => {
               cgData.repositories = [];
               cgData.activity = {};
 
+              const monthsSinceCreation = listMonthsSince(cgData.created);
+
               // Merge data coming from validate-repos assoication of groups/repos into the other list of data fetched from services db
               if (data[1] && data[1].length) {
                 if (!data[3]) {
@@ -81,7 +80,7 @@ const loadDir = async dirPath => {
                 data[3].forEach(({service, data}) => {
                   let perMonthData;
                   if (data && data.items) {
-                    perMonthData = lastTwelveMonths
+                    perMonthData = monthsSinceCreation
                       .reduce((acc, m) => {
                         acc[m] = data.items.filter(i => (i.isoDate && i.isoDate.startsWith(m)) || (i.created_at && i.created_at.startsWith(m)) || (i.commit && i.commit.committer && i.commit.committer.date && i.commit.committer.date.startsWith(m)) ).length;
                         return acc;
@@ -103,7 +102,7 @@ const loadDir = async dirPath => {
                 });
               }
 
-              cgData.activity['join'] = lastTwelveMonths
+              cgData.activity['join'] = monthsSinceCreation
                 .reduce((acc, m) => {
                   acc[m] = data[4].filter(j => j.created.startsWith(m)).length;
                   return acc;
