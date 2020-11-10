@@ -15,7 +15,7 @@ data.slice(1).forEach(d => {
   const yearStart = yearCursor + 1;
   let row = 0;
   let svg = `<svg xmlns="http://www.w3.org/2000/svg">
-  <title>Activity of ${d.name}</title>
+  <title>Activity of ${escape(d.name)}</title>
   <style type="text/css">.none { fill: #aaa;}
   .low { fill: #8ac;}
   .medium { fill: #49a;}
