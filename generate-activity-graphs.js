@@ -1,10 +1,10 @@
 const fs = require("fs");
 const report = require("./report.json");
 
-const cgData = report.data.filter(g => g.type === "cg" || g.type === "bg");
+const data = report.data;
 
-cgData.slice(1).forEach(d => {
-  const shortname = d.link.split('/')[4];
+data.slice(1).forEach(d => {
+  const shortname = d.shortname;
   const dateCursor = new Date(d.created);
   const now = new Date();
   let yearCursor = dateCursor.getFullYear() - 1;
@@ -14,6 +14,7 @@ cgData.slice(1).forEach(d => {
   const yearStart = yearCursor + 1;
   let row = 0;
   let svg = `<svg xmlns="http://www.w3.org/2000/svg">
+  <title>Activity of ${d.name}</title>
   <style type="text/css">.none { fill: #aaa;}
   .low { fill: #8ac;}
   .medium { fill: #49a;}
