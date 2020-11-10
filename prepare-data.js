@@ -7,10 +7,11 @@ const aggregatedData = [];
 
 const listMonthsSince = d => {
   const now = new Date();
+  let monthCur = new Date(d.valueOf());
   const months = [];
-  while (d < now) {
-    months.push(d.toJSON().slice(0,7));
-    d.setMonth(d.getMonth() + 1);
+  while (monthCur < now) {
+    months.push(monthCur.toJSON().slice(0,7));
+    monthCur.setMonth(monthCur.getMonth() + 1);
   }
   return months;
 }
@@ -108,7 +109,7 @@ const loadDir = async dirPath => {
                   return acc;
                 }, {});
               return cgData;
-            }).catch(e => console.error("Error while dealing with " + path + ":" + e.toString()))
+            }).catch(e => console.error("Error while dealing with " + path + ":" + JSON.stringify(e.stack)))
         ))
          );
 };
