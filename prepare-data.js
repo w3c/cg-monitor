@@ -10,6 +10,7 @@ const listMonthsSince = d => {
   let monthCur = new Date(d.valueOf());
   const months = [];
   while (monthCur < now) {
+    monthCur.setUTCDate(1);
     months.push(monthCur.toJSON().slice(0,7));
     monthCur.setMonth(monthCur.getMonth() + 1);
   }
@@ -116,5 +117,5 @@ const loadDir = async dirPath => {
 };
 
 loadDir("./data").then(data => {
-  fs.writeFileSync('./report.json', JSON.stringify({timestamp: new Date(), data}, null, 2));
+  fs.writeFileSync('./report.json', JSON.stringify({timestamp: new Date(), data: data.filter(x => x)}, null, 2));
 });

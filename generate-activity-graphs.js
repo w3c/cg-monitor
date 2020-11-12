@@ -33,6 +33,7 @@ data.slice(1).forEach(d => {
     let color = palette[8-Math.ceil(Math.min(200, sum)/25)];
     svg += `<rect x="${50 + monthCursor*20}" y="6" width="15" height="15" fill="${color}"><title>${monthActivity[0]} emails, ${monthActivity[1]} repo event, ${monthActivity[2]} wiki edits in ${monthNames[monthCursor]} ${yearCursor}</title></rect>`;
     dateCursor.setMonth(monthCursor + 1);
+    dateCursor.setDate(1);
     if (dateCursor > now) break;
     monthCursor = dateCursor.getMonth();
   }

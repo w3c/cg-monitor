@@ -94,6 +94,7 @@ function recursiveFetchDiscourse(url, before = null, acc = []) {
       acc = acc.concat(latest_posts);
       return recursiveFetchDiscourse(url, before = latest_posts[latest_posts.length - 1].id, acc);
     }).catch(e => {
+      console.error("Error while fetching " + fetchedUrl);
       console.error(e);
       return acc;
     });
