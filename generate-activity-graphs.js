@@ -30,7 +30,7 @@ data.slice(1).forEach(d => {
     }
     const monthActivity = ["lists", "repository", "wiki"].map(a => d.activity[a] ? d.activity[a][yearCursor + "-" + ((monthCursor + 1) + "").padStart(2, "0")] || 0 : 0);
     const sum = monthActivity.reduce((acc, b) => acc + b, 0);
-    let color = palette[8-Math.floor(Math.min(200, sum)/25)];
+    let color = palette[8-Math.ceil(Math.min(200, sum)/25)];
     svg += `<rect x="${50 + monthCursor*20}" y="6" width="15" height="15" fill="${color}"><title>${monthActivity[0]} emails, ${monthActivity[1]} repo event, ${monthActivity[2]} wiki edits in ${monthNames[monthCursor]} ${yearCursor}</title></rect>`;
     dateCursor.setMonth(monthCursor + 1);
     if (dateCursor > now) break;
