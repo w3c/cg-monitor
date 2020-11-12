@@ -93,6 +93,9 @@ function recursiveFetchDiscourse(url, before = null, acc = []) {
       if (!latest_posts) return acc;
       acc = acc.concat(latest_posts);
       return recursiveFetchDiscourse(url, before = latest_posts[latest_posts.length - 1].id, acc);
+    }).catch(e => {
+      console.error(e);
+      return acc;
     });
 }
 
