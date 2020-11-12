@@ -1,5 +1,5 @@
 {
-  "timestamp": "2020-11-12T08:33:13.586Z",
+  "timestamp": "2020-11-12T15:07:46.469Z",
   "data": [
     {
       "id": 100074,
@@ -8,7 +8,7 @@
       "shortname": "publishing",
       "link": "https://www.w3.org/publishing/groups/publ-wg/",
       "created": "2017-06-09T00:00:00.000Z",
-      "participants": 6,
+      "participants": 7,
       "chairs": [
         "Garth Conboy",
         "Wendy Reid",
@@ -237,7 +237,7 @@
           "2020-08": 0,
           "2020-09": 0,
           "2020-10": 0,
-          "2020-11": 6
+          "2020-11": 7
         }
       }
     },
@@ -1757,7 +1757,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-11": 15,
+          "2020-11": 20,
           "2020-10": 77,
           "2020-09": 52,
           "2020-08": 11,
@@ -4234,7 +4234,7 @@
           }
         },
         "lists": {
-          "2020-11": 8,
+          "2020-11": 9,
           "2020-10": 6,
           "2020-09": 13,
           "2020-08": 5,
@@ -6165,11 +6165,11 @@
           "2020-04": 0,
           "2020-05": 0,
           "2020-06": 0,
-          "2020-07": 4,
+          "2020-07": 2,
           "2020-08": 2,
           "2020-09": 11,
           "2020-10": 0,
-          "2020-11": 10
+          "2020-11": 12
         },
         "repository": {
           "2018-10": 1,
@@ -8043,7 +8043,7 @@
           }
         },
         "lists": {
-          "2020-11": 18,
+          "2020-11": 19,
           "2020-10": 30,
           "2020-09": 54,
           "2020-08": 37,
@@ -8911,7 +8911,7 @@
           "2020-08": 80,
           "2020-09": 68,
           "2020-10": 57,
-          "2020-11": 12
+          "2020-11": 14
         },
         "join": {
           "2019-04": 20,
@@ -9514,7 +9514,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-11": 2,
+          "2020-11": 3,
           "2020-10": 4,
           "2020-09": 6,
           "2020-08": 2,
@@ -12117,7 +12117,8 @@
           "2020-07": 0,
           "2020-08": 0,
           "2020-09": 0,
-          "2020-10": 0
+          "2020-10": 0,
+          "2020-11": 0
         },
         "chat": {
           "type": "chat",
@@ -12148,7 +12149,8 @@
           "2020-07": 0,
           "2020-08": 0,
           "2020-09": 0,
-          "2020-10": 0
+          "2020-10": 0,
+          "2020-11": 0
         }
       }
     },
@@ -13347,7 +13349,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-11": 13,
+          "2020-11": 14,
           "2020-10": 14,
           "2020-09": 2
         },
@@ -17844,7 +17846,7 @@
       "shortname": "ag",
       "link": "https://www.w3.org/WAI/GL/",
       "created": "1997-10-06T00:00:00.000Z",
-      "participants": 78,
+      "participants": 79,
       "chairs": [
         "Charles Adams",
         "Alastair Campbell",
@@ -18182,14 +18184,14 @@
           "2020-06": 0,
           "2020-07": 0,
           "2020-08": 0,
-          "2020-09": 5,
+          "2020-09": 4,
           "2020-10": 12,
-          "2020-11": 11
+          "2020-11": 12
         },
         "lists": {
-          "2020-12": 35.666666666666664,
-          "2020-11": 35.666666666666664,
-          "2020-10": 35.666666666666664,
+          "2020-12": 36,
+          "2020-11": 36,
+          "2020-10": 36,
           "2020-09": 79.33333333333333,
           "2020-08": 79.33333333333333,
           "2020-07": 79.33333333333333,
@@ -18748,7 +18750,7 @@
           "2020-08": 204,
           "2020-09": 146,
           "2020-10": 81,
-          "2020-11": 32
+          "2020-11": 33
         },
         "join": {
           "1997-10": 0,
@@ -19028,7 +19030,7 @@
           "2020-08": 3,
           "2020-09": 1,
           "2020-10": 1,
-          "2020-11": 0
+          "2020-11": 1
         }
       }
     },
@@ -22308,7 +22310,7 @@
       "shortname": "audio",
       "link": "https://www.w3.org/2011/audio/",
       "created": "2011-03-25T00:00:00.000Z",
-      "participants": 9,
+      "participants": 10,
       "chairs": [
         "Matthew Paradis",
         "Raymond Toy"
@@ -22873,7 +22875,7 @@
           "2020-11": 3
         },
         "lists": {
-          "2020-11": 30,
+          "2020-11": 31,
           "2020-10": 87,
           "2020-09": 75,
           "2020-08": 99,
@@ -23137,7 +23139,7 @@
           "2020-08": 117,
           "2020-09": 84,
           "2020-10": 71,
-          "2020-11": 37
+          "2020-11": 39
         },
         "join": {
           "2011-05": 0,
@@ -30107,7 +30109,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-11": 3,
+          "2020-11": 4,
           "2020-10": 1,
           "2020-09": 6,
           "2020-08": 1,
@@ -31343,7 +31345,7 @@
           "2020-08": 37,
           "2020-09": 31,
           "2020-10": 23,
-          "2020-11": 11
+          "2020-11": 13
         },
         "join": {
           "2011-09": 0,
@@ -32242,7 +32244,7 @@
           "2020-08": 0,
           "2020-09": 0,
           "2020-10": 0,
-          "2020-11": 0
+          "2020-11": 1
         },
         "chat": {
           "type": "chat",
@@ -32261,7 +32263,7 @@
           }
         },
         "lists": {
-          "2020-11": 1,
+          "2020-11": 2,
           "2020-10": 5,
           "2020-09": 3,
           "2020-08": 2,
@@ -53892,7 +53894,8 @@
           "2020-07": 0,
           "2020-08": 0,
           "2020-09": 0,
-          "2020-10": 0
+          "2020-10": 0,
+          "2020-11": 0
         },
         "rss": {
           "2012-10": 2,
@@ -53991,7 +53994,8 @@
           "2020-07": 0,
           "2020-08": 0,
           "2020-09": 0,
-          "2020-10": 0
+          "2020-10": 0,
+          "2020-11": 0
         },
         "chat": {
           "type": "chat",
@@ -54119,7 +54123,8 @@
           "2020-07": 0,
           "2020-08": 0,
           "2020-09": 0,
-          "2020-10": 0
+          "2020-10": 0,
+          "2020-11": 0
         },
         "join": {
           "2012-10": 10,
@@ -54218,7 +54223,8 @@
           "2020-07": 0,
           "2020-08": 0,
           "2020-09": 0,
-          "2020-10": 0
+          "2020-10": 0,
+          "2020-11": 0
         }
       }
     },
@@ -62901,7 +62907,7 @@
           "2020-08": 419,
           "2020-09": 787,
           "2020-10": 538,
-          "2020-11": 127
+          "2020-11": 129
         },
         "join": {
           "2013-04": 36,
@@ -68972,7 +68978,7 @@
           "2020-08": 32,
           "2020-09": 11,
           "2020-10": 29,
-          "2020-11": 10
+          "2020-11": 11
         },
         "join": {
           "2013-10": 16,
@@ -77359,7 +77365,7 @@
           }
         },
         "lists": {
-          "2020-11": 71,
+          "2020-11": 73,
           "2020-10": 129,
           "2020-09": 102,
           "2020-08": 124,
@@ -77512,7 +77518,7 @@
           "2020-08": 103,
           "2020-09": 76,
           "2020-10": 135,
-          "2020-11": 50
+          "2020-11": 52
         },
         "join": {
           "2014-08": 14,
@@ -84027,7 +84033,7 @@
           "2020-08": 135,
           "2020-09": 108,
           "2020-10": 101,
-          "2020-11": 27
+          "2020-11": 28
         },
         "join": {
           "2015-04": 5,
@@ -84191,7 +84197,8 @@
           "2020-07": 0,
           "2020-08": 0,
           "2020-09": 0,
-          "2020-10": 0
+          "2020-10": 0,
+          "2020-11": 0
         },
         "chat": {
           "type": "chat",
@@ -84303,7 +84310,8 @@
           "2020-07": 0,
           "2020-08": 0,
           "2020-09": 0,
-          "2020-10": 0
+          "2020-10": 0,
+          "2020-11": 0
         },
         "twitter": {
           "type": "twitter",
@@ -84403,7 +84411,8 @@
           "2020-07": 0,
           "2020-08": 0,
           "2020-09": 0,
-          "2020-10": 0
+          "2020-10": 0,
+          "2020-11": 0
         }
       }
     },
@@ -85629,6 +85638,544 @@
           "2020-08": 0,
           "2020-09": 0,
           "2020-10": 0
+        }
+      }
+    },
+    {
+      "id": 80485,
+      "name": "Web Platform Incubator Community Group",
+      "type": "cg",
+      "shortname": "wicg",
+      "link": "https://www.w3.org/community/wicg/",
+      "created": "2015-07-02T16:02:06.000Z",
+      "participants": 275,
+      "chairs": [
+        "Travis Leithead",
+        "Léonie Watson",
+        "Yoav Weiss",
+        "Chris Wilson"
+      ],
+      "staff": [
+        {
+          "name": "Michael[tm] Smith",
+          "photo": "https://www.w3.org/2006/05/u/39d9da92abdc-tn.jpg"
+        },
+        {
+          "name": "Jeff Jaffe",
+          "photo": "https://www.w3.org/2006/05/u/76b20a35dff2-tn.jpg"
+        },
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Philippe Le Hégaret",
+          "photo": "https://www.w3.org/2006/05/u/9f7cb4082dce-tn.jpg"
+        },
+        {
+          "name": "Ivan Herman",
+          "photo": "https://www.w3.org/2006/05/u/1n5n0je94og0-tn.jpg"
+        },
+        {
+          "name": "Michael Cooper"
+        },
+        {
+          "name": "Wendy Seltzer",
+          "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
+        },
+        {
+          "name": "Denis Ah-Kang",
+          "photo": "https://www.w3.org/2006/05/u/1lyp7xowi4tc-tn.jpg"
+        },
+        {
+          "name": "Chris Lilley",
+          "photo": "https://www.w3.org/2006/05/u/5341b617d606-tn.jpg"
+        },
+        {
+          "name": "Sandro Hawke",
+          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
+        },
+        {
+          "name": "Fuqiao Xue",
+          "photo": "https://www.w3.org/2006/05/u/wtptqql96tc4-tn.jpg"
+        },
+        {
+          "name": "François Daoust",
+          "photo": "https://www.w3.org/2006/05/u/72e3686d501f-tn.jpg"
+        },
+        {
+          "name": "Joshue O Connor",
+          "photo": "https://www.w3.org/2006/05/u/1o4c89xiblpc-tn.jpg"
+        },
+        {
+          "name": "Naomi Yoshizawa",
+          "photo": "https://www.w3.org/2006/05/u/24s3ivtvcngk-tn.jpg"
+        },
+        {
+          "name": "Hidde de Vries",
+          "photo": "https://www.w3.org/2006/05/u/36xbqkbc9egw-tn.jpg"
+        },
+        {
+          "name": "Samuel Weiler",
+          "photo": "https://www.w3.org/2006/05/u/55wvo78r92o8-tn.jpg"
+        }
+      ],
+      "repositories": [
+        "https://github.com/WICG/serial",
+        "https://github.com/WICG/webcomponents",
+        "https://github.com/WICG/netinfo",
+        "https://github.com/WICG/background-sync",
+        "https://github.com/WICG/cq-usecases",
+        "https://github.com/WICG/frame-timing",
+        "https://github.com/WICG/indexed-db-observers",
+        "https://github.com/WICG/directory-upload",
+        "https://github.com/WICG/container-queries",
+        "https://github.com/WICG/historical-a11yapi",
+        "https://github.com/WICG/webusb",
+        "https://github.com/WICG/input-device-capabilities",
+        "https://github.com/WICG/modality",
+        "https://github.com/WICG/admin",
+        "https://github.com/WICG/EventListenerOptions",
+        "https://github.com/WICG/wicg.io",
+        "https://github.com/WICG/historical-paymentrequest",
+        "https://github.com/WICG/img-conversion",
+        "https://github.com/WICG/historical-web-payments-browser-api",
+        "https://github.com/WICG/hsts-priming",
+        "https://github.com/WICG/interventions",
+        "https://github.com/WICG/cors-rfc1918",
+        "https://github.com/WICG/memory-pressure",
+        "https://github.com/WICG/sanitizer-api",
+        "https://github.com/WICG/resize-observer",
+        "https://github.com/WICG/aom",
+        "https://github.com/WICG/ContentPerformancePolicy",
+        "https://github.com/WICG/cookie-store",
+        "https://github.com/WICG/visual-viewport",
+        "https://github.com/WICG/background-fetch",
+        "https://github.com/WICG/file-system-access",
+        "https://github.com/WICG/async-append",
+        "https://github.com/WICG/canvas-color-space",
+        "https://github.com/WICG/css-parser-api",
+        "https://github.com/WICG/entries-api",
+        "https://github.com/WICG/get-installed-related-apps",
+        "https://github.com/WICG/inert",
+        "https://github.com/WICG/auxclick",
+        "https://github.com/WICG/user-gesture-nav",
+        "https://github.com/WICG/budget-api",
+        "https://github.com/WICG/transfer-size",
+        "https://github.com/WICG/origin-policy",
+        "https://github.com/WICG/isolation",
+        "https://github.com/WICG/shape-detection-api",
+        "https://github.com/WICG/starter-kit",
+        "https://github.com/WICG/scroll-animations",
+        "https://github.com/WICG/animation-worklet",
+        "https://github.com/WICG/logical-sizing-properties",
+        "https://github.com/WICG/audio-focus",
+        "https://github.com/WICG/aspect-ratio",
+        "https://github.com/WICG/ScrollAnchoring",
+        "https://github.com/WICG/webpackage",
+        "https://github.com/WICG/controls-list",
+        "https://github.com/WICG/focus-visible",
+        "https://github.com/WICG/longtasks",
+        "https://github.com/WICG/server-timing",
+        "https://github.com/WICG/overscroll-behavior",
+        "https://github.com/WICG/keyboard-lock",
+        "https://github.com/WICG/performance-entry",
+        "https://github.com/WICG/event-timing",
+        "https://github.com/WICG/page-lifecycle",
+        "https://github.com/WICG/device-memory",
+        "https://github.com/WICG/paint-timing",
+        "https://github.com/WICG/priority-hints",
+        "https://github.com/WICG/gesture-delegation",
+        "https://github.com/WICG/speech-api",
+        "https://github.com/WICG/web-locks",
+        "https://github.com/WICG/spatial-navigation",
+        "https://github.com/WICG/permissions-request",
+        "https://github.com/WICG/permissions-revoke",
+        "https://github.com/WICG/sw-launch",
+        "https://github.com/WICG/devtools-protocol",
+        "https://github.com/WICG/kv-storage",
+        "https://github.com/WICG/time-to-interactive",
+        "https://github.com/WICG/construct-stylesheets",
+        "https://github.com/WICG/encrypted-media-encryption-scheme",
+        "https://github.com/WICG/performance-memory",
+        "https://github.com/WICG/virtual-scroller",
+        "https://github.com/WICG/import-maps",
+        "https://github.com/WICG/keyboard-map",
+        "https://github.com/WICG/hdcp-detection",
+        "https://github.com/WICG/encrypted-media",
+        "https://github.com/WICG/intrinsicsize-attribute",
+        "https://github.com/WICG/portals",
+        "https://github.com/WICG/media-source",
+        "https://github.com/WICG/js-self-profiling",
+        "https://github.com/WICG/element-timing",
+        "https://github.com/WICG/is-input-pending",
+        "https://github.com/WICG/reporting",
+        "https://github.com/WICG/network-error-logging",
+        "https://github.com/WICG/display-locking",
+        "https://github.com/WICG/geolocation-sensor",
+        "https://github.com/WICG/idle-detection",
+        "https://github.com/WICG/webmonetization",
+        "https://github.com/WICG/file-handling",
+        "https://github.com/WICG/main-thread-scheduling",
+        "https://github.com/WICG/webhid",
+        "https://github.com/WICG/ua-client-hints",
+        "https://github.com/WICG/lang-client-hint",
+        "https://github.com/WICG/contact-api",
+        "https://github.com/WICG/datacue",
+        "https://github.com/WICG/wicg.github.io",
+        "https://github.com/WICG/scroll-to-text-fragment",
+        "https://github.com/WICG/request-post-animation-frame",
+        "https://github.com/WICG/client-hints-infrastructure",
+        "https://github.com/WICG/savedata",
+        "https://github.com/WICG/overscroll-scrollend-events",
+        "https://github.com/WICG/input-for-workers",
+        "https://github.com/WICG/content-index",
+        "https://github.com/WICG/web-otp",
+        "https://github.com/WICG/layout-instability",
+        "https://github.com/WICG/largest-contentful-paint",
+        "https://github.com/WICG/open-ui",
+        "https://github.com/WICG/conversion-measurement-api",
+        "https://github.com/WICG/cross-origin-embedder-policy",
+        "https://github.com/WICG/web-codecs",
+        "https://github.com/WICG/local-font-access",
+        "https://github.com/WICG/discourse-wicg-theme",
+        "https://github.com/WICG/raw-clipboard-access",
+        "https://github.com/WICG/trust-token-api",
+        "https://github.com/WICG/urlpattern",
+        "https://github.com/WICG/compression",
+        "https://github.com/WICG/accessible-loading-and-searching-of-content",
+        "https://github.com/WICG/media-latency-hint",
+        "https://github.com/WICG/origin-isolation",
+        "https://github.com/WICG/video-editing",
+        "https://github.com/WICG/custom-state-pseudo-class",
+        "https://github.com/WICG/crash-reporting",
+        "https://github.com/WICG/intervention-reporting",
+        "https://github.com/WICG/deprecation-reporting",
+        "https://github.com/WICG/image-output",
+        "https://github.com/WICG/turtledove",
+        "https://github.com/WICG/periodic-background-sync",
+        "https://github.com/WICG/video-rvfc",
+        "https://github.com/WICG/performance-measure-memory",
+        "https://github.com/WICG/ink-enhancement",
+        "https://github.com/WICG/media-feeds",
+        "https://github.com/WICG/beforeinstallprompt",
+        "https://github.com/WICG/WebID",
+        "https://github.com/WICG/sms-one-time-codes",
+        "https://github.com/WICG/sparrow",
+        "https://github.com/WICG/digital-goods",
+        "https://github.com/WICG/pwa-url-handler",
+        "https://github.com/WICG/storage-buckets",
+        "https://github.com/WICG/display-override",
+        "https://github.com/WICG/window-controls-overlay",
+        "https://github.com/WICG/raw-sockets",
+        "https://github.com/WICG/responsive-image-client-hints",
+        "https://github.com/WICG/proposals",
+        "https://github.com/WICG/canvas-formatted-text",
+        "https://github.com/WICG/reducing-memory-copies",
+        "https://github.com/w3c/badging",
+        "https://github.com/w3c/web-share-target",
+        "https://github.com/wicg/"
+      ],
+      "activity": {
+        "rss": {
+          "2015-07": 2,
+          "2015-08": 0,
+          "2015-09": 0,
+          "2015-10": 0,
+          "2015-11": 0,
+          "2015-12": 0,
+          "2016-01": 0,
+          "2016-02": 0,
+          "2016-03": 0,
+          "2016-04": 0,
+          "2016-05": 0,
+          "2016-06": 0,
+          "2016-07": 0,
+          "2016-08": 0,
+          "2016-09": 0,
+          "2016-10": 0,
+          "2016-11": 0,
+          "2016-12": 0,
+          "2017-01": 0,
+          "2017-02": 0,
+          "2017-03": 0,
+          "2017-04": 0,
+          "2017-05": 0,
+          "2017-06": 0,
+          "2017-07": 0,
+          "2017-08": 0,
+          "2017-09": 0,
+          "2017-10": 0,
+          "2017-11": 0,
+          "2017-12": 0,
+          "2018-01": 0,
+          "2018-02": 0,
+          "2018-03": 0,
+          "2018-04": 0,
+          "2018-05": 0,
+          "2018-06": 0,
+          "2018-07": 0,
+          "2018-08": 0,
+          "2018-09": 0,
+          "2018-10": 0,
+          "2018-11": 0,
+          "2018-12": 0,
+          "2019-01": 0,
+          "2019-02": 0,
+          "2019-03": 0,
+          "2019-04": 0,
+          "2019-05": 0,
+          "2019-06": 0,
+          "2019-07": 0,
+          "2019-08": 0,
+          "2019-09": 0,
+          "2019-10": 0,
+          "2019-11": 0,
+          "2019-12": 0,
+          "2020-01": 0,
+          "2020-02": 0,
+          "2020-03": 0,
+          "2020-04": 0,
+          "2020-05": 1,
+          "2020-06": 0,
+          "2020-07": 0,
+          "2020-08": 0,
+          "2020-09": 0,
+          "2020-10": 0,
+          "2020-11": 0
+        },
+        "chat": {
+          "type": "chat",
+          "link": "irc://irc.w3.org/#wicg",
+          "shortdesc": "IRC",
+          "longdesc": "",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/6098"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/6098/groups"
+            }
+          }
+        },
+        "lists": {
+          "2020-09": 145,
+          "2020-08": 76,
+          "2020-07": 106,
+          "2020-05": 72,
+          "2019-12": 44,
+          "2019-10": 114,
+          "2019-09": 10,
+          "2019-07": 1,
+          "2019-06": 2,
+          "2019-05": 1,
+          "2019-04": 1,
+          "2019-03": 1,
+          "2018-11": 1,
+          "2018-10": 2,
+          "2018-09": 1,
+          "2018-07": 2,
+          "2018-06": 1,
+          "2018-05": 10,
+          "2018-03": 3,
+          "2017-01": 8,
+          "2016-11": 5,
+          "2016-10": 1,
+          "2016-09": 12,
+          "2016-08": 1,
+          "2016-04": 3,
+          "2016-03": 4,
+          "2016-01": 7,
+          "2015-11": 1,
+          "2015-09": 2,
+          "2015-08": 14,
+          "2015-07": 7,
+          "2015-10": null,
+          "2015-12": null,
+          "2016-02": null,
+          "2016-05": null,
+          "2016-06": null,
+          "2016-07": null,
+          "2016-12": null,
+          "2017-02": null,
+          "2017-03": null,
+          "2017-04": null,
+          "2017-05": null,
+          "2017-06": null,
+          "2017-07": null,
+          "2017-08": null,
+          "2017-09": null,
+          "2017-10": null,
+          "2017-11": null,
+          "2017-12": null,
+          "2018-01": null,
+          "2018-02": null,
+          "2018-04": null,
+          "2018-08": null,
+          "2018-12": null,
+          "2019-01": null,
+          "2019-02": null,
+          "2019-08": null,
+          "2019-11": null,
+          "2020-01": null,
+          "2020-02": null,
+          "2020-03": null,
+          "2020-04": null,
+          "2020-06": null,
+          "2020-10": null,
+          "2020-11": null
+        },
+        "repository": {
+          "2015-07": 331,
+          "2015-08": 76,
+          "2015-09": 101,
+          "2015-10": 103,
+          "2015-11": 70,
+          "2015-12": 48,
+          "2016-01": 45,
+          "2016-02": 135,
+          "2016-03": 192,
+          "2016-04": 122,
+          "2016-05": 100,
+          "2016-06": 91,
+          "2016-07": 147,
+          "2016-08": 321,
+          "2016-09": 217,
+          "2016-10": 152,
+          "2016-11": 110,
+          "2016-12": 104,
+          "2017-01": 122,
+          "2017-02": 112,
+          "2017-03": 267,
+          "2017-04": 250,
+          "2017-05": 178,
+          "2017-06": 225,
+          "2017-07": 143,
+          "2017-08": 173,
+          "2017-09": 258,
+          "2017-10": 240,
+          "2017-11": 273,
+          "2017-12": 150,
+          "2018-01": 252,
+          "2018-02": 341,
+          "2018-03": 383,
+          "2018-04": 371,
+          "2018-05": 465,
+          "2018-06": 585,
+          "2018-07": 508,
+          "2018-08": 447,
+          "2018-09": 328,
+          "2018-10": 371,
+          "2018-11": 417,
+          "2018-12": 339,
+          "2019-01": 320,
+          "2019-02": 273,
+          "2019-03": 314,
+          "2019-04": 433,
+          "2019-05": 476,
+          "2019-06": 357,
+          "2019-07": 538,
+          "2019-08": 594,
+          "2019-09": 499,
+          "2019-10": 617,
+          "2019-11": 614,
+          "2019-12": 427,
+          "2020-01": 523,
+          "2020-02": 549,
+          "2020-03": 924,
+          "2020-04": 626,
+          "2020-05": 768,
+          "2020-06": 686,
+          "2020-07": 669,
+          "2020-08": 687,
+          "2020-09": 689,
+          "2020-10": 677,
+          "2020-11": 195
+        },
+        "other": {
+          "type": "other",
+          "link": "https://wicg.github.io/tracking.html",
+          "shortdesc": "Status",
+          "longdesc": "Status",
+          "external": true,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/25874"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/25874/groups"
+            }
+          }
+        },
+        "join": {
+          "2015-07": 48,
+          "2015-08": 3,
+          "2015-09": 4,
+          "2015-10": 4,
+          "2015-11": 3,
+          "2015-12": 2,
+          "2016-01": 2,
+          "2016-02": 1,
+          "2016-03": 0,
+          "2016-04": 5,
+          "2016-05": 6,
+          "2016-06": 3,
+          "2016-07": 1,
+          "2016-08": 3,
+          "2016-09": 4,
+          "2016-10": 2,
+          "2016-11": 3,
+          "2016-12": 4,
+          "2017-01": 1,
+          "2017-02": 1,
+          "2017-03": 2,
+          "2017-04": 5,
+          "2017-05": 2,
+          "2017-06": 2,
+          "2017-07": 0,
+          "2017-08": 2,
+          "2017-09": 1,
+          "2017-10": 3,
+          "2017-11": 3,
+          "2017-12": 0,
+          "2018-01": 8,
+          "2018-02": 4,
+          "2018-03": 1,
+          "2018-04": 0,
+          "2018-05": 8,
+          "2018-06": 2,
+          "2018-07": 0,
+          "2018-08": 3,
+          "2018-09": 5,
+          "2018-10": 3,
+          "2018-11": 1,
+          "2018-12": 0,
+          "2019-01": 3,
+          "2019-02": 3,
+          "2019-03": 1,
+          "2019-04": 0,
+          "2019-05": 7,
+          "2019-06": 8,
+          "2019-07": 2,
+          "2019-08": 2,
+          "2019-09": 3,
+          "2019-10": 1,
+          "2019-11": 5,
+          "2019-12": 6,
+          "2020-01": 4,
+          "2020-02": 6,
+          "2020-03": 10,
+          "2020-04": 5,
+          "2020-05": 6,
+          "2020-06": 9,
+          "2020-07": 14,
+          "2020-08": 7,
+          "2020-09": 9,
+          "2020-10": 8,
+          "2020-11": 1
         }
       }
     },
@@ -87680,7 +88227,7 @@
           "2020-08": 7,
           "2020-09": 1,
           "2020-10": 1,
-          "2020-11": 2
+          "2020-11": 4
         },
         "join": {
           "2015-10": 62,
@@ -88779,7 +89326,7 @@
           "_links": "[object Object][object Object]"
         },
         "lists": {
-          "2020-11": 13,
+          "2020-11": 15,
           "2020-10": 34,
           "2020-09": 23,
           "2020-08": 31,
@@ -93890,7 +94437,7 @@
           "2020-08": 240,
           "2020-09": 258,
           "2020-10": 414,
-          "2020-11": 81
+          "2020-11": 89
         },
         "tracker": {
           "type": "tracker",
@@ -99337,7 +99884,7 @@
           "2020-08": 306,
           "2020-09": 372,
           "2020-10": 338,
-          "2020-11": 156
+          "2020-11": 164
         },
         "join": {
           "2017-02": 64,
@@ -101589,11 +102136,11 @@
           "2018-11": 134,
           "2018-12": 47,
           "2019-01": 121,
-          "2019-02": 86,
+          "2019-02": 87,
           "2019-03": 137,
           "2019-04": 78,
           "2019-05": 47,
-          "2019-06": 31,
+          "2019-06": 32,
           "2019-07": 94,
           "2019-08": 43,
           "2019-09": 89,
