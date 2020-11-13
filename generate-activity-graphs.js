@@ -31,7 +31,7 @@ data.slice(1).forEach(d => {
     const monthActivity = ["lists", "repository", "wiki"].map(a => d.activity[a] ? d.activity[a][yearCursor + "-" + ((monthCursor + 1) + "").padStart(2, "0")] || 0 : 0);
     const sum = monthActivity.reduce((acc, b) => acc + b, 0);
     let color = palette[8-Math.ceil(Math.min(200, sum)/25)];
-    svg += `<rect x="${50 + monthCursor*20}" y="6" width="15" height="15" fill="${color}"><title>${monthActivity[0]} emails, ${monthActivity[1]} repo event, ${monthActivity[2]} wiki edits in ${monthNames[monthCursor]} ${yearCursor}</title></rect>`;
+    svg += `<rect x="${50 + monthCursor*20}" y="6" width="15" height="15" fill="${color}"><title>${monthActivity[0]} emails, ${monthActivity[1]} repository events, ${monthActivity[2]} wiki edits in ${monthNames[monthCursor]} ${yearCursor}</title></rect>`;
     dateCursor.setMonth(monthCursor + 1);
     dateCursor.setDate(1);
     if (dateCursor > now) break;
@@ -41,7 +41,7 @@ data.slice(1).forEach(d => {
   for (let i = 0 ; i<12; i++) {
     svg += `<text style="font-size: 10px; text-align: center" x="${53 + i*20}" y="${(row + 1)*20 + 10}">${monthNames[i][0]}</text>`;
   }
-  svg += `<text style="font-size: 10px;" x="150" y="${(row + 1)*20 + 30}">Less</text><rect fill="${palette[7]}" width="10" height="10" x="180" y="${(row + 1)*20 + 20}"></rect><rect fill="${palette[5]}" width="10" height="10" x="195" y="${(row + 1)*20 + 20}"></rect><rect fill="${palette[3]}" width="10" height="10" x="210" y="${(row + 1)*20 + 20}"></rect><rect fill="${palette[0]}" width="10" height="10" x="225" y="${(row + 1)*20 + 20}"></rect><text x="240" y="${(row + 1)*20 + 30}" style="font-size: 10px;">More</text>`;
+  svg += `<text style="font-size: 10px;" x="150" y="${(row + 1)*20 + 30}">Less</text><rect fill="${palette[7]}" width="10" height="10" x="180" y="${(row + 1)*20 + 20}"><title>No activity in the period</title></rect><rect fill="${palette[5]}" width="10" height="10" x="195" y="${(row + 1)*20 + 20}"><title>Low activity in the period</title></rect><rect fill="${palette[3]}" width="10" height="10" x="210" y="${(row + 1)*20 + 20}"><title>Medium activity in the period</title></rect><rect fill="${palette[0]}" width="10" height="10" x="225" y="${(row + 1)*20 + 20}"><title>High activity in period</title></rect><text x="240" y="${(row + 1)*20 + 30}" style="font-size: 10px;">More</text>`;
   svg += `</svg>`;
   fs.writeFileSync('viz/' + d.type + '/' + shortname + '.svg', svg, 'utf-8');
 });
