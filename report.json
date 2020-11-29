@@ -1,5 +1,5 @@
 {
-  "timestamp": "2020-11-28T02:04:11.923Z",
+  "timestamp": "2020-11-29T01:58:33.935Z",
   "data": [
     {
       "id": 100074,
@@ -1776,7 +1776,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-11": 46,
+          "2020-11": 55,
           "2020-10": 77,
           "2020-09": 52,
           "2020-08": 11,
@@ -1869,7 +1869,7 @@
           "2020-08": 0,
           "2020-09": 17,
           "2020-10": 24,
-          "2020-11": 16
+          "2020-11": 22
         },
         "join": {
           "2017-10": 16,
@@ -6431,7 +6431,7 @@
           "2020-08": 10,
           "2020-09": 54,
           "2020-10": 54,
-          "2020-11": 30
+          "2020-11": 32
         },
         "join": {
           "2018-10": 15,
@@ -6577,7 +6577,7 @@
           "2020-08": 0,
           "2020-09": 5,
           "2020-10": 24,
-          "2020-11": 31
+          "2020-11": 32
         },
         "join": {
           "2018-10": 27,
@@ -12478,7 +12478,7 @@
       "shortname": "open-ui",
       "link": "https://www.w3.org/community/open-ui/",
       "created": "2020-03-27T22:49:20.000Z",
-      "participants": 27,
+      "participants": 28,
       "chairs": [
         "Una Kravets",
         "Levi Thomason",
@@ -12538,7 +12538,7 @@
           "2020-08": 0,
           "2020-09": 0,
           "2020-10": 6,
-          "2020-11": 4
+          "2020-11": 5
         }
       }
     },
@@ -12902,7 +12902,7 @@
       "shortname": "xslt-40",
       "link": "https://www.w3.org/community/xslt-40/",
       "created": "2020-06-09T06:27:26.000Z",
-      "participants": 16,
+      "participants": 21,
       "chairs": [
         "Michael Kay"
       ],
@@ -12934,7 +12934,7 @@
           }
         },
         "lists": {
-          "2020-11": 4
+          "2020-11": 18
         },
         "join": {
           "2020-06": 2,
@@ -12942,7 +12942,7 @@
           "2020-08": 0,
           "2020-09": 0,
           "2020-10": 0,
-          "2020-11": 14
+          "2020-11": 19
         }
       }
     },
@@ -13103,7 +13103,7 @@
           "2020-08": 20,
           "2020-09": 6,
           "2020-10": 88,
-          "2020-11": 81
+          "2020-11": 82
         },
         "join": {
           "2020-08": 15,
@@ -25483,7 +25483,7 @@
       "shortname": "webed",
       "link": "https://www.w3.org/community/webed/",
       "created": "2011-11-08T01:11:37.000Z",
-      "participants": 148,
+      "participants": 149,
       "chairs": [
         "Ben Friedman"
       ],
@@ -25899,7 +25899,7 @@
           "2020-08": 0,
           "2020-09": 0,
           "2020-10": 0,
-          "2020-11": 0
+          "2020-11": 1
         }
       }
     },
@@ -26397,7 +26397,7 @@
           "2013-10": 0,
           "2013-11": 0,
           "2013-12": 0,
-          "2014-01": 2,
+          "2014-01": 1,
           "2014-02": 0,
           "2014-03": 1,
           "2014-04": 2,
@@ -26479,7 +26479,7 @@
           "2020-08": 0,
           "2020-09": 1,
           "2020-10": 1,
-          "2020-11": 0
+          "2020-11": 1
         }
       }
     },
@@ -46999,7 +46999,7 @@
       "shortname": "coders4africa",
       "link": "https://www.w3.org/community/coders4africa/",
       "created": "2012-04-17T06:30:25.000Z",
-      "participants": 24,
+      "participants": 25,
       "chairs": [],
       "staff": [
         {
@@ -47246,7 +47246,7 @@
           "2020-08": 0,
           "2020-09": 0,
           "2020-10": 0,
-          "2020-11": 0
+          "2020-11": 1
         }
       }
     },
@@ -48813,7 +48813,7 @@
       "shortname": "expath",
       "link": "https://www.w3.org/community/expath/",
       "created": "2012-04-24T21:25:53.000Z",
-      "participants": 31,
+      "participants": 30,
       "chairs": [
         "Florent Georges",
         "Mohamed ZERGAOUI"
@@ -49212,7 +49212,7 @@
           "2020-11": 1
         },
         "join": {
-          "2012-04": 12,
+          "2012-04": 11,
           "2012-05": 4,
           "2012-06": 0,
           "2012-07": 2,
@@ -49302,7 +49302,7 @@
           "2019-07": 0,
           "2019-08": 0,
           "2019-09": 0,
-          "2019-10": 1,
+          "2019-10": 0,
           "2019-11": 0,
           "2019-12": 0,
           "2020-01": 0,
@@ -49315,7 +49315,7 @@
           "2020-08": 0,
           "2020-09": 0,
           "2020-10": 0,
-          "2020-11": 0
+          "2020-11": 1
         }
       }
     },
@@ -63860,7 +63860,7 @@
           "2013-07": 0,
           "2013-08": 0,
           "2013-09": 0,
-          "2013-10": 3,
+          "2013-10": 2,
           "2013-11": 1,
           "2013-12": 2,
           "2014-01": 0,
@@ -63945,7 +63945,7 @@
           "2020-08": 1,
           "2020-09": 0,
           "2020-10": 0,
-          "2020-11": 1
+          "2020-11": 2
         }
       }
     },
@@ -64732,7 +64732,7 @@
       "shortname": "wot",
       "link": "https://www.w3.org/community/wot/",
       "created": "2013-06-05T15:08:52.000Z",
-      "participants": 221,
+      "participants": 222,
       "chairs": [
         "Dave Raggett"
       ],
@@ -65088,7 +65088,7 @@
           "2020-08": 2,
           "2020-09": 0,
           "2020-10": 0,
-          "2020-11": 0
+          "2020-11": 1
         }
       }
     },
@@ -72363,7 +72363,7 @@
         "join": {
           "2013-12": 9,
           "2014-01": 7,
-          "2014-02": 9,
+          "2014-02": 8,
           "2014-03": 4,
           "2014-04": 9,
           "2014-05": 3,
@@ -72444,7 +72444,7 @@
           "2020-08": 0,
           "2020-09": 0,
           "2020-10": 1,
-          "2020-11": 1
+          "2020-11": 2
         }
       }
     },
@@ -74513,7 +74513,7 @@
           "2015-02": 2,
           "2015-03": 0,
           "2015-04": 0,
-          "2015-05": 1,
+          "2015-05": 0,
           "2015-06": 1,
           "2015-07": 0,
           "2015-08": 0,
@@ -74579,7 +74579,7 @@
           "2020-08": 0,
           "2020-09": 0,
           "2020-10": 0,
-          "2020-11": 0
+          "2020-11": 1
         }
       }
     },
@@ -75599,8 +75599,8 @@
           "2017-03": 37,
           "2017-04": 16,
           "2017-05": 22,
-          "2017-06": 111,
-          "2017-07": 91,
+          "2017-06": 17,
+          "2017-07": 85,
           "2017-08": 118,
           "2017-09": 133,
           "2017-10": 139,
@@ -77895,7 +77895,7 @@
           }
         },
         "lists": {
-          "2020-11": 127,
+          "2020-11": 128,
           "2020-10": 129,
           "2020-09": 102,
           "2020-08": 124,
@@ -78048,7 +78048,7 @@
           "2020-08": 103,
           "2020-09": 76,
           "2020-10": 135,
-          "2020-11": 126
+          "2020-11": 127
         },
         "join": {
           "2014-08": 14,
@@ -86681,7 +86681,7 @@
           "2020-08": 687,
           "2020-09": 689,
           "2020-10": 677,
-          "2020-11": 501
+          "2020-11": 505
         },
         "other": {
           "type": "other",
@@ -89523,7 +89523,7 @@
       ],
       "activity": {
         "lists": {
-          "2020-11": 14,
+          "2020-11": 15,
           "2020-10": 17,
           "2020-09": 12,
           "2020-08": 6,
@@ -94788,12 +94788,12 @@
         "https://github.com/openactive/spec-template",
         "https://github.com/openactive/community-members",
         "https://github.com/openactive/respec",
-        "https://github.com/openactive/assets",
+        "https://github.com/openactive/brand-assets",
         "https://github.com/openactive/activation",
         "https://github.com/openactive/dataset-site-generator",
-        "https://github.com/openactive/openactive-w3c-cg",
+        "https://github.com/openactive/w3c-community-group",
         "https://github.com/openactive/w3c-cg-example-data",
-        "https://github.com/openactive/public-openactive-w3c",
+        "https://github.com/openactive/public-chat",
         "https://github.com/openactive/modelling-opportunity-data",
         "https://github.com/openactive/rpde-sample-azure",
         "https://github.com/openactive/learn",
@@ -94821,8 +94821,6 @@
         "https://github.com/openactive/booking-api-reference-implementation",
         "https://github.com/openactive/developer-documentation",
         "https://github.com/openactive/validator-embed-mvp",
-        "https://github.com/openactive/w3c-community-group-microsite",
-        "https://github.com/openactive/w3c-community-group-video-template",
         "https://github.com/openactive/rpde-validator",
         "https://github.com/openactive/openactive-jsonld-redirect",
         "https://github.com/openactive/ns-extension",
@@ -94844,7 +94842,7 @@
         "https://github.com/openactive/dataset-site-template-example-dotnet",
         "https://github.com/openactive/programme-catalog",
         "https://github.com/openactive/les-mills-programme-page-example",
-        "https://github.com/openactive/routes",
+        "https://github.com/openactive/route-guide",
         "https://github.com/openactive/models-php",
         "https://github.com/openactive/models-ruby",
         "https://github.com/openactive/models-lib",
@@ -94882,6 +94880,8 @@
         "https://github.com/openactive/gulp-respec",
         "https://github.com/openactive/routes-community-data",
         "https://github.com/openactive/node-openid-client",
+        "https://github.com/openactive/infrastructure-guide",
+        "https://github.com/openactive/website-content",
         "https://github.com/openactive"
       ],
       "activity": {
@@ -95055,7 +95055,7 @@
           "2018-05": 91,
           "2018-06": 207,
           "2018-07": 284,
-          "2018-08": 332,
+          "2018-08": 328,
           "2018-09": 295,
           "2018-10": 274,
           "2018-11": 51,
@@ -95064,7 +95064,7 @@
           "2019-02": 97,
           "2019-03": 146,
           "2019-04": 168,
-          "2019-05": 52,
+          "2019-05": 50,
           "2019-06": 85,
           "2019-07": 106,
           "2019-08": 73,
@@ -95082,7 +95082,7 @@
           "2020-08": 240,
           "2020-09": 253,
           "2020-10": 407,
-          "2020-11": 124
+          "2020-11": 139
         },
         "tracker": {
           "type": "tracker",
@@ -97643,7 +97643,7 @@
           "2017-08": 110,
           "2017-09": 53,
           "2017-10": 63,
-          "2017-11": 350,
+          "2017-11": 250,
           "2017-12": 573,
           "2018-01": 345,
           "2018-02": 262,
@@ -99156,7 +99156,7 @@
           "2020-08": 113,
           "2020-09": 99,
           "2020-10": 121,
-          "2020-11": 63
+          "2020-11": 64
         },
         "join": {
           "2016-12": 11,
