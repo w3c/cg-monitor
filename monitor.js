@@ -227,10 +227,20 @@ fetch('https://w3c.github.io/validate-repos/report.json')
     save('staff', staff);
     return recursiveW3cFetch('https://api.w3.org/groups?embed=1', 'groups');
   }, err => console.error(err))
-  .then(groups => {
+  .then(async (groups) => {
     const w3cgroups = groups.filter(g => (g.type === 'community group' || g.type === 'business group' || g.type === 'working group' || g.type === 'interest group') && !g['is_closed']) ;
-    return Promise.all(w3cgroups
-      .filter(g => process.argv.length > 2 ? process.argv.map(x => parseInt(x, 10)).includes(g.id) : true)
+    const BATCH_SIZE = 10;
+    const batches = w3cgroups
+          .filter(g => process.argv.length > 2 ? process.argv.map(x => parseInt(x, 10)).includes(g.id) : true)
+          .reduce((acc, g, i) => {
+            if (i % BATCH_SIZE === 0) {
+              acc.push([]);
+            }
+            acc[acc.length - 1].push(g);
+            return acc;
+          }, []);
+    for (let groupBatch of batches) {
+      await Promise.all(groupBatch
       .map(
         w3cg =>
           Promise.all([
@@ -244,4 +254,5 @@ fetch('https://w3c.github.io/validate-repos/report.json')
             recursiveW3cFetch((w3cg._links.participations || {}).href + '?embed=1', 'participations').catch(err => {console.error("Error fetching data on " + w3cg.id, err); return [w3ccg, [], [], [], []];})
           ]).then(data => save(w3cg.id, data)).catch(err => {console.error("Error dealing with " + w3cg.id, err)})
       ));
+    }
   }).catch(err => console.error(err));
