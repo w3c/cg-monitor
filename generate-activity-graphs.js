@@ -15,7 +15,7 @@ data.slice(1).forEach(d => {
   let monthNow = now.getMonth();
   const yearStart = yearCursor + 1;
   let row = 0;
-  let svg = `<svg xmlns="http://www.w3.org/2000/svg" width="360" height="${(yearNow - yearCursor)*20}">
+  let svg = `<svg xmlns="http://www.w3.org/2000/svg" width="360" height="${(yearNow + 1 - yearCursor)*20}">
   <title>Activity of ${escape(d.name)}</title>
 `;
   while (true) {
