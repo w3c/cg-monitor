@@ -158,12 +158,15 @@ function recursiveGhFetch(url, acc = []) {
 
 function fetchGithubRepo(owner, repo) {
   return Promise.all([
-    recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/issues?state=all&per_page=100'),
+    recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/issues?state=all&per_page=100')
+      .then(data => data.map(i => { return {html_url: i.html_url, created_at: i.created_at};})),
     recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/pulls?state=all&per_page=100')
+      .then(data => data.map(i => { return {html_url: i.html_url, created_at: i.created_at};}))
       .then(pulls => {
         if (pulls.length === 0) {
           // if no pull request, we take a look at commits instead
-          return recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/commits?per_page=100');
+          return recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/commits?per_page=100')
+            .then(data => data.map(i => { return {html_url: i.html_url, created_at: i.created_at, commit: i.commit}; }));
         }
         return pulls;
       })
