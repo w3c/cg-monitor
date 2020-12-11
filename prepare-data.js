@@ -88,7 +88,7 @@ const loadDir = async dirPath => {
                         acc[m] = data.items.filter(i => (i.isoDate && i.isoDate.startsWith(m)) || (i.created_at && i.created_at.startsWith(m)) || (i.commit && i.commit.committer && i.commit.committer.date && i.commit.committer.date.startsWith(m)) ).length;
                         return acc;
                       }, {});
-                  } else if (data && typeof data === "object") {
+                  } else if (data && typeof data === "object" && Object.keys(data).length) {
                     perMonthData = data;
                   } else {
                     // console.error("Missing data for " + service.type + " of " + cgData.name);
@@ -96,7 +96,10 @@ const loadDir = async dirPath => {
                   if (!perMonthData) return;
                   if (cgData.activity[service.type]) {
                     cgData.activity[service.type] = Object.keys(perMonthData).reduce((acc, m) => {
-                      acc[m] += perMonthData[m];
+                      if (!acc[m]) {
+                        acc[m] = 0;
+                      }
+                      acc[m] += perMonthData[m] || 0;
                       return acc;
                     }, cgData.activity[service.type]);
                   } else {
