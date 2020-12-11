@@ -91,8 +91,12 @@ function recursiveFetchDiscourse(url, before = null, acc = []) {
     .then(({body: text}) => JSON.parse(text))
     .then(({latest_posts}) => {
       if (!latest_posts) return acc;
-      acc = acc.concat(latest_posts);
-      return recursiveFetchDiscourse(url, before = latest_posts[latest_posts.length - 1].id, acc);
+      acc = acc.concat(latest_posts.map(p => { return {created_at: p.created_at, topic_title: p.topic_title}; }));
+      const minId= Math.min(...latest_posts.map(p => p.id));
+      if (before === null || before > minId) {
+        return recursiveFetchDiscourse(url, minId, acc);
+      }
+      return acc;
     }).catch(e => {
       console.error("Error while fetching " + fetchedUrl);
       console.error(e);
