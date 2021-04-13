@@ -1,5 +1,5 @@
 {
-  "timestamp": "2021-04-12T01:07:57.247Z",
+  "timestamp": "2021-04-13T01:19:22.085Z",
   "data": [
     {
       "id": 100074,
@@ -8,7 +8,7 @@
       "shortname": "publishing",
       "link": "https://www.w3.org/publishing/groups/publ-wg/",
       "created": "2017-06-09T00:00:00.000Z",
-      "participants": 14,
+      "participants": 15,
       "chairs": [
         "Garth Conboy",
         "Wendy Reid",
@@ -240,7 +240,7 @@
           "2021-01": 1,
           "2021-02": 1,
           "2021-03": 0,
-          "2021-04": 0
+          "2021-04": 1
         }
       }
     },
@@ -251,7 +251,7 @@
       "shortname": "shacl",
       "link": "https://www.w3.org/community/shacl/",
       "created": "2017-06-20T18:06:49.000Z",
-      "participants": 47,
+      "participants": 48,
       "chairs": [
         "Irene Polikoff",
         "Simon Steyskal"
@@ -462,7 +462,7 @@
           "2021-01": 0,
           "2021-02": 0,
           "2021-03": 1,
-          "2021-04": 0
+          "2021-04": 1
         }
       }
     },
@@ -1952,18 +1952,12 @@
       "shortname": "credibility",
       "link": "https://www.w3.org/community/credibility/",
       "created": "2017-10-29T04:07:16.000Z",
-      "participants": 95,
-      "chairs": [
-        "Sandro Hawke"
-      ],
+      "participants": 94,
+      "chairs": [],
       "staff": [
         {
           "name": "Wendy Seltzer",
           "photo": "https://www.w3.org/2006/05/u/3ae7f8470d32-tn.jpg"
-        },
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         },
         {
           "name": "Michael[tm] Smith",
@@ -2163,7 +2157,7 @@
         },
         "join": {
           "2017-10": 1,
-          "2017-11": 10,
+          "2017-11": 9,
           "2017-12": 1,
           "2018-01": 0,
           "2018-02": 2,
@@ -5988,7 +5982,7 @@
       "shortname": "solid",
       "link": "https://www.w3.org/community/solid/",
       "created": "2018-10-03T09:17:10.000Z",
-      "participants": 166,
+      "participants": 167,
       "chairs": [
         "Sarven Capadisli"
       ],
@@ -6179,7 +6173,7 @@
           "2021-01": 21,
           "2021-02": 12,
           "2021-03": 6,
-          "2021-04": 0
+          "2021-04": 1
         }
       }
     },
@@ -6190,15 +6184,11 @@
       "shortname": "rdf-dev",
       "link": "https://www.w3.org/community/rdf-dev/",
       "created": "2018-10-16T12:07:01.000Z",
-      "participants": 68,
+      "participants": 67,
       "chairs": [
         "Dan Brickley"
       ],
       "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        },
         {
           "name": "Eric Prud'hommeaux",
           "photo": "https://www.w3.org/2006/05/u/5706355h09cs-tn.jpg"
@@ -6316,7 +6306,7 @@
         },
         "join": {
           "2018-10": 27,
-          "2018-11": 3,
+          "2018-11": 2,
           "2018-12": 3,
           "2019-01": 1,
           "2019-02": 2,
@@ -6989,16 +6979,12 @@
       "shortname": "n3-dev",
       "link": "https://www.w3.org/community/n3-dev/",
       "created": "2018-11-27T17:48:18.000Z",
-      "participants": 36,
+      "participants": 35,
       "chairs": [
         "Dörthe Arndt",
         "William Van Woensel"
       ],
       "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        },
         {
           "name": "Dave Raggett",
           "photo": "https://www.w3.org/2006/05/u/3ljmods79ssg-tn.jpg"
@@ -7118,7 +7104,7 @@
           "2021-04": 0
         },
         "join": {
-          "2018-11": 13,
+          "2018-11": 12,
           "2018-12": 3,
           "2019-01": 1,
           "2019-02": 4,
@@ -7603,7 +7589,7 @@
       "shortname": "iotschema",
       "link": "https://www.w3.org/community/iotschema/",
       "created": "2019-01-17T19:18:24.000Z",
-      "participants": 15,
+      "participants": 16,
       "chairs": [
         "Anicic Darko",
         "Michael Koster"
@@ -7689,7 +7675,7 @@
           "2021-01": 0,
           "2021-02": 0,
           "2021-03": 1,
-          "2021-04": 0
+          "2021-04": 1
         }
       }
     },
@@ -8274,9 +8260,9 @@
       ],
       "activity": {
         "lists": {
-          "2021-06": 0.6666666666666666,
-          "2021-05": 0.6666666666666666,
-          "2021-04": 0.6666666666666666,
+          "2021-06": 1,
+          "2021-05": 1,
+          "2021-04": 1,
           "2021-03": 5,
           "2021-02": 5,
           "2021-01": 5,
@@ -8771,7 +8757,7 @@
       ],
       "activity": {
         "lists": {
-          "2021-04": 3,
+          "2021-04": 4,
           "2021-03": 7,
           "2021-02": 9,
           "2021-01": 2,
@@ -8886,7 +8872,7 @@
       "shortname": "htmlwg",
       "link": "https://www.w3.org/2019/html/",
       "created": "2019-06-06T00:00:00.000Z",
-      "participants": 13,
+      "participants": 14,
       "chairs": [
         "Theresa O'Connor",
         "Léonie Watson"
@@ -8906,7 +8892,7 @@
       ],
       "activity": {
         "lists": {
-          "2021-04": 1,
+          "2021-04": 2,
           "2021-03": 11,
           "2021-02": 5,
           "2021-01": 4,
@@ -9140,7 +9126,7 @@
           "2021-01": 5,
           "2021-02": 0,
           "2021-03": 0,
-          "2021-04": 1
+          "2021-04": 2
         }
       }
     },
@@ -9328,17 +9314,12 @@
       "shortname": "zot",
       "link": "https://www.w3.org/community/zot/",
       "created": "2019-06-27T13:33:35.000Z",
-      "participants": 19,
+      "participants": 18,
       "chairs": [
         "Max Kostikov",
         "Tobias Luther"
       ],
-      "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [],
       "activity": {
         "rss": {
@@ -9389,7 +9370,7 @@
         "join": {
           "2019-06": 9,
           "2019-07": 4,
-          "2019-08": 5,
+          "2019-08": 4,
           "2019-09": 1,
           "2019-10": 0,
           "2019-11": 0,
@@ -9668,7 +9649,7 @@
       ],
       "activity": {
         "lists": {
-          "2021-04": 20,
+          "2021-04": 27,
           "2021-03": 28,
           "2021-02": 23,
           "2021-01": 34,
@@ -10350,16 +10331,11 @@
       "shortname": "abcg",
       "link": "https://www.w3.org/community/abcg/",
       "created": "2019-09-29T17:31:16.000Z",
-      "participants": 11,
+      "participants": 10,
       "chairs": [
         "Shwetank Dixit"
       ],
-      "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [],
       "activity": {
         "rss": {
@@ -10406,7 +10382,7 @@
           "2019-09": 1
         },
         "join": {
-          "2019-09": 6,
+          "2019-09": 5,
           "2019-10": 4,
           "2019-11": 0,
           "2019-12": 0,
@@ -11253,14 +11229,9 @@
       "shortname": "synthetic-media",
       "link": "https://www.w3.org/community/synthetic-media/",
       "created": "2020-03-02T10:51:53.000Z",
-      "participants": 15,
+      "participants": 14,
       "chairs": [],
-      "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [],
       "activity": {
         "rss": {
@@ -11315,7 +11286,7 @@
           "2021-04": 0
         },
         "join": {
-          "2020-03": 13,
+          "2020-03": 12,
           "2020-04": 0,
           "2020-05": 0,
           "2020-06": 0,
@@ -12094,7 +12065,7 @@
       "shortname": "xslt-40",
       "link": "https://www.w3.org/community/xslt-40/",
       "created": "2020-06-09T06:27:26.000Z",
-      "participants": 32,
+      "participants": 33,
       "chairs": [
         "Michael Kay"
       ],
@@ -12146,7 +12117,7 @@
           "2021-01": 2,
           "2021-02": 0,
           "2021-03": 0,
-          "2021-04": 0
+          "2021-04": 1
         }
       }
     },
@@ -12298,7 +12269,7 @@
       ],
       "activity": {
         "lists": {
-          "2021-04": 12,
+          "2021-04": 15,
           "2021-03": 31,
           "2021-02": 20,
           "2021-01": 50,
@@ -12744,7 +12715,7 @@
           }
         },
         "lists": {
-          "2021-04": 1,
+          "2021-04": 3,
           "2021-03": 5,
           "2021-02": 2,
           "2021-01": 5,
@@ -13521,7 +13492,7 @@
           }
         },
         "lists": {
-          "2021-04": 3,
+          "2021-04": 14,
           "2021-03": 9
         },
         "join": {
@@ -13573,6 +13544,51 @@
         },
         "join": {
           "2021-03": 3,
+          "2021-04": 2
+        }
+      }
+    },
+    {
+      "id": 130562,
+      "name": "Spec Editors Community Group",
+      "type": "cg",
+      "shortname": "speced-cg",
+      "link": "https://www.w3.org/community/speced-cg/",
+      "created": "2021-04-12T08:54:25.000Z",
+      "participants": 2,
+      "chairs": [],
+      "staff": [
+        {
+          "name": "Dominique Hazaël-Massieux",
+          "photo": "https://www.w3.org/2006/05/u/f592bc2388f1-tn.jpg"
+        },
+        {
+          "name": "Marie-Claire Forgue",
+          "photo": "https://www.w3.org/2006/05/u/7231feacf397-tn.jpg"
+        }
+      ],
+      "repositories": [],
+      "activity": {
+        "rss": {
+          "2021-04": 0
+        },
+        "chat": {
+          "type": "chat",
+          "link": "irc://irc.w3.org/#speced-cg",
+          "shortdesc": "IRC",
+          "longdesc": "",
+          "external": false,
+          "closed": false,
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/services/33181"
+            },
+            "groups": {
+              "href": "https://api.w3.org/services/33181/groups"
+            }
+          }
+        },
+        "join": {
           "2021-04": 2
         }
       }
@@ -16616,9 +16632,9 @@
           "2021-04": 0
         },
         "lists": {
-          "2021-06": 4,
-          "2021-05": 4,
-          "2021-04": 4,
+          "2021-06": 4.333333333333333,
+          "2021-05": 4.333333333333333,
+          "2021-04": 4.333333333333333,
           "2021-03": 39.333333333333336,
           "2021-02": 39.333333333333336,
           "2021-01": 39.333333333333336,
@@ -17956,7 +17972,7 @@
       "shortname": "ag",
       "link": "https://www.w3.org/WAI/GL/",
       "created": "1997-10-06T00:00:00.000Z",
-      "participants": 92,
+      "participants": 93,
       "chairs": [
         "Charles Adams",
         "Rachael Bradley Montgomery",
@@ -18294,12 +18310,12 @@
           "2021-01": 0,
           "2021-02": 0,
           "2021-03": 15,
-          "2021-04": 8
+          "2021-04": 11
         },
         "lists": {
-          "2021-06": 18,
-          "2021-05": 18,
-          "2021-04": 18,
+          "2021-06": 21.666666666666668,
+          "2021-05": 21.666666666666668,
+          "2021-04": 21.666666666666668,
           "2021-03": 88.33333333333333,
           "2021-02": 88.33333333333333,
           "2021-01": 88.33333333333333,
@@ -19154,7 +19170,7 @@
           "2021-01": 3,
           "2021-02": 4,
           "2021-03": 4,
-          "2021-04": 2
+          "2021-04": 3
         }
       }
     },
@@ -19165,7 +19181,7 @@
       "shortname": "eowg",
       "link": "https://www.w3.org/WAI/EO/",
       "created": "1998-03-10T00:00:00.000Z",
-      "participants": 57,
+      "participants": 58,
       "chairs": [
         "Brent Bakken",
         "Sharron Rush"
@@ -20057,7 +20073,7 @@
           "2021-01": 2,
           "2021-02": 0,
           "2021-03": 3,
-          "2021-04": 2
+          "2021-04": 3
         }
       }
     },
@@ -20068,7 +20084,7 @@
       "shortname": "math",
       "link": "https://www.w3.org/Math/",
       "created": "2006-06-28T00:00:00.000Z",
-      "participants": 2,
+      "participants": 4,
       "chairs": [],
       "staff": [
         {
@@ -20692,7 +20708,7 @@
           "2021-01": 0,
           "2021-02": 0,
           "2021-03": 0,
-          "2021-04": 2
+          "2021-04": 4
         }
       }
     },
@@ -21020,7 +21036,7 @@
       ],
       "activity": {
         "lists": {
-          "2021-04": 11,
+          "2021-04": 12,
           "2021-03": 25,
           "2021-02": 7,
           "2021-01": 3,
@@ -21642,6 +21658,7 @@
           "2021-04": 0
         },
         "lists": {
+          "2021-04": 2,
           "2021-03": 33,
           "2021-02": 15,
           "2021-01": 26,
@@ -22676,7 +22693,7 @@
           "2021-04": 2
         },
         "lists": {
-          "2021-04": 8,
+          "2021-04": 12,
           "2021-03": 52,
           "2021-02": 16,
           "2021-01": 13,
@@ -23629,15 +23646,15 @@
           "2020-08": 0,
           "2020-09": 0,
           "2020-10": 0,
-          "2020-11": 13,
+          "2020-11": 8,
           "2020-12": 11,
           "2021-01": 10,
           "2021-02": 3,
           "2021-03": 7,
-          "2021-04": 0
+          "2021-04": 5
         },
         "lists": {
-          "2021-04": 15,
+          "2021-04": 19,
           "2021-03": 87,
           "2021-02": 55,
           "2021-01": 50,
@@ -25120,7 +25137,7 @@
           "2021-04": 1
         },
         "lists": {
-          "2021-04": 6,
+          "2021-04": 7,
           "2021-03": 2,
           "2021-02": 6,
           "2021-01": 1,
@@ -30061,7 +30078,7 @@
       "shortname": "council",
       "link": "https://www.w3.org/community/council/",
       "created": "2012-10-10T18:00:13.000Z",
-      "participants": 33,
+      "participants": 32,
       "chairs": [
         "Dominique Hazaël-Massieux"
       ],
@@ -30077,10 +30094,6 @@
         {
           "name": "Judy Brewer",
           "photo": "https://www.w3.org/2006/05/u/bbaa823afec7-tn.jpg"
-        },
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
         },
         {
           "name": "Jean-Guilhem Rouel",
@@ -30615,7 +30628,7 @@
           "2017-12": 0,
           "2018-01": 0,
           "2018-02": 0,
-          "2018-03": 1,
+          "2018-03": 0,
           "2018-04": 0,
           "2018-05": 0,
           "2018-06": 1,
@@ -31114,7 +31127,7 @@
       ],
       "activity": {
         "lists": {
-          "2021-04": 1,
+          "2021-04": 2,
           "2021-03": 22,
           "2021-02": 11,
           "2021-01": 7,
@@ -35763,6 +35776,7 @@
           }
         },
         "lists": {
+          "2021-04": 1,
           "2021-03": 12,
           "2021-02": 7,
           "2021-01": 5,
@@ -39291,16 +39305,11 @@
       "shortname": "webid",
       "link": "https://www.w3.org/community/webid/",
       "created": "2012-01-20T10:39:04.000Z",
-      "participants": 78,
+      "participants": 77,
       "chairs": [
         "Henry Story"
       ],
-      "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [
         "https://github.com/w3c/WebID"
       ],
@@ -39792,7 +39801,7 @@
           "2014-02": 0,
           "2014-03": 0,
           "2014-04": 0,
-          "2014-05": 2,
+          "2014-05": 1,
           "2014-06": 0,
           "2014-07": 3,
           "2014-08": 1,
@@ -48670,6 +48679,7 @@
           }
         },
         "lists": {
+          "2021-04": 2,
           "2021-01": 4,
           "2020-03": 1,
           "2020-02": 5,
@@ -49076,7 +49086,7 @@
           }
         },
         "lists": {
-          "2021-04": 1,
+          "2021-04": 2,
           "2021-03": 6,
           "2021-02": 4,
           "2021-01": 1,
@@ -60534,7 +60544,7 @@
           "2013-08": 1
         },
         "join": {
-          "2013-06": 13,
+          "2013-06": 12,
           "2013-07": 4,
           "2013-08": 4,
           "2013-09": 7,
@@ -60628,7 +60638,7 @@
           "2021-01": 1,
           "2021-02": 0,
           "2021-03": 1,
-          "2021-04": 0
+          "2021-04": 1
         }
       }
     },
@@ -60865,7 +60875,7 @@
           }
         },
         "lists": {
-          "2021-04": 11,
+          "2021-04": 13,
           "2021-03": 27,
           "2021-02": 15,
           "2020-12": 28,
@@ -61760,17 +61770,12 @@
       "type": "cg",
       "shortname": "egovernance",
       "link": "https://www.w3.org/community/egovernance/",
-      "created": "2013-08-07T14:12:55.000Z",
-      "participants": 60,
+      "created": "2013-08-07T19:25:08.000Z",
+      "participants": 59,
       "chairs": [
         "Jeanne Holm"
       ],
-      "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [],
       "activity": {
         "rss": {
@@ -61924,7 +61929,7 @@
           "2013-08": 11
         },
         "join": {
-          "2013-08": 27,
+          "2013-08": 26,
           "2013-09": 2,
           "2013-10": 2,
           "2013-11": 1,
@@ -62820,14 +62825,9 @@
       "shortname": "fedid",
       "link": "https://www.w3.org/community/fedid/",
       "created": "2013-09-02T15:49:09.000Z",
-      "participants": 20,
+      "participants": 19,
       "chairs": [],
-      "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [],
       "activity": {
         "rss": {
@@ -62951,7 +62951,7 @@
           "2013-09": 1
         },
         "join": {
-          "2013-09": 7,
+          "2013-09": 6,
           "2013-10": 1,
           "2013-11": 1,
           "2013-12": 0,
@@ -72642,8 +72642,8 @@
           "2020-12": 0,
           "2021-01": 0,
           "2021-02": 0,
-          "2021-03": 18,
-          "2021-04": 9
+          "2021-03": 10,
+          "2021-04": 12
         },
         "lists": {
           "2021-03": 25,
@@ -73851,7 +73851,7 @@
           }
         },
         "lists": {
-          "2021-04": 2,
+          "2021-04": 5,
           "2021-03": 4,
           "2021-01": 2,
           "2020-12": 75,
@@ -76151,14 +76151,14 @@
           "2020-06": 12,
           "2020-07": 6,
           "2020-08": 5,
-          "2020-09": 13,
+          "2020-09": 12,
           "2020-10": 9,
           "2020-11": 4,
           "2020-12": 5,
           "2021-01": 10,
           "2021-02": 5,
           "2021-03": 5,
-          "2021-04": 1
+          "2021-04": 2
         }
       }
     },
@@ -77469,17 +77469,12 @@
       "shortname": "ldpnext",
       "link": "https://www.w3.org/community/ldpnext/",
       "created": "2015-07-17T10:51:34.000Z",
-      "participants": 36,
+      "participants": 35,
       "chairs": [
         "Raúl García Castro",
         "Andrew Woods"
       ],
-      "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [
         "https://github.com/w3c/ldp-next"
       ],
@@ -77682,7 +77677,7 @@
           "2015-12": 0,
           "2016-01": 0,
           "2016-02": 3,
-          "2016-03": 1,
+          "2016-03": 0,
           "2016-04": 2,
           "2016-05": 0,
           "2016-06": 0,
@@ -78887,9 +78882,9 @@
       ],
       "activity": {
         "lists": {
-          "2021-06": 0.6666666666666666,
-          "2021-05": 0.6666666666666666,
-          "2021-04": 0.6666666666666666,
+          "2021-06": 1,
+          "2021-05": 1,
+          "2021-04": 1,
           "2021-03": 5,
           "2021-02": 5,
           "2021-01": 5,
@@ -79210,7 +79205,7 @@
       "shortname": "aria",
       "link": "https://www.w3.org/WAI/ARIA/",
       "created": "2015-10-22T00:00:00.000Z",
-      "participants": 55,
+      "participants": 56,
       "chairs": [
         "Joanmarie Diggs",
         "James Nurthen"
@@ -79448,7 +79443,7 @@
           "2021-01": 0,
           "2021-02": 2,
           "2021-03": 1,
-          "2021-04": 1
+          "2021-04": 2
         }
       }
     },
@@ -79470,10 +79465,6 @@
           "photo": "https://www.w3.org/2006/05/u/6f2027413ea9-tn.jpg"
         },
         {
-          "name": "Nick Telford-Reed",
-          "photo": "https://www.w3.org/2006/05/u/35m2xaywawys-tn.jpg"
-        },
-        {
           "name": "Marcos Caceres",
           "photo": "https://www.w3.org/2006/05/u/605b28fc0ts8-tn.jpg"
         }
@@ -79483,7 +79474,7 @@
       ],
       "activity": {
         "lists": {
-          "2021-04": 2,
+          "2021-04": 3,
           "2021-03": 20,
           "2021-02": 16,
           "2021-01": 31,
@@ -79777,7 +79768,7 @@
           "2020-02": 7,
           "2020-03": 1,
           "2020-04": 1,
-          "2020-05": 1,
+          "2020-05": 0,
           "2020-06": 1,
           "2020-07": 2,
           "2020-08": 1,
@@ -79788,7 +79779,7 @@
           "2021-01": 0,
           "2021-02": 0,
           "2021-03": 4,
-          "2021-04": 0
+          "2021-04": 1
         }
       }
     },
@@ -79799,7 +79790,7 @@
       "shortname": "apa",
       "link": "https://www.w3.org/WAI/APA/",
       "created": "2015-10-22T00:00:00.000Z",
-      "participants": 45,
+      "participants": 46,
       "chairs": [
         "Becky Gibson",
         "Janina Sajka"
@@ -79899,8 +79890,8 @@
           "2020-12": 0,
           "2021-01": 0,
           "2021-02": 0,
-          "2021-03": 19,
-          "2021-04": 9
+          "2021-03": 18,
+          "2021-04": 13
         },
         "tracker": {
           "type": "trackertracker",
@@ -79912,7 +79903,7 @@
           "_links": "[object Object][object Object]"
         },
         "lists": {
-          "2021-04": 22,
+          "2021-04": 24,
           "2021-03": 51,
           "2021-02": 69,
           "2021-01": 25,
@@ -80113,7 +80104,7 @@
           "2021-01": 2,
           "2021-02": 0,
           "2021-03": 1,
-          "2021-04": 2
+          "2021-04": 3
         }
       }
     },
@@ -80688,16 +80679,11 @@
       "shortname": "datasheets",
       "link": "https://www.w3.org/community/datasheets/",
       "created": "2015-10-29T14:10:37.000Z",
-      "participants": 6,
+      "participants": 5,
       "chairs": [
         "Jonathan Crossland"
       ],
-      "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [],
       "activity": {
         "rss": {
@@ -80864,7 +80850,7 @@
         },
         "join": {
           "2015-10": 2,
-          "2015-11": 2,
+          "2015-11": 1,
           "2015-12": 0,
           "2016-01": 0,
           "2016-02": 0,
@@ -81290,6 +81276,7 @@
           }
         },
         "lists": {
+          "2021-04": 1,
           "2019-07": 1,
           "2019-04": 1,
           "2019-03": 1,
@@ -83047,7 +83034,7 @@
       ],
       "activity": {
         "lists": {
-          "2021-04": 63,
+          "2021-04": 65,
           "2021-03": 130,
           "2021-02": 209,
           "2021-01": 108,
@@ -86040,7 +86027,7 @@
       "shortname": "pdf-open-data",
       "link": "https://www.w3.org/community/pdf-open-data/",
       "created": "2016-07-21T21:56:34.000Z",
-      "participants": 14,
+      "participants": 15,
       "chairs": [
         "Thomas Forth",
         "Jeni Tennison"
@@ -86198,7 +86185,7 @@
           "2021-01": 0,
           "2021-02": 0,
           "2021-03": 0,
-          "2021-04": 0
+          "2021-04": 1
         }
       }
     },
@@ -87752,7 +87739,7 @@
           }
         },
         "lists": {
-          "2021-04": 1,
+          "2021-04": 3,
           "2021-03": 18,
           "2021-02": 8,
           "2021-01": 10,
@@ -89112,7 +89099,7 @@
           }
         },
         "lists": {
-          "2021-04": 51,
+          "2021-04": 53,
           "2021-03": 92,
           "2021-02": 116,
           "2021-01": 117,
@@ -89216,8 +89203,8 @@
           "2020-12": 0,
           "2021-01": 0,
           "2021-02": 0,
-          "2021-03": 17,
-          "2021-04": 5
+          "2021-03": 16,
+          "2021-04": 8
         },
         "repository": {
           "2017-03": 0,
@@ -89879,14 +89866,9 @@
       "shortname": "decentralizdcomm",
       "link": "https://www.w3.org/community/decentralizdcomm/",
       "created": "2017-03-24T12:52:07.000Z",
-      "participants": 31,
+      "participants": 30,
       "chairs": [],
-      "staff": [
-        {
-          "name": "Sandro Hawke",
-          "photo": "https://www.w3.org/2006/05/u/1ceab17e8293-tn.jpg"
-        }
-      ],
+      "staff": [],
       "repositories": [],
       "activity": {
         "rss": {
@@ -89965,7 +89947,7 @@
         "join": {
           "2017-03": 6,
           "2017-04": 7,
-          "2017-05": 4,
+          "2017-05": 3,
           "2017-06": 0,
           "2017-07": 0,
           "2017-08": 1,
@@ -90283,7 +90265,7 @@
           "2020-11": 0,
           "2020-12": 0,
           "2021-01": 0,
-          "2021-02": 2,
+          "2021-02": 0,
           "2021-03": 32,
           "2021-04": 7
         },
@@ -90297,7 +90279,7 @@
           "_links": "[object Object][object Object]"
         },
         "lists": {
-          "2021-04": 70,
+          "2021-04": 80,
           "2021-03": 491,
           "2021-02": 163,
           "2021-01": 28,
