@@ -2,6 +2,7 @@ const url = require("url");
 const fs = require("fs");
 
 const _fetch = require("node-fetch");
+const throttle = require('fetch-throttle');
 const jsdom = require("jsdom");
 const RequestQueue = require('limited-request-queue');
 const RSSParser = require('rss-parser');
@@ -11,6 +12,8 @@ const config = require("./config.json");
 
 const { JSDOM } = jsdom;
 const rssparser = new RSSParser();
+
+const fetchThrottle = throttle(_fetch, 5, 1000);
 
 const fetchResolve = {};
 const fetchReject = {};
@@ -29,7 +32,7 @@ const queue = new RequestQueue(null, {
     if (url.match(/https:\/\/api\.w3\.org\//)) {
       headers.push(['Authorization', 'W3C-API apikey="' + config.w3capikey + '"']);
     }
-    _fetch(url, { headers }).then(r => Promise.all([Promise.resolve(r.status), Promise.resolve(r.headers), r.text()]))
+    fetchThrottle(url, { headers }).then(r => Promise.all([Promise.resolve(r.status), Promise.resolve(r.headers), r.text()]))
       .then(([status, headers, body]) => {
         done();
         cache[url] = {status, headers, body};;
@@ -157,6 +160,7 @@ function recursiveGhFetch(url, acc = []) {
 }
 
 function fetchGithubRepo(owner, repo) {
+  if (!owner) return [];
   return Promise.all([
     recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/issues?state=all&per_page=100')
       .then(data => data.map(i => { return {html_url: i.html_url, created_at: i.created_at};})),
@@ -186,7 +190,7 @@ function fetchGithub(url) {
         if (r.status === 404) ownerType = 'users';
         return recursiveGhFetch(`https://api.github.com/${ownerType}/${owner}/repos?per_page=100`);
       })
-      .then(repos => Promise.all(repos.filter(r => !r.fork).map(r => r.owner ? fetchGithubRepo(r.owner.login, r.name) : [])))
+      .then(repos => Promise.all(repos.filter(r => !r.fork).map(r => fetchGithubRepo(r.owner?.login, r.name) )))
       .then(items => { return {items: items.flat()} ;});
   } else {
     return fetchGithubRepo(owner, repo).then(items => { return {items} ;}) ;
