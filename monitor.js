@@ -3,7 +3,7 @@ const fs = require("fs");
 
 const _fetch = require("node-fetch");
 const jsdom = require("jsdom");
-const RequestQueue = require('limited-request-queue');
+const {ITEM_EVENT, RequestQueue} = require('limited-request-queue');
 const RSSParser = require('rss-parser');
 const linkParse = require('parse-link-header');
 
@@ -15,10 +15,10 @@ const rssparser = new RSSParser();
 const fetchResolve = {};
 const fetchReject = {};
 const cache = {};
+const
 
-
-const queue = new RequestQueue(null, {
-  'item': ({url}, done) => {
+const queue = new RequestQueue()
+  .on(ITEM_EVENT, (url, data, done) => {
     console.log("fetching " + url);
     const headers =  [
       ['User-Agent', 'W3C Group dashboard https://github.com/w3c/cg-monitor']
@@ -38,13 +38,13 @@ const queue = new RequestQueue(null, {
   }
 });
 
-const fetch = url => new Promise((res, rej) => {
+const fetch = (url, options = {}) => new Promise((res, rej) => {
   if (cache[url]) return res(cache[url]);
   if (!fetchResolve[url]) fetchResolve[url] = [];
   if (!fetchReject[url]) fetchReject[url] = [];
   fetchResolve[url].push(res);
   fetchReject[url].push(rej);
-  queue.enqueue(url);
+  queue.enqueue(url, {}, options);
 });
 
 const httpToHttps = str => str.replace(/^http:\/\//, "https://");
@@ -87,7 +87,7 @@ function fetchMail(url) {
 
 function recursiveFetchDiscourse(url, before = null, acc = []) {
   const fetchedUrl = url + (before ? '?before=' + before : '');
-  return fetch(fetchedUrl)
+  return fetch(fetchedUrl, {maxSocketsPerHost: 1, rateLimit: 200})
     .then(({body: text}) => JSON.parse(text))
     .then(({latest_posts}) => {
       if (!latest_posts) return acc;
