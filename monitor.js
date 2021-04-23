@@ -3,7 +3,7 @@ const fs = require("fs");
 
 const _fetch = require("node-fetch");
 const jsdom = require("jsdom");
-const {ITEM_EVENT, RequestQueue} = require('limited-request-queue');
+const {ITEM_EVENT, default:RequestQueue} = require('limited-request-queue');
 const RSSParser = require('rss-parser');
 const linkParse = require('parse-link-header');
 
@@ -15,7 +15,6 @@ const rssparser = new RSSParser();
 const fetchResolve = {};
 const fetchReject = {};
 const cache = {};
-const
 
 const queue = new RequestQueue()
   .on(ITEM_EVENT, (url, data, done) => {
@@ -23,10 +22,10 @@ const queue = new RequestQueue()
     const headers =  [
       ['User-Agent', 'W3C Group dashboard https://github.com/w3c/cg-monitor']
     ];
-    if (url.match(/https:\/\/api\.github\.com\//)) {
+    if (url.href.match(/https:\/\/api\.github\.com\//)) {
       headers.push(['Authorization', 'token ' + config.ghapitoken]);
     }
-    if (url.match(/https:\/\/api\.w3\.org\//)) {
+    if (url.href.match(/https:\/\/api\.w3\.org\//)) {
       headers.push(['Authorization', 'W3C-API apikey="' + config.w3capikey + '"']);
     }
     _fetch(url, { headers }).then(r => Promise.all([Promise.resolve(r.status), Promise.resolve(r.headers), r.text()]))
@@ -36,7 +35,7 @@ const queue = new RequestQueue()
         return Promise.all(fetchResolve[url].map(res => res({status, headers, body})));
       }).catch(err => {console.error(err); return fetchReject[url].forEach(rej => rej(err));});
   }
-});
+);
 
 const fetch = (url, options = {}) => new Promise((res, rej) => {
   if (cache[url]) return res(cache[url]);
@@ -44,7 +43,7 @@ const fetch = (url, options = {}) => new Promise((res, rej) => {
   if (!fetchReject[url]) fetchReject[url] = [];
   fetchResolve[url].push(res);
   fetchReject[url].push(rej);
-  queue.enqueue(url, {}, options);
+  queue.enqueue(new URL(url), {}, options);
 });
 
 const httpToHttps = str => str.replace(/^http:\/\//, "https://");
