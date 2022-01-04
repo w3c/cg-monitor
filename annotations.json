@@ -194,5 +194,6 @@
   "act-r": {"nospec": true, "wg": 35422},
   "chem-web-pub": {"relatedwg": 100074},
   "speech-api": {"dup": "wicg"},
-  "privacycg": {"relatedwg": 52497}
+  "privacycg": {"relatedwg": 52497},
+  "interop-remedies": {"nospec": true"}
 }
