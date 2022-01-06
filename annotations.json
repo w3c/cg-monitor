@@ -195,5 +195,5 @@
   "chem-web-pub": {"relatedwg": 100074},
   "speech-api": {"dup": "wicg"},
   "privacycg": {"relatedwg": 52497},
-  "interop-remedies": {"nospec": true"}
+  "interop-remedies": {"nospec": true}
 }
