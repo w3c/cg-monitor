@@ -16,4 +16,6 @@ where `groupid1` is a the id of the group in the W3C API.
 Once the data is collected per the above, run
 `node prepare-data.js`
 
-It will generate a `report.json` file with the data needed for the dashboard.
+It will generate a `report.json` file with the data needed for the [dashboard](https://w3c.github.io/cg-monitor/).
+
+The tool also generate the activity charts used in Community Group homepages.
