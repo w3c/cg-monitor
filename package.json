@@ -2,7 +2,7 @@
   "dependencies": {
     "jsdom": "^13.0.0",
     "limited-request-queue": "^5.1.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "nodemw": "^0.12.2",
     "parse-link-header": "^1.0.1",
     "promisify": "0.0.3",
