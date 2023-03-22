@@ -126,6 +126,7 @@ function fetchDvcs(url) {
 }
 
 function recursiveW3cFetch(url, key=null, acc = []) {
+  if (!url) return [];
   return fetch(url)
     .then(({body: text}) => JSON.parse(text))
     .then(data => {
@@ -244,11 +245,11 @@ fetch('https://w3c.github.io/validate-repos/report.json')
             Promise.resolve(w3cg),
             Promise.all((groupRepos[w3cg.id] || {repos:[]}).repos.map(({fullName}) => fetchGithub('https://github.com/' + fullName))),
             recursiveW3cFetch((w3cg._links.chairs || {}).href, 'chairs'),
-            recursiveW3cFetch((w3cg._links.services || {}).href + '?embed=1', 'services')
+            recursiveW3cFetch((w3cg._links.services || {}).href?.concat('?embed=1'), 'services')
               .then(services => Promise.all(
                 services
                   .map(fetchServiceActivity))),
-            recursiveW3cFetch((w3cg._links.participations || {}).href + '?embed=1', 'participations').catch(err => {console.error("Error fetching data on " + w3cg.id, err); return [w3cg, [], [], [], []];})
+            recursiveW3cFetch((w3cg._links.participations || {}).href?.concat('?embed=1'), 'participations').catch(err => {console.error("Error fetching data on " + w3cg.id, err); return [w3cg, [], [], [], []];})
           ]).then(data => save(w3cg.id, data)).catch(err => {console.error("Error dealing with " + w3cg.id, err);})
       ));
   }).catch(err => console.error(err));
