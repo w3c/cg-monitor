@@ -250,6 +250,7 @@ fetch('https://w3c.github.io/validate-repos/report.json')
                 services
                   .map(fetchServiceActivity))),
             recursiveW3cFetch((w3cg._links.participations || {}).href?.concat('?embed=1'), 'participations')
-          ]).then(data => save(w3cg.id, data)).catch(err => {console.error("Error dealing with " + w3cg.id, err);})
+          ]).catch(err => {console.error("Error fetching data on " + w3cg.id, err); return [w3cg, [], [], [], []];})
+	    .then(data => save(w3cg.id, data)).catch(err => {console.error("Error dealing with " + w3cg.id, err);})
       ));
   }).catch(err => console.error(err));
