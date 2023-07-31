@@ -1,7 +1,7 @@
 This tool collects data from various sources (W3C API, Github API, screen-scraping of W3C mailing lists archives, RSS feeds, wikis) to build a picture of the activity level in W3C Community Groups.
 
 # Data collection
-You need to instantiate a `config.json` (from the `config.json.dist` template), filled with a W3C API key and a Github API key.
+You need to instantiate a `config.json` (from the `config.json.dist` template), filled with a Github API key.
 
 Once that done, run:
 `node monitor.js`
