@@ -25,9 +25,6 @@ const queue = new RequestQueue()
     if (url.href.match(/https:\/\/api\.github\.com\//)) {
       headers.push(['Authorization', 'token ' + config.ghapitoken]);
     }
-    if (url.href.match(/https:\/\/api\.w3\.org\//)) {
-      headers.push(['Authorization', 'W3C-API apikey="' + config.w3capikey + '"']);
-    }
     _fetch(url, { headers }).then(r => Promise.all([Promise.resolve(r.status), Promise.resolve(r.headers), r.text()]))
       .then(([status, headers, body]) => {
         done();
