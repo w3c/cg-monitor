@@ -70,9 +70,11 @@ let stats = {
 
 Promise.all([
   fetch("report.json").then(r => r.json()),
-  fetch("annotations.json").then(r => r.json())
+  fetch("annotations.json").then(r => r.json()),
+  fetch("https://api.w3.org/groups/cg?items=500&embed=1").then(r => r.json()).then(data => data._embedded.groups.filter(g => !g['spec-publisher']).map(g => g.shortname)),
+  fetch("https://api.w3.org/groups/bg?items=500&embed=1").then(r => r.json()).then(data => data._embedded.groups.filter(g => !g['spec-publisher']).map(g => g.shortname))
 ])
-  .then(([{data: groupdata, timestamp}, annotations]) => {
+  .then(([{data: groupdata, timestamp}, annotations, cgNoSpec, bgNoSpec]) => {
     groupdata.filter(d => d && grouptypes.includes(d.type))
       .forEach(d => {
       if (!d) return;
@@ -190,7 +192,7 @@ Promise.all([
       section.append(stafflist);
 
       const notes = document.createElement("td");
-      if (annotations[cgshortname] && annotations[cgshortname].nospec) {
+      if (cgNoSpec.includes(cgshortname) || bgNoSpec.includes(cgshortname)) {
         stats.nospec++;
         const nospec = document.createElement("span");
         nospec.classList.add("tag");
