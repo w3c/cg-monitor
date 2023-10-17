@@ -42,6 +42,7 @@ const loadDir = async dirPath => {
               cgData.type = shortType[data[0].type];
               cgData.shortname = data[0].shortname;
               cgData.link = data[0]._links.homepage.href;
+              cgData["spec-publisher"] = data[0]["spec-publisher"];
               // Approximating creation date to date of first person joining
               cgData.created = new Date(data[0]["start-date"] || ((data[4][0] || {}).created + "Z"));
               cgData.participants = data[4].length;

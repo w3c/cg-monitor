@@ -190,7 +190,7 @@ Promise.all([
       section.append(stafflist);
 
       const notes = document.createElement("td");
-      if (annotations[cgshortname] && annotations[cgshortname].nospec) {
+      if (!d["spec-publisher"]) {
         stats.nospec++;
         const nospec = document.createElement("span");
         nospec.classList.add("tag");
