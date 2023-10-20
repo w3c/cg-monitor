@@ -18,7 +18,7 @@ const authedFetch = (url) => {
     // Roughly matching github API rate limit of 5000 requests per hour
     interval = 750;
   }
-  return queuedFetch(url, { headers }, { interval, verbose: true });
+  return queuedFetch(url, { headers }, { interval, verbose: true, fsCachePath: ".cache" });
 };
 
 

@@ -51,7 +51,6 @@ describe('The HTTP request manager', function () {
     await Promise.all(requests);
   });
 
-
   it('queues different request to a single server, respecting the default request interval', async () => {
     const origInterval = QueuedFetch.DEFAULT_INTERVAL;
     QueuedFetch.DEFAULT_INTERVAL = 1000;
@@ -92,7 +91,7 @@ describe('The HTTP request manager', function () {
   it("reports an HTTP error but doesn't stop crawling upon it", async () => {
     const url1 = testBaseUrl + newPath();
     const url2 = testBaseUrl + newPath();
-    mock(url1, 400, 500);
+    mock(url1, 404, 500);
     mock(url2, 200);
     
     const requests = [];
@@ -104,7 +103,7 @@ describe('The HTTP request manager', function () {
         assert.equal(arr[1].status, 200);
       })
       .catch(err =>
-        assert.match(err.message, /400/)
+        assert.match(err.message, /404/)
       );
 
   });
@@ -174,6 +173,17 @@ describe('The HTTP request manager', function () {
     assert.equal(response.status, 304);
   });
 
+  it('loads a response from the FS cache', async () => {
+    const ims = "Fri, 20 Oct 2023 16:51:59 GMT";
+    const fsUrl = testBaseUrl + "fs";
+    const u = new URL(fsUrl);
+    const interceptor = agent
+          .get(u.origin)
+          .intercept({path: u.pathname, method: "GET", headers: {"if-modified-since": ims}})
+        .reply(304);
+    const response = await queuedFetch(fsUrl, {}, {fsCachePath: "test/fs-cache"});
+    assert.match(response.headers.get("cache-status"), /hit/)
+  });
   
   afterEach(() => {
     QueuedFetch.INTERVAL = origInterval;
