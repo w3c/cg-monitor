@@ -1,65 +1,42 @@
 const url = require("url");
 const fs = require("fs");
 
-const _fetch = require("node-fetch");
+const config = require("./config.json") || {};
+
+const QueuedFetch = require("./lib/caching-queued-fetch");
+const { queuedFetch } = QueuedFetch;
+
+const authedFetch = (url) => {
+  // this is the value used for the discourse API, and feels like a safe default in general
+  let interval = 200;
+  const u = new URL(url);
+  const headers =  [
+    ['User-Agent', 'W3C Group dashboard https://github.com/w3c/cg-monitor']
+  ];
+  if (u.href.startsWith("https://api.github.com/")) {
+    headers.push(['Authorization', 'token ' + config.ghapitoken]);
+    // Roughly matching github API rate limit of 5000 requests per hour
+    interval = 750;
+  }
+  return queuedFetch(url, { headers }, { interval, verbose: true });
+};
+
+
+
 const jsdom = require("jsdom");
-const {ITEM_EVENT, default:RequestQueue} = require('limited-request-queue');
 const RSSParser = require('rss-parser');
 const linkParse = require('parse-link-header');
-
-const config = require("./config.json");
 
 const { JSDOM } = jsdom;
 const rssparser = new RSSParser();
 
-const fetchResolve = {};
-const fetchReject = {};
-const cache = {};
-
-const log = err => { console.error(err); return err;};
-
-
-const queue = new RequestQueue()
-  .on(ITEM_EVENT, async (url, data, done) => {
-    console.log("fetching " + url);
-    const headers =  [
-      ['User-Agent', 'W3C Group dashboard https://github.com/w3c/cg-monitor']
-    ];
-    if (url.href.match(/https:\/\/api\.github\.com\//)) {
-      headers.push(['Authorization', 'token ' + config.ghapitoken]);
-    }
-    try {
-      const r = await _fetch(url, { headers });
-      const body = await r.text();
-      done();
-      cache[url] = {status: r.status, headers: r.headers, body};
-      for (const res of fetchResolve[url]) {
-        res(cache[url]);
-      }
-    } catch (err) {
-      done();
-      console.error(`fetching ${url} failed`, err);
-      for (const rej of fetchReject[url]) {
-        rej(err);
-      }
-    }
-  }
-);
-
-const fetch = (url, options = {}) =>  new Promise((res, rej) => {
-  if (cache[url]) return res(cache[url]);
-  if (!fetchResolve[url]) fetchResolve[url] = [];
-  if (!fetchReject[url]) fetchReject[url] = [];
-  fetchResolve[url].push(res);
-  fetchReject[url].push(rej);
-  queue.enqueue(new URL(url), {}, options);
-});
+ghToken = config.ghapitoken;
 
 const httpToHttps = str => str.replace(/^http:\/\//, "https://");
 
 async function fetchRSS(url) {
   try {
-    const text = (await fetch(url)).body;
+    const text = (await authedFetch(url)).body;
     return rssparser.parseString(text);
   } catch (err) {
     return "Error fetching "  + url + ": " + err;
@@ -68,7 +45,7 @@ async function fetchRSS(url) {
 
 async function fetchMail(url) {
   if (!httpToHttps(url).startsWith('https://lists.w3.org/Archives/Public')) return "Did not fetch " + url;
-  const text = (await fetch(url)).body;
+  const text = (await authedFetch(url)).body;
   const dom = new JSDOM(text);
   const data = {};
   [...dom.window.document.querySelectorAll("tbody")].forEach(tbody => {
@@ -99,7 +76,7 @@ async function fetchMail(url) {
 async function recursiveFetchDiscourse(url, before = null, acc = []) {
   const fetchedUrl = url + (before ? '?before=' + before : '');
   try {
-    const text = (await fetch(fetchedUrl, {maxSocketsPerHost: 1, rateLimit: 200})).body;
+    const text = (await authedFetch(fetchedUrl)).body;
     const {latest_posts} = JSON.parse(text);
     if (!latest_posts) return acc;
     acc = acc.concat(latest_posts.map(p => { return {created_at: p.created_at, topic_title: p.topic_title}; }));
@@ -126,6 +103,10 @@ async function fetchForum(url) {
 
 async function fetchWiki(url) {
   if (!url.startsWith('http')) url = 'https://www.w3.org' + url;
+  if (url.startsWith("https://github.com")) {
+    // based on https://stackoverflow.com/a/8573941
+    return fetchRSS(url + ".atom");
+  }
   return fetchRSS(url + '/api.php?action=feedrecentchanges&days=1000&limit=1000');
 }
 
@@ -133,7 +114,7 @@ async function fetchWiki(url) {
 
 async function recursiveW3cFetch(url, key=null, acc = []) {
   if (!url) return [];
-  const text = (await fetch(url)).body;
+  const text = (await authedFetch(url)).body;
   const data = JSON.parse(text);
   const selectedData = !key ? data : (data._embedded ? data._embedded[key] : data._links[key]);
   if (!key) {
@@ -147,7 +128,7 @@ async function recursiveW3cFetch(url, key=null, acc = []) {
 
 
 async function recursiveGhFetch(url, acc = []) {
-  const { headers, body} = await fetch(url);
+  const { headers, body} = await authedFetch(url);
   const link = (headers || new Map()).get('link');
   const data = JSON.parse(body);
   if (link) {
@@ -161,14 +142,20 @@ async function recursiveGhFetch(url, acc = []) {
 
 function fetchGithubRepo(owner, repo) {
   return Promise.all([
-    recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/issues?state=all&per_page=100')
+    recursiveGhFetch('https://labs.w3.org/github-cache/v3/repos/' + owner + '/' + repo + '/issues?state=all&per_page=100')
+    // if the github cache doesn't work, try hitting github directly
+      .catch(() => 
+        recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/issues?state=all&per_page=100'))
       .then(data => data.map(i => { return {html_url: i.html_url, created_at: i.created_at};})),
     recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/pulls?state=all&per_page=100')
       .then(data => data.map(i => { return {html_url: i.html_url, created_at: i.created_at};}))
       .then(pulls => {
         if (pulls.length === 0) {
           // if no pull request, we take a look at commits instead
-          return recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/commits?per_page=100')
+          return recursiveGhFetch('https://labs.w3.org/github-cache/v3/repos/' + owner + '/' + repo + '/commits?per_page=100')
+          // if the github cache doesn't work, try hitting github directly
+            .catch(() => 
+              recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/commits?per_page=100'))
             .then(data => data.map(i => { return {html_url: i.html_url, created_at: i.created_at, commit: i.commit}; }));
         }
         return pulls;
@@ -184,7 +171,7 @@ async function fetchGithub(url) {
   if (!repo) {
     // Fetch info on all repos from the org / the user
     let ownerType = "orgs";
-    const r= await fetch(`https://api.github.com/orgs/${owner}`);
+    const r= await authedFetch(`https://api.github.com/orgs/${owner}`);
     if (r.status === 404) ownerType = 'users';
     const repos = await recursiveGhFetch(`https://api.github.com/${ownerType}/${owner}/repos?per_page=100`);
     const items = await Promise.all(repos.filter(r => !r.fork).map(r => r.owner ? fetchGithubRepo(r.owner.login, r.name) : []));
@@ -226,7 +213,7 @@ let groupRepos;
 
 (async function() {
   try {
-    const data = JSON.parse((await fetch('https://w3c.github.io/validate-repos/report.json')).body);
+    const data = JSON.parse((await authedFetch('https://w3c.github.io/validate-repos/report.json')).body);
     const groupRepos =data.groups;
     const staff = await recursiveW3cFetch('https://api.w3.org/affiliations/52794/participants?embed=1', 'participants');
     save('staff', staff);

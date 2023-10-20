@@ -1,11 +1,16 @@
 {
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {
     "jsdom": "^13.0.0",
     "limited-request-queue": "^5.1.0",
+    "mocha": "^10.2.0",
     "node-fetch": "^2.6.1",
     "nodemw": "^0.12.2",
     "parse-link-header": "^1.0.1",
     "promisify": "0.0.3",
-    "rss-parser": "^3.5.4"
+    "rss-parser": "^3.5.4",
+    "undici": "^5.26.4"
   }
 }
