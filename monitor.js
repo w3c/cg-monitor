@@ -146,7 +146,8 @@ function fetchGithubRepo(owner, repo) {
     // if the github cache doesn't work, try hitting github directly
       .catch(() => 
         recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/issues?state=all&per_page=100'))
-      .then(data => data.map(i => { return {html_url: i.html_url, created_at: i.created_at};})),
+      .then(data => data.map(i => { return {html_url: i.html_url, created_at: i.created_at};}))
+      .catch(() => []),
     recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/pulls?state=all&per_page=100')
       .then(data => data.map(i => { return {html_url: i.html_url, created_at: i.created_at};}))
       .then(pulls => {
@@ -159,7 +160,7 @@ function fetchGithubRepo(owner, repo) {
             .then(data => data.map(i => { return {html_url: i.html_url, created_at: i.created_at, commit: i.commit}; }));
         }
         return pulls;
-      })
+      }).catch(() => [])
   ]).then(data => data.flat());
 }
 
