@@ -10,11 +10,11 @@ const authedFetch = (url) => {
   // this is the value used for the discourse API, and feels like a safe default in general
   let interval = 200;
   const u = new URL(url);
-  const headers =  [
-    ['User-Agent', 'W3C Group dashboard https://github.com/w3c/cg-monitor']
-  ];
+  const headers =  {
+    'User-Agent': 'W3C Group dashboard https://github.com/w3c/cg-monitor'
+  };
   if (u.href.startsWith("https://api.github.com/")) {
-    headers.push(['Authorization', 'token ' + config.ghapitoken]);
+    headers['Authorization'] = 'token ' + config.ghapitoken;
     // Roughly matching github API rate limit of 5000 requests per hour
     interval = 750;
   }
@@ -107,6 +107,7 @@ async function fetchWiki(url) {
     // based on https://stackoverflow.com/a/8573941
     return fetchRSS(url + ".atom");
   }
+  // TODO: handle case of a single wiki page
   return fetchRSS(url + '/api.php?action=feedrecentchanges&days=1000&limit=1000');
 }
 
@@ -176,6 +177,7 @@ async function fetchGithub(url) {
     if (r.status === 404) ownerType = 'users';
     const repos = await recursiveGhFetch(`https://api.github.com/${ownerType}/${owner}/repos?per_page=100`);
     const items = await Promise.all(repos.filter(r => !r.fork).map(r => r.owner ? fetchGithubRepo(r.owner.login, r.name) : []));
+    // TODO: this should instead be sent as a collection of services (1 per repo)
     return { items: items.flat() };
   } else {
     return {items: await fetchGithubRepo(owner, repo)};

@@ -173,15 +173,15 @@ describe('The HTTP request manager', function () {
     assert.equal(response.status, 304);
   });
 
-  it('loads a response from the FS cache', async () => {
+  it('loads a response from the FS cache with the proper request headers', async () => {
     const ims = "Fri, 20 Oct 2023 16:51:59 GMT";
     const fsUrl = testBaseUrl + "fs";
     const u = new URL(fsUrl);
     const interceptor = agent
           .get(u.origin)
-          .intercept({path: u.pathname, method: "GET", headers: {"if-modified-since": ims}})
+          .intercept({path: u.pathname, method: "GET", headers: {"if-modified-since": ims, authorization: "test"}})
         .reply(304);
-    const response = await queuedFetch(fsUrl, {}, {fsCachePath: "test/fs-cache"});
+    const response = await queuedFetch(fsUrl, {headers: {authorization: "test"}}, {fsCachePath: "test/fs-cache"});
     assert.match(response.headers.get("cache-status"), /hit/)
   });
   
