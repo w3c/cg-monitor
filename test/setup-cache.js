@@ -22,6 +22,11 @@ agent.disableNetConnect();
 
 const testBaseUrl = 'https://example.com/';
 
-mock(testBaseUrl + "fs", 200, 0, { headers: {"last-modified": "Fri, 20 Oct 2023 16:51:59 GMT"}});
+mock(testBaseUrl + "fs", 200, 0, { headers: {"expires": "Mon, 20 Oct 2223 16:51:59 GMT"}});
+mock(testBaseUrl + "fs2", 200, 0, { headers: {"expires": "Fri, 20 Oct 2023 16:51:59 GMT"}});
+mock(testBaseUrl + "fs3", 200, 0, { headers: {"last-modified": "Fri, 20 Oct 2023 16:51:59 GMT"}});
+
 
 fsCacheFetch(testBaseUrl + "fs", {cacheFolder: "test/fs-cache"});
+fsCacheFetch(testBaseUrl + "fs2", {cacheFolder: "test/fs-cache"});
+fsCacheFetch(testBaseUrl + "fs3", {cacheFolder: "test/fs-cache"});

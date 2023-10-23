@@ -173,17 +173,38 @@ describe('The HTTP request manager', function () {
     assert.equal(response.status, 304);
   });
 
-  it('loads a response from the FS cache with the proper request headers', async () => {
+  it('loads a response from the FS cache when it has not expired', async () => {
     const ims = "Fri, 20 Oct 2023 16:51:59 GMT";
     const fsUrl = testBaseUrl + "fs";
     const u = new URL(fsUrl);
+    const response = await queuedFetch(fsUrl, {headers: {authorization: "test"}}, {fsCachePath: "test/fs-cache", verbose: true});
+    assert.match(response.headers.get("cache-status"), /hit/);
+  });
+
+  it('handles 304 from the FS cache with the proper request header', async () => {
+    const ims = "Fri, 20 Oct 2023 16:51:59 GMT";
+    const fsUrl = testBaseUrl + "fs3";
+    const u = new URL(fsUrl);
     const interceptor = agent
           .get(u.origin)
-          .intercept({path: u.pathname, method: "GET", headers: {"if-modified-since": ims, authorization: "test"}})
+          .intercept({path: u.pathname, method: "GET", headers: {"if-modified-since": ims}})
         .reply(304);
-    const response = await queuedFetch(fsUrl, {headers: {authorization: "test"}}, {fsCachePath: "test/fs-cache"});
-    assert.match(response.headers.get("cache-status"), /hit/)
+    const response = await queuedFetch(fsUrl, {headers: {authorization: "test", "if-modified-since": ims}}, {fsCachePath: "test/fs-cache", verbose: true});
+    assert.equal(response.headers.get("cache-status"), null);
   });
+
+  
+  it('skips a response from the FS cache when it is stale', async () => {
+    const fsUrl = testBaseUrl + "fs2";
+    const u = new URL(fsUrl);
+    const interceptor = agent
+          .get(u.origin)
+          .intercept({path: u.pathname, method: "GET"})
+        .reply(200);
+    const response = await queuedFetch(fsUrl, {}, {fsCachePath: "test/fs-cache", verbose: true});
+    assert.equal(response.headers.get("cache-status"), null);
+  });
+
   
   afterEach(() => {
     QueuedFetch.INTERVAL = origInterval;
