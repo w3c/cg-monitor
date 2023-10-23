@@ -108,6 +108,7 @@ async function fetchWiki(url) {
     return fetchRSS(url + ".atom");
   }
   // TODO: handle case of a single wiki page
+  // handle case of Main_Page
   return fetchRSS(url + '/api.php?action=feedrecentchanges&days=1000&limit=1000');
 }
 
@@ -146,10 +147,10 @@ function fetchGithubRepo(owner, repo) {
     recursiveGhFetch('https://labs.w3.org/github-cache/v3/repos/' + owner + '/' + repo + '/issues?state=all&per_page=100')
     // if the github cache doesn't work, try hitting github directly
       .catch(() => 
-        recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/issues?state=all&per_page=100'))
+        recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/issues?state=all&per_page=100&direction=asc'))
       .then(data => data.map(i => { return {html_url: i.html_url, created_at: i.created_at};}))
       .catch(() => []),
-    recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/pulls?state=all&per_page=100')
+    recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/pulls?state=all&per_page=100&direction=asc')
       .then(data => data.map(i => { return {html_url: i.html_url, created_at: i.created_at};}))
       .then(pulls => {
         if (pulls.length === 0) {
@@ -157,7 +158,7 @@ function fetchGithubRepo(owner, repo) {
           return recursiveGhFetch('https://labs.w3.org/github-cache/v3/repos/' + owner + '/' + repo + '/commits?per_page=100')
           // if the github cache doesn't work, try hitting github directly
             .catch(() => 
-              recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/commits?per_page=100'))
+              recursiveGhFetch('https://api.github.com/repos/' + owner + '/' + repo + '/commits?per_page=100&direction=asc'))
             .then(data => data.map(i => { return {html_url: i.html_url, created_at: i.created_at, commit: i.commit}; }));
         }
         return pulls;
@@ -175,7 +176,7 @@ async function fetchGithub(url) {
     let ownerType = "orgs";
     const r= await authedFetch(`https://api.github.com/orgs/${owner}`);
     if (r.status === 404) ownerType = 'users';
-    const repos = await recursiveGhFetch(`https://api.github.com/${ownerType}/${owner}/repos?per_page=100`);
+    const repos = await recursiveGhFetch(`https://api.github.com/${ownerType}/${owner}/repos?per_page=100&direction=asc`);
     const items = await Promise.all(repos.filter(r => !r.fork).map(r => r.owner ? fetchGithubRepo(r.owner.login, r.name) : []));
     // TODO: this should instead be sent as a collection of services (1 per repo)
     return { items: items.flat() };
