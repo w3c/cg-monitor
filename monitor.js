@@ -174,8 +174,11 @@ async function fetchGithub(url) {
   if (!repo) {
     // Fetch info on all repos from the org / the user
     let ownerType = "orgs";
-    const r= await authedFetch(`https://api.github.com/orgs/${owner}`);
-    if (r.status === 404) ownerType = 'users';
+    try {
+      const r= await authedFetch(`https://api.github.com/orgs/${owner}`);
+    } catch (e) {
+	ownerType = 'users';
+    }
     const repos = await recursiveGhFetch(`https://api.github.com/${ownerType}/${owner}/repos?per_page=100&direction=asc`);
     const items = await Promise.all(repos.filter(r => !r.fork).map(r => r.owner ? fetchGithubRepo(r.owner.login, r.name) : []));
     // TODO: this should instead be sent as a collection of services (1 per repo)
