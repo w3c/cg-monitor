@@ -6,7 +6,7 @@
     "fetch-filecache-for-crawling": "^5.1.1",
     "jsdom": "^13.0.0",
     "mocha": "^10.2.0",
-    "parse-link-header": "^1.0.1",
+    "parse-link-header": "^2.0.0",
     "rss-parser": "^3.5.4",
     "undici": "^5.26.4"
   }
