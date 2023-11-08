@@ -142,7 +142,7 @@ async function recursiveGhFetch(url, acc = []) {
   return acc.concat(data);
 }
 
-function fetchGithubRepo(owner, repo) {
+function fetchGithubRepo(owner, repo, size) {
   return Promise.all([
     recursiveGhFetch('https://labs.w3.org/github-cache/v3/repos/' + owner + '/' + repo + '/issues?state=all&per_page=100')
     // if the github cache doesn't work, try hitting github directly
@@ -155,6 +155,8 @@ function fetchGithubRepo(owner, repo) {
       .then(pulls => {
         if (pulls.length === 0) {
           // if no pull request, we take a look at commits instead
+          // unless the repo is empty
+	  if (size === 0) return [];
           return recursiveGhFetch('https://labs.w3.org/github-cache/v3/repos/' + owner + '/' + repo + '/commits?per_page=100')
           // if the github cache doesn't work, try hitting github directly
             .catch(() => 
@@ -173,7 +175,7 @@ async function fetchGithub(url) {
   const [, owner,, repo] = match;
   if (!repo) {
     const repos = await recursiveGhFetch(`https://api.github.com/users/${owner}/repos?per_page=100&direction=asc`);
-    const items = await Promise.all(repos.filter(r => !r.fork).map(r => r.owner ? fetchGithubRepo(r.owner.login, r.name) : []));
+    const items = await Promise.all(repos.filter(r => !r.fork).map(r => r.owner ? fetchGithubRepo(r.owner.login, r.name, r.size) : []));
     // TODO: this should instead be sent as a collection of services (1 per repo)
     return { items: items.flat() };
   } else {
