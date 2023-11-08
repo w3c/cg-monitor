@@ -4,7 +4,7 @@
   },
   "dependencies": {
     "fetch-filecache-for-crawling": "^5.1.1",
-    "jsdom": "^13.0.0",
+    "jsdom": "^22.1.0",
     "mocha": "^10.2.0",
     "parse-link-header": "^1.0.1",
     "rss-parser": "^3.5.4",
