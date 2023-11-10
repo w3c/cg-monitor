@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Test Feed</title>
+  <item>
+    <title>Entry 1</title>
+    <pubDate>Fri, Nov 10 2023 14:24:37 +0100</pubDate>
+  </item>
+</channel>
+
+</rss> 
