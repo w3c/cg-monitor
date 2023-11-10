@@ -42,7 +42,7 @@ describe('The Wiki Activity monitor', function () {
   
 
   it('detects activity in an entire Mediawiki', async function() {
-    const feed = await fs.readFile('test/feed.rss', 'utf-8');
+    const feed = await fs.readFile('test/mock-content/feed.rss', 'utf-8');
     const u = new URL("https://example.test/wiki/");
     agent
       .get(u.origin)
