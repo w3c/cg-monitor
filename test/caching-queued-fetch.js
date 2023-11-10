@@ -1,5 +1,5 @@
 /**
- * Tests the targets removal detection library.
+ * Tests the caching fetch library.
  */
 /* global describe, it */
 

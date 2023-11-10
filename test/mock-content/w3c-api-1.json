@@ -1,0 +1,12 @@
+{
+  "_links": {
+    "next": {
+      "href": "https://example.test/w3c-api/2"
+    }
+  },
+  "_embedded": {
+    "test": [
+      "1"
+    ]
+  }
+}
