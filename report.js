@@ -10,6 +10,8 @@ const grouptypes = location.search ? location.search.slice(1).split(',') : ['cg'
 document.getElementById('period').textContent = period;
 [...document.querySelectorAll('.grouptype')].forEach(n => n.textContent = grouptypes.includes('cg') && grouptypes.includes('wg') ? 'All groups' : (grouptypes.includes('cg') ? 'Community Groups' : 'Working Groups'));
 
+let inscopeGroups = 0;
+
 const lastXMonths = ((period = period) => {
   const now = new Date();
   const ayearago = new Date();
@@ -76,6 +78,7 @@ Promise.all([
     groupdata.filter(d => d && grouptypes.includes(d.type))
       .forEach(d => {
       if (!d) return;
+      inscopeGroups++;
       document.getElementById('timestamp').textContent = new Date(timestamp).toJSON().slice(0,10);
 
       const section = document.createElement("tr");
