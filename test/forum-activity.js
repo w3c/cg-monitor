@@ -16,7 +16,7 @@ const agent = new MockAgent();
 let counter = 0;
 const testUrl = () => {
   counter++;
-  return new URL(`https://example.test/discourse/mail${counter}/`);
+  return new URL(`https://example.test/disc/mail${counter}/`);
 }
 
 const toDiscourseAPI = p => p + 'posts.json';
@@ -45,6 +45,14 @@ describe('The Forum Activity monitor', function () {
     assert.equal(data[0].created_at, "2023-11-01T21:30:42.605Z", 'Date retrieved from discourse post');
   });
 
+  it('skips Google Groups and Slacks', async function() {
+    const data = await fetchForum("https://groups.google.com/g/test");
+    assert.equal(typeof data, 'string');
+    const data2 = await fetchForum("https://test.slack.com/channel");
+    assert.equal(typeof data2, 'string');
+  });
+
+  
   /*
   it("returns an error when the archive doesn't exist", async function() {
     const u = testUrl();
