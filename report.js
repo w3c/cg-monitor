@@ -239,16 +239,16 @@ Promise.all([
 
     const statList = document.getElementById("stats");
     const chairstat = document.createElement("li");
-    chairstat.appendChild(document.createTextNode(`${stats.nochairs} (${Math.round(100 * stats.nochairs / groupdata.length)}%) groups have no chair`));
+    chairstat.appendChild(document.createTextNode(`${stats.nochairs} (${Math.round(100 * stats.nochairs / inscopeGroups)}%) groups have no chair`));
     statList.appendChild(chairstat);
     const staffstat = document.createElement("li");
-    staffstat.appendChild(document.createTextNode(`${stats.nostaff} (${Math.round(100 * stats.nostaff / groupdata.length)}%) groups have no representative from the W3C staff`));
+    staffstat.appendChild(document.createTextNode(`${stats.nostaff} (${Math.round(100 * stats.nostaff / inscopeGroups)}%) groups have no representative from the W3C staff`));
     statList.appendChild(staffstat);
     const repostat = document.createElement("li");
-    repostat.appendChild(document.createTextNode(`${stats.norepo} (${Math.round(100 * stats.norepo / groupdata.length)}%) groups have no known repository`));
+    repostat.appendChild(document.createTextNode(`${stats.norepo} (${Math.round(100 * stats.norepo / inscopeGroups)}%) groups have no known repository`));
     statList.appendChild(repostat);
     const specstat = document.createElement("li");
-    specstat.appendChild(document.createTextNode(`${stats.nospec} (${Math.round(100 * stats.nospec / groupdata.length)}%) groups are not intending to build technical specifications`));
+    specstat.appendChild(document.createTextNode(`${stats.nospec} (${Math.round(100 * stats.nospec / inscopeGroups)}%) groups are not intending to build technical specifications`));
     statList.appendChild(specstat);
     main.setAttribute("aria-busy", false);
   });
