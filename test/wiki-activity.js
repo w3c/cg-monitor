@@ -53,6 +53,19 @@ describe('The Wiki Activity monitor', function () {
     assert.equal(data[0].isoDate, '2023-11-10T13:24:37.000Z', 'RSS feed item wiki date correctly identified');
   });
 
+  it('detects activity on a single wiki page', async function() {
+    const feed = await fs.readFile('test/mock-content/feed.rss', 'utf-8');
+    const u = new URL("https://example.test/wiki/Test_Page");
+    agent
+      .get(u.origin)
+      .intercept({path: `/wiki/index.php?title=Test_Page&feed=atom&action=history&days=1000&limit=1000`, method: "GET"})
+      .reply(200, feed);
+    const { items: data} = await fetchWiki(u.href);
+    assert.equal(data.length, 1, 'RSS Feed from wikimedia has one item');
+    assert.equal(data[0].isoDate, '2023-11-10T13:24:37.000Z', 'RSS feed item wiki date correctly identified');
+  });
+
+  
   it("returns an error when the feed doesn't exist", async function() {
     const u = testUrl();
     agent
