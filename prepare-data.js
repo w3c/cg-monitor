@@ -3,8 +3,6 @@ const { computeGroupData } = require("./lib/compute-group-data");
 
 const target = "./report.json";
 
-const aggregatedData = [];
-
 const loadDir = async (dirPath) => {
   const files = (await fs.readdir(dirPath)).filter(path => path.match(/\.json$/) && path !== 'staff.json');
   const staff = JSON.parse(await fs.readFile(dirPath + '/staff.json', 'utf-8'));
