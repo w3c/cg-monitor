@@ -1,5 +1,5 @@
 const fs = require("fs");
-const computeGroupData = require("./lib/compute-group-data");
+const { computeGroupData } = require("./lib/compute-group-data");
 
 const target = "./report.json";
 
