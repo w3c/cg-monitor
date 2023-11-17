@@ -1,6 +1,8 @@
 name: Monitor
 
 on:
+  schedule:
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
@@ -25,7 +27,7 @@ jobs:
       - name: Run monitor script
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node monitor.js 43696 80485
+        run: node --max-old-space-size=8192 monitor.js
       - name: save HTTP cache
         id: cache-http-save
         uses: actions/cache/save@v3
@@ -35,7 +37,20 @@ jobs:
           key: ${{ steps.cache-http-restore.outputs.cache-primary-key }}
       - name: Run data wranger script
         run: node prepare-data.js
-      # TODO: popularity and graph generation
+      - name: Run popularity calculator & graph generation
+        run: node export-popularity.js
+      - name: Commit changes
+        run: |
+          git config user.name "w3c-cg-monitor-bot"
+          git config user.email "<>"
+          git add report.json popularity.json viz
+          git commit -m "Update data"
+          git show
+      - name: Push changes
+        if: github.ref == 'refs/heads/main' && github.event.commits[0].author.name != 'w3c-cg-monitor-bot'
+        run: |
+          git remote set-url --push origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/$GITHUB_REPOSITORY
+          git push origin HEAD:main
       # upload intermediary data files as artifacts
       - name: Store retrieved data as artifacts
         if: ${{ !cancelled() }}
@@ -44,4 +59,4 @@ jobs:
           name: data
           path: |
             data
-            report.json
+
