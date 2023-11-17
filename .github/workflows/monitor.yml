@@ -1,4 +1,4 @@
-name: Tests
+name: Monitor
 
 on:
   workflow_dispatch:
@@ -15,7 +15,29 @@ jobs:
         with:
           node-version: '18.x'
       - run: npm install
+      - name: restore HTTP cache
+        id: cache-http-restore
+        uses: actions/cache/restore@v3
+        with:
+          path: |
+            .cache
+          key: ${{ runner.os }}-http-cache
       - name: Run monitor script
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node monitor.js 43696
+      - name: restore HTTP cache
+        id: cache-http-save
+        uses: actions/cache/save@v3
+        with:
+          path: |
+            .cache
+          key: ${{ steps.cache-http-restore.outputs.cache-primary-key }}
+      # upload intermediary data files as artifacts
+      - name: Store retrieved data as artifacts
+        if: ${{ !cancelled() }}
+        uses: actions/upload-artifact@v3
+        with:
+          name: data
+          path: |
+            data
