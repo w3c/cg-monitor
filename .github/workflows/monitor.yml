@@ -25,14 +25,17 @@ jobs:
       - name: Run monitor script
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node monitor.js 43696
-      - name: restore HTTP cache
+        run: node monitor.js 43696 80485
+      - name: save HTTP cache
         id: cache-http-save
         uses: actions/cache/save@v3
         with:
           path: |
             .cache
           key: ${{ steps.cache-http-restore.outputs.cache-primary-key }}
+      - name: Run data wranger script
+        run: node prepare-data.js
+      # TODO: popularity and graph generation
       # upload intermediary data files as artifacts
       - name: Store retrieved data as artifacts
         if: ${{ !cancelled() }}
@@ -41,3 +44,4 @@ jobs:
           name: data
           path: |
             data
+            report.json
