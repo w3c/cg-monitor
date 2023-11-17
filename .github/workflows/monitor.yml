@@ -18,5 +18,4 @@ jobs:
       - name: Run monitor script
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-	run: node monitor.js 43696
-
+        run: node monitor.js 43696
