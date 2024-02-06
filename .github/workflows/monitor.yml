@@ -39,8 +39,8 @@ jobs:
         run: node prepare-data.js
       - name: Run popularity calculator & graph generation
         run: |
-	  node export-popularity.js
-	  node generate-activity-graphs.js
+          node export-popularity.js
+          node generate-activity-graphs.js
       - name: Commit changes
         run: |
           git config user.name "w3c-cg-monitor-bot"
