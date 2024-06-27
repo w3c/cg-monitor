@@ -1,0 +1,834 @@
+{
+  "sustyweb": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2024JanMar/0044.html",
+      "date": "2024-03-07"
+    }
+  },
+  "solid": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2023AprJun/0023.html",
+      "date": "2023-05-10"
+    }
+  },
+  "patcg": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2022AprJun/0037.html",
+      "date": "2022-05-23"
+    }
+  },
+  "rdf-dev": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2022JanMar/0043.html",
+      "date": "2022-03-29",
+      "shortname": "rdf-star",
+      "chartered": "2022-08-29"
+    },
+    "specs": [
+      {
+	"repo": "w3c/rdf-star",
+	"date": "2022-08-29",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2022Aug/0004.html",
+	"wgshortname": "w3c/rdf-star"
+      }
+    ]
+  },
+  "credentials": {
+    "wg": [
+      {
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2021AprJun/0002.html",
+	"date": "2021-04-06",
+	"shortname": "rch",
+      "chartered": "2022-07-21"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2019JanMar/0016.html",
+	"date": "2019-02-07",
+	"shortname": "did",
+	"chartered": "2019-09-05"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2016OctDec/0004.html",
+	"date": "2016-10-04",
+	"shortname": "vc",
+	"chartered": "2017-04-14"
+
+      }
+    ],
+    "specs": [
+      {
+	"notice": "https://www.w3.org/2017/vc/WG/Meetings/Minutes/2023-03-22-vcwg#section1",
+	"date": "2023-03-22",
+	"repo": "w3c-ccg/vc-json-schemas",
+	"wgshortname": "w3c/vc"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2022Jun/0006.html",
+	"date": "2022-06-13",
+	"repo": "w3c-ccg/data-integrity-spec",
+	"wgshortname": "w3c/vc"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2022Jun/0006.html",
+	"date": "2022-06-13",
+	"repo": "w3c-ccg/lds-jws2020",
+	"wgshortname": "w3c/vc"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2022Jun/0006.html",
+	"date": "2022-06-13",
+	"repo": "w3c-ccg/lds-ed25519-2020",
+	"wgshortname": "w3c/vc"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2022Jun/0006.html",
+	"date": "2022-06-13",
+	"repo": "w3c-ccg/di-ecdsa-secpr1-2019",
+	"wgshortname": "w3c/vc"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Public/public-vc-wg/2023Mar/0056.html",
+	"date": "2023-03-21",
+	"repo": "w3c-ccg/ldp-bbs2020",
+	"wgshortname": "w3c/vc"
+      },
+      {
+	"notice": "https://www.w3.org/2017/vc/WG/Meetings/Minutes/2022-12-14-vcwg#section4",
+	"date": "2022-12-14",
+	"repo": "w3c-ccg/vc-status-rl-2020",
+	"wgshortname": "w3c/vc"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2022Jul/0004.html",
+	"date": "2022-07-21",
+	"repo": "https://lists.w3.org/Archives/Public/public-credentials/2021Mar/att-0220/RDFDatasetCanonicalization-2020-10-09.pdf",
+	"wgshortname": "w3c/rch"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2017AprJun/0009.html",
+	"repo": "w3c-ccg/vc-data-model",
+	"wgshortname": "w3c/vc",
+	"date": "2017-04-14"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2019Sep/0002.html",
+	"repo": "w3c-ccg/did-spec",
+	"wgshortname": "w3c/did",
+	"date": "2019-09-05"
+      }
+    ]
+  },
+  "mathml4": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2020OctDec/0030.html",
+      "date": "2020-11-23",
+      "shortname": "math",
+      "chartered": "2021-04-09"
+    },
+    "specs": [
+      {
+	"repo": "mathml-refresh/mathml",
+	"date": "2021-04-09",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2021Apr/0005.html",
+	"wgshortname": "w3c/math"
+      },
+      {
+	"repo": "mathml-refresh/mathml-core",
+	"date": "2021-04-09",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2021Apr/0005.html",
+	"wgshortname": "w3c/math"
+      }
+    ]
+  },
+  "webmachinelearning": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2020OctDec/0002.html",
+      "date": "2020-10-02",
+      "shortname": "webmachinelearning",
+      "chartered": "2021-04-20"
+    },
+    "specs": [
+      {
+	"repo": "webmachinelearning/webnn",
+	"date": "2021-04-20",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2021Apr/0015.html",
+	"wgshortname": "w3c/webmachinelearning"
+      }
+    ]
+  },
+  "miniapps": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2020OctDec/0006.html",
+      "date": "2020-10-09",
+      "shortname": "miniapps",
+      "chartered": "2021-01-19"
+    },
+    "specs": [
+      {
+	"repo": "",
+	"date": "2021-01-19",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2021Jan/0006.html",
+	"wgshortname": "w3c/miniapps"
+      },
+      {
+	"repo": "w3c/miniapp/specs/manifest",
+	"date": "2021-01-19",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2021Jan/0006.html",
+	"wgshortname": "w3c/miniapps"
+      },
+      {
+	"repo": "w3c/miniapp/specs/packaging",
+	"date": "2021-01-19",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2021Jan/0006.html",
+	"wgshortname": "w3c/miniapps"
+      },
+      {
+	"repo": "w3c/miniapp/specs/lifecyle",
+	"date": "2021-01-19",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2021Jan/0006.html",
+	"wgshortname": "w3c/miniapps"
+      },
+      {
+	"repo": "w3c/miniapp-addressing",
+	"date": "2021-01-19",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2021Jan/0006.html",
+	"wgshortname": "w3c/miniapps"
+      }
+    ]
+  },
+  "gpu": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2019OctDec/0029.html",
+      "date": "2019-11-13",
+      "shortname": "gpu",
+      "chartered": "2020-08-20"
+    },
+    "specs": [
+      {
+	"repo": "gpuweb/gpuweb/spec",
+	"date": "2020-08-20",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2020Aug/0007.html",
+	"wgshortname": "w3c/gpu"
+      },
+      {
+	"repo": "gpuweb/gpuweb/wgsl",
+	"date": "2020-08-20",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2020Aug/0007.html",
+	"wgshortname": "w3c/gpu"
+      }
+    ]
+  },
+  "respimg": {
+    "specs": [
+      {
+	"repo": "https://github.com/ResponsiveImagesCG/cq-usecases",
+	"notice": "https://github.com/ResponsiveImagesCG/picture-element/pull/271",
+	"date": "2015-08-31",
+	"wgshortname": "whatwg/html"
+      }
+    ]
+  },
+  "wicg": {
+    "wg": [
+      {
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2020AprJun/0001.html",
+	"date": "2020-04-01",
+	"shortname": "webtransport",
+	"chartered": "2020-09-08"
+      }
+    ],
+    "specs": [
+      {
+	"repo": "WICG/contact-api",
+	"date": "2021-04-17",
+	"notice": "https://github.com/w3c/contact-picker/issues/37",
+	"wgshortname": "w3c/das"
+      },
+      {
+	"repo": "WICG/capture-handle",
+	"date": "2022-02-17",
+	"notice": "https://lists.w3.org/Archives/Public/public-webrtc/2022Feb/0045.html",
+	"wgshortname": "w3c/webrtc"
+      },      {
+	"repo": "WICG/autoplay",
+	"date": "2019-07-09",
+	"notice": "https://github.com/w3c/autoplay/issues/9",
+	"wgshortname": "w3c/media"
+      },
+      {
+	"repo": "WICG/web-codecs",
+	"date": "2021-02-01",
+	"notice": "https://github.com/w3c/webcodecs/issues/130",
+	"wgshortname": "w3c/media"
+      },
+      {
+	"repo": "network-error-logging",
+	"date": "2018-09-20",
+	"notice": "https://lists.w3.org/Archives/Public/public-web-perf/2018Sep/0010.html",
+	"wgshortname": "w3c/webperf"
+      },
+      {
+	"repo": "WICG/geolocation-sensor",
+	"date": "2019-03-15",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2019Mar/0005.html",
+	"wgshortname": "w3c/das"
+      },
+      {
+	"repo": "WICG/media-capabilities",
+	"date": "2023-05-19",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2019May/0005.html",
+	"wgshortname": "w3c/media"
+      },
+      {
+	"repo": "WICG/media-playback-quality",
+	"date": "2023-05-19",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2019May/0005.html",
+	"wgshortname": "w3c/media"
+      },
+      {
+	"repo": "WICG/mediasession",
+	"date": "2023-05-19",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2019May/0005.html",
+	"wgshortname": "w3c/media"
+      },
+      {
+	"repo": "WICG/scroll-animations",
+	"date": "2019-09-19",
+	"notice": "https://github.com/w3c/csswg-drafts/issues/4334",
+	"wgshortname": "w3c/css"
+      },
+      {
+	"repo": "WICG/event-timing",
+	"notice": "https://github.com/w3c/event-timing/issues/112#issuecomment-1031605639",
+	"date": "2022-02-07",
+	"wgshortname": "w3c/webperf"
+      },
+      {
+	"repo": "WICG/largest-contentful-paint",
+	"notice": "https://github.com/w3c/largest-contentful-paint/issues/87#issuecomment-1031605161",
+	"date": "2022-02-07",
+	"wgshortname": "w3c/webperf"
+      },
+      {
+	"repo": "WICG/nabigation-api",
+	"date": "2022-11-14",
+	"notice": "https://github.com/whatwg/html/pull/8502",
+	"wgshortname": "whatwg/html"
+      },
+      {
+	"repo": "WICG/web-transport",
+	"date": "2020-09-08",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2020Sep/0004.html",
+	"wgshortname": "w3c/webtransport"
+      },
+      {
+	"repo": "WICG/close-watcher",
+	"date": "2023-06-28",
+	"notice": "https://github.com/whatwg/html/pull/9462",
+	"wgshortname": "whatwg/html"
+      },
+      {
+	"repo": "WICG/custom-state-pseudo-class",
+	"date": "2022-11-30",
+	"notice": "https://github.com/w3c/csswg-drafts/issues/4805#issuecomment-1332340057",
+	"wgshortname": "w3c/css"
+      },
+      {
+	"repo": "WICG/compression",
+	"date": "2024-05-28",
+	"notice": "https://github.com/whatwg/sg/issues/231",
+	"wgshortname": "whatwg/streams"
+      },
+      {
+	"repo": "WICG/web-locks",
+	"date": "2021-08-12",
+	"notice": "https://github.com/w3c/webappswg/pull/70",
+	"wgshortname": "w3c/webapps"
+      },
+      {
+	"repo": "WICG/picture-in-picture",
+	"date": "2019-07-09",
+	"notice": "https://github.com/w3c/picture-in-picture/issues/150",
+	"wgshortname": "w3c/media"
+      },
+      {
+	"repo": "WICG/device-memory",
+	"date": "2017-08-22",
+	"notice": "https://lists.w3.org/Archives/Public/public-web-perf/2017Aug/0007.html",
+	"wgshortname": "w3c/webperf"
+      },
+      {
+	"repo": "WICG/paint-timing",
+	"date": "2017-08-22",
+	"notice": "https://lists.w3.org/Archives/Public/public-web-perf/2017Aug/0007.html",
+	"wgshortname": "w3c/webperf"
+      },
+      {
+	"repo": "WICG/trusted-types",
+	"date": "2019-09-11",
+	"notice": "https://lists.w3.org/Archives/Public/public-webappsec/2019Sep/0003.html",
+	"wgshortname": "w3c/webappsec"
+      },
+      {
+	"repo": "WICG/change-password-url",
+	"date": "2020-05-04",
+	"notice": "https://lists.w3.org/Archives/Public/public-webappsec/2020May/0001.html",
+	"wgshortname": "w3c/webappsec"
+      },
+      {
+	"repo": "WICG/feature-policy",
+	"date": "2018-11-06",
+	"notice": "https://lists.w3.org/Archives/Public/public-webappsec/2018Nov/0007.html",
+	"wgshortname": "w3c/webappsec"
+      },
+      {
+	"repo": "WICG/overscroll-behavior",
+	"notice": "https://github.com/w3c/csswg-drafts/issues/2179#issuecomment-358373812",
+	"date": "2018-01-17",
+	"wgshortname": "w3c/css",
+	"startedin": "w3c/css",
+	"comment": "Started in WG then sent to incubation"
+      },
+      {
+	"repo": "discourse",
+	"notice": "https://lists.w3.org/Archives/Public/public-webapps/2016AprJun/0077.html",
+	"date": "2016-05-16",
+	"wgshortname": "w3c/webapps",
+	"comment": "Mostly incubated in the WG"
+      },
+      {
+	"repo": "WICG/animation-worklet",
+	"notice": "https://github.com/w3c/css-houdini-drafts/issues/788",
+	"date": "2018-08-18",
+	"wgshortname": "w3c/css"
+      },
+      {
+	"repo": "WICG/web-share",
+	"notice": "https://lists.w3.org/Archives/Public/public-webapps/2020AprJun/0008.html",
+	"date": "2020-06-05",
+	"wgshortname": "w3c/webapps"
+      },
+      {
+	"repo": "WICG/web-share",
+	"notice": "https://github.com/w3c/web-share/issues/83",
+	"date": "2018-11-13",
+	"wgshortname": "w3c/webapps"
+      },
+      {
+	"repo": "WICG/IntersectionObserver",
+	"notice": "https://lists.w3.org/Archives/Public/public-webapps/2017JulSep/0030.html",
+	"date": "2017-08-22",
+	"wgshortname": "w3c/webapps"
+      },
+      {
+	"repo": "WICG/web-transport",
+	"notice": "https://github.com/WICG/ScrollAnchoring/issues/10",
+	"date": "2020-06-11",
+	"wgshortname": "w3c/webtransport"
+      },
+      {
+	"repo": "WICG/audio-focus",
+	"notice": "https://github.com/WICG/audio-focus/issues/29",
+	"date": "2023-01-30",
+	"wgshortname": "w3c/media"
+      },
+      {
+	"repo": "WICG/EventListenerOptions",
+	"notice": "https://github.com/WICG/EventListenerOptions/issues/49",
+	"date": "2016-06-22",
+	"wgshortname": "whatwg/dom"
+      },
+      {
+	"repo": "WICG/cookie-store",
+	"notice": "https://github.com/WICG/cookie-store/issues/186",
+	"date": "pending",
+	"wgshortname": "w3c/webapps"
+      },
+      {
+	"repo": "WICG/badging",
+	"notice": "https://github.com/WICG/admin/issues/109",
+	"date": "2020-05-18",
+	"wgshortname": "w3c/webapps"
+      },
+      {
+	"repo": "WICG/resize-observer",
+	"notice": "https://github.com/WICG/admin/issues/106",
+	"date": "2020-05-01",
+	"wgshortname": "w3c/css"
+      },
+      {
+	"repo": "WICG/spatial-navigation",
+	"notice": "https://github.com/WICG/spatial-navigation/issues/138",
+	"date": "2018-11-16",
+	"wgshortname": "w3c/css"
+      },
+      {
+	"repo": "WICG/mst-content-hint",
+	"notice": "https://github.com/w3c/mst-content-hint/issues/22",
+	"date": "2018-03-28",
+	"wgshortname": "w3c/webrt"
+      },
+      {
+	"repo": "WICG/ScrollAnchoring",
+	"notice": "https://github.com/WICG/ScrollAnchoring/issues/10",
+	"date": "2017-04-21",
+	"wgshortname": "w3c/css"
+      },
+      {
+	"repo": "WICG/payment-request",
+	"notice": "https://github.com/w3c/payment-request/pull/13",
+	"date": "2016-03-02",
+	"wgshortname": "w3c/payments"
+      },
+      {
+	"repo": "WICG/reporting",
+	"notice": "https://github.com/w3c/reporting/pull/103",
+	"date": "2018-07-05",
+	"wgshortname": "w3c/webperf",
+	"startedin": "w3c/webperf",
+	"comment": "Started in WG then sent to incubation"
+      },
+      {
+	"repo": "WICG/longtasks",
+	"notice": "https://lists.w3.org/Archives/Public/public-web-perf/2017Mar/0015.html",
+	"date": "2017-03-23",
+	"wgshortname": "w3c/webperf",
+	"startedin": "w3c/webperf",
+	"comment": "Started in WG then sent to incubation"
+      },
+      {
+	"repo": "WICG/server-timing",
+	"notice": "https://lists.w3.org/Archives/Public/public-web-perf/2017Mar/0015.html",
+	"date": "2017-03-23",
+	"wgshortname": "w3c/webperf",
+	"startedin": "w3c/webperf",
+	"comment": "Started in WG then sent to incubation"
+      }
+    ]
+  },
+  "silver": {
+    "specs": [
+	{
+	  "date": "2019-07-24",
+	  "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2019JulSep/0009.html",
+	  "wgshortname": "w3c/ag",
+	  "repo": "w3c/silver"
+	}
+    ]
+  },
+  "immersive-web": {
+    "wg": [
+      {
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2017JulSep/0003.html",
+	"date": "2017-07-11",
+	"chartered": "rejected"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2018AprJun/0056.html",
+	"date": "2018-06-14",
+	"shortname": "immersive-web",
+	"chartered": "2018-09-24"
+      }
+    ],
+    "specs": [
+      {
+	"repo": "immersive-web/webxr",
+	"date": "2018-09-24",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2018Sep/0007.html",
+	"wgshortname": "w3c/immersive-web"
+      },
+      {
+	"repo": "immersive-web/hit-test",
+	"date": "2020-05-12",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2020May/0009.html",
+	"wgshortname": "w3c/immersive-web"
+      },
+      {
+	"repo": "immersive-web/lightning-estimation",
+	"date": "2020-05-12",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2020May/0009.html",
+	"wgshortname": "w3c/immersive-web"
+      },
+      {
+	"repo": "immersive-web/dom-overlays",
+	"date": "2020-05-12",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2020May/0009.html",
+	"wgshortname": "w3c/immersive-web"
+      },
+      {
+	"repo": "immersive-web/webxr-hands-input",
+	"date": "2020-05-12",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2020May/0009.html",
+	"wgshortname": "w3c/immersive-web"
+      },
+      {
+	"repo": "immersive-web/real-world-geometry",
+	"date": "2020-05-12",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2020May/0009.html",
+	"wgshortname": "w3c/immersive-web"
+      },
+      {
+	"repo": "immersive-web/anchors",
+	"date": "2021-08-25",
+	"notice": "https://lists.w3.org/Archives/Public/public-immersive-web/2021Aug/0004.html",
+	"wgshortname": "w3c/immersive-web"
+      },
+      {
+	"repo": "immersive-web/layers",
+	"date": "2020-05-12",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2020May/0009.html",
+	"wgshortname": "w3c/immersive-web"
+      },
+      {
+	"repo": "immersive-web/raw-camera-access",
+	"date": "2022-07-08",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2022Jul/0002.html",
+	"wgshortname": "w3c/immersive-web"
+      },
+      {
+	"repo": "immersive-web/navigation",
+	"date": "2022-07-08",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2022Jul/0002.html",
+	"wgshortname": "w3c/immersive-web"
+      },
+      {
+	"repo": "immersive-web/model-element",
+	"date": "2022-07-08",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2022Jul/0002.html",
+	"wgshortname": "w3c/immersive-web"
+      },
+      {
+	"repo": "immersive-web/depth-sensing",
+	"date": "2021-03-18",
+	"notice": "https://lists.w3.org/Archives/Public/public-immersive-web-wg/2021Mar/0013.html",
+	"wgshortname": "w3c/immersive-web"
+      }
+    ]
+  },
+  "trace-context": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2018JanMar/0046.html",
+      "date": "2018-03-05",
+      "shortname": "distributed-tracing",
+      "chartered": "2018-07-25"
+    },
+    "specs": [
+      {
+	"repo": "w3c/distributed-tracing",
+	"date": "2018-07-25",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2018Jul/0012.html",
+	"wgshortname": "w3c/distributed-tracing"
+      }
+    ]
+
+  },
+  "json-ld": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2018JanMar/0018.html",
+      "date": "2018-01-25",
+      "shortname": "json-ld",
+      "chartered": "2018-06-07"
+    },
+    "specs": [
+      {
+	"repo": "w3c/json-ld-syntax",
+	"date": "2018-06-07",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2018Jun/0000.html",
+	"wgshortname": "w3c/json-ld"
+      },
+      {
+	"repo": "w3c/json-ld-api",
+	"date": "2018-06-07",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2018Jun/0000.html",
+	"wgshortname": "w3c/json-ld"
+      },
+      {
+	"repo": "https://www.w3.org/2018/jsonld-cg-reports/json-ld-framing/",
+	"date": "2018-06-07",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2018Jun/0000.html",
+	"wgshortname": "w3c/json-ld"
+      },
+      {
+	"repo": "http://json-ld.org/spec/FCGS/json-ld-syntax/20120626/",
+	"date": "2012-07-11",
+	"notice": "https://www.w3.org/2012/07/11-rdf-wg-minutes.html#item04",
+	"wgshortname": "w3c/json-ld"
+      },
+      {
+	"repo": "http://json-ld.org/spec/FCGS/json-ld-api/20120626/",
+	"date": "2012-07-11",
+	"notice": "https://www.w3.org/2012/07/11-rdf-wg-minutes.html#item04",
+	"wgshortname": "w3c/json-ld"
+      }
+
+    ]
+
+  },
+  "webassembly": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2017AprJun/0040.html",
+      "date": "2017-03-24",
+      "shortname": "wasm",
+      "chartered": "2017-08-03"
+    },
+    "specs": [
+      {
+	"repo": "webassembly/spec/core",
+	"date": "2017-08-03",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2017Aug/0001.html",
+	"wgshortname": "w3c/wasm"
+      },
+      {
+	"repo": "webassembly/spec/js-api",
+	"date": "2017-08-03",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2017Aug/0001.html",
+	"wgshortname": "w3c/wasm"
+      },
+      {
+	"repo": "webassembly/spec/web-api",
+	"date": "2017-08-03",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2017Aug/0001.html",
+	"wgshortname": "w3c/wasm"
+      }
+    ]
+  },
+  "tvapi": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2015OctDec/0046.html",
+      "date": "2015-12-10",
+      "chartered": "rejected"
+    }
+  },
+  "odrl": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2015JulSep/0033.html",
+      "date": "2015-08-06",
+      "shortname": "poe",
+      "chartered": "2016-02-26"
+    },
+    "specs": [
+      {
+	"repo": "w3c/odrl/core-profile",
+	"date": "2016-02-26",
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2016JanMar/0027.html",
+	"wgshortname": "w3c/poe"
+      }
+    ]
+  },
+  "openannotation": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2014JanMar/0020.html",
+      "date": "2014-02-14",
+      "shortname": "annotation",
+      "chartered": "2014-08-20"
+    },
+    "specs": [
+      {
+	"repo": "http://www.openannotation.org/spec/core/20130208/",
+	"date": "2014-08-20",
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2014JulSep/0027.html",
+	"wgshortname": "w3c/annotation"
+      }
+    ]
+  },
+  "socbizcg": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2013OctDec/0000.html",
+      "date": "2013-10-01",
+      "shortname": "social",
+      "chartered": "2014-07-21"
+    }
+  },
+  "fed-id": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2023JulSep/0036.html",
+      "date": "2023-09-08",
+      "shortname": "fedid",
+      "chartered": "2024-03-28"
+    },
+    "specs": [
+      {
+	"repo": "fedidcg/FedCM",
+	"date": "2024-03-28",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2024Mar/0003.html",
+	"wgshortname": "w3c/fedid"
+      }
+    ]
+
+  },
+  "privacycg": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2023JulSep/0000.html",
+      "date": "2023-07-03"
+    }
+  },
+  "speech-api": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2012OctDec/0013.html",
+      "date": "2012-10-09",
+      "chartered": "rejected"
+    }
+  },
+  "webscreens": {
+    "wg": {
+      "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2014AprJun/0015.html",
+      "date": "2014-04-23",
+      "shortname": "secondscreen",
+      "chartered": "2014-10-13"
+    },
+    "specs": [
+      {
+	"repo": "webscreens/presentation-api",
+	"date": "2014-10-13",
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2014OctDec/0011.html",
+	"wgshortname": "w3c/secondscreen"
+      },
+      {
+	"repo": "webscreens/openscreenprotocol",
+	"date": "2014-10-13",
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2014OctDec/0011.html",
+	"wgshortname": "w3c/secondscreen"
+      },
+      {
+	"repo": "webscreens/openscreenprotocol",
+	"date": "2019-12-12",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2019Dec/0006.html",
+	"wgshortname": "w3c/secondscreen"
+      },
+      {
+	"repo": "webscreens/window-placement",
+	"date": "2022-03-24",
+	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2022Mar/0009.html",
+	"wgshortname": "w3c/secondscreen"
+      }
+    ]
+  },
+  "open-ui": {
+    "specs": [
+      {
+	"repo": "open-ui/site/src/pages/components/popover-hint",
+	"date": "2023-09-23",
+	"notice": "https://github.com/whatwg/html/pull/9778",
+	"wgshortname": "whatwg/html"
+      },
+      {
+	"repo": "open-ui/site/src/pages/components/invokers",
+	"date": "2023-10-09",
+	"notice": "https://github.com/whatwg/html/pull/9841",
+	"wgshortname": "whatwg/html"
+      },
+      {
+	"repo": "open-ui/site/src/pages/components/accordion",
+	"date": "2023-10-02",
+	"notice": "https://github.com/whatwg/html/pull/9400",
+	"wgshortname": "whatwg/html"
+      },
+      {
+	"repo": "open-ui/site/src/pages/components/popover",
+	"date": "2023-01-12",
+	"notice": "https://github.com/whatwg/html/pull/8717",
+	"wgshortname": "whatwg/html"
+      }
+    ]
+  }
+}
