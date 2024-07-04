@@ -38,7 +38,7 @@ async function fetchServiceActivity(service) {
       data = await fetchForum(service.link);
       break;
     default:
-      data = service;
+      return {service, data: [], error: `Unsupported tracking of service ${service.type} ${service.link}`};
     }
   } catch (e) {
     console.error(`Error fetching ${service.link} as ${service.type}: ${e}`);
