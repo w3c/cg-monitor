@@ -84,6 +84,23 @@ describe('The Group data wrangler', function () {
     assert.equal(cgData.activity.lists["2023-10"], 3);
   });
 
+  it('reports errors gotten from fetching mailing list activity data', () => {
+    const testData = structuredClone(baseCgData);
+    testData[3].push(
+      {
+	"service": {
+          "type": "lists",
+
+	},
+	"data": [],
+	"error": "Failed to fetch mailing list data"
+      }
+    );
+    const cgData = computeGroupData(testData, []);
+    assert.equal(cgData.activity.lists.errors[0], "Failed to fetch mailing list data");
+  });
+
+  
   it('compiles forum activity data', () => {
     const testData = structuredClone(baseCgData);
     testData[3].push(
