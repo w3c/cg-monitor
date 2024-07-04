@@ -37,6 +37,8 @@ jobs:
           key: ${{ steps.cache-http-restore.outputs.cache-primary-key }}
       - name: Run data wranger script
         run: node prepare-data.js
+      - name: Report encountered errors in job summary
+        run: jq '.data[].activity|tostream|select(length>=2 and .[0][1]=="errors" and .[1]!=null) as [$p,$v]|$v' report.json >> $GITHUB_STEP_SUMMARY
       - name: Run popularity calculator & graph generation
         run: |
           node export-popularity.js
@@ -61,4 +63,3 @@ jobs:
           name: data
           path: |
             data
-
