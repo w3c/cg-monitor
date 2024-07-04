@@ -246,6 +246,138 @@
     ],
     "specs": [
       {
+	"repo": "WICG/overscroll-scrollend-events",
+	"date": "2022-06-22",
+	"wgshortname": "w3c/css/overscroll",
+	"notice": "https://github.com/w3c/csswg-drafts/commit/a8955e554a916aefbff4896f3b0ceab005d0f81b"
+      },
+      {
+	"repo": "WICG/overscroll-behavior",
+	"date": "2018-10-16",
+	"wgshortname": "w3c/css/overscroll-1",
+	"notice": "https://github.com/WICG/overscroll-behavior/commit/b25052e493fd122dece0ff8741aa4ec436c08765"
+      },
+      {
+	"repo": "WICG/webcomponents/css-modules-v1",
+	"date": "2019-09-09",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/4898"
+      },
+      {
+	"repo": "WICG/sanitizer-api",
+	"date": "2023-07-20",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/9538"
+      },
+      {
+	"repo": "WICG/custom-state-pseudo-class",
+	"date": "2022-11-03",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/8467"
+      },
+      {
+	"repo": "WICG/webcomponents/issues/566",
+	"date": "2023-04-21",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/9195"
+      },
+      {
+	"repo": "WICG/webcomponents/declarative-shadow-dom",
+	"date": "2020-04-18",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/5465"
+      },
+      {
+	"repo": "WICG/display-locking/hidden-until-found",
+	"date": "2022-01-07",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/7475"
+      },
+      {
+	"repo": "WICG/display-locking/content-visibility",
+	"date": "2020-03-06",
+	"wgshortname": "w3c/css/css-contain-2",
+	"notice": "https://github.com/w3c/csswg-drafts/issues/4843"
+      },
+      {
+	"repo": "WICG/display-locking/content-visibility",
+	"date": "2020-03-06",
+	"wgshortname": "w3c/css/css-contain-2",
+	"notice": "https://github.com/w3c/csswg-drafts/issues/4843"
+      },
+      {
+	"repo": "WICG/canvas-color-space",
+	"date": "2021-04-11",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/6562"
+      },
+      {
+	"repo": "WICG/canvas-auxclick",
+	"date": "2017-03-03",
+	"wgshortname": "w3c/webapps/uievents",
+	"notice": "https://github.com/w3c/uievents/issues/107#issuecomment-284063464"
+      },
+      {
+	"repo": "WICG/inert",
+	"date": "2019-01-14",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/4288#issuecomment-1064284107"
+      },
+      {
+	"repo": "WICG/intrinsicsize-attribute",
+	"date": "2019-09-30",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/4952"
+      },
+      {
+	"repo": "WICG/cross-origin-embedder-policy",
+	"date": "2020-04-13",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/5454"
+      },
+      {
+	"repo": "WICG/origin-isolation",
+	"date": "2020-05-14",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/5545"
+      },
+      {
+	"repo": "WICG/display-locking/intrinsic-size",
+	"date": "2019-08-21",
+	"wgshortname": "w3c/css/css-sizing-4",
+	"notice": "https://github.com/w3c/csswg-drafts/issues/4229"
+      },
+      {
+	"repo": "https://discourse.wicg.io/t/proposal-exif-image-resolution-auto-and-from-image/4326/24",
+	"date": "2020-05-24",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/5574"
+      },
+      {
+	"repo": "WICG/import-maps",
+	"date": "2022-07-05",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/8075"
+      },
+      {
+	"repo": "WICG/navigation-api",
+	"date": "2022-11-14",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/8502"
+      },
+      {
+	"repo": "WICG/focus-ring",
+	"date": "2016-11-14",
+	"wgshortname": "w3c/css/selectors-4",
+	"notice": "https://github.com/w3c/csswg-drafts/pull/709"
+      },
+      {
+	"repo": "WICG/digital-credentials",
+	"date": "2024-04-16",
+	"wgshortname": "w3c/fedid",
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2024AprJun/0009.html"
+      },
+      {
 	"repo": "WICG/contact-api",
 	"date": "2021-04-17",
 	"notice": "https://github.com/w3c/contact-picker/issues/37",
@@ -351,6 +483,18 @@
 	"date": "2021-08-12",
 	"notice": "https://github.com/w3c/webappswg/pull/70",
 	"wgshortname": "w3c/webapps"
+      },
+      {
+	"repo": "WICG/visual-viewport",
+	"date": "2021-06-02",
+	"notice": "https://github.com/w3c/csswg-drafts/issues/6339",
+	"wgshortname": "w3c/csswg/cssom-view"
+      },
+      {
+	"repo": "WICG/priority-hints",
+	"date": "2022-10-31",
+	"notice": "https://github.com/whatwg/fetch/pull/1523",
+	"wgshortname": "whatwg/fetch"
       },
       {
 	"repo": "WICG/picture-in-picture",
@@ -462,6 +606,30 @@
 	"notice": "https://github.com/WICG/admin/issues/106",
 	"date": "2020-05-01",
 	"wgshortname": "w3c/css"
+      },
+      {
+	"repo": "WICG/view-transitions",
+	"notice": "https://github.com/WICG/admin/issues/106",
+	"date": "2020-05-01",
+	"wgshortname": "w3c/css/css-view-transitions-1"
+      },
+      {
+	"repo": "WICG/urlpattern",
+	"notice": "https://github.com/whatwg/urlpattern/issues/190",
+	"date": "2023-10-05",
+	"wgshortname": "whatwg/urlpattern"
+      },
+      {
+	"repo": "WICG/pending-beacon",
+	"notice": "https://github.com/whatwg/fetch/pull/1647",
+	"date": "2023-05-02",
+	"wgshortname": "whatwg/fetch"
+      },
+      {
+	"repo": "WICG/view-transitions",
+	"notice": "https://github.com/w3c/csswg-drafts/pull/9022",
+	"date": "2023-07-02",
+	"wgshortname": "w3c/css/css-view-transitions-2"
       },
       {
 	"repo": "WICG/spatial-navigation",
@@ -792,12 +960,6 @@
       },
       {
 	"repo": "webscreens/openscreenprotocol",
-	"date": "2014-10-13",
-	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2014OctDec/0011.html",
-	"wgshortname": "w3c/secondscreen"
-      },
-      {
-	"repo": "webscreens/openscreenprotocol",
 	"date": "2019-12-12",
 	"notice": "https://lists.w3.org/Archives/Public/public-new-work/2019Dec/0006.html",
 	"wgshortname": "w3c/secondscreen"
@@ -837,5 +999,12 @@
 	"wgshortname": "whatwg/html"
       }
     ]
+  },
+  "wintercg": {
+    "": {
+      "notice": "https://github.com/wintercg/admin/issues/58",
+      "date": "2023-11-02",
+      "shortname": "ecma/"
+    }
   }
 }
