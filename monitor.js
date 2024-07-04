@@ -13,29 +13,42 @@ const {fetchGithub} = require("./lib/github-activity");
 // TODO: replace with more semantic method?
 const {recursiveW3cFetch} = require("./lib/w3c-data");
 
-function wrapService(service) {
-  return data => {
-    return { service, data};
-  };
-}
-
-function fetchServiceActivity(service) {
-  switch(service.type) {
-  case "blog":
-    // optimistic approach at getting the RSS feed
-    return fetchRSS(service.link + "feed").then(wrapService({...service, type: "rss"}));
-  case "rss":
-    return fetchRSS(service.link).then(wrapService(service));
-  case "lists":
-    return fetchMail(service.link).then(wrapService(service));
-  case "wiki":
-    return fetchWiki(service.link).then(wrapService(service));
-  case "repository":
-    return fetchGithub(service.link).then(wrapService(service));
-  case "forum":
-    return fetchForum(service.link).then(wrapService(service));
+async function fetchServiceActivity(service) {
+  let data, type;
+  try {
+    switch(service.type) {
+    case "blog":
+      // optimistic approach at getting the RSS feed
+      data = await fetchRSS(service.link + "feed");
+      type = "rss";
+      break;
+    case "rss":
+      data = await fetchRSS(service.link);
+      break;
+    case "lists":
+      data = await fetchMail(service.link);
+      break;
+    case "wiki":
+      data = await fetchWiki(service.link);
+      break;
+    case "repository":
+      data = await fetchGithub(service.link);
+      break;
+    case "forum":
+      data = await fetchForum(service.link);
+      break;
+    default:
+      data = service;
+    }
+  } catch (e) {
+    console.error(`Error fetching ${service.link} as ${service.type}: ${e}`);
+    return {service, data: [], error: e};
   }
-  return Promise.resolve(service).then(wrapService(service));
+  if (type) {
+    return {service: {...service, type}, data};
+  } else {
+    return {service, data};
+  }
 }
 
 
