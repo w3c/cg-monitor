@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-04T03:29:17.364Z",
+  "timestamp": "2024-07-05T03:28:42.562Z",
   "data": [
     {
       "id": 100368,
@@ -109,20 +109,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "https://discord.gg/5RXBKuyxAN",
-          "shortdesc": "Discord",
-          "longdesc": "Discord",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/9372"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/9372/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat https://discord.gg/5RXBKuyxAN"
+          ]
         },
         "lists": {
           "2024-06": 5,
@@ -500,20 +489,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#xproc-next",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/12197"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/12197/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#xproc-next"
+          ]
         },
         "lists": {
           "2023-03": 2,
@@ -807,36 +785,14 @@
           "2015-06": 1
         },
         "other": {
-          "type": "other",
-          "link": "https://www.w3.org/community/webassembly/",
-          "shortdesc": "cg",
-          "longdesc": "Community Group",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17272"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17272/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/community/webassembly/"
+          ]
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=101196",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25912"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25912/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=101196"
+          ]
         },
         "repository": {
           "2017-08": 0,
@@ -1032,29 +988,15 @@
       ],
       "activity": {
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=101220",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25890"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25890/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=101220"
+          ]
         },
         "other": {
-          "type": "otherother",
-          "link": "https://github.com/web-platform-tests/wpt/tree/master/service-workers/service-workerhttps://wpt.fyi/results/service-workers?label=experimental&label=master&aligned",
-          "shortdesc": "Test SuiteTest Suite Results",
-          "longdesc": "Web Platform Test Suite for Service WorkersWeb Platform Test Suite Results for Service Workers",
-          "external": 2,
-          "closed": 0,
-          "_links": "[object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service other https://github.com/web-platform-tests/wpt/tree/master/service-workers/service-worker",
+            "Unsupported tracking of service other https://wpt.fyi/results/service-workers?label=experimental&label=master&aligned"
+          ]
         },
         "repository": {
           "2017-08": 19,
@@ -1474,20 +1416,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "https://meet.w3c-ccg.org/weekly",
-          "shortdesc": "Meeting Link",
-          "longdesc": "",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15461"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15461/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat https://meet.w3c-ccg.org/weekly"
+          ]
         },
         "repository": {
           "2017-11": 0,
@@ -1756,20 +1687,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#eocred-schema",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/12234"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/12234/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#eocred-schema"
+          ]
         },
         "lists": {
           "2023-03": 4,
@@ -2067,20 +1987,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#web-adv",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/12240"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/12240/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#web-adv"
+          ]
         },
         "lists": {
           "2023-09": 2,
@@ -2232,20 +2141,9 @@
           "2024-07": 0
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://w3c.github.io/web-advertising/dashboard/",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25914"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25914/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://w3c.github.io/web-advertising/dashboard/"
+          ]
         },
         "join": {
           "2017-11": 3,
@@ -2436,20 +2334,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#sync-media-pub",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/12274"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/12274/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#sync-media-pub"
+          ]
         },
         "lists": {
           "2022-02": 17,
@@ -2737,20 +2624,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#audio-description",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/13782"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/13782/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#audio-description"
+          ]
         },
         "lists": {
           "2024-06": 1,
@@ -3044,20 +2920,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#dpvcg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/13793"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/13793/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#dpvcg"
+          ]
         },
         "lists": {
           "2024-07": 2,
@@ -3464,20 +3329,9 @@
           "2018-06": 12
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/json-ld",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25886"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25886/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=wg/json-ld"
+          ]
         },
         "repository": {
           "2018-06": 42,
@@ -3742,23 +3596,12 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#aikr",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/13805"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/13805/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#aikr"
+          ]
         },
         "lists": {
-          "2024-07": 1,
+          "2024-07": 3,
           "2024-06": 18,
           "2024-05": 3,
           "2024-04": 6,
@@ -4095,45 +3938,20 @@
           "2018-03": 7
         },
         "chat": {
-          "type": "chatchat",
-          "link": "https://w3ccommunity.slack.com/#distributed-tracinghttps://www.w3.org/slack-w3ccommunity-invite#distributed-tracing",
-          "shortdesc": "SlackSlack invite",
-          "longdesc": " W3C Community slack #distributed-tracingGet a Slack invite",
-          "external": 1,
-          "closed": 0,
-          "_links": "[object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service chat https://w3ccommunity.slack.com/#distributed-tracing",
+            "Unsupported tracking of service chat https://www.w3.org/slack-w3ccommunity-invite#distributed-tracing"
+          ]
         },
         "other": {
-          "type": "other",
-          "link": "https://docs.google.com/document/d/1EaY1zhmlOut4qZzpFue4vLc96_GrRWMtmzXYLfd1Ehc/edit",
-          "shortdesc": "Agenda and Notes",
-          "longdesc": "Meeting notes",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17355"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17355/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://docs.google.com/document/d/1EaY1zhmlOut4qZzpFue4vLc96_GrRWMtmzXYLfd1Ehc/edit"
+          ]
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/distributed-tracing",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25881"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25881/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=wg/distributed-tracing"
+          ]
         },
         "repository": {
           "2018-07": 15,
@@ -4392,20 +4210,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#pwe",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/13853"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/13853/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#pwe"
+          ]
         },
         "lists": {
           "2024-06": 4,
@@ -4722,36 +4529,14 @@
           "2018-09": 3
         },
         "other": {
-          "type": "other",
-          "link": "https://github.com/w3c/chinese-ig/blob/master/Meetings.md",
-          "shortdesc": "Meetings",
-          "longdesc": "Information on Meetings",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17284"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17284/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://github.com/w3c/chinese-ig/blob/master/Meetings.md"
+          ]
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=109611",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25915"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25915/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=109611"
+          ]
         },
         "repository": {
           "2018-09": 4,
@@ -5015,29 +4800,15 @@
           "2018-09": 5
         },
         "other": {
-          "type": "otherother",
-          "link": "https://github.com/immersive-web/administrivia/tree/master/meetings/wghttps://immersive-web.github.io/homepage/list_spec.html",
-          "shortdesc": "MeetingsSpecification status",
-          "longdesc": "Information on Meetings0",
-          "external": 2,
-          "closed": 0,
-          "_links": "[object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service other https://github.com/immersive-web/administrivia/tree/master/meetings/wg",
+            "Unsupported tracking of service other https://immersive-web.github.io/homepage/list_spec.html"
+          ]
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=109735",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25884"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25884/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=109735"
+          ]
         },
         "repository": {
           "2018-09": 53,
@@ -5110,7 +4881,7 @@
           "2024-04": 12,
           "2024-05": 12,
           "2024-06": 11,
-          "2024-07": 3
+          "2024-07": 5
         },
         "join": {
           "2018-09": 0,
@@ -5288,20 +5059,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#solid",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15401"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15401/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#solid"
+          ]
         },
         "lists": {
           "2024-07": 1,
@@ -5692,20 +5452,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webmachinelearning",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15406"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15406/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#webmachinelearning"
+          ]
         },
         "lists": {
           "2023-03": 1,
@@ -5995,20 +5744,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#rdf-dev",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15413"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15413/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#rdf-dev"
+          ]
         },
         "lists": {
           "2024-06": 10,
@@ -6311,20 +6049,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#publishingcg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15418"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15418/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#publishingcg"
+          ]
         },
         "lists": {
           "2024-07": 3,
@@ -6622,20 +6349,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#audio-comgp",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15423"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15423/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#audio-comgp"
+          ]
         },
         "lists": {
           "2024-06": 2,
@@ -6779,20 +6495,9 @@
           "2024-07": 0
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=110716",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25916"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25916/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=110716"
+          ]
         },
         "join": {
           "2018-10": 6,
@@ -6975,20 +6680,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#n3-dev",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15438"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15438/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#n3-dev"
+          ]
         },
         "lists": {
           "2024-06": 6,
@@ -7280,20 +6974,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#aria-at",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15444"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15444/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#aria-at"
+          ]
         },
         "lists": {
           "2024-07": 3,
@@ -7595,20 +7278,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#bibframe2schema",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15449"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15449/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#bibframe2schema"
+          ]
         },
         "lists": {
           "2023-10": 6,
@@ -7960,20 +7632,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#kg-construct",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15527"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15527/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#kg-construct"
+          ]
         },
         "lists": {
           "2024-06": 1,
@@ -8069,7 +7730,7 @@
           "2024-04": 19,
           "2024-05": 7,
           "2024-06": 22,
-          "2024-07": 12
+          "2024-07": 13
         },
         "join": {
           "2019-01": 18,
@@ -8227,20 +7888,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#iotschema",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15542"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15542/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#iotschema"
+          ]
         },
         "lists": {
           "2023-03": 1,
@@ -8563,19 +8213,38 @@
       "shortname": "securepay",
       "link": "https://www.w3.org/securepay/",
       "created": "2019-04-17T00:00:00.000Z",
-      "participants": 0,
-      "chairs": [],
-      "staff": [],
-      "repositories": [],
+      "participants": 37,
+      "chairs": [
+        "Ian Jacobs"
+      ],
+      "staff": [
+        {
+          "name": "Ian Jacobs",
+          "photo": "https://www.w3.org/thumbnails/48/avatar-images/ggdj8tciu9kwwc4o4ww888ggkwok0c8.webp?x-version=3"
+        }
+      ],
+      "repositories": [
+        "https://github.com/w3c/wpsig"
+      ],
       "activity": {
-        "join": {
+        "tracker": {
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=113649"
+          ]
+        },
+        "wiki": {
+          "errors": [
+            {}
+          ]
+        },
+        "repository": {
           "2019-04": 0,
           "2019-05": 0,
           "2019-06": 0,
           "2019-07": 0,
           "2019-08": 0,
           "2019-09": 0,
-          "2019-10": 0,
+          "2019-10": 3,
           "2019-11": 0,
           "2019-12": 0,
           "2020-01": 0,
@@ -8591,15 +8260,15 @@
           "2020-11": 0,
           "2020-12": 0,
           "2021-01": 0,
-          "2021-02": 0,
+          "2021-02": 6,
           "2021-03": 0,
           "2021-04": 0,
           "2021-05": 0,
           "2021-06": 0,
-          "2021-07": 0,
-          "2021-08": 0,
+          "2021-07": 39,
+          "2021-08": 5,
           "2021-09": 0,
-          "2021-10": 0,
+          "2021-10": 3,
           "2021-11": 0,
           "2021-12": 0,
           "2022-01": 0,
@@ -8623,13 +8292,79 @@
           "2023-07": 0,
           "2023-08": 0,
           "2023-09": 0,
-          "2023-10": 0,
+          "2023-10": 1,
           "2023-11": 0,
           "2023-12": 0,
           "2024-01": 0,
           "2024-02": 0,
           "2024-03": 0,
           "2024-04": 0,
+          "2024-05": 0,
+          "2024-06": 0,
+          "2024-07": 0
+        },
+        "join": {
+          "2019-04": 7,
+          "2019-05": 3,
+          "2019-06": 3,
+          "2019-07": 2,
+          "2019-08": 3,
+          "2019-09": 2,
+          "2019-10": 0,
+          "2019-11": 0,
+          "2019-12": 0,
+          "2020-01": 1,
+          "2020-02": 2,
+          "2020-03": 0,
+          "2020-04": 0,
+          "2020-05": 0,
+          "2020-06": 1,
+          "2020-07": 0,
+          "2020-08": 0,
+          "2020-09": 0,
+          "2020-10": 0,
+          "2020-11": 0,
+          "2020-12": 0,
+          "2021-01": 0,
+          "2021-02": 0,
+          "2021-03": 1,
+          "2021-04": 0,
+          "2021-05": 0,
+          "2021-06": 0,
+          "2021-07": 1,
+          "2021-08": 1,
+          "2021-09": 2,
+          "2021-10": 0,
+          "2021-11": 0,
+          "2021-12": 0,
+          "2022-01": 0,
+          "2022-02": 0,
+          "2022-03": 0,
+          "2022-04": 1,
+          "2022-05": 0,
+          "2022-06": 0,
+          "2022-07": 0,
+          "2022-08": 0,
+          "2022-09": 2,
+          "2022-10": 0,
+          "2022-11": 1,
+          "2022-12": 0,
+          "2023-01": 0,
+          "2023-02": 0,
+          "2023-03": 0,
+          "2023-04": 0,
+          "2023-05": 1,
+          "2023-06": 0,
+          "2023-07": 0,
+          "2023-08": 0,
+          "2023-09": 1,
+          "2023-10": 0,
+          "2023-11": 0,
+          "2023-12": 0,
+          "2024-01": 0,
+          "2024-02": 0,
+          "2024-03": 1,
+          "2024-04": 1,
           "2024-05": 0,
           "2024-06": 0,
           "2024-07": 0
@@ -8723,20 +8458,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#sparql-12",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15581"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15581/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#sparql-12"
+          ]
         },
         "lists": {
           "2023-07": 1,
@@ -9004,20 +8728,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#act-r",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15588"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15588/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#act-r"
+          ]
         },
         "lists": {
           "2024-06": 6,
@@ -9460,20 +9173,9 @@
           "2008-04": 160
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=114929",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25899"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25899/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=114929"
+          ]
         },
         "repository": {
           "2019-05": 109,
@@ -9692,20 +9394,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#chem-web-pub",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15604"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15604/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#chem-web-pub"
+          ]
         },
         "lists": {
           "2024-03": 1,
@@ -10134,7 +9825,7 @@
       ],
       "activity": {
         "lists": {
-          "2024-07": 2,
+          "2024-07": 3,
           "2024-06": 20,
           "2024-05": 8,
           "2024-04": 4,
@@ -10196,36 +9887,14 @@
           "2019-05": 1
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=115198",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25887"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25887/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=115198"
+          ]
         },
         "other": {
-          "type": "other",
-          "link": "https://github.com/w3c/media-wg/tree/master/meetings",
-          "shortdesc": "Meetings",
-          "longdesc": "Repository for meetings",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/27801"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/27801/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://github.com/w3c/media-wg/tree/master/meetings"
+          ]
         },
         "repository": {
           "2019-05": 24,
@@ -10290,7 +9959,7 @@
           "2024-04": 18,
           "2024-05": 39,
           "2024-06": 40,
-          "2024-07": 4
+          "2024-07": 9
         },
         "join": {
           "2019-05": 0,
@@ -10382,7 +10051,7 @@
       ],
       "activity": {
         "lists": {
-          "2024-07": 2,
+          "2024-07": 3,
           "2024-06": 5,
           "2024-05": 5,
           "2024-04": 6,
@@ -10593,20 +10262,9 @@
           "2007-03": 810
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=115520",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25883"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25883/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=115520"
+          ]
         },
         "repository": {
           "2019-06": 5,
@@ -10826,20 +10484,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#reconciliation",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17288"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17288/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#reconciliation"
+          ]
         },
         "lists": {
           "2024-06": 10,
@@ -11112,20 +10759,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#design-tokens",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17309"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17309/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#design-tokens"
+          ]
         },
         "lists": {
           "2023-03": 2,
@@ -11205,20 +10841,9 @@
           "2024-07": 0
         },
         "twitter": {
-          "type": "twitter",
-          "link": "https://twitter.com/DesignTokens",
-          "shortdesc": "Twitter",
-          "longdesc": "@DesignTokens on Twitter",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17337"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17337/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service twitter https://twitter.com/DesignTokens"
+          ]
         },
         "join": {
           "2019-07": 1,
@@ -11384,20 +11009,9 @@
           "2019-09": 20
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=117488",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25879"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25879/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=117488"
+          ]
         },
         "repository": {
           "2019-09": 88,
@@ -11616,20 +11230,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#immersive-captions",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17320"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17320/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#immersive-captions"
+          ]
         },
         "lists": {
           "2024-06": 6,
@@ -11854,20 +11457,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#web-thing-protocol",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17324"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17324/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#web-thing-protocol"
+          ]
         },
         "lists": {
           "2023-11": 8,
@@ -12112,20 +11704,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#miniapps",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17328"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17328/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#miniapps"
+          ]
         },
         "lists": {
           "2024-04": 1,
@@ -12383,20 +11964,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#accessibility4children",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17359"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17359/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#accessibility4children"
+          ]
         },
         "lists": {
           "2024-07": 1,
@@ -12642,20 +12212,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#cogai",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17363"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17363/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#cogai"
+          ]
         },
         "lists": {
           "2024-06": 1,
@@ -12921,20 +12480,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#privacycg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17370"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17370/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#privacycg"
+          ]
         },
         "lists": {
           "2024-06": 5,
@@ -13182,20 +12730,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#bdns",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/19039"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/19039/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#bdns"
+          ]
         },
         "lists": {
           "2023-03": 5,
@@ -13392,20 +12929,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#css4",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25760"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25760/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#css4"
+          ]
         },
         "lists": {
           "2023-03": 3
@@ -13598,20 +13124,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#md-odrl-profile",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25781"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25781/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#md-odrl-profile"
+          ]
         },
         "lists": {
           "2024-05": 1,
@@ -13843,20 +13358,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#open-ui",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25789"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25789/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#open-ui"
+          ]
         },
         "lists": {
           "2024-06": 1,
@@ -14073,20 +13577,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webauthn-adoption",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25809"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25809/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#webauthn-adoption"
+          ]
         },
         "lists": {
           "2024-07": 1,
@@ -14373,20 +13866,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#xslt-40",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25817"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25817/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#xslt-40"
+          ]
         },
         "lists": {
           "2024-07": 3,
@@ -14468,7 +13950,7 @@
           "2024-04": 99,
           "2024-05": 111,
           "2024-06": 112,
-          "2024-07": 4
+          "2024-07": 5
         },
         "join": {
           "2020-06": 2,
@@ -14638,29 +14120,15 @@
           "2017-02": 11
         },
         "other": {
-          "type": "otherother",
-          "link": "https://www.w3.org/community/gpu/https://webgpu.io/",
-          "shortdesc": "cgImplementation status and other resources",
-          "longdesc": "Community GroupImplementation status and other resources",
-          "external": 1,
-          "closed": 0,
-          "_links": "[object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/community/gpu/",
+            "Unsupported tracking of service other https://webgpu.io/"
+          ]
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=125519",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25978"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25978/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=125519"
+          ]
         },
         "repository": {
           "2020-08": 154,
@@ -14710,7 +14178,7 @@
           "2024-04": 345,
           "2024-05": 209,
           "2024-06": 151,
-          "2024-07": 25
+          "2024-07": 29
         },
         "join": {
           "2020-08": 0,
@@ -14813,36 +14281,14 @@
           "2020-09": 2
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/webtransport",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25980"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25980/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=wg/webtransport"
+          ]
         },
         "other": {
-          "type": "other",
-          "link": "https://www.w3.org/wiki/WebTransport/Meetings",
-          "shortdesc": "Agenda",
-          "longdesc": "Group agendas",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/27800"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/27800/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/wiki/WebTransport/Meetings"
+          ]
         },
         "repository": {
           "2020-09": 7,
@@ -15015,20 +14461,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#consent",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25993"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25993/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#consent"
+          ]
         },
         "lists": {
           "2023-04": 3,
@@ -15206,20 +14641,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webcomponents",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/26006"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/26006/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#webcomponents"
+          ]
         },
         "lists": {
           "2024-04": 1,
@@ -15444,36 +14868,14 @@
           "2024-07": 0
         },
         "other": {
-          "type": "other",
-          "link": "https://www.w3.org/PM/Groups/agenda.html?gid=wg/miniapps",
-          "shortdesc": "Agenda issues",
-          "longdesc": "GitHub Agenda Issues",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33322"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33322/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/PM/Groups/agenda.html?gid=wg/miniapps"
+          ]
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/miniapps",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33323"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33323/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=wg/miniapps"
+          ]
         },
         "join": {
           "2021-01": 0,
@@ -15586,20 +14988,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#tdmrep",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/27785"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/27785/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#tdmrep"
+          ]
         },
         "lists": {
           "2024-06": 1,
@@ -15798,20 +15189,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#wot-jp",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/27790"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/27790/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#wot-jp"
+          ]
         },
         "lists": {
           "2024-03": 1,
@@ -15991,20 +15371,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#ixml",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/27803"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/27803/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#ixml"
+          ]
         },
         "lists": {
           "2024-06": 9,
@@ -16237,20 +15606,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#speced-cg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33181"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33181/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#speced-cg"
+          ]
         },
         "lists": {
           "2024-09": 1.3333333333333333,
@@ -16716,36 +16074,14 @@
           "2021-04": 1
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/webmachinelearning",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33324"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33324/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=wg/webmachinelearning"
+          ]
         },
         "other": {
-          "type": "other",
-          "link": "https://www.w3.org/PM/Groups/agenda.html?gid=wg/webmachinelearning",
-          "shortdesc": "Agenda issues",
-          "longdesc": "GitHub Agenda Issues",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33326"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33326/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/PM/Groups/agenda.html?gid=wg/webmachinelearning"
+          ]
         },
         "repository": {
           "2021-04": 11,
@@ -16900,20 +16236,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#metaverse-interop",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33196"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33196/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#metaverse-interop"
+          ]
         },
         "lists": {
           "2024-06": 2,
@@ -17078,20 +16403,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "https://matrix.to/#/#wecg:mozilla.org",
-          "shortdesc": "Matrix",
-          "longdesc": "Matrix",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33206"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33206/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat https://matrix.to/#/#wecg:mozilla.org"
+          ]
         },
         "lists": {
           "2024-04": 1,
@@ -17149,7 +16463,7 @@
           "2024-04": 36,
           "2024-05": 26,
           "2024-06": 31,
-          "2024-07": 5
+          "2024-07": 9
         },
         "join": {
           "2021-06": 48,
@@ -17492,20 +16806,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#fed-id",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33235"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33235/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#fed-id"
+          ]
         },
         "lists": {
           "2024-07": 1,
@@ -17691,20 +16994,9 @@
           "2024-07": 1
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#coga-community",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33241"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33241/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#coga-community"
+          ]
         },
         "lists": {
           "2024-07": 2,
@@ -17803,13 +17095,10 @@
       ],
       "activity": {
         "tracker": {
-          "type": "trackertracker",
-          "link": "https://github.com/w3c/PNG-spechttps://www.w3.org/PM/Groups/issueboard.html?gid=wg/png",
-          "shortdesc": "GitHub repoDashboard",
-          "longdesc": "GitHub repository for the PNG specification, and for issuesIssue Dashboard",
-          "external": 1,
-          "closed": 0,
-          "_links": "[object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service tracker https://github.com/w3c/PNG-spec",
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=wg/png"
+          ]
         },
         "lists": {
           "2024-06": 20,
@@ -17848,20 +17137,9 @@
           "2021-08": 1
         },
         "other": {
-          "type": "other",
-          "link": "https://www.w3.org/PM/Groups/agenda.html?gid=wg/png",
-          "shortdesc": "Agenda issues",
-          "longdesc": "GitHub Agenda Issues",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33328"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33328/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/PM/Groups/agenda.html?gid=wg/png"
+          ]
         },
         "repository": {
           "2021-09": 1,
@@ -18018,20 +17296,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#patcg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33276"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33276/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#patcg"
+          ]
         },
         "lists": {
           "2024-07": 5,
@@ -18104,20 +17371,9 @@
           "2024-07": 7
         },
         "other": {
-          "type": "other",
-          "link": "https://patcg.github.io/",
-          "shortdesc": "PATCG homepage",
-          "longdesc": "PATCG GitHub homepage",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33285"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33285/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://patcg.github.io/"
+          ]
         },
         "join": {
           "2021-10": 48,
@@ -18165,7 +17421,7 @@
       "link": "https://www.w3.org/community/a11y-discov-vocab/",
       "spec-publisher": true,
       "created": "2021-10-28T12:39:55.000Z",
-      "participants": 16,
+      "participants": 17,
       "chairs": [
         "Matt Garrish",
         "Charles LaPierre",
@@ -18218,20 +17474,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#a11y-discov-vocab",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33287"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33287/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#a11y-discov-vocab"
+          ]
         },
         "lists": {
           "2023-03": 4,
@@ -18311,7 +17556,7 @@
           "2024-04": 1,
           "2024-05": 0,
           "2024-06": 1,
-          "2024-07": 0
+          "2024-07": 1
         }
       }
     },
@@ -18380,20 +17625,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#antifraud",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33293"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33293/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#antifraud"
+          ]
         },
         "lists": {
           "2024-07": 1,
@@ -18552,20 +17786,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#federated-learning",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33303"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33303/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#federated-learning"
+          ]
         },
         "lists": {
           "2024-06": 1,
@@ -18696,20 +17919,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#cns",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33331"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33331/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#cns"
+          ]
         },
         "lists": {
           "2023-12": 1,
@@ -18950,20 +18162,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#smartcity-nordic",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33353"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33353/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#smartcity-nordic"
+          ]
         },
         "lists": {
           "2024-05": 2,
@@ -19074,20 +18275,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webview",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33362"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33362/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#webview"
+          ]
         },
         "lists": {
           "2024-06": 3,
@@ -19219,20 +18409,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#nordic-data",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/34802"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/34802/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#nordic-data"
+          ]
         },
         "lists": {
           "2023-03": 1
@@ -19325,20 +18504,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#sustainability",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/34810"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/34810/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#sustainability"
+          ]
         },
         "lists": {
           "2023-03": 3,
@@ -19477,20 +18645,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#wintercg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/34814"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/34814/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#wintercg"
+          ]
         },
         "lists": {
           "2023-10": 1,
@@ -19527,20 +18684,9 @@
           "2024-07": 1
         },
         "other": {
-          "type": "other",
-          "link": "https://wintercg.org",
-          "shortdesc": "Web",
-          "longdesc": "Web",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/34819"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/34819/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://wintercg.org"
+          ]
         },
         "join": {
           "2022-04": 3,
@@ -19629,20 +18775,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#a11yedge",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/34822"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/34822/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#a11yedge"
+          ]
         },
         "lists": {
           "2024-07": 4,
@@ -19774,20 +18909,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#htmlvoc",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/34827"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/34827/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#htmlvoc"
+          ]
         },
         "lists": {
           "2024-01": 2,
@@ -20022,20 +19146,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#av4browsers",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/39163"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/39163/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#av4browsers"
+          ]
         },
         "lists": {
           "2023-09": 2,
@@ -20152,7 +19265,7 @@
       ],
       "activity": {
         "lists": {
-          "2024-07": 19,
+          "2024-07": 25,
           "2024-06": 85,
           "2024-05": 71,
           "2024-04": 209,
@@ -20177,20 +19290,9 @@
           "2022-08": 1
         },
         "other": {
-          "type": "other",
-          "link": "https://www.w3.org/services/meeting-minutes?channel=rdf-star&num=2000",
-          "shortdesc": "Summary of meeting minutes",
-          "longdesc": "Summary of meeting minutes",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/40724"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/40724/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/services/meeting-minutes?channel=rdf-star&num=2000"
+          ]
         },
         "repository": {
           "2022-08": 0,
@@ -20216,7 +19318,7 @@
           "2024-04": 79,
           "2024-05": 4,
           "2024-06": 19,
-          "2024-07": 0
+          "2024-07": 3
         },
         "join": {
           "2022-08": 5,
@@ -20307,20 +19409,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "https://matrix.to/#/#web-platform-dx:matrix.org",
-          "shortdesc": "Matrix",
-          "longdesc": "Matrix channel",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/39183"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/39183/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat https://matrix.to/#/#web-platform-dx:matrix.org"
+          ]
         },
         "lists": {
           "2024-06": 2,
@@ -20366,7 +19457,7 @@
           "2024-04": 480,
           "2024-05": 272,
           "2024-06": 258,
-          "2024-07": 51
+          "2024-07": 59
         },
         "join": {
           "2022-10": 6,
@@ -20439,20 +19530,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#rdfsurfaces",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/39202"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/39202/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#rdfsurfaces"
+          ]
         },
         "lists": {
           "2024-05": 2,
@@ -20562,20 +19642,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#sccg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/39207"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/39207/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#sccg"
+          ]
         },
         "lists": {
           "2024-06": 1,
@@ -20681,20 +19750,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#equity-cg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/40700"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/40700/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#equity-cg"
+          ]
         },
         "lists": {
           "2024-07": 1,
@@ -20807,20 +19865,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webagents",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/40726"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/40726/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#webagents"
+          ]
         },
         "lists": {
           "2024-06": 4,
@@ -20855,7 +19902,7 @@
           "2024-04": 9,
           "2024-05": 2,
           "2024-06": 4,
-          "2024-07": 0
+          "2024-07": 6
         },
         "join": {
           "2023-03": 31,
@@ -20942,20 +19989,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#treecg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/40741"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/40741/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#treecg"
+          ]
         },
         "lists": {
           "2024-06": 1,
@@ -21045,20 +20081,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#humancentricai",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/40745"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/40745/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#humancentricai"
+          ]
         },
         "lists": {
           "2024-04": 3,
@@ -21129,23 +20154,12 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#civics",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/40753"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/40753/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#civics"
+          ]
         },
         "lists": {
-          "2024-07": 1,
+          "2024-07": 2,
           "2024-06": 2,
           "2024-05": 3,
           "2024-04": 4,
@@ -21220,20 +20234,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#nostr",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/40758"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/40758/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#nostr"
+          ]
         },
         "lists": {
           "2024-06": 3,
@@ -21356,13 +20359,10 @@
           "2024-07": 0
         },
         "other": {
-          "type": "otherother",
-          "link": "https://w3c.github.io/pm-wg/minutes/index.htmlhttps://github.com/w3c/pm-wg",
-          "shortdesc": "Meeting MinutesWG GitHub repository",
-          "longdesc": 0,
-          "external": 2,
-          "closed": 0,
-          "_links": "[object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service other https://w3c.github.io/pm-wg/minutes/index.html",
+            "Unsupported tracking of service other https://github.com/w3c/pm-wg"
+          ]
         },
         "repository": {
           "2023-06": 18,
@@ -21378,7 +20378,7 @@
           "2024-04": 20,
           "2024-05": 65,
           "2024-06": 67,
-          "2024-07": 7
+          "2024-07": 9
         },
         "join": {
           "2023-06": 17,
@@ -21444,39 +20444,17 @@
           "2024-07": 1
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#cndid",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43823"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43823/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#cndid"
+          ]
         },
         "lists": {
           "2024-07": 1
         },
         "other": {
-          "type": "other",
-          "link": "https://github.com/w3c/cndid/",
-          "shortdesc": "GitHub",
-          "longdesc": "GitHub repo",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43874"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43874/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://github.com/w3c/cndid/"
+          ]
         },
         "repository": {
           "2023-08": 0,
@@ -21538,20 +20516,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#computationalicg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43831"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43831/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#computationalicg"
+          ]
         },
         "lists": {
           "2024-05": 3
@@ -21603,20 +20570,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#ocm",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43835"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43835/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#ocm"
+          ]
         },
         "lists": {
           "2024-04": 1
@@ -21688,20 +20644,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#autoprivacy",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43853"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43853/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#autoprivacy"
+          ]
         },
         "lists": {
           "2024-06": 2,
@@ -21757,20 +20702,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#jsxml",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43857"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43857/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#jsxml"
+          ]
         },
         "join": {
           "2024-01": 3,
@@ -21808,20 +20742,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#robotstxt",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43866"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43866/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#robotstxt"
+          ]
         },
         "join": {
           "2024-02": 5,
@@ -21870,20 +20793,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "https://irc.w3.org/?channels=%23global-inclusion",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43871"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43871/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat https://irc.w3.org/?channels=%23global-inclusion"
+          ]
         },
         "lists": {
           "2024-07": 7,
@@ -21986,20 +20898,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#mcm-jp",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43880"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43880/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#mcm-jp"
+          ]
         },
         "lists": {
           "2024-07": 1,
@@ -22038,20 +20939,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webtoon-meta",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43884"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43884/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#webtoon-meta"
+          ]
         },
         "join": {
           "2024-05": 2,
@@ -22079,20 +20969,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#realestate",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43888"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43888/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#realestate"
+          ]
         },
         "join": {
           "2024-05": 1,
@@ -22130,20 +21009,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#dataspaces",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43892"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43892/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#dataspaces"
+          ]
         },
         "lists": {
           "2024-06": 3,
@@ -22190,20 +21058,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#adva11yresources",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43896"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43896/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#adva11yresources"
+          ]
         },
         "lists": {
           "2024-06": 1
@@ -22243,20 +21100,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#swag",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43906"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43906/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#swag"
+          ]
         },
         "lists": {
           "2024-06": 4
@@ -22275,42 +21121,40 @@
       "link": "https://www.w3.org/community/r2c2/",
       "spec-publisher": true,
       "created": "2024-06-28T13:50:51.000Z",
-      "participants": 7,
-      "chairs": [],
+      "participants": 8,
+      "chairs": [
+        "Pierre-Antoine Champin",
+        "Thomas Pellissier Tanon"
+      ],
       "staff": [
         {
           "name": "Pierre-Antoine Champin",
           "photo": "https://www.w3.org/thumbnails/48/avatar-images/t891ludoisggsccsw44o8goccc0s0ks.webp?x-version=1"
         }
       ],
-      "repositories": [],
+      "repositories": [
+        "https://github.com/w3c-cg/r2c2"
+      ],
       "activity": {
         "rss": {
           "2024-06": 1,
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#r2c2",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43911"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43911/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#r2c2"
+          ]
         },
         "lists": {
           "2024-07": 6
         },
+        "repository": {
+          "2024-06": 0,
+          "2024-07": 5
+        },
         "join": {
           "2024-06": 5,
-          "2024-07": 2
+          "2024-07": 3
         }
       }
     },
@@ -22322,32 +21166,26 @@
       "link": "https://www.w3.org/community/tmcg/",
       "spec-publisher": true,
       "created": "2024-07-03T23:52:06.000Z",
-      "participants": 1,
+      "participants": 7,
       "chairs": [],
-      "staff": [],
+      "staff": [
+        {
+          "name": "Simone Onofri",
+          "photo": "https://www.w3.org/thumbnails/48/avatar-images/alzrokq1rd44so8owk84888gogkk8cg.webp?x-version=1"
+        }
+      ],
       "repositories": [],
       "activity": {
         "rss": {
           "2024-07": 1
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#tmcg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/43915"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/43915/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#tmcg"
+          ]
         },
         "join": {
-          "2024-07": 1
+          "2024-07": 7
         }
       }
     },
@@ -22839,6 +21677,7 @@
           "2008-06": 138,
           "2008-05": 120,
           "2008-04": 161,
+          "2024-07": 3,
           "2023-12": 18,
           "2023-11": 32,
           "2023-10": 29,
@@ -22884,7 +21723,6 @@
           "2017-03": 26,
           "2017-02": 77,
           "2017-01": 20,
-          "2024-07": 2,
           "2008-03": 94,
           "2008-02": 62,
           "2008-01": 100,
@@ -24004,7 +22842,7 @@
           "2024-07": 0
         },
         "lists": {
-          "2024-07": 1,
+          "2024-07": 2,
           "2024-06": 4,
           "2024-05": 23,
           "2024-04": 10,
@@ -24683,58 +23521,25 @@
           "2024-01": 0,
           "2024-02": 0,
           "2024-03": 0,
-          "2024-04": 1,
+          "2024-04": 0,
           "2024-05": 7,
           "2024-06": 2,
-          "2024-07": 0
+          "2024-07": 1
         },
         "other": {
-          "type": "other",
-          "link": "https://www.w3.org/Style/CSS/current-work",
-          "shortdesc": "current-work",
-          "longdesc": "CSS current work & how to participate",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15623"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15623/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/Style/CSS/current-work"
+          ]
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=32061",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25878"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25878/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=32061"
+          ]
         },
         "twitter": {
-          "type": "twitter",
-          "link": "https://twitter.com/csswg",
-          "shortdesc": "CSSWG Twitter",
-          "longdesc": "",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/26011"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/26011/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service twitter https://twitter.com/csswg"
+          ]
         },
         "repository": {
           "1997-02": 0,
@@ -25066,7 +23871,7 @@
           "2024-04": 122,
           "2024-05": 126,
           "2024-06": 146,
-          "2024-07": 16
+          "2024-07": 21
         },
         "join": {
           "1997-02": 0,
@@ -26032,36 +24837,14 @@
           "2005-01": 36.333333333333336
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=32113",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25885"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25885/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=32113"
+          ]
         },
         "twitter": {
-          "type": "twitter",
-          "link": "http://www.twitter.com/webi18n",
-          "shortdesc": "I18n activity twitter",
-          "longdesc": "I18n activity twitter",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25919"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25919/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service twitter http://www.twitter.com/webi18n"
+          ]
         },
         "repository": {
           "1998-02": 0,
@@ -26333,7 +25116,7 @@
           "2020-04": 79,
           "2020-05": 62,
           "2020-06": 68,
-          "2020-07": 98,
+          "2020-07": 97,
           "2020-08": 98,
           "2020-09": 93,
           "2020-10": 35,
@@ -26368,7 +25151,7 @@
           "2023-03": 150,
           "2023-04": 83,
           "2023-05": 88,
-          "2023-06": 71,
+          "2023-06": 70,
           "2023-07": 130,
           "2023-08": 92,
           "2023-09": 86,
@@ -26758,7 +25541,7 @@
       ],
       "activity": {
         "lists": {
-          "2024-07": 1,
+          "2024-07": 3,
           "2024-06": 9,
           "2024-05": 11,
           "2024-04": 8,
@@ -26985,36 +25768,14 @@
           "2003-01": 48
         },
         "other": {
-          "type": "other",
-          "link": "https://github.com/w3c/ttwg/issues?q=is%3Aissue+is%3Aopen+label%3Aagenda",
-          "shortdesc": "Upcoming meetings",
-          "longdesc": "Teleconferences and face-to-face meetings",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17357"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17357/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://github.com/w3c/ttwg/issues?q=is%3Aissue+is%3Aopen+label%3Aagenda"
+          ]
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=34314",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25896"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25896/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=34314"
+          ]
         },
         "repository": {
           "2008-08": 0,
@@ -28103,20 +26864,9 @@
           "1997-07": 0.3333333333333333
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=35422",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25891"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25891/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=35422"
+          ]
         },
         "repository": {
           "1997-10": 0,
@@ -28440,7 +27190,7 @@
           "2024-04": 87,
           "2024-05": 164,
           "2024-06": 119,
-          "2024-07": 36
+          "2024-07": 48
         },
         "join": {
           "1997-10": 0,
@@ -29464,20 +28214,9 @@
           "1998-01": 0.3333333333333333
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=35532",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25882"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25882/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=35532"
+          ]
         },
         "repository": {
           "1998-03": 0,
@@ -30875,52 +29614,19 @@
           "2024-07": 1
         },
         "chat": {
-          "type": "chat",
-          "link": "ircs://irc.w3.org/math",
-          "shortdesc": "IRC channel #math",
-          "longdesc": "IRC channel #math on irc.w3.org",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33231"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33231/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat ircs://irc.w3.org/math"
+          ]
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/math",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33319"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33319/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=wg/math"
+          ]
         },
         "other": {
-          "type": "other",
-          "link": "https://www.w3.org/PM/Groups/agenda.html?gid=wg/math",
-          "shortdesc": "Agenda issues",
-          "longdesc": "GitHub Agenda Issues",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33320"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33320/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/PM/Groups/agenda.html?gid=wg/math"
+          ]
         },
         "join": {
           "2006-06": 0,
@@ -31885,20 +30591,9 @@
           "2009-02": 7
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=43696",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25880"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25880/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=43696"
+          ]
         },
         "repository": {
           "2009-07": 0,
@@ -32081,7 +30776,7 @@
           "2024-04": 38,
           "2024-05": 94,
           "2024-06": 61,
-          "2024-07": 8
+          "2024-07": 9
         },
         "join": {
           "2009-07": 0,
@@ -32641,20 +31336,9 @@
           "2010-03": 1
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=44556",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25901"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25901/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=44556"
+          ]
         },
         "repository": {
           "2010-03": 0,
@@ -32829,7 +31513,7 @@
           "2024-04": 24,
           "2024-05": 16,
           "2024-06": 8,
-          "2024-07": 2
+          "2024-07": 4
         },
         "join": {
           "2010-03": 0,
@@ -33223,45 +31907,23 @@
           "2010-06": 4
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=45211",
-          "shortdesc": "Dashboard",
-          "longdesc": "Dashboard for specifications issues and pull request",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15617"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15617/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=45211"
+          ]
         },
         "other": {
-          "type": "otherotherotherotherother",
-          "link": "https://docs.google.com/document/d/10dz_7QM5XCNsGeI63R864lF9gFqlqQD37B4q8Q46LMM/edit#heading=h.47h6tzdi5d55https://www.youtube.com/playlist?list=PL5b8e1JT2i4a3PqaF4a6tVfqZela-pSkyhttps://meet.google.com/agz-fbji-spphttps://www.w3.org/webperf/status.htmlhttps://www.w3.org/PM/Groups/chairboard.html?gid=45211",
-          "shortdesc": "agendavideo playlistvideoStatusDashboard",
-          "longdesc": "Group agendaVideo recording of Group callsVideo conferencingStatus of the Working GroupDashboard",
-          "external": 3,
-          "closed": 0,
-          "_links": "[object Object][object Object][object Object][object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service other https://docs.google.com/document/d/10dz_7QM5XCNsGeI63R864lF9gFqlqQD37B4q8Q46LMM/edit#heading=h.47h6tzdi5d55",
+            "Unsupported tracking of service other https://www.youtube.com/playlist?list=PL5b8e1JT2i4a3PqaF4a6tVfqZela-pSky",
+            "Unsupported tracking of service other https://meet.google.com/agz-fbji-spp",
+            "Unsupported tracking of service other https://www.w3.org/webperf/status.html",
+            "Unsupported tracking of service other https://www.w3.org/PM/Groups/chairboard.html?gid=45211"
+          ]
         },
         "twitter": {
-          "type": "twitter",
-          "link": "https://twitter.com/webperfwg",
-          "shortdesc": "Twitter",
-          "longdesc": "Twitter @webperfwg",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15619"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15619/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service twitter https://twitter.com/webperfwg"
+          ]
         },
         "repository": {
           "2010-08": 0,
@@ -33974,20 +32636,9 @@
           "2010-09": 60
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=46300",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25906"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25906/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=46300"
+          ]
         },
         "repository": {
           "2011-02": 0,
@@ -34508,20 +33159,9 @@
           "2011-01": 0.6666666666666666
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=46884",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25875"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25875/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=46884"
+          ]
         },
         "repository": {
           "2011-03": 0,
@@ -35228,36 +33868,14 @@
           "2011-04": 2
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=47318",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25904"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25904/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=47318"
+          ]
         },
         "other": {
-          "type": "other",
-          "link": "https://www.youtube.com/channel/UC45Ezme8vyES52e0Wgu-IVw",
-          "shortdesc": "YouTube Channel",
-          "longdesc": "YouTube Channel (records of meetings)",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25918"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25918/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://www.youtube.com/channel/UC45Ezme8vyES52e0Wgu-IVw"
+          ]
         },
         "repository": {
           "2011-05": 0,
@@ -35975,20 +34593,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#declarative3d",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/410"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/410/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#declarative3d"
+          ]
         },
         "join": {
           "2011-10": 1,
@@ -36485,7 +35092,7 @@
           "2024-07": 0
         },
         "lists": {
-          "2024-07": 9,
+          "2024-07": 17,
           "2024-06": 17,
           "2024-05": 58,
           "2024-04": 19,
@@ -36628,36 +35235,14 @@
           "2011-12": 4
         },
         "twitter": {
-          "type": "twitter",
-          "link": "https://twitter.com/odrl",
-          "shortdesc": "Twitter",
-          "longdesc": "Twitter",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/401"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/401/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service twitter https://twitter.com/odrl"
+          ]
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://github.com/w3c/odrl/issues",
-          "shortdesc": "Issues Tracker",
-          "longdesc": "",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/807"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/807/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://github.com/w3c/odrl/issues"
+          ]
         },
         "repository": {
           "2011-11": 0,
@@ -37969,20 +36554,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#json-ld",
-          "shortdesc": "irc",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/554"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/554/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#json-ld"
+          ]
         },
         "lists": {
           "2024-06": 2,
@@ -38927,8 +37501,8 @@
           "2023-09": 1,
           "2023-11": 8,
           "2023-12": 0,
-          "2024-01": 5,
-          "2024-02": 4,
+          "2024-01": 4,
+          "2024-02": 5,
           "2024-03": 6,
           "2024-04": 17,
           "2024-05": 1,
@@ -39713,36 +38287,14 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#council",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/579"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/579/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#council"
+          ]
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://github.com/w3c/cg-council/issues",
-          "shortdesc": "Issue Tracking",
-          "longdesc": "Issue Tracking",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25976"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25976/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://github.com/w3c/cg-council/issues"
+          ]
         },
         "repository": {
           "2012-10": 0,
@@ -40239,36 +38791,14 @@
           "2011-10": 16
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=49309",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25898"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25898/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=49309"
+          ]
         },
         "other": {
-          "type": "other",
-          "link": "https://www.w3.org/2011/webappsec/Minutes.html",
-          "shortdesc": "Legacy minutes",
-          "longdesc": "Minutes through ~2017",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/34820"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/34820/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/2011/webappsec/Minutes.html"
+          ]
         },
         "repository": {
           "2011-09": 0,
@@ -40425,7 +38955,7 @@
           "2024-04": 47,
           "2024-05": 49,
           "2024-06": 40,
-          "2024-07": 4
+          "2024-07": 6
         },
         "join": {
           "2011-09": 0,
@@ -40931,20 +39461,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#games",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/671"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/671/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#games"
+          ]
         },
         "lists": {
           "2024-05": 1,
@@ -41329,20 +39848,9 @@
           "2011-10": 0.6666666666666666
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=49799",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25877"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25877/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=49799"
+          ]
         },
         "repository": {
           "2011-10": 0,
@@ -41498,7 +40006,7 @@
           "2024-04": 20,
           "2024-05": 38,
           "2024-06": 39,
-          "2024-07": 10
+          "2024-07": 11
         },
         "join": {
           "2011-10": 0,
@@ -41996,20 +40504,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#texttracks",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/680"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/680/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#texttracks"
+          ]
         },
         "lists": {
           "2024-06": 1,
@@ -42811,20 +41308,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#w3process",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/760"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/760/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#w3process"
+          ]
         },
         "lists": {
           "2024-06": 7,
@@ -43605,23 +42091,12 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webid",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/913"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/913/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#webid"
+          ]
         },
         "lists": {
-          "2024-07": 4,
+          "2024-07": 5,
           "2024-06": 5,
           "2024-05": 2,
           "2024-04": 12,
@@ -44258,20 +42733,9 @@
           "2010-07": 40.666666666666664
         },
         "chat": {
-          "type": "chat",
-          "link": "https://w3ccommunity.slack.com/",
-          "shortdesc": "Slack",
-          "longdesc": "W3C Community slack",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/17285"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/17285/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat https://w3ccommunity.slack.com/"
+          ]
         },
         "repository": {
           "2012-02": 0,
@@ -44426,29 +42890,17 @@
           "2024-07": 0
         },
         "tracker": {
-          "type": "trackertrackertrackertracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=ig/privacyhttps://www.w3.org/PM/horizontal/?repo=w3cping/tracking-issueshttps://github.com/w3c/strategy/issues?q=is%3Aissue+is%3Aopen+label%3A%22Horizontal+review+requested%22+-label%3A%22Privacy+review+completed%22https://github.com/w3cping/privacy-request/issues",
-          "shortdesc": "DashboardHorizontal issuesPrivacy charters review requestsPrivacy specifications review requests",
-          "longdesc": "Issue DashboardPING review comment tracker00",
-          "external": 2,
-          "closed": 0,
-          "_links": "[object Object][object Object][object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=ig/privacy",
+            "Unsupported tracking of service tracker https://www.w3.org/PM/horizontal/?repo=w3cping/tracking-issues",
+            "Unsupported tracking of service tracker https://github.com/w3c/strategy/issues?q=is%3Aissue+is%3Aopen+label%3A%22Horizontal+review+requested%22+-label%3A%22Privacy+review+completed%22",
+            "Unsupported tracking of service tracker https://github.com/w3cping/privacy-request/issues"
+          ]
         },
         "other": {
-          "type": "other",
-          "link": "https://www.w3.org/Privacy/IG/meetings.html",
-          "shortdesc": "Past meetings minutes",
-          "longdesc": "Minutes from past Privacy Interest Group Meetings",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/40765"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/40765/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/Privacy/IG/meetings.html"
+          ]
         },
         "join": {
           "2012-02": 4,
@@ -44922,20 +43374,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#xformsusers",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1011"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1011/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#xformsusers"
+          ]
         },
         "lists": {
           "2024-06": 12,
@@ -45561,20 +44002,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#expath",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1129"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1129/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#expath"
+          ]
         },
         "lists": {
           "2024-07": 3,
@@ -46259,20 +44689,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webhistory",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1169"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1169/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#webhistory"
+          ]
         },
         "lists": {
           "2023-12": 3,
@@ -46786,20 +45205,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#schemabibex",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1256"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1256/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#schemabibex"
+          ]
         },
         "lists": {
           "2023-03": 1,
@@ -47018,25 +45426,14 @@
       ],
       "activity": {
         "tracker": {
-          "type": "tracker",
-          "link": "https://github.com/w3c/pointerevents/issues",
-          "shortdesc": "GitHub issues",
-          "longdesc": "Git issues and pull requests",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1342"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1342/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://github.com/w3c/pointerevents/issues"
+          ]
         },
         "lists": {
-          "2024-09": 0.3333333333333333,
-          "2024-08": 0.3333333333333333,
-          "2024-07": 0.3333333333333333,
+          "2024-09": 0.6666666666666666,
+          "2024-08": 0.6666666666666666,
+          "2024-07": 0.6666666666666666,
           "2024-06": 24.333333333333332,
           "2024-05": 24.333333333333332,
           "2024-04": 24.333333333333332,
@@ -47326,20 +45723,9 @@
           "2024-07": 0
         },
         "other": {
-          "type": "other",
-          "link": "https://www.w3.org/wiki/PointerEvents/Meetings",
-          "shortdesc": "Meetings",
-          "longdesc": "General information about the group meetings",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15621"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15621/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/wiki/PointerEvents/Meetings"
+          ]
         },
         "repository": {
           "2012-11": 0,
@@ -47787,20 +46173,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#informationarchitecture",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1379"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1379/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#informationarchitecture"
+          ]
         },
         "lists": {
           "2024-03": 1,
@@ -48280,20 +46655,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#perma-id",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1399"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1399/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#perma-id"
+          ]
         },
         "lists": {
           "2024-06": 1,
@@ -48492,7 +46856,7 @@
           "2024-04": 170,
           "2024-05": 138,
           "2024-06": 165,
-          "2024-07": 20
+          "2024-07": 28
         },
         "join": {
           "2013-02": 3,
@@ -49579,20 +47943,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#bpmlod",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1492"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1492/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#bpmlod"
+          ]
         },
         "lists": {
           "2024-06": 3,
@@ -50133,13 +48486,13 @@
           "2023-10": 0,
           "2023-11": 0,
           "2023-12": 0,
-          "2024-01": 1,
+          "2024-01": 0,
           "2024-02": 0,
           "2024-03": 0,
           "2024-04": 0,
           "2024-05": 0,
           "2024-06": 0,
-          "2024-07": 0
+          "2024-07": 1
         },
         "rss": {
           "2013-06": 0,
@@ -50278,20 +48631,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "https://discord.gg/RJNYJsEgnb",
-          "shortdesc": "Discord",
-          "longdesc": "Discord",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1517"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1517/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat https://discord.gg/RJNYJsEgnb"
+          ]
         },
         "lists": {
           "2024-06": 2,
@@ -50491,7 +48833,7 @@
           "2024-04": 11,
           "2024-05": 8,
           "2024-06": 4,
-          "2024-07": 0
+          "2024-07": 4
         },
         "join": {
           "2013-06": 11,
@@ -50927,20 +49269,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#hydra",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1524"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1524/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#hydra"
+          ]
         },
         "lists": {
           "2024-05": 8,
@@ -51059,20 +49390,9 @@
           "2019-08": 1
         },
         "twitter": {
-          "type": "twitter",
-          "link": "https://twitter.com/HydraCG",
-          "shortdesc": "Twitter",
-          "longdesc": "twitter @HydraCG",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6465"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6465/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service twitter https://twitter.com/HydraCG"
+          ]
         },
         "repository": {
           "2013-06": 0,
@@ -51660,20 +49980,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#rsp",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1573"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1573/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#rsp"
+          ]
         },
         "lists": {
           "2023-03": 1,
@@ -52297,20 +50606,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#rdfjs",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1672"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1672/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#rdfjs"
+          ]
         },
         "lists": {
           "2024-05": 3,
@@ -52514,7 +50812,7 @@
           "2024-04": 14,
           "2024-05": 23,
           "2024-06": 13,
-          "2024-07": 3
+          "2024-07": 5
         },
         "join": {
           "2013-10": 14,
@@ -52933,23 +51231,12 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#touchevents",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1727"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1727/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#touchevents"
+          ]
         },
         "lists": {
-          "2024-07": 3,
+          "2024-07": 5,
           "2024-05": 1,
           "2024-04": 1,
           "2023-02": 4,
@@ -53159,7 +51446,7 @@
           "2024-04": 0,
           "2024-05": 0,
           "2024-06": 0,
-          "2024-07": 4
+          "2024-07": 6
         },
         "join": {
           "2013-10": 2,
@@ -53594,20 +51881,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webscreens",
-          "shortdesc": "IRC",
-          "longdesc": "IRC channel",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1741"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1741/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#webscreens"
+          ]
         },
         "lists": {
           "2024-04": 1,
@@ -54245,20 +52521,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#ld4lt",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1909"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1909/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#ld4lt"
+          ]
         },
         "lists": {
           "2024-06": 1,
@@ -54801,20 +53066,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "https://gitter.im/Maps4HTML",
-          "shortdesc": "Gitter",
-          "longdesc": "",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/2003"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/2003/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat https://gitter.im/Maps4HTML"
+          ]
         },
         "lists": {
           "2024-06": 3,
@@ -54944,13 +53198,10 @@
           "2024-07": 0
         },
         "other": {
-          "type": "otherother",
-          "link": "https://maps4html.github.io/https://mapstodon.space/@maps4html",
-          "shortdesc": "ResourcesMastodon",
-          "longdesc": "Group projects and resourcesMastodon",
-          "external": 2,
-          "closed": 0,
-          "_links": "[object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service other https://maps4html.github.io/",
+            "Unsupported tracking of service other https://mapstodon.space/@maps4html"
+          ]
         },
         "repository": {
           "2014-03": 0,
@@ -55848,9 +54099,9 @@
       ],
       "activity": {
         "lists": {
-          "2024-09": 1.3333333333333333,
-          "2024-08": 1.3333333333333333,
-          "2024-07": 1.3333333333333333,
+          "2024-09": 2.3333333333333335,
+          "2024-08": 2.3333333333333335,
+          "2024-07": 2.3333333333333335,
           "2024-06": 33,
           "2024-05": 33,
           "2024-04": 33,
@@ -56192,36 +54443,14 @@
           "1996-04": 18
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=72665",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25905"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25905/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=72665"
+          ]
         },
         "twitter": {
-          "type": "twitter",
-          "link": "https://www.twitter.com/webi18n",
-          "shortdesc": "I18n activity twitter",
-          "longdesc": "Twitter",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25921"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25921/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service twitter https://www.twitter.com/webi18n"
+          ]
         },
         "repository": {
           "1998-02": 0,
@@ -56528,7 +54757,7 @@
           "2023-03": 13,
           "2023-04": 4,
           "2023-05": 11,
-          "2023-06": 3,
+          "2023-06": 2,
           "2023-07": 18,
           "2023-08": 9,
           "2023-09": 9,
@@ -57649,20 +55878,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#web-bluetooth",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/2065"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/2065/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#web-bluetooth"
+          ]
         },
         "lists": {
           "2024-01": 10,
@@ -58164,7 +56382,7 @@
       ],
       "activity": {
         "lists": {
-          "2024-07": 5,
+          "2024-07": 7,
           "2024-06": 33,
           "2024-05": 92,
           "2024-04": 63,
@@ -58559,20 +56777,9 @@
       ],
       "activity": {
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webscreens",
-          "shortdesc": "IRC",
-          "longdesc": "IRC channel",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/1741"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/1741/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#webscreens"
+          ]
         },
         "lists": {
           "2024-06": 3,
@@ -58692,29 +56899,15 @@
           "2014-10": 16
         },
         "other": {
-          "type": "otherother",
-          "link": "https://www.w3.org/wiki/Second_Screen/Meetingshttps://www.w3.org/community/webscreens/",
-          "shortdesc": "Meetingscg",
-          "longdesc": "Information on MeetingsCommunity Group",
-          "external": 0,
-          "closed": 0,
-          "_links": "[object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/wiki/Second_Screen/Meetings",
+            "Unsupported tracking of service other https://www.w3.org/community/webscreens/"
+          ]
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=74168",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25889"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25889/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=74168"
+          ]
         },
         "repository": {
           "2014-10": 0,
@@ -59175,20 +57368,9 @@
           "2015-01": 28
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/sdw",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dasbboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33317"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33317/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=wg/sdw"
+          ]
         },
         "join": {
           "2015-01": 0,
@@ -59458,8 +57640,8 @@
           "2024-03": 0,
           "2024-04": 0,
           "2024-05": 0,
-          "2024-06": 5,
-          "2024-07": 19
+          "2024-06": 2,
+          "2024-07": 25
         },
         "lists": {
           "2024-07": 1,
@@ -59579,20 +57761,9 @@
           "2015-01": 8
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=75874",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25907"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25907/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=75874"
+          ]
         },
         "repository": {
           "2015-01": 0,
@@ -59978,20 +58149,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webtiming",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/5926"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/5926/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#webtiming"
+          ]
         },
         "lists": {
           "2023-04": 1,
@@ -60400,20 +58560,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#web-nfc",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/5952"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/5952/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#web-nfc"
+          ]
         },
         "lists": {
           "2024-07": 1,
@@ -60998,20 +59147,9 @@
           "2015-04": 46
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://github.com/schemaorg/schemaorg/issues",
-          "shortdesc": "Issues",
-          "longdesc": "Issues on GitHub",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/5973"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/5973/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://github.com/schemaorg/schemaorg/issues"
+          ]
         },
         "repository": {
           "2015-03": 54,
@@ -61129,20 +59267,9 @@
           "2024-07": 3
         },
         "other": {
-          "type": "other",
-          "link": "http://blog.schema.org/",
-          "shortdesc": "Schema.org blog",
-          "longdesc": "Schema.org blog",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/40709"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/40709/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other http://blog.schema.org/"
+          ]
         },
         "join": {
           "2015-03": 5,
@@ -61516,20 +59643,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webassembly",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6054"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6054/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#webassembly"
+          ]
         },
         "lists": {
           "2024-06": 2,
@@ -61716,7 +59832,7 @@
           "2024-04": 1060,
           "2024-05": 884,
           "2024-06": 740,
-          "2024-07": 64
+          "2024-07": 72
         },
         "join": {
           "2015-04": 4,
@@ -61964,20 +60080,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#gao",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6064"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6064/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#gao"
+          ]
         },
         "lists": {
           "2023-03": 1,
@@ -62364,20 +60469,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#schemed",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6073"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6073/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#schemed"
+          ]
         },
         "lists": {
           "2023-03": 1,
@@ -62519,20 +60613,9 @@
           "2024-07": 0
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://github.com/twamarc/ScheMed/issues",
-          "shortdesc": "Issues",
-          "longdesc": "Issues",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6078"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6078/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://github.com/twamarc/ScheMed/issues"
+          ]
         },
         "join": {
           "2015-05": 11,
@@ -62777,20 +60860,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#sport-schema",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6093"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6093/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#sport-schema"
+          ]
         },
         "lists": {
           "2023-03": 4,
@@ -62934,7 +61006,7 @@
       "link": "https://www.w3.org/community/wicg/",
       "spec-publisher": true,
       "created": "2015-07-02T16:02:06.000Z",
-      "participants": 519,
+      "participants": 520,
       "chairs": [
         "Marcos Caceres",
         "Léonie Watson",
@@ -63286,20 +61358,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#wicg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6098"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6098/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#wicg"
+          ]
         },
         "lists": {
           "2024-06": 1,
@@ -63457,23 +61518,12 @@
           "2024-04": 792,
           "2024-05": 555,
           "2024-06": 547,
-          "2024-07": 50
+          "2024-07": 52
         },
         "other": {
-          "type": "other",
-          "link": "https://wicg.github.io/tracking.html",
-          "shortdesc": "Status",
-          "longdesc": "Status",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25874"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25874/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://wicg.github.io/tracking.html"
+          ]
         },
         "join": {
           "2015-07": 39,
@@ -63584,7 +61634,7 @@
           "2024-04": 6,
           "2024-05": 2,
           "2024-06": 6,
-          "2024-07": 0
+          "2024-07": 1
         }
       }
     },
@@ -63715,20 +61765,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#architypes",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6111"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6111/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#architypes"
+          ]
         },
         "lists": {
           "2023-03": 1,
@@ -64109,31 +62148,21 @@
           "2023-10": 0,
           "2023-11": 0,
           "2023-12": 0,
-          "2024-01": 1,
+          "2024-01": 0,
           "2024-02": 2,
           "2024-03": 2,
           "2024-04": 2,
           "2024-05": 2,
           "2024-06": 1,
-          "2024-07": 0
+          "2024-07": 1
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#music-notation",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6135"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6135/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#music-notation"
+          ]
         },
         "lists": {
+          "2024-07": 1,
           "2024-06": 1,
           "2024-05": 5,
           "2024-04": 15,
@@ -64459,7 +62488,7 @@
           "2024-04": 13,
           "2024-05": 19,
           "2024-06": 8,
-          "2024-07": 2
+          "2024-07": 4
         },
         "join": {
           "2015-07": 101,
@@ -64706,20 +62735,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#rdf-tests",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6150"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6150/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#rdf-tests"
+          ]
         },
         "lists": {
           "2023-07": 1,
@@ -65086,20 +63104,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#interledger",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6167"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6167/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#interledger"
+          ]
         },
         "lists": {
           "2023-08": 1,
@@ -65640,20 +63647,9 @@
           "2016-12": 47
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=83726",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25893"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25893/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=83726"
+          ]
         },
         "repository": {
           "2015-10": 12,
@@ -65761,7 +63757,7 @@
           "2024-04": 84,
           "2024-05": 183,
           "2024-06": 83,
-          "2024-07": 26
+          "2024-07": 27
         },
         "join": {
           "2015-10": 0,
@@ -66129,13 +64125,10 @@
           "2024-07": 1
         },
         "other": {
-          "type": "otherother",
-          "link": "https://github.com/w3c/webpayments/wiki/Meetingshttps://github.com/w3c/webpayments/wiki/How-the-Working-Group-works",
-          "shortdesc": "MeetingsWork mode",
-          "longdesc": "Information on MeetingsWork mode",
-          "external": 2,
-          "closed": 0,
-          "_links": "[object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service other https://github.com/w3c/webpayments/wiki/Meetings",
+            "Unsupported tracking of service other https://github.com/w3c/webpayments/wiki/How-the-Working-Group-works"
+          ]
         },
         "rss": {
           "2015-10": 0,
@@ -66246,20 +64239,9 @@
           "2024-07": 0
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=83744",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25903"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25903/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=83744"
+          ]
         },
         "repository": {
           "2015-10": 6,
@@ -66739,36 +64721,14 @@
           "2016-01": 72
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/apa",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25892"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25892/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=wg/apa"
+          ]
         },
         "other": {
-          "type": "other",
-          "link": "https://www.w3.org/PM/Groups/agenda.html?gid=wg/apa",
-          "shortdesc": "Agenda issues",
-          "longdesc": "GitHub Agenda Issues",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/33315"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/33315/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/PM/Groups/agenda.html?gid=wg/apa"
+          ]
         },
         "repository": {
           "2015-10": 9,
@@ -67112,20 +65072,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#fibo",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6205"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6205/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#fibo"
+          ]
         },
         "lists": {
           "2023-03": 1,
@@ -67487,20 +65436,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#tourismdata",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6248"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6248/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#tourismdata"
+          ]
         },
         "lists": {
           "2023-04": 1,
@@ -67753,20 +65691,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#schema-course-extend",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6253"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6253/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#schema-course-extend"
+          ]
         },
         "lists": {
           "2023-03": 1,
@@ -68129,20 +66056,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#csvw",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6266"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6266/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#csvw"
+          ]
         },
         "lists": {
           "2023-06": 1,
@@ -68414,7 +66330,7 @@
       ],
       "activity": {
         "lists": {
-          "2024-07": 20,
+          "2024-07": 25,
           "2024-06": 121,
           "2024-05": 143,
           "2024-04": 120,
@@ -68518,20 +66434,9 @@
           "2016-02": 1
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=87227",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25900"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25900/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=87227"
+          ]
         },
         "repository": {
           "2016-02": 0,
@@ -68926,20 +66831,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webvr",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6295"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6295/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#webvr"
+          ]
         },
         "lists": {
           "2024-06": 5,
@@ -69139,23 +67033,12 @@
           "2024-04": 46,
           "2024-05": 30,
           "2024-06": 35,
-          "2024-07": 3
+          "2024-07": 5
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=87846",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25917"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25917/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=87846"
+          ]
         },
         "join": {
           "2016-03": 16,
@@ -69462,20 +67345,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "https://www.openactive.io/public-openactive-w3c/",
-          "shortdesc": "Chat",
-          "longdesc": "",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6317"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6317/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat https://www.openactive.io/public-openactive-w3c/"
+          ]
         },
         "lists": {
           "2023-10": 2,
@@ -69555,20 +67427,9 @@
           "2016-11": 8
         },
         "twitter": {
-          "type": "twitter",
-          "link": "https://twitter.com/openactiveio",
-          "shortdesc": "Twitter",
-          "longdesc": "Openactive's Twitter",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6322"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6322/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service twitter https://twitter.com/openactiveio"
+          ]
         },
         "repository": {
           "2016-04": 26,
@@ -69673,29 +67534,16 @@
           "2024-07": 0
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.openactive.io/openactive-w3c-cg/charter.html",
-          "shortdesc": "Charter",
-          "longdesc": "",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6463"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6463/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.openactive.io/openactive-w3c-cg/charter.html"
+          ]
         },
         "other": {
-          "type": "otherotherother",
-          "link": " https://calendar.google.com/calendar/embed?src=openactive.io_645khi45bjhce06osqdls9u900%40group.calendar.google.com&ctz=Europe%2FLondonhttps://www.youtube.com/watch?v=pDYIXVFpaSM&list=PLVWjdeMZoXg58QRB_GPT3PGFYgp1IU8jahttps://status.openactive.io/",
-          "shortdesc": "Meeting calendarMeeting recordingsAPI Dashboard",
-          "longdesc": "Meeting calendar on Google CalendarMeeting recordings on YoutubeOpenActive API Dashboard",
-          "external": 3,
-          "closed": 0,
-          "_links": "[object Object][object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service other  https://calendar.google.com/calendar/embed?src=openactive.io_645khi45bjhce06osqdls9u900%40group.calendar.google.com&ctz=Europe%2FLondon",
+            "Unsupported tracking of service other https://www.youtube.com/watch?v=pDYIXVFpaSM&list=PLVWjdeMZoXg58QRB_GPT3PGFYgp1IU8ja",
+            "Unsupported tracking of service other https://status.openactive.io/"
+          ]
         },
         "join": {
           "2016-04": 3,
@@ -69928,20 +67776,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#voiceinteraction",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6365"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6365/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#voiceinteraction"
+          ]
         },
         "lists": {
           "2024-07": 3,
@@ -70349,20 +68186,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#webmediaapi",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6410"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6410/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#webmediaapi"
+          ]
         },
         "lists": {
           "2022-03": 1,
@@ -70724,20 +68550,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#social",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6458"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6458/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#social"
+          ]
         },
         "repository": {
           "2016-11": 19,
@@ -70835,6 +68650,7 @@
           "2024-07": 11
         },
         "lists": {
+          "2024-07": 30,
           "2024-06": 356,
           "2024-05": 445,
           "2024-04": 510,
@@ -70842,18 +68658,18 @@
           "2024-02": 274,
           "2024-01": 395,
           "2023-12": 313,
-          "2023-11": 227,
-          "2023-10": 329,
+          "2023-11": 228,
+          "2023-10": 328,
           "2023-09": 524,
-          "2023-08": 253,
+          "2023-08": 254,
           "2023-07": 522,
-          "2023-06": 249,
+          "2023-06": 248,
           "2023-05": 856,
-          "2023-04": 522,
-          "2023-03": 573,
+          "2023-04": 523,
+          "2023-03": 572,
           "2023-02": 202,
           "2023-01": 281,
-          "2022-12": 282,
+          "2022-12": 283,
           "2022-11": 243,
           "2016-11": 0,
           "2016-12": 0,
@@ -70909,25 +68725,24 @@
           "2021-02": 301,
           "2021-03": 178,
           "2021-04": 623,
-          "2021-05": 381,
-          "2021-06": 161,
-          "2021-07": 165,
+          "2021-05": 380,
+          "2021-06": 162,
+          "2021-07": 164,
           "2021-08": 160,
           "2021-09": 141,
           "2021-10": 89,
           "2021-11": 98,
-          "2021-12": 248,
-          "2022-01": 236,
-          "2022-02": 162,
-          "2022-03": 47,
-          "2022-04": 107,
-          "2022-05": 88,
-          "2022-06": 193,
-          "2022-07": 133,
+          "2021-12": 249,
+          "2022-01": 235,
+          "2022-02": 163,
+          "2022-03": 46,
+          "2022-04": 108,
+          "2022-05": 87,
+          "2022-06": 194,
+          "2022-07": 132,
           "2022-08": 113,
           "2022-09": 154,
-          "2022-10": 64,
-          "2024-07": 15
+          "2022-10": 64
         },
         "join": {
           "2016-11": 10,
@@ -71136,20 +68951,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#schemaorg4datasets",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6468"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6468/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#schemaorg4datasets"
+          ]
         },
         "lists": {
           "2023-03": 1,
@@ -71392,20 +69196,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "https://gitter.im/shapeExpressions/Lobby",
-          "shortdesc": "gitter",
-          "longdesc": "The main gitter channel for all things ShEx. There are other gitter channels for sub-topics.",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6478"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6478/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat https://gitter.im/shapeExpressions/Lobby"
+          ]
         },
         "lists": {
           "2023-06": 1,
@@ -71785,29 +69578,15 @@
           "2016-12": 2
         },
         "other": {
-          "type": "otherother",
-          "link": "https://www.w3.org/WoT/IG/wiki/Main_Page#WebConf_Meetingshttps://www.w3.org/community/wot/",
-          "shortdesc": "Meetingscg",
-          "longdesc": "Information on MeetingsCommunity Group",
-          "external": 0,
-          "closed": 0,
-          "_links": "[object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/WoT/IG/wiki/Main_Page#WebConf_Meetings",
+            "Unsupported tracking of service other https://www.w3.org/community/wot/"
+          ]
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=95969",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25902"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25902/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=95969"
+          ]
         },
         "repository": {
           "2016-12": 0,
@@ -71901,7 +69680,7 @@
           "2024-04": 55,
           "2024-05": 66,
           "2024-06": 10,
-          "2024-07": 0
+          "2024-07": 2
         },
         "join": {
           "2016-12": 0,
@@ -72120,20 +69899,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#colorweb",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6496"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6496/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#colorweb"
+          ]
         },
         "lists": {
           "2024-06": 3,
@@ -72498,20 +70266,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#opentrack",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6502"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6502/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#opentrack"
+          ]
         },
         "lists": {
           "2024-05": 1,
@@ -72879,20 +70636,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#epub3",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6524"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6524/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#epub3"
+          ]
         },
         "lists": {
           "2024-06": 5,
@@ -73478,20 +71224,9 @@
           "2017-02": 11
         },
         "other": {
-          "type": "other",
-          "link": "https://www.w3.org/community/gpu/",
-          "shortdesc": "cg",
-          "longdesc": "Community Group",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6537"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6537/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/community/gpu/"
+          ]
         },
         "repository": {
           "2017-02": 52,
@@ -73583,7 +71318,7 @@
           "2024-04": 804,
           "2024-05": 692,
           "2024-06": 416,
-          "2024-07": 60
+          "2024-07": 72
         },
         "join": {
           "2017-02": 60,
@@ -73805,20 +71540,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#pbg",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6550"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6550/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#pbg"
+          ]
         },
         "lists": {
           "2024-07": 3,
@@ -73904,13 +71628,10 @@
           "2017-03": 73
         },
         "other": {
-          "type": "otherother",
-          "link": "https://github.com/w3c/publ-bghttps://drive.google.com/drive/folders/1tQf56giFynYlWKm5DmrxTUbYUwpzQAmI",
-          "shortdesc": "Github repositoryGoogle Drive",
-          "longdesc": "Github repositoryGoogle Drive folder for PWG Documents",
-          "external": 2,
-          "closed": 0,
-          "_links": "[object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service other https://github.com/w3c/publ-bg",
+            "Unsupported tracking of service other https://drive.google.com/drive/folders/1tQf56giFynYlWKm5DmrxTUbYUwpzQAmI"
+          ]
         },
         "wiki": {
           "2017-02": 0,
@@ -74322,20 +72043,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#bioschemas",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6557"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6557/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#bioschemas"
+          ]
         },
         "lists": {
           "2024-06": 3,
@@ -74518,20 +72228,9 @@
           "2024-07": 0
         },
         "twitter": {
-          "type": "twitter",
-          "link": "https://twitter.com/bioschemas",
-          "shortdesc": "Twitter",
-          "longdesc": "@bioschemas on Twitter",
-          "external": true,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/15585"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/15585/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service twitter https://twitter.com/bioschemas"
+          ]
         },
         "join": {
           "2017-02": 7,
@@ -74743,20 +72442,9 @@
           "2024-07": 0
         },
         "chat": {
-          "type": "chat",
-          "link": "irc://irc.w3.org/#silver",
-          "shortdesc": "IRC",
-          "longdesc": "",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/6577"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/6577/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service chat irc://irc.w3.org/#silver"
+          ]
         },
         "lists": {
           "2024-07": 1,
@@ -75256,20 +72944,9 @@
           "2017-04": 2
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=98922",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25897"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25897/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=98922"
+          ]
         },
         "repository": {
           "2017-04": 2,
@@ -75359,7 +73036,7 @@
           "2024-04": 144,
           "2024-05": 159,
           "2024-06": 181,
-          "2024-07": 52
+          "2024-07": 63
         },
         "join": {
           "2017-04": 0,
@@ -75569,6 +73246,7 @@
           "2024-07": 0
         },
         "lists": {
+          "2024-07": 1,
           "2024-06": 10,
           "2024-05": 28,
           "2024-04": 29,
@@ -75657,29 +73335,15 @@
           "2017-05": 49
         },
         "other": {
-          "type": "otherother",
-          "link": "https://www.w3.org/2017/dxwg/wiki/Meetingshttps://github.com/w3c/dxwg/projects",
-          "shortdesc": "MeetingsOngoing projects",
-          "longdesc": "Information on MeetingsOngoing projects",
-          "external": 1,
-          "closed": 0,
-          "_links": "[object Object][object Object]"
+          "errors": [
+            "Unsupported tracking of service other https://www.w3.org/2017/dxwg/wiki/Meetings",
+            "Unsupported tracking of service other https://github.com/w3c/dxwg/projects"
+          ]
         },
         "tracker": {
-          "type": "tracker",
-          "link": "https://www.w3.org/PM/Groups/issueboard.html?gid=wg/dx",
-          "shortdesc": "Dashboard",
-          "longdesc": "Issue Dashboard",
-          "external": false,
-          "closed": false,
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/services/25894"
-            },
-            "groups": {
-              "href": "https://api.w3.org/services/25894/groups"
-            }
-          }
+          "errors": [
+            "Unsupported tracking of service tracker https://www.w3.org/PM/Groups/issueboard.html?gid=wg/dx"
+          ]
         },
         "repository": {
           "2017-05": 0,
