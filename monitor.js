@@ -13,7 +13,7 @@ const {fetchGithub} = require("./lib/github-activity");
 // TODO: replace with more semantic method?
 const {recursiveW3cFetch} = require("./lib/w3c-data");
 
-async function fetchServiceActivity(service) {
+async function fetchServiceActivity(service, group) {
   let data, type;
   try {
     switch(service.type) {
@@ -37,11 +37,15 @@ async function fetchServiceActivity(service) {
     case "forum":
       data = await fetchForum(service.link);
       break;
+    case "twitter":
+    case "chat":
+    case "tracker":
+      return {service, data: []};
     default:
-      return {service, data: [], error: `Unsupported tracking of service ${service.type} ${service.link}`};
+      return {service, data: [], error: `Unsupported tracking of service ${service.type} ${service.link} for ${group.name}`};
     }
   } catch (e) {
-    console.error(`Error fetching ${service.link} as ${service.type}: ${e}`);
+    console.error(`Error fetching ${service.link} as ${service.type} for ${group.name}: ${e}`);
     return {service, data: [], error: e};
   }
   if (type) {
@@ -59,7 +63,7 @@ let groupRepos;
 (async function() {
   try {
     const data = JSON.parse((await authedFetch('https://w3c.github.io/validate-repos/report.json')).body);
-    const groupRepos =data.groups;
+    const groupRepos = data.groups;
     const staff = await recursiveW3cFetch('https://api.w3.org/affiliations/52794/participants?embed=1', 'participants');
     save('staff', staff);
     const groups = await recursiveW3cFetch('https://api.w3.org/groups?embed=1', 'groups');
@@ -76,7 +80,7 @@ let groupRepos;
             recursiveW3cFetch((w3cg._links.services || {}).href?.concat('?embed=1'), 'services')
               .then(services => Promise.all(
                 services
-                  .map(fetchServiceActivity))),
+                  .map(s => fetchServiceActivity(s, w3cg)))),
             recursiveW3cFetch((w3cg._links.participations || {}).href?.concat('?embed=1'), 'participations')
           ]).catch(err => {console.error("Error fetching data on " + w3cg.id, err); return [w3cg, [], [], [], []];})
 	    .then(data => save(w3cg.id, data)).catch(err => {console.error("Error dealing with " + w3cg.id, err);})
