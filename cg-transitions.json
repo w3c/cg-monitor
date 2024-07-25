@@ -246,6 +246,12 @@
     ],
     "specs": [
       {
+	"repo": "WICG/web-preferences-api",
+	"date": "2024-07-10",
+	"wgshortname": "w3c/css/mediaqueries-5",
+	"notice": "https://github.com/w3c/csswg-drafts/issues/6517#issuecomment-2220975121"
+      },
+      {
 	"repo": "WICG/overscroll-scrollend-events",
 	"date": "2022-06-22",
 	"wgshortname": "w3c/css/overscroll",
@@ -300,6 +306,12 @@
 	"notice": "https://github.com/w3c/csswg-drafts/issues/4843"
       },
       {
+	"repo": "WICG/container-queries",
+	"date": "2021-02-11",
+	"wgshortname": "w3c/css/css-contain-3",
+	"notice": "https://github.com/w3c/csswg-drafts/issues/5796#issuecomment-777846985"
+      },
+      {
 	"repo": "WICG/display-locking/content-visibility",
 	"date": "2020-03-06",
 	"wgshortname": "w3c/css/css-contain-2",
@@ -312,7 +324,7 @@
 	"notice": "https://github.com/whatwg/html/pull/6562"
       },
       {
-	"repo": "WICG/canvas-auxclick",
+	"repo": "WICG/auxclick",
 	"date": "2017-03-03",
 	"wgshortname": "w3c/webapps/uievents",
 	"notice": "https://github.com/w3c/uievents/issues/107#issuecomment-284063464"
@@ -1001,10 +1013,18 @@
     ]
   },
   "wintercg": {
-    "": {
+    "wg": {
       "notice": "https://github.com/wintercg/admin/issues/58",
       "date": "2023-11-02",
       "shortname": "ecma/"
-    }
+    },
+    "specs": [
+      {
+	"repo": "https://github.com/wintercg/proposal-common-minimum-api",
+	"date": "",
+	"notice": "",
+	"wgshortname": "ecma/"
+      }
+    ]
   }
 }
