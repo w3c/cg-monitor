@@ -249,19 +249,22 @@
 	"repo": "WICG/video-rvfc",
 	"date": "2022-09-19",
 	"wgshortname": "whatwg/html",
-	"notice": "https://github.com/whatwg/html/pull/5332#issuecomment-1251535284"
+	"notice": "https://github.com/whatwg/html/pull/5332#issuecomment-1251535284",
+	"status": "pending"
       },
       {
 	"repo": "WICG/webcrypto-secure-curves",
 	"date": "2024-02-19",
 	"wgshortname": "w3c/webappsec",
-	"notice": "https://github.com/w3c/webcrypto/pull/362"
+	"notice": "https://github.com/w3c/webcrypto/pull/362",
+	"status": "pending"
       },
       {
 	"repo": "WICG/scroll-to-text-fragment",
 	"date": "2022-09-12",
 	"wgshortname": "whatwg/html",
-	"notice": "https://github.com/WICG/scroll-to-text-fragment/issues/195#issuecomment-1243701670"
+	"notice": "https://github.com/WICG/scroll-to-text-fragment/issues/195#issuecomment-1243701670",
+	"status": "pending"
       },
       {
 	"repo": "WICG/web-preferences-api",
@@ -965,7 +968,14 @@
     "wg": {
       "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2023JulSep/0000.html",
       "date": "2023-07-03"
-    }
+    },
+    "specs": [
+      "repo": "privacycg/storage-access",
+      "date": "2023-03-09",
+      "notice": "https://github.com/whatwg/html/issues/9000",
+      "wgshortname": "whatwg/html",
+      "status": "pending"
+    ]
   },
   "speech-api": {
     "wg": {
