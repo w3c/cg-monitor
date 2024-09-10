@@ -246,6 +246,12 @@
     ],
     "specs": [
       {
+	"repo": "WICG/video-rvfc",
+	"date": "2022-09-19",
+	"wgshortname": "whatwg/html",
+	"notice": "https://github.com/whatwg/html/pull/5332#issuecomment-1251535284"
+      },
+      {
 	"repo": "WICG/webcrypto-secure-curves",
 	"date": "2024-02-19",
 	"wgshortname": "w3c/webappsec",
