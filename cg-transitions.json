@@ -246,6 +246,12 @@
     ],
     "specs": [
       {
+	"repo": "WICG/webcrypto-secure-curves",
+	"date": "2024-02-19",
+	"wgshortname": "w3c/webappsec",
+	"notice": "https://github.com/w3c/webcrypto/pull/362"
+      },
+      {
 	"repo": "WICG/scroll-to-text-fragment",
 	"date": "2022-09-12",
 	"wgshortname": "whatwg/html",
