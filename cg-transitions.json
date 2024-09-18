@@ -970,11 +970,13 @@
       "date": "2023-07-03"
     },
     "specs": [
-      "repo": "privacycg/storage-access",
-      "date": "2023-03-09",
-      "notice": "https://github.com/whatwg/html/issues/9000",
-      "wgshortname": "whatwg/html",
-      "status": "pending"
+      {
+	"repo": "privacycg/storage-access",
+	"date": "2023-03-09",
+	"notice": "https://github.com/whatwg/html/issues/9000",
+	"wgshortname": "whatwg/html",
+	"status": "pending"
+      }
     ]
   },
   "speech-api": {
