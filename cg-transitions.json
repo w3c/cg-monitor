@@ -246,6 +246,12 @@
     ],
     "specs": [
       {
+	"repo": "WICG/element-timing",
+	"date": "2024-12-17",
+	"wgshortname": "w3c/webperf",
+	"notice": "https://lists.w3.org/Archives/Public/public-web-perf/2024Nov/0006.html"
+      },
+      {
 	"repo": "WICG/video-rvfc",
 	"date": "2022-09-19",
 	"wgshortname": "whatwg/html",
