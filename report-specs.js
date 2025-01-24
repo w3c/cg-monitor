@@ -18,7 +18,7 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
 
   const lmTd = document.createElement("td");
   // TODO: color scheme/warning on age?
-  lmTd.append(spec.lastModified);
+  lmTd.append(spec.lastModified.split("T")[0]);
 
   const implTd = document.createElement("td");
   // TODO: add visual scheme to represent traction

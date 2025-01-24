@@ -540,7 +540,8 @@
           "repo": "WICG/sanitizer-api",
           "date": "2023-07-20",
           "wgshortname": "whatwg/html",
-          "notice": "https://github.com/whatwg/html/pull/9538"
+          "notice": "https://github.com/whatwg/html/pull/9538",
+          "status": "partial"
         }
       },
       {
@@ -742,7 +743,8 @@
           "repo": "WICG/web-preferences-api",
           "date": "2024-07-10",
           "wgshortname": "w3c/css/mediaqueries-5",
-          "notice": "https://github.com/w3c/csswg-drafts/issues/6517#issuecomment-2220975121"
+          "notice": "https://github.com/w3c/csswg-drafts/issues/6517#issuecomment-2220975121",
+          "status": "complete"
         }
       },
       {
@@ -785,7 +787,7 @@
           "date": "2024-02-19",
           "wgshortname": "w3c/webappsec",
           "notice": "https://github.com/w3c/webcrypto/pull/362",
-          "status": "pending"
+          "status": "complete"
         }
       },
       {
