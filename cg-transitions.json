@@ -276,7 +276,8 @@
 	"repo": "WICG/web-preferences-api",
 	"date": "2024-07-10",
 	"wgshortname": "w3c/css/mediaqueries-5",
-	"notice": "https://github.com/w3c/csswg-drafts/issues/6517#issuecomment-2220975121"
+	"notice": "https://github.com/w3c/csswg-drafts/issues/6517#issuecomment-2220975121",
+	"status": "complete"
       },
       {
 	"repo": "WICG/overscroll-scrollend-events",
