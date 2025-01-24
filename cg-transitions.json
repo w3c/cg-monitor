@@ -300,7 +300,8 @@
 	"repo": "WICG/sanitizer-api",
 	"date": "2023-07-20",
 	"wgshortname": "whatwg/html",
-	"notice": "https://github.com/whatwg/html/pull/9538"
+	"notice": "https://github.com/whatwg/html/pull/9538",
+	"status": "partial"
       },
       {
 	"repo": "WICG/custom-state-pseudo-class",
