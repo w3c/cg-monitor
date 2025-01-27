@@ -246,6 +246,12 @@
     ],
     "specs": [
       {
+	"repo": "WICG/dbsc",
+	"date": "2024-12-18",
+	"wgshortname": "w3c/webappsec",
+	"notice": "https://github.com/w3c/webappsec/blob/main/meetings/2024/2024-12-18-minutes.md#adopting-device-bound-session-credentials-thread"
+      },
+      {
 	"repo": "WICG/element-timing",
 	"date": "2024-12-17",
 	"wgshortname": "w3c/webperf",
