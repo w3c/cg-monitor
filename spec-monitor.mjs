@@ -2,6 +2,8 @@ import webSpecs from 'web-specs/index.json' with { type: 'json' };
 import webref from '../webref/ed/index.json' with { type: 'json' };
 import repoData from '../validate-repos/report.json' with { type: 'json' };
 import cgTransitions from './cg-transitions.json' with {type: 'json' };
+import cgImplementations from './spec-implementations.json' with {type: 'json' };
+import specAnnotations from './spec-annotations.json' with {type: 'json' };
 
 import authedFetch from './lib/authed-fetch.js';
 import {getBcdKeysForSpec, getBrowserSupport} from './lib/bcd.mjs';
@@ -27,7 +29,8 @@ for (const repo of repoData.repos.filter(r => r.w3c?.["repo-type"]?.includes("cg
     report[cgShortname].repos[repoName] = `${repoName} is archived`;
   } else {
     const specs = webSpecs.filter(s => s.nightly?.repository === `https://github.com/${repoName}`);
-    
+    // TODO: handle repos not referenced from browser-specs
+
     for (const spec of specs) {
 
       if (spec.standing === "discontinued") {
@@ -57,12 +60,16 @@ for (const repo of repoData.repos.filter(r => r.w3c?.["repo-type"]?.includes("cg
 	  engines.push(...support);
 	}
       }
+      if (cgImplementations[spec.url]) {
+	// TODO: avoid dups
+	engines.push(...Object.keys(cgImplementations[spec.url]));
+      }
 
       // has test suite?
       // is referenced by other brower specs?
       // under transition? doc marked as under transition?
       const transition = cgTransitions[cgShortname].specs.find(s => s.repo === repoName) ?? "N/A";
-      report[cgShortname].specs.push({title: spec.title, url: spec.url, repo: repoName, lastModified: lastModificationDate.toJSON(), implementations: [... new Set(engines)], transition});
+      report[cgShortname].specs.push({title: spec.title, url: spec.url, repo: repoName, lastModified: lastModificationDate.toJSON(), implementations: [... new Set(engines)], transition, notes: specAnnotations[spec.url] ?? ""});
     }
 
     // list of contributors from IPR checker (@@@ not per spec but per repo atm)

@@ -33,8 +33,18 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
   }
 
   const transitionTd = document.createElement("td");
-  transitionTd.append(JSON.stringify(spec.transition, null, 2));
+  if (spec.transition.notice) {
+    const transitionLink = document.createElement("a");
+    transitionLink.href = spec.transition.notice;
+    transitionLink.append(`${spec.transition.status || ""} to ${spec.transition.wgshortname} (${spec.transition.date})`);
+    transitionTd.append(transitionLink);
+  } else {
+    transitionTd.append(spec.transition);
+  }
 
-  tr.append(specTd, repoTd, lmTd, implTd, transitionTd);
+  const notesTd = document.createElement("td");
+  notesTd.append(spec.notes);
+
+  tr.append(specTd, repoTd, lmTd, implTd, transitionTd, notesTd);
   table.append(tr);
 }

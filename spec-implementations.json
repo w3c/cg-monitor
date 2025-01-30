@@ -1,0 +1,26 @@
+{
+  "https://wicg.github.io/handwriting-recognition/": {
+    "chrome": "on a limited number of devices (ChromeOS)"
+  },
+  "https://wicg.github.io/shape-detection-api/text.html": {
+    "chrome": "on Android, macOS, Windows"
+  },
+  "https://wicg.github.io/prefer-current-tab/": {
+    "chrome": "94"
+  },
+  "https://wicg.github.io/media-feeds/": {
+    "removed": "https://chromium-review.googlesource.com/c/chromium/src/+/2803838"
+  },
+  "https://wicg.github.io/capability-delegation/spec.html": {
+    "chrome": "100"
+  },
+  "https://wicg.github.io/digital-goods/": {
+    "chrome": "100, ChromeOS and Android only"
+  },
+  "https://wicg.github.io/sms-one-time-codes/": {
+    "ios": "14 https://developer.apple.com/documentation/safari-release-notes/safari-14-beta-release-notes"
+  },
+  "https://wicg.github.io/document-policy/": {
+    "chrome": "86, see https://chromestatus.com/feature/5756689661820928; see also https://github.com/whatwg/html/pull/10718"
+  }
+}

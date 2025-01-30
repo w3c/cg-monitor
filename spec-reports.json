@@ -9,7 +9,17 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
+      },
+      {
+        "title": "Accessibility Object Model",
+        "url": "https://wicg.github.io/aom/spec/",
+        "repo": "WICG/aom",
+        "lastModified": "2024-06-25T22:00:00.000Z",
+        "implementations": [],
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Attribution Reporting",
@@ -19,7 +29,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Background Fetch",
@@ -29,7 +40,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Web Background Synchronization",
@@ -39,15 +51,19 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Capability Delegation",
         "url": "https://wicg.github.io/capability-delegation/spec.html",
         "repo": "WICG/capability-delegation",
         "lastModified": "2023-02-16T23:00:00.000Z",
-        "implementations": [],
-        "transition": "N/A"
+        "implementations": [
+          "chrome"
+        ],
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Client Hints Infrastructure",
@@ -55,7 +71,8 @@
         "repo": "WICG/client-hints-infrastructure",
         "lastModified": "2024-06-12T22:00:00.000Z",
         "implementations": [],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Content Index",
@@ -63,7 +80,8 @@
         "repo": "WICG/content-index",
         "lastModified": "2021-04-12T22:00:00.000Z",
         "implementations": [],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Cookie Store API",
@@ -71,14 +89,16 @@
         "repo": "WICG/cookie-store",
         "lastModified": "2024-07-14T22:00:00.000Z",
         "implementations": [
-          "chrome"
+          "chrome",
+          "firefox"
         ],
         "transition": {
           "repo": "WICG/cookie-store",
           "notice": "https://github.com/WICG/cookie-store/issues/186",
           "date": "pending",
           "wgshortname": "w3c/webapps"
-        }
+        },
+        "notes": ""
       },
       {
         "title": "Crash Reporting",
@@ -86,7 +106,8 @@
         "repo": "WICG/crash-reporting",
         "lastModified": "2024-07-16T22:00:00.000Z",
         "implementations": [],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Scripting Policy",
@@ -94,7 +115,8 @@
         "repo": "WICG/csp-next",
         "lastModified": "2021-08-30T22:00:00.000Z",
         "implementations": [],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": "no active work, editor noted it could be archived for now https://github.com/WICG/csp-next/issues/9"
       },
       {
         "title": "CSS Parser API",
@@ -102,7 +124,8 @@
         "repo": "WICG/css-parser-api",
         "lastModified": "2021-02-25T23:00:00.000Z",
         "implementations": [],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "DataCue API",
@@ -112,7 +135,8 @@
         "implementations": [
           "safari"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Deprecation Reporting",
@@ -120,9 +144,11 @@
         "repo": "WICG/deprecation-reporting",
         "lastModified": "2020-09-27T22:00:00.000Z",
         "implementations": [
-          "chrome"
+          "chrome",
+          "firefox"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Digital Credentials",
@@ -135,15 +161,19 @@
           "date": "2024-04-16",
           "wgshortname": "w3c/fedid",
           "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2024AprJun/0009.html"
-        }
+        },
+        "notes": ""
       },
       {
         "title": "Digital Goods API",
         "url": "https://wicg.github.io/digital-goods/",
         "repo": "WICG/digital-goods",
         "lastModified": "2022-03-17T23:00:00.000Z",
-        "implementations": [],
-        "transition": "N/A"
+        "implementations": [
+          "chrome"
+        ],
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Direct Sockets API",
@@ -151,40 +181,30 @@
         "repo": "WICG/direct-sockets",
         "lastModified": "2024-10-23T22:00:00.000Z",
         "implementations": [],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
-        "title": "Document Picture-in-Picture",
+        "title": "Document Picture-in-Picture Specification",
         "url": "https://wicg.github.io/document-picture-in-picture/",
         "repo": "WICG/document-picture-in-picture",
         "lastModified": "2024-09-30T22:00:00.000Z",
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Document Policy",
         "url": "https://wicg.github.io/document-policy/",
         "repo": "WICG/document-policy",
         "lastModified": "2022-03-29T22:00:00.000Z",
-        "implementations": [],
-        "transition": "N/A"
-      },
-      {
-        "title": "Element Timing API",
-        "url": "https://wicg.github.io/element-timing/",
-        "repo": "WICG/element-timing",
-        "lastModified": "2025-01-08T23:00:00.000Z",
         "implementations": [
           "chrome"
         ],
-        "transition": {
-          "repo": "WICG/element-timing",
-          "date": "2024-12-17",
-          "wgshortname": "w3c/webperf",
-          "notice": "https://lists.w3.org/Archives/Public/public-web-perf/2024Nov/0006.html"
-        }
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "File and Directory Entries API",
@@ -196,7 +216,8 @@
           "firefox",
           "safari"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "EyeDropper API",
@@ -206,7 +227,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Fenced Frame",
@@ -216,7 +238,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "File System Access",
@@ -226,7 +249,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "User Agent Interaction with Related Website Sets",
@@ -234,7 +258,8 @@
         "repo": "WICG/first-party-sets",
         "lastModified": "2024-09-30T22:00:00.000Z",
         "implementations": [],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Get Installed Related Apps API",
@@ -244,15 +269,19 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Handwriting Recognition API",
         "url": "https://wicg.github.io/handwriting-recognition/",
         "repo": "WICG/handwriting-recognition",
         "lastModified": "2024-11-20T23:00:00.000Z",
-        "implementations": [],
-        "transition": "N/A"
+        "implementations": [
+          "chrome"
+        ],
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Idle Detection API",
@@ -262,7 +291,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Ink API",
@@ -272,7 +302,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Input Device Capabilities",
@@ -282,7 +313,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Intervention Reporting",
@@ -292,7 +324,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Early detection of input events",
@@ -302,7 +335,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Isolated Contexts",
@@ -310,7 +344,8 @@
         "repo": "WICG/isolated-web-apps",
         "lastModified": "2024-11-06T23:00:00.000Z",
         "implementations": [],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "JS Self-Profiling API",
@@ -320,7 +355,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Keyboard Lock",
@@ -330,7 +366,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Keyboard Map",
@@ -340,27 +377,30 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
-        "title": "Layout Instability",
+        "title": "Layout Instability API",
         "url": "https://wicg.github.io/layout-instability/",
         "repo": "WICG/layout-instability",
         "lastModified": "2021-12-19T23:00:00.000Z",
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
-        "title": "Local Font Access",
+        "title": "Local Font Access API",
         "url": "https://wicg.github.io/local-font-access/",
         "repo": "WICG/local-font-access",
         "lastModified": "2024-06-06T22:00:00.000Z",
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Manifest Incubations",
@@ -370,23 +410,19 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Media Feeds",
         "url": "https://wicg.github.io/media-feeds/",
         "repo": "WICG/media-feeds",
         "lastModified": "2023-02-05T23:00:00.000Z",
-        "implementations": [],
-        "transition": "N/A"
-      },
-      {
-        "title": "No-Vary-Search",
-        "url": "https://wicg.github.io/nav-speculation/no-vary-search.html",
-        "repo": "WICG/nav-speculation",
-        "lastModified": "2025-01-22T23:00:00.000Z",
-        "implementations": [],
-        "transition": "N/A"
+        "implementations": [
+          "removed"
+        ],
+        "transition": "N/A",
+        "notes": "editors said they wanted to re-evaluate incubation (in Feb 2023) https://github.com/WICG/media-feeds/issues/59#issuecomment-1439286577"
       },
       {
         "title": "Prefetch",
@@ -397,7 +433,8 @@
           "chrome",
           "firefox"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Prerendering Revamped",
@@ -407,7 +444,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Speculation Rules",
@@ -417,7 +455,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Network Information API",
@@ -427,7 +466,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Observable",
@@ -435,7 +475,8 @@
         "repo": "WICG/observable",
         "lastModified": "2024-12-11T23:00:00.000Z",
         "implementations": [],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "overscroll and scrollend events",
@@ -448,7 +489,8 @@
           "date": "2022-06-22",
           "wgshortname": "w3c/css/overscroll",
           "notice": "https://github.com/w3c/csswg-drafts/commit/a8955e554a916aefbff4896f3b0ceab005d0f81b"
-        }
+        },
+        "notes": ""
       },
       {
         "title": "Page Lifecycle",
@@ -458,7 +500,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Measure Memory API",
@@ -468,7 +511,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Web Periodic Background Synchronization",
@@ -478,39 +522,53 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Requesting Permissions",
         "url": "https://wicg.github.io/permissions-request/",
         "repo": "WICG/permissions-request",
         "lastModified": "2022-05-08T22:00:00.000Z",
-        "implementations": [],
-        "transition": "N/A"
+        "implementations": [
+          "chrome"
+        ],
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Relinquishing Permissions",
         "url": "https://wicg.github.io/permissions-revoke/",
         "repo": "WICG/permissions-revoke",
         "lastModified": "2022-05-08T22:00:00.000Z",
-        "implementations": [],
-        "transition": "N/A"
+        "implementations": [
+          "chrome",
+          "firefox"
+        ],
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Portals",
         "url": "https://wicg.github.io/portals/",
         "repo": "WICG/portals",
         "lastModified": "2021-04-18T22:00:00.000Z",
-        "implementations": [],
-        "transition": "N/A"
+        "implementations": [
+          "chrome"
+        ],
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "preferCurrentTab",
         "url": "https://wicg.github.io/prefer-current-tab/",
         "repo": "WICG/prefer-current-tab",
         "lastModified": "2024-11-06T23:00:00.000Z",
-        "implementations": [],
-        "transition": "N/A"
+        "implementations": [
+          "chrome"
+        ],
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Private Network Access",
@@ -520,7 +578,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Responsive Image Client Hints",
@@ -528,7 +587,8 @@
         "repo": "WICG/responsive-image-client-hints",
         "lastModified": "2024-05-20T22:00:00.000Z",
         "implementations": [],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "HTML Sanitizer API",
@@ -542,7 +602,8 @@
           "wgshortname": "whatwg/html",
           "notice": "https://github.com/whatwg/html/pull/9538",
           "status": "partial"
-        }
+        },
+        "notes": ""
       },
       {
         "title": "Save Data API",
@@ -552,7 +613,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Prioritized Task Scheduling",
@@ -560,9 +622,11 @@
         "repo": "WICG/scheduling-apis",
         "lastModified": "2024-09-26T22:00:00.000Z",
         "implementations": [
-          "chrome"
+          "chrome",
+          "firefox"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "URL Fragment Text Directives",
@@ -579,7 +643,8 @@
           "wgshortname": "whatwg/html",
           "notice": "https://github.com/WICG/scroll-to-text-fragment/issues/195#issuecomment-1243701670",
           "status": "pending"
-        }
+        },
+        "notes": ""
       },
       {
         "title": "Web Serial API",
@@ -589,23 +654,31 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Accelerated Shape Detection in Images",
         "url": "https://wicg.github.io/shape-detection-api/",
         "repo": "WICG/shape-detection-api",
         "lastModified": "2025-01-07T23:00:00.000Z",
-        "implementations": [],
-        "transition": "N/A"
+        "implementations": [
+          "chrome",
+          "safari"
+        ],
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Accelerated Text Detection in Images",
         "url": "https://wicg.github.io/shape-detection-api/text.html",
         "repo": "WICG/shape-detection-api",
         "lastModified": "2025-01-07T23:00:00.000Z",
-        "implementations": [],
-        "transition": "N/A"
+        "implementations": [
+          "chrome"
+        ],
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Shared Storage API",
@@ -615,15 +688,19 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Origin-bound one-time codes delivered via SMS",
         "url": "https://wicg.github.io/sms-one-time-codes/",
         "repo": "WICG/sms-one-time-codes",
         "lastModified": "2021-03-23T23:00:00.000Z",
-        "implementations": [],
-        "transition": "N/A"
+        "implementations": [
+          "ios"
+        ],
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Soft Navigations",
@@ -631,19 +708,8 @@
         "repo": "WICG/soft-navigations",
         "lastModified": "2023-12-06T23:00:00.000Z",
         "implementations": [],
-        "transition": "N/A"
-      },
-      {
-        "title": "Web Speech API",
-        "url": "https://wicg.github.io/speech-api/",
-        "repo": "WICG/speech-api",
-        "lastModified": "2025-01-21T23:00:00.000Z",
-        "implementations": [
-          "chrome",
-          "safari",
-          "firefox"
-        ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Storage Buckets API",
@@ -653,7 +719,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Private State Token API",
@@ -663,7 +730,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Protected Audience (formerly FLEDGE)",
@@ -673,7 +741,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "User-Agent Client Hints",
@@ -683,7 +752,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "User Preference Media Features Client Hints Headers",
@@ -693,7 +763,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "HTMLVideoElement.requestVideoFrameCallback()",
@@ -711,7 +782,8 @@
           "wgshortname": "whatwg/html",
           "notice": "https://github.com/whatwg/html/pull/5332#issuecomment-1251535284",
           "status": "pending"
-        }
+        },
+        "notes": ""
       },
       {
         "title": "Web App Launch Handler API",
@@ -721,7 +793,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "WebOTP API",
@@ -731,7 +804,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Web Preferences API",
@@ -745,7 +819,8 @@
           "wgshortname": "w3c/css/mediaqueries-5",
           "notice": "https://github.com/w3c/csswg-drafts/issues/6517#issuecomment-2220975121",
           "status": "complete"
-        }
+        },
+        "notes": ""
       },
       {
         "title": "Web Smart Card API",
@@ -753,7 +828,8 @@
         "repo": "WICG/web-smart-card",
         "lastModified": "2023-12-17T23:00:00.000Z",
         "implementations": [],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Device Attributes API",
@@ -761,7 +837,8 @@
         "repo": "WICG/WebApiDevice",
         "lastModified": "2021-07-17T22:00:00.000Z",
         "implementations": [],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Managed Configuration API",
@@ -771,7 +848,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Secure Curves in the Web Cryptography API",
@@ -779,6 +857,7 @@
         "repo": "WICG/webcrypto-secure-curves",
         "lastModified": "2024-10-20T22:00:00.000Z",
         "implementations": [
+          "chrome",
           "firefox",
           "safari"
         ],
@@ -788,7 +867,8 @@
           "wgshortname": "w3c/webappsec",
           "notice": "https://github.com/w3c/webcrypto/pull/362",
           "status": "complete"
-        }
+        },
+        "notes": ""
       },
       {
         "title": "WebHID API",
@@ -798,7 +878,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Loading Signed Exchanges",
@@ -806,7 +887,8 @@
         "repo": "WICG/webpackage",
         "lastModified": "2024-07-28T22:00:00.000Z",
         "implementations": [],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "WebUSB API",
@@ -816,7 +898,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       },
       {
         "title": "Window Controls Overlay",
@@ -826,7 +909,8 @@
         "implementations": [
           "chrome"
         ],
-        "transition": "N/A"
+        "transition": "N/A",
+        "notes": ""
       }
     ],
     "repos": {
