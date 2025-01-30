@@ -246,6 +246,13 @@
     ],
     "specs": [
       {
+	"repo": "WICG/observable",
+	"date": "2024-07-11",
+	"wgshortname": "whatwg/dom",
+	"notice": "https://github.com/w3ctag/design-reviews/issues/902#issuecomment-2221615028",
+	"status": "targetting"
+      },
+      {
 	"repo": "WICG/dbsc",
 	"date": "2024-12-18",
 	"wgshortname": "w3c/webappsec",
@@ -297,7 +304,9 @@
 	"repo": "WICG/overscroll-behavior",
 	"date": "2018-10-16",
 	"wgshortname": "w3c/css/overscroll-1",
-	"notice": "https://github.com/WICG/overscroll-behavior/commit/b25052e493fd122dece0ff8741aa4ec436c08765"
+	"notice": "https://github.com/w3c/csswg-drafts/issues/2179#issuecomment-358373812",
+	"startedin": "w3c/css",
+	"comment": "Started in WG then sent to incubation"
       },
       {
 	"repo": "WICG/webcomponents/css-modules-v1",
@@ -580,14 +589,6 @@
 	"date": "2018-11-06",
 	"notice": "https://lists.w3.org/Archives/Public/public-webappsec/2018Nov/0007.html",
 	"wgshortname": "w3c/webappsec"
-      },
-      {
-	"repo": "WICG/overscroll-behavior",
-	"notice": "https://github.com/w3c/csswg-drafts/issues/2179#issuecomment-358373812",
-	"date": "2018-01-17",
-	"wgshortname": "w3c/css",
-	"startedin": "w3c/css",
-	"comment": "Started in WG then sent to incubation"
       },
       {
 	"repo": "discourse",

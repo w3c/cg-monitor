@@ -125,7 +125,7 @@
         "lastModified": "2021-02-25T23:00:00.000Z",
         "implementations": [],
         "transition": "N/A",
-        "notes": ""
+        "notes": "editor thinks still worth exploring, but no change since Feb 2023 https://github.com/WICG/css-parser-api/issues/21#issuecomment-1433704949"
       },
       {
         "title": "DataCue API",
@@ -136,7 +136,7 @@
           "safari"
         ],
         "transition": "N/A",
-        "notes": ""
+        "notes": "Singe implementation for a very long time"
       },
       {
         "title": "Deprecation Reporting",
@@ -475,7 +475,13 @@
         "repo": "WICG/observable",
         "lastModified": "2024-12-11T23:00:00.000Z",
         "implementations": [],
-        "transition": "N/A",
+        "transition": {
+          "repo": "WICG/observable",
+          "date": "2024-07-11",
+          "wgshortname": "whatwg/dom",
+          "notice": "https://github.com/w3ctag/design-reviews/issues/902#issuecomment-2221615028",
+          "status": "targetting"
+        },
         "notes": ""
       },
       {
@@ -488,7 +494,8 @@
           "repo": "WICG/overscroll-scrollend-events",
           "date": "2022-06-22",
           "wgshortname": "w3c/css/overscroll",
-          "notice": "https://github.com/w3c/csswg-drafts/commit/a8955e554a916aefbff4896f3b0ceab005d0f81b"
+          "notice": "https://github.com/w3c/csswg-drafts/commit/a8955e554a916aefbff4896f3b0ceab005d0f81b",
+          "status": "partial"
         },
         "notes": ""
       },

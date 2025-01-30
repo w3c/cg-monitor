@@ -31,6 +31,10 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
     img.width = 32;
     implTd.append(img);
   }
+  if (spec.implementations.length > 1) {
+    implTd.classList.add("warning");
+  }
+
 
   const transitionTd = document.createElement("td");
   if (spec.transition.notice) {

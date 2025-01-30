@@ -1,5 +1,8 @@
 {
   "https://wicg.github.io/csp-next/scripting-policy.html": "no active work, editor noted it could be archived for now https://github.com/WICG/csp-next/issues/9"
   ,
-  "https://wicg.github.io/media-feeds/": "editors said they wanted to re-evaluate incubation (in Feb 2023) https://github.com/WICG/media-feeds/issues/59#issuecomment-1439286577"
+  "https://wicg.github.io/media-feeds/": "editors said they wanted to re-evaluate incubation (in Feb 2023) https://github.com/WICG/media-feeds/issues/59#issuecomment-1439286577",
+  "https://wicg.github.io/css-parser-api/": "editor thinks still worth exploring, but no change since Feb 2023 https://github.com/WICG/css-parser-api/issues/21#issuecomment-1433704949",
+  "https://wicg.github.io/datacue/": "Singe implementation for a very long time",
+  "": ""
 }
