@@ -246,6 +246,13 @@
     ],
     "specs": [
       {
+	"repo": "WICG/conditional-focus",
+	"date": "2022-10-05",
+	"wgshortname": "w3c/webrtc",
+	"notice": "https://github.com/w3c/mediacapture-screen-share/pull/240",
+	"status": "complete"
+      },
+      {
 	"repo": "WICG/observable",
 	"date": "2024-07-11",
 	"wgshortname": "whatwg/dom",
@@ -415,7 +422,8 @@
 	"repo": "WICG/import-maps",
 	"date": "2022-07-05",
 	"wgshortname": "whatwg/html",
-	"notice": "https://github.com/whatwg/html/pull/8075"
+	"notice": "https://github.com/whatwg/html/pull/8075",
+	"status": "complete"
       },
       {
 	"repo": "WICG/navigation-api",
@@ -658,12 +666,6 @@
 	"wgshortname": "w3c/css"
       },
       {
-	"repo": "WICG/view-transitions",
-	"notice": "https://github.com/WICG/admin/issues/106",
-	"date": "2020-05-01",
-	"wgshortname": "w3c/css/css-view-transitions-1"
-      },
-      {
 	"repo": "WICG/urlpattern",
 	"notice": "https://github.com/whatwg/urlpattern/issues/190",
 	"date": "2023-10-05",
@@ -679,7 +681,8 @@
 	"repo": "WICG/view-transitions",
 	"notice": "https://github.com/w3c/csswg-drafts/pull/9022",
 	"date": "2023-07-02",
-	"wgshortname": "w3c/css/css-view-transitions-2"
+	"wgshortname": "w3c/css/css-view-transitions-2",
+	"status": "complete"
       },
       {
 	"repo": "WICG/spatial-navigation",

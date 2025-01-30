@@ -1,6 +1,16 @@
 const table = document.querySelector("tbody");
+const list = document.querySelector("dl");
 
 const report = await (await fetch("spec-reports.json")).json();
+
+function addWarning(el, msg) {
+  el.classList.add("warning");
+  const warning = document.createElement("span");
+  warning.textContent = "⚠";
+  warning.title = msg;
+  warning.setAttribute("aria-label", msg);
+  el.prepend(warning);
+}
 
 for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare(b.lastModified))) {
   const tr = document.createElement("tr");
@@ -9,7 +19,7 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
   link.href = spec.url;
   link.append(spec.title);
   specTd.append(link);
-  
+
   const repoTd = document.createElement("td");
   const repoLink = document.createElement("a");
   repoLink.href = `https://github.com/${spec.repo}/`;
@@ -17,11 +27,15 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
   repoTd.append(repoLink);
 
   const lmTd = document.createElement("td");
-  // TODO: color scheme/warning on age?
   lmTd.append(spec.lastModified.split("T")[0]);
+  const now = new Date();
+  const then = new Date(spec.lastModified);
+  const age = (now - then)/(24*3600*1000);
+  if (age > 365) {
+    addWarning(lmTd, "Not modified for more than a year");
+  }
 
   const implTd = document.createElement("td");
-
 
   // FIXME: browser-spec specific
   for (const impl of spec.implementations) {
@@ -32,7 +46,7 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
     implTd.append(img);
   }
   if (spec.implementations.length > 1) {
-    implTd.classList.add("warning");
+    addWarning(implTd, "2+ implementations");
   }
 
   const refTd = document.createElement("td");
@@ -45,7 +59,7 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
     refTd.append(document.createElement("br"));
   }
   if (spec.referencedBy.length) {
-    refTd.classList.add("warning");
+    addWarning(refTd, "Referenced by other specs");
   }
 
   const transitionTd = document.createElement("td");
@@ -63,4 +77,32 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
 
   tr.append(specTd, repoTd, lmTd, implTd, refTd, transitionTd, notesTd);
   table.append(tr);
+}
+
+
+for (const repo of Object.keys(report.wicg.repos).sort()) {
+  const dt = document.createElement("dt");
+  const link = document.createElement("a");
+  link.href = `https://github.com/${repo}`;
+  link.textContent = repo;
+  dt.append(link);
+  list.append(dt);
+  const {transition, lastModified, notes} = report.wicg.repos[repo];
+  if (transition?.notice) {
+    const transitionDd = document.createElement("dd");
+    const transitionLink = document.createElement("a");
+    transitionLink.href = transition.notice;
+    transitionLink.append(`${transition.status || ""} to ${transition.wgshortname} (${transition.date})`);
+    transitionDd.append(transitionLink);
+    list.append(transitionDd);
+  }
+  if (lastModified) {
+    const lmDd = document.createElement("dd");
+    lmDd.append(`Last modified on ${lastModified.split("T")[0]}`);
+    list.append(lmDd);
+  }
+
+  const dd = document.createElement("dd");
+  dd.append(notes);
+  list.append(dd);
 }

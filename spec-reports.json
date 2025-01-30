@@ -1241,7 +1241,282 @@
       }
     ],
     "repos": {
-      "WICG/close-watcher": "close-watcher is discontinued but repo not archived"
+      "WICG/ab-worker-prototype": {
+        "notes": "WICG/ab-worker-prototype does not have a matching entry in browser-specs",
+        "lastModified": "2024-01-29T20:22:08.000Z",
+        "transition": "N/A"
+      },
+      "WICG/accessible-notifications": {
+        "notes": "WICG/accessible-notifications does not have a matching entry in browser-specs",
+        "lastModified": "2023-09-15T13:21:25.000Z",
+        "transition": "N/A"
+      },
+      "WICG/address-autofill": {
+        "notes": "WICG/address-autofill does not have a matching entry in browser-specs",
+        "lastModified": "2024-11-27T12:35:41.000Z",
+        "transition": "N/A"
+      },
+      "WICG/bfcache-not-restored-reason": {
+        "notes": "WICG/bfcache-not-restored-reason does not have a matching entry in browser-specs",
+        "lastModified": "2024-03-21T06:24:55.000Z",
+        "transition": "N/A"
+      },
+      "WICG/bundle-preloading": {
+        "notes": "WICG/bundle-preloading does not have a matching entry in browser-specs",
+        "lastModified": "2023-02-14T03:09:54.000Z",
+        "transition": "N/A"
+      },
+      "WICG/canvas-color-space": {
+        "notes": "WICG/canvas-color-space does not have a matching entry in browser-specs",
+        "lastModified": "2022-02-24T21:23:46.000Z",
+        "transition": {
+          "repo": "WICG/canvas-color-space",
+          "date": "2021-04-11",
+          "wgshortname": "whatwg/html",
+          "notice": "https://github.com/whatwg/html/pull/6562"
+        }
+      },
+      "WICG/canvas-formatted-text": {
+        "notes": "WICG/canvas-formatted-text does not have a matching entry in browser-specs",
+        "lastModified": "2024-10-02T17:46:29.000Z",
+        "transition": "N/A"
+      },
+      "WICG/canvas-place-element": {
+        "notes": "WICG/canvas-place-element does not have a matching entry in browser-specs",
+        "lastModified": "2024-09-25T17:44:26.000Z",
+        "transition": "N/A"
+      },
+      "WICG/close-watcher": {
+        "notes": "close-watcher is discontinued but repo not archived"
+      },
+      "WICG/color-api": {
+        "notes": "WICG/color-api does not have a matching entry in browser-specs",
+        "lastModified": "2024-07-16T16:38:08.000Z",
+        "transition": "N/A"
+      },
+      "WICG/compression-dictionary-transport": {
+        "notes": "WICG/compression-dictionary-transport does not have a matching entry in browser-specs",
+        "lastModified": "2024-08-27T16:44:33.000Z",
+        "transition": "N/A"
+      },
+      "WICG/conditional-focus": {
+        "notes": "WICG/conditional-focus does not have a matching entry in browser-specs",
+        "lastModified": "2023-09-18T11:49:47.000Z",
+        "transition": {
+          "repo": "WICG/conditional-focus",
+          "date": "2022-10-05",
+          "wgshortname": "w3c/webrtc",
+          "notice": "https://github.com/w3c/mediacapture-screen-share/pull/240",
+          "status": "complete"
+        }
+      },
+      "WICG/construct-stylesheets": {
+        "notes": "WICG/construct-stylesheets does not have a matching entry in browser-specs",
+        "lastModified": "2022-10-14T21:06:16.000Z",
+        "transition": "N/A"
+      },
+      "WICG/controlled-frame": {
+        "notes": "WICG/controlled-frame does not have a matching entry in browser-specs",
+        "lastModified": "2025-01-29T01:01:03.000Z",
+        "transition": "N/A"
+      },
+      "WICG/controls-list": {
+        "notes": "WICG/controls-list does not have a matching entry in browser-specs",
+        "lastModified": "2024-02-16T02:04:44.000Z",
+        "transition": "N/A"
+      },
+      "WICG/coop-restrict-properties": {
+        "notes": "WICG/coop-restrict-properties does not have a matching entry in browser-specs",
+        "lastModified": "2023-12-01T13:40:49.000Z",
+        "transition": "N/A"
+      },
+      "WICG/devtools-protocol": {
+        "notes": "WICG/devtools-protocol does not have a matching entry in browser-specs",
+        "lastModified": "2019-09-30T07:39:07.000Z",
+        "transition": "N/A"
+      },
+      "WICG/display-override": {
+        "notes": "WICG/display-override does not have a matching entry in browser-specs",
+        "lastModified": "2021-02-18T17:29:50.000Z",
+        "transition": "N/A"
+      },
+      "WICG/document-isolation-policy": {
+        "notes": "WICG/document-isolation-policy does not have a matching entry in browser-specs",
+        "lastModified": "2024-09-18T13:17:55.000Z",
+        "transition": "N/A"
+      },
+      "WICG/explicit-javascript-compile-hints-file-based": {
+        "notes": "WICG/explicit-javascript-compile-hints-file-based does not have a matching entry in browser-specs",
+        "lastModified": "2024-10-11T01:19:06.000Z",
+        "transition": "N/A"
+      },
+      "WICG/file-handling": {
+        "notes": "WICG/file-handling does not have a matching entry in browser-specs",
+        "lastModified": "2022-03-15T14:48:27.000Z",
+        "transition": "N/A"
+      },
+      "WICG/import-maps": {
+        "notes": "WICG/import-maps does not have a matching entry in browser-specs",
+        "lastModified": "2023-11-22T01:32:07.000Z",
+        "transition": {
+          "repo": "WICG/import-maps",
+          "date": "2022-07-05",
+          "wgshortname": "whatwg/html",
+          "notice": "https://github.com/whatwg/html/pull/8075",
+          "status": "complete"
+        }
+      },
+      "WICG/local-peer-to-peer": {
+        "notes": "WICG/local-peer-to-peer does not have a matching entry in browser-specs",
+        "lastModified": "2024-08-12T07:43:01.000Z",
+        "transition": "N/A"
+      },
+      "WICG/media-latency-hint": {
+        "notes": "WICG/media-latency-hint does not have a matching entry in browser-specs",
+        "lastModified": "2020-07-29T21:21:01.000Z",
+        "transition": "N/A"
+      },
+      "WICG/mobile-document-request-api": {
+        "notes": "WICG/mobile-document-request-api does not have a matching entry in browser-specs",
+        "lastModified": "2024-08-07T00:16:05.000Z",
+        "transition": "N/A"
+      },
+      "WICG/navigation-api": {
+        "notes": "WICG/navigation-api does not have a matching entry in browser-specs",
+        "lastModified": "2023-09-14T21:17:36.000Z",
+        "transition": {
+          "repo": "WICG/navigation-api",
+          "date": "2022-11-14",
+          "wgshortname": "whatwg/html",
+          "notice": "https://github.com/whatwg/html/pull/8502"
+        }
+      },
+      "WICG/origin-policy": {
+        "notes": "WICG/origin-policy does not have a matching entry in browser-specs",
+        "lastModified": "2022-04-28T16:44:35.000Z",
+        "transition": "N/A"
+      },
+      "WICG/paymentlink": {
+        "notes": "WICG/paymentlink does not have a matching entry in browser-specs",
+        "lastModified": "2025-01-23T08:13:50.000Z",
+        "transition": "N/A"
+      },
+      "WICG/pending-beacon": {
+        "notes": "WICG/pending-beacon does not have a matching entry in browser-specs",
+        "lastModified": "2024-10-31T16:35:46.000Z",
+        "transition": {
+          "repo": "WICG/pending-beacon",
+          "notice": "https://github.com/whatwg/fetch/pull/1647",
+          "date": "2023-05-02",
+          "wgshortname": "whatwg/fetch"
+        }
+      },
+      "WICG/PEPC": {
+        "notes": "WICG/PEPC does not have a matching entry in browser-specs",
+        "lastModified": "2025-01-20T17:07:47.000Z",
+        "transition": "N/A"
+      },
+      "WICG/pointer-event-extensions": {
+        "notes": "WICG/pointer-event-extensions does not have a matching entry in browser-specs",
+        "lastModified": "2024-06-03T18:15:44.000Z",
+        "transition": "N/A"
+      },
+      "WICG/privacy-preserving-ads": {
+        "notes": "WICG/privacy-preserving-ads does not have a matching entry in browser-specs",
+        "lastModified": "2025-01-09T21:21:35.000Z",
+        "transition": "N/A"
+      },
+      "WICG/protected-auction-services-discussion": {
+        "notes": "WICG/protected-auction-services-discussion does not have a matching entry in browser-specs",
+        "lastModified": "2024-12-17T00:24:32.000Z",
+        "transition": "N/A"
+      },
+      "WICG/pwa-url-handler": {
+        "notes": "WICG/pwa-url-handler does not have a matching entry in browser-specs",
+        "lastModified": "2023-10-10T01:43:59.000Z",
+        "transition": "N/A"
+      },
+      "WICG/raw-clipboard-access": {
+        "notes": "WICG/raw-clipboard-access does not have a matching entry in browser-specs",
+        "lastModified": "2019-10-31T10:02:25.000Z",
+        "transition": "N/A"
+      },
+      "WICG/Realms-Initialization-Control": {
+        "notes": "WICG/Realms-Initialization-Control does not have a matching entry in browser-specs",
+        "lastModified": "2024-10-21T14:14:19.000Z",
+        "transition": "N/A"
+      },
+      "WICG/screen-brightness": {
+        "notes": "WICG/screen-brightness does not have a matching entry in browser-specs",
+        "lastModified": "2022-11-16T16:04:35.000Z",
+        "transition": "N/A"
+      },
+      "WICG/service-worker-static-routing-api": {
+        "notes": "WICG/service-worker-static-routing-api does not have a matching entry in browser-specs",
+        "lastModified": "2024-10-16T06:43:33.000Z",
+        "transition": "N/A"
+      },
+      "WICG/signature-based-sri": {
+        "notes": "WICG/signature-based-sri does not have a matching entry in browser-specs",
+        "lastModified": "2025-01-30T17:24:18.000Z",
+        "transition": "N/A"
+      },
+      "WICG/sparrow": {
+        "notes": "WICG/sparrow does not have a matching entry in browser-specs",
+        "lastModified": "2021-01-26T13:48:10.000Z",
+        "transition": "N/A"
+      },
+      "WICG/spatial-navigation": {
+        "notes": "WICG/spatial-navigation does not have a matching entry in browser-specs",
+        "lastModified": "2021-08-16T13:28:11.000Z",
+        "transition": {
+          "repo": "WICG/spatial-navigation",
+          "notice": "https://github.com/WICG/spatial-navigation/issues/138",
+          "date": "2018-11-16",
+          "wgshortname": "w3c/css"
+        }
+      },
+      "WICG/storage-foundation-api-explainer": {
+        "notes": "WICG/storage-foundation-api-explainer does not have a matching entry in browser-specs",
+        "lastModified": "2021-09-23T14:03:53.000Z",
+        "transition": "N/A"
+      },
+      "WICG/view-transitions": {
+        "notes": "WICG/view-transitions does not have a matching entry in browser-specs",
+        "lastModified": "2024-11-18T09:49:48.000Z",
+        "transition": {
+          "repo": "WICG/view-transitions",
+          "notice": "https://github.com/w3c/csswg-drafts/pull/9022",
+          "date": "2023-07-02",
+          "wgshortname": "w3c/css/css-view-transitions-2",
+          "status": "complete"
+        }
+      },
+      "WICG/visual-viewport": {
+        "notes": "WICG/visual-viewport does not have a matching entry in browser-specs",
+        "lastModified": "2024-03-18T15:26:01.000Z",
+        "transition": {
+          "repo": "WICG/visual-viewport",
+          "date": "2021-06-02",
+          "notice": "https://github.com/w3c/csswg-drafts/issues/6339",
+          "wgshortname": "w3c/csswg/cssom-view"
+        }
+      },
+      "WICG/web_audio_playout": {
+        "notes": "WICG/web_audio_playout does not have a matching entry in browser-specs",
+        "lastModified": "2024-10-18T14:02:14.000Z",
+        "transition": "N/A"
+      },
+      "WICG/web-printing": {
+        "notes": "WICG/web-printing does not have a matching entry in browser-specs",
+        "lastModified": "2023-10-20T11:30:47.000Z",
+        "transition": "N/A"
+      },
+      "WICG/webmonetization": {
+        "notes": "WICG/webmonetization does not have a matching entry in browser-specs",
+        "lastModified": "2025-01-30T17:32:34.000Z",
+        "transition": "N/A"
+      }
     }
   }
 }

@@ -23,6 +23,13 @@ const report = {};
 
 const references = {};
 
+async function fetchLastCommit(repo) {
+  const url = `https://api.github.com/repos/${repo}/commits`;
+  const text = (await authedFetch(url)).body;
+  const [lastCommit] = JSON.parse(text);
+  return lastCommit;
+}
+
 async function buildReferencesMap() {
   const files = (await fs.readdir(`${webrefPath}/ed/refs/`)).filter(p => p.endsWith(".json"));
   for (const path of files) {
@@ -48,19 +55,28 @@ for (const repo of repoData.repos.filter(r => r.w3c?.["repo-type"]?.includes("cg
   const repoName = `${repo.owner.login}/${repo.name}`;
   if (repo.isArchived) {
     // TODO: check that no spec or marked as discontinued?
-    report[cgShortname].repos[repoName] = `${repoName} is archived`;
+    report[cgShortname].repos[repoName] = { notes: `${repoName} is archived`};
   } else {
+
+    // under transition? doc marked as under transition?
+    const transition = cgTransitions[cgShortname].specs.find(s => s.repo === repoName) ?? "N/A";
+
     const specs = webSpecs.filter(s => s.nightly?.repository === `https://github.com/${repoName}`);
-    // TODO: handle repos not referenced from browser-specs
+
+    // handle repos not referenced from browser-specs
+    if (!specs.length) {
+      const lastCommit = await fetchLastCommit(repoName);
+      const lastModificationDate = new Date(lastCommit.commit.committer.date);
+      report[cgShortname].repos[repoName] = { notes: `${repoName} does not have a matching entry in browser-specs`, lastModified: lastModificationDate.toJSON(), transition};
+      continue;
+    }
 
     for (const spec of specs) {
 
       if (spec.standing === "discontinued") {
-	report[cgShortname].repos[repoName] = `${spec.shortname} is discontinued but repo not archived`;
+	report[cgShortname].repos[repoName] = { notes: `${spec.shortname} is discontinued but repo not archived`};
 	continue;
       }
-
-      const age = Math.round(new Date() - new Date(repo.createdAt)/(3600*1000*24));
 
       const crawledSpec = webref.results.find(s => s.shortname === spec.shortname);
       let lastModificationDate;
@@ -69,7 +85,7 @@ for (const repo of repoData.repos.filter(r => r.w3c?.["repo-type"]?.includes("cg
 	lastModificationDate = new Date(crawledSpec.date);
       } else {
 	// fallback: last commit date in the repo
-	const [lastCommit] = await (await authedFetch(`https://api.github.com/repos/${repoName}/commits`)).json();
+	const lastCommit = await fetchLastCommit(repoName);
 	lastModificationDate = new Date(lastCommit.commit.committer.date);
       }
 
@@ -92,8 +108,6 @@ for (const repo of repoData.repos.filter(r => r.w3c?.["repo-type"]?.includes("cg
       // is referenced by other brower specs?
       const referencedBy = references[spec.url] ? [...references[spec.url]].map(u => { return {url: u, title: webSpecs.find(s => s.url === u || s?.nightly?.url === u)?.title} ;}) : [];
 
-      // under transition? doc marked as under transition?
-      const transition = cgTransitions[cgShortname].specs.find(s => s.repo === repoName) ?? "N/A";
       report[cgShortname].specs.push({title: spec.title, url: spec.url, repo: repoName, lastModified: lastModificationDate.toJSON(), implementations: [... new Set(engines)], referencedBy, transition, notes: specAnnotations[spec.url] ?? ""});
     }
 
