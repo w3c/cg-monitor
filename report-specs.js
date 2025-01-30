@@ -21,7 +21,7 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
   lmTd.append(spec.lastModified.split("T")[0]);
 
   const implTd = document.createElement("td");
-  // TODO: add visual scheme to represent traction
+
 
   // FIXME: browser-spec specific
   for (const impl of spec.implementations) {
@@ -35,6 +35,18 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
     implTd.classList.add("warning");
   }
 
+  const refTd = document.createElement("td");
+
+  for (const ref of spec.referencedBy) {
+    const a = document.createElement("a");
+    a.href = ref.url;
+    a.append(ref.title);
+    refTd.append(a);
+    refTd.append(document.createElement("br"));
+  }
+  if (spec.referencedBy.length) {
+    refTd.classList.add("warning");
+  }
 
   const transitionTd = document.createElement("td");
   if (spec.transition.notice) {
@@ -49,6 +61,6 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
   const notesTd = document.createElement("td");
   notesTd.append(spec.notes);
 
-  tr.append(specTd, repoTd, lmTd, implTd, transitionTd, notesTd);
+  tr.append(specTd, repoTd, lmTd, implTd, refTd, transitionTd, notesTd);
   table.append(tr);
 }

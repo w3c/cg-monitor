@@ -8,14 +8,36 @@ import specAnnotations from './spec-annotations.json' with {type: 'json' };
 import authedFetch from './lib/authed-fetch.js';
 import {getBcdKeysForSpec, getBrowserSupport} from './lib/bcd.mjs';
 
+import { promises as fs } from 'fs';
+
 function log(m) {
   console.log(m);
 }
 
 const cgShortname = "wicg";
 const cgRepoOrg = "WICG";
+const webrefPath = "../webref"; // DRY also in import path above
+
 
 const report = {};
+
+const references = {};
+
+async function buildReferencesMap() {
+  const files = (await fs.readdir(`${webrefPath}/ed/refs/`)).filter(p => p.endsWith(".json"));
+  for (const path of files) {
+    const data = await fs.readFile(`${webrefPath}/ed/refs/${path}`, "utf-8");
+    const { spec, refs } = JSON.parse(data);
+    for (const { url } of refs.normative) {
+      if (!references[url]) {
+	references[url] = new Set();
+      }
+      references[url].add(spec.url);
+    }
+  }
+}
+
+await buildReferencesMap();
 
 report[cgShortname] = {specs: [], repos:{}};
 // TODO CG ownership should be (also?) detected via r.w3c.group
@@ -66,10 +88,13 @@ for (const repo of repoData.repos.filter(r => r.w3c?.["repo-type"]?.includes("cg
       }
 
       // has test suite?
+
       // is referenced by other brower specs?
+      const referencedBy = references[spec.url] ? [...references[spec.url]].map(u => { return {url: u, title: webSpecs.find(s => s.url === u || s?.nightly?.url === u)?.title} ;}) : [];
+
       // under transition? doc marked as under transition?
       const transition = cgTransitions[cgShortname].specs.find(s => s.repo === repoName) ?? "N/A";
-      report[cgShortname].specs.push({title: spec.title, url: spec.url, repo: repoName, lastModified: lastModificationDate.toJSON(), implementations: [... new Set(engines)], transition, notes: specAnnotations[spec.url] ?? ""});
+      report[cgShortname].specs.push({title: spec.title, url: spec.url, repo: repoName, lastModified: lastModificationDate.toJSON(), implementations: [... new Set(engines)], referencedBy, transition, notes: specAnnotations[spec.url] ?? ""});
     }
 
     // list of contributors from IPR checker (@@@ not per spec but per repo atm)
