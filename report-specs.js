@@ -80,7 +80,7 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
 }
 
 
-for (const repo of Object.keys(report.wicg.repos).sort()) {
+for (const repo of Object.keys(report.wicg.repos).sort((a,b) => report.wicg.repos[a]?.lastModified?.localeCompare(report.wicg.repos[b].lastModified))) {
   const dt = document.createElement("dt");
   const link = document.createElement("a");
   link.href = `https://github.com/${repo}`;
@@ -88,12 +88,17 @@ for (const repo of Object.keys(report.wicg.repos).sort()) {
   dt.append(link);
   list.append(dt);
   const {transition, lastModified, notes} = report.wicg.repos[repo];
+  let computedNotes = notes;
+
   if (transition?.notice) {
     const transitionDd = document.createElement("dd");
     const transitionLink = document.createElement("a");
     transitionLink.href = transition.notice;
     transitionLink.append(`${transition.status || ""} to ${transition.wgshortname} (${transition.date})`);
     transitionDd.append(transitionLink);
+    if (transition.status === "complete") {
+      computedNotes = "transitioned, needs archiving";
+    }
     list.append(transitionDd);
   }
   if (lastModified) {
@@ -102,7 +107,10 @@ for (const repo of Object.keys(report.wicg.repos).sort()) {
     list.append(lmDd);
   }
 
-  const dd = document.createElement("dd");
-  dd.append(notes);
-  list.append(dd);
+  if (computedNotes) {
+    const dd = document.createElement("dd");
+    dd.classList.add("warning");
+    dd.textContent = "⚠" + computedNotes;
+    list.append(dd);
+  }
 }

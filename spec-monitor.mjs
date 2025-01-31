@@ -67,7 +67,7 @@ for (const repo of repoData.repos.filter(r => r.w3c?.["repo-type"]?.includes("cg
     if (!specs.length) {
       const lastCommit = await fetchLastCommit(repoName);
       const lastModificationDate = new Date(lastCommit.commit.committer.date);
-      report[cgShortname].repos[repoName] = { notes: `${repoName} does not have a matching entry in browser-specs`, lastModified: lastModificationDate.toJSON(), transition};
+      report[cgShortname].repos[repoName] = { notes: specAnnotations[repoName] ?? "", lastModified: lastModificationDate.toJSON(), transition};
       continue;
     }
 

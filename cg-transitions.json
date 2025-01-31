@@ -246,6 +246,27 @@
     ],
     "specs": [
       {
+	"repo": "WICG/devtools-protocol",
+	"notice": "https://github.com/w3c/webdriver-bidi/commit/8cbb5fe4b74cdbf0b749385a2ddcd2e3ac0bbbff",
+	"date": "2020-05-25",
+	"status": "complete",
+	"wgshortname": "w3c/browser-tools-testing"
+      },
+      {
+	"repo": "WICG/pointer-event-extensions",
+	"notice": "https://github.com/w3c/pointerevents/pull/495",
+	"date": "2024-01-11",
+	"status": "complete",
+	"wgshortname": "w3c/pointerevents"
+      },
+      {
+	"repo": "bfcache-not-restored-reason",
+	"wgshortname": "whatwg/html",
+	"date": "2023-05-30",
+	"notice": "https://github.com/whatwg/html/pull/9360",
+	"status": "complete"
+      },
+      {
 	"repo": "WICG/conditional-focus",
 	"date": "2022-10-05",
 	"wgshortname": "w3c/webrtc",
@@ -374,7 +395,8 @@
 	"repo": "WICG/canvas-color-space",
 	"date": "2021-04-11",
 	"wgshortname": "whatwg/html",
-	"notice": "https://github.com/whatwg/html/pull/6562"
+	"notice": "https://github.com/whatwg/html/pull/6562",
+	"status": "complete"
       },
       {
 	"repo": "WICG/auxclick",
@@ -429,7 +451,8 @@
 	"repo": "WICG/navigation-api",
 	"date": "2022-11-14",
 	"wgshortname": "whatwg/html",
-	"notice": "https://github.com/whatwg/html/pull/8502"
+	"notice": "https://github.com/whatwg/html/pull/8502",
+	"status": "complete"
       },
       {
 	"repo": "WICG/focus-ring",
@@ -554,7 +577,8 @@
 	"repo": "WICG/visual-viewport",
 	"date": "2021-06-02",
 	"notice": "https://github.com/w3c/csswg-drafts/issues/6339",
-	"wgshortname": "w3c/csswg/cssom-view"
+	"wgshortname": "w3c/csswg/cssom-view",
+	"status": "complete"
       },
       {
 	"repo": "WICG/priority-hints",
@@ -688,7 +712,8 @@
 	"repo": "WICG/spatial-navigation",
 	"notice": "https://github.com/WICG/spatial-navigation/issues/138",
 	"date": "2018-11-16",
-	"wgshortname": "w3c/css"
+	"wgshortname": "w3c/css",
+	"status": "complete"
       },
       {
 	"repo": "WICG/mst-content-hint",
