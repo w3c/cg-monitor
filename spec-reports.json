@@ -5,7 +5,7 @@
         "title": "Iframe credentialless",
         "url": "https://wicg.github.io/anonymous-iframe/",
         "repo": "WICG/anonymous-iframe",
-        "lastModified": "2023-12-02T23:00:00.000Z",
+        "lastModified": "2023-12-03T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -22,7 +22,7 @@
         "title": "Accessibility Object Model",
         "url": "https://wicg.github.io/aom/spec/",
         "repo": "WICG/aom",
-        "lastModified": "2024-06-25T22:00:00.000Z",
+        "lastModified": "2024-06-26T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": "N/A",
@@ -32,7 +32,7 @@
         "title": "Attribution Reporting",
         "url": "https://wicg.github.io/attribution-reporting-api/",
         "repo": "WICG/attribution-reporting-api",
-        "lastModified": "2025-01-20T23:00:00.000Z",
+        "lastModified": "2025-01-21T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -57,7 +57,7 @@
         "title": "Background Fetch",
         "url": "https://wicg.github.io/background-fetch/",
         "repo": "WICG/background-fetch",
-        "lastModified": "2021-04-20T22:00:00.000Z",
+        "lastModified": "2021-04-21T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -78,7 +78,7 @@
         "title": "Web Background Synchronization",
         "url": "https://wicg.github.io/background-sync/spec/",
         "repo": "WICG/background-sync",
-        "lastModified": "2021-11-09T23:00:00.000Z",
+        "lastModified": "2021-11-10T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -95,7 +95,7 @@
         "title": "Capability Delegation",
         "url": "https://wicg.github.io/capability-delegation/spec.html",
         "repo": "WICG/capability-delegation",
-        "lastModified": "2023-02-16T23:00:00.000Z",
+        "lastModified": "2023-02-17T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -107,7 +107,7 @@
         "title": "Client Hints Infrastructure",
         "url": "https://wicg.github.io/client-hints-infrastructure/",
         "repo": "WICG/client-hints-infrastructure",
-        "lastModified": "2024-06-12T22:00:00.000Z",
+        "lastModified": "2024-06-13T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [
           {
@@ -138,7 +138,7 @@
         "title": "Content Index",
         "url": "https://wicg.github.io/content-index/spec/",
         "repo": "WICG/content-index",
-        "lastModified": "2021-04-12T22:00:00.000Z",
+        "lastModified": "2021-04-13T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": "N/A",
@@ -148,7 +148,7 @@
         "title": "Cookie Store API",
         "url": "https://wicg.github.io/cookie-store/",
         "repo": "WICG/cookie-store",
-        "lastModified": "2024-07-14T22:00:00.000Z",
+        "lastModified": "2024-07-15T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -157,8 +157,9 @@
         "transition": {
           "repo": "WICG/cookie-store",
           "notice": "https://github.com/WICG/cookie-store/issues/186",
-          "date": "pending",
-          "wgshortname": "w3c/webapps"
+          "date": "2020-09-30",
+          "wgshortname": "w3c/webapps",
+          "status": "pending"
         },
         "notes": ""
       },
@@ -166,7 +167,7 @@
         "title": "Crash Reporting",
         "url": "https://wicg.github.io/crash-reporting/",
         "repo": "WICG/crash-reporting",
-        "lastModified": "2024-07-16T22:00:00.000Z",
+        "lastModified": "2024-07-17T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": "N/A",
@@ -176,7 +177,7 @@
         "title": "Scripting Policy",
         "url": "https://wicg.github.io/csp-next/scripting-policy.html",
         "repo": "WICG/csp-next",
-        "lastModified": "2021-08-30T22:00:00.000Z",
+        "lastModified": "2021-08-31T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [
           {
@@ -191,7 +192,7 @@
         "title": "CSS Parser API",
         "url": "https://wicg.github.io/css-parser-api/",
         "repo": "WICG/css-parser-api",
-        "lastModified": "2021-02-25T23:00:00.000Z",
+        "lastModified": "2021-02-26T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": "N/A",
@@ -201,7 +202,7 @@
         "title": "DataCue API",
         "url": "https://wicg.github.io/datacue/",
         "repo": "WICG/datacue",
-        "lastModified": "2021-03-07T23:00:00.000Z",
+        "lastModified": "2021-03-08T00:00:00.000Z",
         "implementations": [
           "safari"
         ],
@@ -213,7 +214,7 @@
         "title": "Deprecation Reporting",
         "url": "https://wicg.github.io/deprecation-reporting/",
         "repo": "WICG/deprecation-reporting",
-        "lastModified": "2020-09-27T22:00:00.000Z",
+        "lastModified": "2020-09-28T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -226,14 +227,15 @@
         "title": "Digital Credentials",
         "url": "https://wicg.github.io/digital-credentials/",
         "repo": "WICG/digital-credentials",
-        "lastModified": "2025-01-21T23:00:00.000Z",
+        "lastModified": "2025-01-22T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": {
           "repo": "WICG/digital-credentials",
           "date": "2024-04-16",
           "wgshortname": "w3c/fedid",
-          "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2024AprJun/0009.html"
+          "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2024AprJun/0009.html",
+          "status": "pending"
         },
         "notes": ""
       },
@@ -241,7 +243,7 @@
         "title": "Digital Goods API",
         "url": "https://wicg.github.io/digital-goods/",
         "repo": "WICG/digital-goods",
-        "lastModified": "2022-03-17T23:00:00.000Z",
+        "lastModified": "2022-03-18T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -253,7 +255,7 @@
         "title": "Direct Sockets API",
         "url": "https://wicg.github.io/direct-sockets/",
         "repo": "WICG/direct-sockets",
-        "lastModified": "2024-10-23T22:00:00.000Z",
+        "lastModified": "2024-10-24T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": "N/A",
@@ -273,7 +275,7 @@
         "title": "Document Picture-in-Picture Specification",
         "url": "https://wicg.github.io/document-picture-in-picture/",
         "repo": "WICG/document-picture-in-picture",
-        "lastModified": "2024-09-30T22:00:00.000Z",
+        "lastModified": "2024-10-01T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -285,7 +287,7 @@
         "title": "Document Policy",
         "url": "https://wicg.github.io/document-policy/",
         "repo": "WICG/document-policy",
-        "lastModified": "2022-03-29T22:00:00.000Z",
+        "lastModified": "2022-03-30T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -302,7 +304,7 @@
         "title": "File and Directory Entries API",
         "url": "https://wicg.github.io/entries-api/",
         "repo": "WICG/entries-api",
-        "lastModified": "2024-06-06T22:00:00.000Z",
+        "lastModified": "2024-06-07T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox",
@@ -316,7 +318,7 @@
         "title": "EyeDropper API",
         "url": "https://wicg.github.io/eyedropper-api/",
         "repo": "WICG/eyedropper-api",
-        "lastModified": "2022-03-29T22:00:00.000Z",
+        "lastModified": "2022-03-30T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -328,7 +330,7 @@
         "title": "Fenced Frame",
         "url": "https://wicg.github.io/fenced-frame/",
         "repo": "WICG/fenced-frame",
-        "lastModified": "2025-01-26T23:00:00.000Z",
+        "lastModified": "2025-01-27T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -357,7 +359,7 @@
         "title": "File System Access",
         "url": "https://wicg.github.io/file-system-access/",
         "repo": "WICG/file-system-access",
-        "lastModified": "2024-03-19T23:00:00.000Z",
+        "lastModified": "2024-03-20T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -382,7 +384,7 @@
         "title": "User Agent Interaction with Related Website Sets",
         "url": "https://wicg.github.io/first-party-sets/",
         "repo": "WICG/first-party-sets",
-        "lastModified": "2024-09-30T22:00:00.000Z",
+        "lastModified": "2024-10-01T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": "N/A",
@@ -392,7 +394,7 @@
         "title": "Get Installed Related Apps API",
         "url": "https://wicg.github.io/get-installed-related-apps/spec/",
         "repo": "WICG/get-installed-related-apps",
-        "lastModified": "2021-03-07T23:00:00.000Z",
+        "lastModified": "2021-03-08T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -404,7 +406,7 @@
         "title": "Handwriting Recognition API",
         "url": "https://wicg.github.io/handwriting-recognition/",
         "repo": "WICG/handwriting-recognition",
-        "lastModified": "2024-11-20T23:00:00.000Z",
+        "lastModified": "2024-11-21T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -416,7 +418,7 @@
         "title": "Idle Detection API",
         "url": "https://wicg.github.io/idle-detection/",
         "repo": "WICG/idle-detection",
-        "lastModified": "2025-01-07T23:00:00.000Z",
+        "lastModified": "2025-01-08T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -433,7 +435,7 @@
         "title": "Ink API",
         "url": "https://wicg.github.io/ink-enhancement/",
         "repo": "WICG/ink-enhancement",
-        "lastModified": "2024-09-15T22:00:00.000Z",
+        "lastModified": "2024-09-16T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -445,7 +447,7 @@
         "title": "Input Device Capabilities",
         "url": "https://wicg.github.io/input-device-capabilities/",
         "repo": "WICG/input-device-capabilities",
-        "lastModified": "2021-03-07T23:00:00.000Z",
+        "lastModified": "2021-03-08T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -457,7 +459,7 @@
         "title": "Intervention Reporting",
         "url": "https://wicg.github.io/intervention-reporting/",
         "repo": "WICG/intervention-reporting",
-        "lastModified": "2020-03-05T23:00:00.000Z",
+        "lastModified": "2020-03-06T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -469,7 +471,7 @@
         "title": "Early detection of input events",
         "url": "https://wicg.github.io/is-input-pending/",
         "repo": "WICG/is-input-pending",
-        "lastModified": "2021-08-01T22:00:00.000Z",
+        "lastModified": "2021-08-02T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -481,7 +483,7 @@
         "title": "Isolated Contexts",
         "url": "https://wicg.github.io/isolated-web-apps/isolated-contexts.html",
         "repo": "WICG/isolated-web-apps",
-        "lastModified": "2024-11-06T23:00:00.000Z",
+        "lastModified": "2024-11-07T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [
           {
@@ -496,7 +498,7 @@
         "title": "JS Self-Profiling API",
         "url": "https://wicg.github.io/js-self-profiling/",
         "repo": "WICG/js-self-profiling",
-        "lastModified": "2022-03-10T23:00:00.000Z",
+        "lastModified": "2022-03-11T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -508,7 +510,7 @@
         "title": "Keyboard Lock",
         "url": "https://wicg.github.io/keyboard-lock/",
         "repo": "WICG/keyboard-lock",
-        "lastModified": "2021-10-05T22:00:00.000Z",
+        "lastModified": "2021-10-06T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -529,7 +531,7 @@
         "title": "Keyboard Map",
         "url": "https://wicg.github.io/keyboard-map/",
         "repo": "WICG/keyboard-map",
-        "lastModified": "2022-06-16T22:00:00.000Z",
+        "lastModified": "2022-06-17T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -541,7 +543,7 @@
         "title": "Layout Instability API",
         "url": "https://wicg.github.io/layout-instability/",
         "repo": "WICG/layout-instability",
-        "lastModified": "2021-12-19T23:00:00.000Z",
+        "lastModified": "2021-12-20T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -558,7 +560,7 @@
         "title": "Local Font Access API",
         "url": "https://wicg.github.io/local-font-access/",
         "repo": "WICG/local-font-access",
-        "lastModified": "2024-06-06T22:00:00.000Z",
+        "lastModified": "2024-06-07T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -570,7 +572,7 @@
         "title": "Manifest Incubations",
         "url": "https://wicg.github.io/manifest-incubations/",
         "repo": "WICG/manifest-incubations",
-        "lastModified": "2024-10-30T23:00:00.000Z",
+        "lastModified": "2024-10-31T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -587,7 +589,7 @@
         "title": "Media Feeds",
         "url": "https://wicg.github.io/media-feeds/",
         "repo": "WICG/media-feeds",
-        "lastModified": "2023-02-05T23:00:00.000Z",
+        "lastModified": "2023-02-06T00:00:00.000Z",
         "implementations": [
           "removed"
         ],
@@ -599,12 +601,17 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-01-29T23:00:00.000Z",
+        "lastModified": "2025-02-02T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
         ],
-        "referencedBy": [],
+        "referencedBy": [
+          {
+            "url": "https://wicg.github.io/nav-speculation/prerendering.html",
+            "title": "Prerendering Revamped"
+          }
+        ],
         "transition": "N/A",
         "notes": ""
       },
@@ -612,7 +619,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-01-29T23:00:00.000Z",
+        "lastModified": "2025-02-02T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -629,7 +636,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-01-29T23:00:00.000Z",
+        "lastModified": "2025-02-02T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -641,7 +648,7 @@
         "title": "Network Information API",
         "url": "https://wicg.github.io/netinfo/",
         "repo": "WICG/netinfo",
-        "lastModified": "2020-05-10T22:00:00.000Z",
+        "lastModified": "2020-05-11T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -658,7 +665,7 @@
         "title": "Observable",
         "url": "https://wicg.github.io/observable/",
         "repo": "WICG/observable",
-        "lastModified": "2025-01-26T23:00:00.000Z",
+        "lastModified": "2025-02-01T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": {
@@ -674,7 +681,7 @@
         "title": "overscroll and scrollend events",
         "url": "https://wicg.github.io/overscroll-scrollend-events/",
         "repo": "WICG/overscroll-scrollend-events",
-        "lastModified": "2020-04-14T22:00:00.000Z",
+        "lastModified": "2020-04-15T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": {
@@ -690,7 +697,7 @@
         "title": "Page Lifecycle",
         "url": "https://wicg.github.io/page-lifecycle/",
         "repo": "WICG/page-lifecycle",
-        "lastModified": "2022-06-08T22:00:00.000Z",
+        "lastModified": "2022-06-09T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -707,7 +714,7 @@
         "title": "Measure Memory API",
         "url": "https://wicg.github.io/performance-measure-memory/",
         "repo": "WICG/performance-measure-memory",
-        "lastModified": "2021-05-27T22:00:00.000Z",
+        "lastModified": "2021-05-28T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -719,7 +726,7 @@
         "title": "Web Periodic Background Synchronization",
         "url": "https://wicg.github.io/periodic-background-sync/",
         "repo": "WICG/periodic-background-sync",
-        "lastModified": "2021-04-11T22:00:00.000Z",
+        "lastModified": "2021-04-12T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -731,7 +738,7 @@
         "title": "Requesting Permissions",
         "url": "https://wicg.github.io/permissions-request/",
         "repo": "WICG/permissions-request",
-        "lastModified": "2022-05-08T22:00:00.000Z",
+        "lastModified": "2022-05-09T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -760,7 +767,7 @@
         "title": "Relinquishing Permissions",
         "url": "https://wicg.github.io/permissions-revoke/",
         "repo": "WICG/permissions-revoke",
-        "lastModified": "2022-05-08T22:00:00.000Z",
+        "lastModified": "2022-05-09T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -773,7 +780,7 @@
         "title": "Portals",
         "url": "https://wicg.github.io/portals/",
         "repo": "WICG/portals",
-        "lastModified": "2021-04-18T22:00:00.000Z",
+        "lastModified": "2021-04-19T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -785,7 +792,7 @@
         "title": "preferCurrentTab",
         "url": "https://wicg.github.io/prefer-current-tab/",
         "repo": "WICG/prefer-current-tab",
-        "lastModified": "2024-11-06T23:00:00.000Z",
+        "lastModified": "2024-11-07T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -797,7 +804,7 @@
         "title": "Private Network Access",
         "url": "https://wicg.github.io/private-network-access/",
         "repo": "WICG/private-network-access",
-        "lastModified": "2024-09-25T22:00:00.000Z",
+        "lastModified": "2024-09-26T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -818,7 +825,7 @@
         "title": "Responsive Image Client Hints",
         "url": "https://wicg.github.io/responsive-image-client-hints/",
         "repo": "WICG/responsive-image-client-hints",
-        "lastModified": "2024-05-20T22:00:00.000Z",
+        "lastModified": "2024-05-21T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": "N/A",
@@ -828,7 +835,7 @@
         "title": "HTML Sanitizer API",
         "url": "https://wicg.github.io/sanitizer-api/",
         "repo": "WICG/sanitizer-api",
-        "lastModified": "2025-01-21T23:00:00.000Z",
+        "lastModified": "2025-01-22T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": {
@@ -844,7 +851,7 @@
         "title": "Save Data API",
         "url": "https://wicg.github.io/savedata/",
         "repo": "WICG/savedata",
-        "lastModified": "2023-02-01T23:00:00.000Z",
+        "lastModified": "2023-02-02T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -865,7 +872,7 @@
         "title": "Prioritized Task Scheduling",
         "url": "https://wicg.github.io/scheduling-apis/",
         "repo": "WICG/scheduling-apis",
-        "lastModified": "2024-09-26T22:00:00.000Z",
+        "lastModified": "2024-09-27T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -878,7 +885,7 @@
         "title": "URL Fragment Text Directives",
         "url": "https://wicg.github.io/scroll-to-text-fragment/",
         "repo": "WICG/scroll-to-text-fragment",
-        "lastModified": "2023-12-12T23:00:00.000Z",
+        "lastModified": "2023-12-13T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -897,7 +904,7 @@
         "title": "Web Serial API",
         "url": "https://wicg.github.io/serial/",
         "repo": "WICG/serial",
-        "lastModified": "2024-08-28T22:00:00.000Z",
+        "lastModified": "2024-08-29T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -914,7 +921,7 @@
         "title": "Accelerated Shape Detection in Images",
         "url": "https://wicg.github.io/shape-detection-api/",
         "repo": "WICG/shape-detection-api",
-        "lastModified": "2025-01-07T23:00:00.000Z",
+        "lastModified": "2025-01-08T00:00:00.000Z",
         "implementations": [
           "chrome",
           "safari"
@@ -932,7 +939,7 @@
         "title": "Accelerated Text Detection in Images",
         "url": "https://wicg.github.io/shape-detection-api/text.html",
         "repo": "WICG/shape-detection-api",
-        "lastModified": "2025-01-07T23:00:00.000Z",
+        "lastModified": "2025-01-08T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -944,7 +951,7 @@
         "title": "Shared Storage API",
         "url": "https://wicg.github.io/shared-storage/",
         "repo": "WICG/shared-storage",
-        "lastModified": "2025-01-27T23:00:00.000Z",
+        "lastModified": "2025-01-28T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -961,7 +968,7 @@
         "title": "Origin-bound one-time codes delivered via SMS",
         "url": "https://wicg.github.io/sms-one-time-codes/",
         "repo": "WICG/sms-one-time-codes",
-        "lastModified": "2021-03-23T23:00:00.000Z",
+        "lastModified": "2021-03-24T00:00:00.000Z",
         "implementations": [
           "ios"
         ],
@@ -978,7 +985,7 @@
         "title": "Soft Navigations",
         "url": "https://wicg.github.io/soft-navigations/",
         "repo": "WICG/soft-navigations",
-        "lastModified": "2023-12-06T23:00:00.000Z",
+        "lastModified": "2023-12-07T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": "N/A",
@@ -988,7 +995,7 @@
         "title": "Storage Buckets API",
         "url": "https://wicg.github.io/storage-buckets/",
         "repo": "WICG/storage-buckets",
-        "lastModified": "2023-12-18T23:00:00.000Z",
+        "lastModified": "2023-12-19T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1000,7 +1007,7 @@
         "title": "Private State Token API",
         "url": "https://wicg.github.io/trust-token-api/",
         "repo": "WICG/trust-token-api",
-        "lastModified": "2024-07-17T22:00:00.000Z",
+        "lastModified": "2024-07-18T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1012,7 +1019,7 @@
         "title": "Protected Audience (formerly FLEDGE)",
         "url": "https://wicg.github.io/turtledove/",
         "repo": "WICG/turtledove",
-        "lastModified": "2025-01-26T23:00:00.000Z",
+        "lastModified": "2025-01-27T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1033,7 +1040,7 @@
         "title": "User-Agent Client Hints",
         "url": "https://wicg.github.io/ua-client-hints/",
         "repo": "WICG/ua-client-hints",
-        "lastModified": "2024-12-23T23:00:00.000Z",
+        "lastModified": "2024-12-24T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1045,7 +1052,7 @@
         "title": "User Preference Media Features Client Hints Headers",
         "url": "https://wicg.github.io/user-preference-media-features-headers/",
         "repo": "WICG/user-preference-media-features-headers",
-        "lastModified": "2023-07-25T22:00:00.000Z",
+        "lastModified": "2023-07-26T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1066,7 +1073,7 @@
         "title": "HTMLVideoElement.requestVideoFrameCallback()",
         "url": "https://wicg.github.io/video-rvfc/",
         "repo": "WICG/video-rvfc",
-        "lastModified": "2024-08-01T22:00:00.000Z",
+        "lastModified": "2024-08-02T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox",
@@ -1086,7 +1093,7 @@
         "title": "Web App Launch Handler API",
         "url": "https://wicg.github.io/web-app-launch/",
         "repo": "WICG/web-app-launch",
-        "lastModified": "2024-09-22T22:00:00.000Z",
+        "lastModified": "2024-09-23T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1103,7 +1110,7 @@
         "title": "WebOTP API",
         "url": "https://wicg.github.io/web-otp/",
         "repo": "WICG/web-otp",
-        "lastModified": "2021-04-12T22:00:00.000Z",
+        "lastModified": "2021-04-13T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1120,7 +1127,7 @@
         "title": "Web Preferences API",
         "url": "https://wicg.github.io/web-preferences-api/",
         "repo": "WICG/web-preferences-api",
-        "lastModified": "2024-06-25T22:00:00.000Z",
+        "lastModified": "2024-06-26T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": {
@@ -1136,7 +1143,7 @@
         "title": "Web Smart Card API",
         "url": "https://wicg.github.io/web-smart-card/",
         "repo": "WICG/web-smart-card",
-        "lastModified": "2023-12-17T23:00:00.000Z",
+        "lastModified": "2023-12-18T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": "N/A",
@@ -1146,7 +1153,7 @@
         "title": "Device Attributes API",
         "url": "https://wicg.github.io/WebApiDevice/device_attributes/",
         "repo": "WICG/WebApiDevice",
-        "lastModified": "2021-07-17T22:00:00.000Z",
+        "lastModified": "2021-07-18T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": "N/A",
@@ -1156,7 +1163,7 @@
         "title": "Managed Configuration API",
         "url": "https://wicg.github.io/WebApiDevice/managed_config/",
         "repo": "WICG/WebApiDevice",
-        "lastModified": "2021-07-17T22:00:00.000Z",
+        "lastModified": "2021-07-18T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1168,7 +1175,7 @@
         "title": "Secure Curves in the Web Cryptography API",
         "url": "https://wicg.github.io/webcrypto-secure-curves/",
         "repo": "WICG/webcrypto-secure-curves",
-        "lastModified": "2024-10-20T22:00:00.000Z",
+        "lastModified": "2024-10-21T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox",
@@ -1188,7 +1195,7 @@
         "title": "WebHID API",
         "url": "https://wicg.github.io/webhid/",
         "repo": "WICG/webhid",
-        "lastModified": "2024-09-12T22:00:00.000Z",
+        "lastModified": "2024-09-13T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1209,7 +1216,7 @@
         "title": "Loading Signed Exchanges",
         "url": "https://wicg.github.io/webpackage/loading.html",
         "repo": "WICG/webpackage",
-        "lastModified": "2024-07-28T22:00:00.000Z",
+        "lastModified": "2024-07-29T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": "N/A",
@@ -1219,7 +1226,7 @@
         "title": "WebUSB API",
         "url": "https://wicg.github.io/webusb/",
         "repo": "WICG/webusb",
-        "lastModified": "2025-01-08T23:00:00.000Z",
+        "lastModified": "2025-01-09T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1236,7 +1243,7 @@
         "title": "Window Controls Overlay",
         "url": "https://wicg.github.io/window-controls-overlay/",
         "repo": "WICG/window-controls-overlay",
-        "lastModified": "2023-05-30T22:00:00.000Z",
+        "lastModified": "2023-05-31T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
