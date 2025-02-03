@@ -1342,7 +1342,7 @@
         "transition": "N/A"
       },
       "WICG/coop-restrict-properties": {
-        "notes": "",
+        "notes": "replaced by document-isolation-policy https://github.com/WICG/coop-restrict-properties/pull/1/files , needs archiving",
         "lastModified": "2023-12-01T13:40:49.000Z",
         "transition": "N/A"
       },
