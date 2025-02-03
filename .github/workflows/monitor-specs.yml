@@ -1,0 +1,37 @@
+name: Monitor
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Checkout webref
+        uses: actions/checkout@v4
+        with:
+          path: webref
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+      - run: npm install
+      - name: Run spec-monitor script
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node spec-monitor.mjs webref > spec-reports.json
+      - name: Commit changes
+        run: |
+          git config user.name "w3c-cg-monitor-bot"
+          git config user.email "<>"
+          git add report.json popularity.json viz
+          git commit -m "Update spec data"
+          git show
+      - name: Push changes
+        if: github.ref == 'refs/heads/main' && github.event.commits[0].author.name != 'w3c-cg-monitor-bot'
+        run: |
+          git remote set-url --push origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/$GITHUB_REPOSITORY
+          git push origin HEAD:main

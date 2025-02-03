@@ -1,6 +1,5 @@
 import webSpecs from 'web-specs/index.json' with { type: 'json' };
 import webref from '../webref/ed/index.json' with { type: 'json' };
-import repoData from '../validate-repos/report.json' with { type: 'json' };
 import cgTransitions from './cg-transitions.json' with {type: 'json' };
 import cgImplementations from './spec-implementations.json' with {type: 'json' };
 import specAnnotations from './spec-annotations.json' with {type: 'json' };
@@ -16,8 +15,10 @@ function log(m) {
 
 const cgShortname = "wicg";
 const cgRepoOrg = "WICG";
-const webrefPath = "../webref"; // DRY also in import path above
+const webrefPath = process.argv[2];
 
+const repoData = await (await fetch("https://w3c.github.io/validate-repos/report.json")).json();
+const webrefIndex = JSON.parse(await fs.readFile(webrefPath + "/ed/index.json", "utf-8"));
 
 const report = {};
 
