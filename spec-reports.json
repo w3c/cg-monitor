@@ -1313,7 +1313,13 @@
       "WICG/compression-dictionary-transport": {
         "notes": "",
         "lastModified": "2024-08-27T16:44:33.000Z",
-        "transition": "N/A"
+        "transition": {
+          "repo": "WICG/compression-dictionary-transport",
+          "notice": "https://github.com/WICG/compression-dictionary-transport/pull/61",
+          "date": "2024-08-27",
+          "status": "complete",
+          "wgshortname": "ietf/httpsbis"
+        }
       },
       "WICG/conditional-focus": {
         "notes": "",
@@ -1339,7 +1345,13 @@
       "WICG/controls-list": {
         "notes": "",
         "lastModified": "2024-02-16T02:04:44.000Z",
-        "transition": "N/A"
+        "transition": {
+          "repo": "WICG/controls-list",
+          "notice": "https://github.com/whatwg/html/pull/6715",
+          "date": "2021-05-25",
+          "status": "pending",
+          "wgshortname": "whatwg/html"
+        }
       },
       "WICG/coop-restrict-properties": {
         "notes": "replaced by document-isolation-policy https://github.com/WICG/coop-restrict-properties/pull/1/files , needs archiving",
