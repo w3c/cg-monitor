@@ -3,6 +3,15 @@ const list = document.querySelector("dl");
 
 const report = await (await fetch("spec-reports.json")).json();
 
+const now = new Date();
+
+
+function age(since) {
+  const then = new Date(since);
+  return (now - then)/(24*3600*1000);
+
+}
+
 function addWarning(el, msg) {
   el.classList.add("warning");
   const warning = document.createElement("span");
@@ -28,10 +37,7 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
 
   const lmTd = document.createElement("td");
   lmTd.append(spec.lastModified.split("T")[0]);
-  const now = new Date();
-  const then = new Date(spec.lastModified);
-  const age = (now - then)/(24*3600*1000);
-  if (age > 365) {
+  if (age(spec.lastModified) > 365) {
     addWarning(lmTd, "Not modified for more than a year");
   }
 
@@ -68,6 +74,11 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
     transitionLink.href = spec.transition.notice;
     transitionLink.append(`${spec.transition.status || ""} to ${spec.transition.wgshortname} (${spec.transition.date})`);
     transitionTd.append(transitionLink);
+    if (spec.transition.date && (spec.transition.status === "pending" || spec.transition.status === "started")) {
+      if (age(spec.transition.date) > 365) {
+	addWarning(transitionTd, "Incomplete transition for more than a year");
+      }
+    }
   } else {
     transitionTd.append(spec.transition);
   }
@@ -98,7 +109,12 @@ for (const repo of Object.keys(report.wicg.repos).sort((a,b) => report.wicg.repo
     transitionDd.append(transitionLink);
     if (transition.status === "complete") {
       computedNotes = "transitioned, needs archiving";
+    } else if (transition.status === "pending") {
+      if (age(transition.date) > 365) {
+	computedNotes = "transition pending for more than a year, may need discussion";
+      }
     }
+
     list.append(transitionDd);
   }
   if (lastModified) {

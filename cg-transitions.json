@@ -701,8 +701,9 @@
       {
 	"repo": "WICG/cookie-store",
 	"notice": "https://github.com/WICG/cookie-store/issues/186",
-	"date": "pending",
-	"wgshortname": "w3c/webapps"
+	"date": "2020-09-30",
+	"wgshortname": "w3c/webapps",
+	"status": "pending"
       },
       {
 	"repo": "WICG/badging",
