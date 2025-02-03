@@ -1,5 +1,4 @@
 import webSpecs from 'web-specs/index.json' with { type: 'json' };
-import webref from '../webref/ed/index.json' with { type: 'json' };
 import cgTransitions from './cg-transitions.json' with {type: 'json' };
 import cgImplementations from './spec-implementations.json' with {type: 'json' };
 import specAnnotations from './spec-annotations.json' with {type: 'json' };

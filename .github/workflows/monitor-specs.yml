@@ -22,7 +22,7 @@ jobs:
       - name: Run spec-monitor script
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node spec-monitor.mjs cg-monitor/webref > spec-reports.json
+        run: node spec-monitor.mjs webref > spec-reports.json
       - name: Commit changes
         run: |
           git config user.name "w3c-cg-monitor-bot"
