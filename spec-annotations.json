@@ -9,8 +9,8 @@
   "WICG/origin-policy": "explicitly no longer worked on, archive?",
   "WICG/pwa-url-handler": "proposal now explicitly obsoleted by manifest-incubations, needs archiving",
   "WICG/bundle-preloading": "protocol part sent to IETF WG which has since been closed for lack of progress",
-  "mobile-document-request-api": "moved to digital-credentials, clean up and archive see https://github.com/WICG/mobile-document-request-api/issues/14",
-  "raw-clipboard-access": "replaced with web customer format https://github.com/WICG/raw-clipboard-access/issues/8 , needs archiving",
+  "WICG/mobile-document-request-api": "moved to digital-credentials, clean up and archive see https://github.com/WICG/mobile-document-request-api/issues/14",
+  "WICG/raw-clipboard-access": "replaced with web customer format https://github.com/WICG/raw-clipboard-access/issues/8 , needs archiving",
   "WICG/coop-restrict-properties": "replaced by document-isolation-policy https://github.com/WICG/coop-restrict-properties/pull/1/files , needs archiving",
   "WICG/controls-list": "Shipping in Chrome, opposed by Safari, PR to HTML spec stuck since May 2021"
 }

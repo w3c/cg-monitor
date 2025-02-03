@@ -246,6 +246,19 @@
     ],
     "specs": [
       {
+	"repo": "WICG/service-worker-static-routing-api",
+	"notice": "https://github.com/w3c/ServiceWorker/pull/1701",
+	"date": "2024-01-15",
+	"wgshortname": "w3c/serviceworker"
+      },
+      {
+	"repo": "WICG/service-worker-static-routing-api",
+	"notice": "https://github.com/w3c/resource-timing/issues/389",
+	"date": "2024-05-16",
+	"wgshortname": "w3c/webperf"
+
+      },
+      {
 	"repo": "WICG/compression-dictionary-transport",
 	"notice": "https://github.com/WICG/compression-dictionary-transport/pull/61",
 	"date": "2024-08-27",
@@ -713,7 +726,8 @@
 	"repo": "WICG/pending-beacon",
 	"notice": "https://github.com/whatwg/fetch/pull/1647",
 	"date": "2023-05-02",
-	"wgshortname": "whatwg/fetch"
+	"wgshortname": "whatwg/fetch",
+	"status": "pending"
       },
       {
 	"repo": "WICG/view-transitions",
