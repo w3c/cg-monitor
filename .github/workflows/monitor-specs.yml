@@ -14,8 +14,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Checkout webref
         uses: actions/checkout@v4
-        repository: w3c/webref
         with:
+          repository: w3c/webref
           path: webref
       - name: Use Node.js
         uses: actions/setup-node@v4
