@@ -1343,7 +1343,7 @@
         "transition": "N/A"
       },
       "WICG/controls-list": {
-        "notes": "",
+        "notes": "Shipping in Chrome, opposed by Safari, PR to HTML spec stuck since May 2021",
         "lastModified": "2024-02-16T02:04:44.000Z",
         "transition": {
           "repo": "WICG/controls-list",
@@ -1406,7 +1406,7 @@
         "transition": "N/A"
       },
       "WICG/mobile-document-request-api": {
-        "notes": "",
+        "notes": "moved to digital-credentials, clean up and archive see https://github.com/WICG/mobile-document-request-api/issues/14",
         "lastModified": "2024-08-07T00:16:05.000Z",
         "transition": "N/A"
       },
@@ -1438,7 +1438,8 @@
           "repo": "WICG/pending-beacon",
           "notice": "https://github.com/whatwg/fetch/pull/1647",
           "date": "2023-05-02",
-          "wgshortname": "whatwg/fetch"
+          "wgshortname": "whatwg/fetch",
+          "status": "pending"
         }
       },
       "WICG/PEPC": {
@@ -1473,7 +1474,7 @@
         "transition": "N/A"
       },
       "WICG/raw-clipboard-access": {
-        "notes": "",
+        "notes": "replaced with web customer format https://github.com/WICG/raw-clipboard-access/issues/8 , needs archiving",
         "lastModified": "2019-10-31T10:02:25.000Z",
         "transition": "N/A"
       },
@@ -1490,7 +1491,12 @@
       "WICG/service-worker-static-routing-api": {
         "notes": "",
         "lastModified": "2024-10-16T06:43:33.000Z",
-        "transition": "N/A"
+        "transition": {
+          "repo": "WICG/service-worker-static-routing-api",
+          "notice": "https://github.com/w3c/ServiceWorker/pull/1701",
+          "date": "2024-01-15",
+          "wgshortname": "w3c/serviceworker"
+        }
       },
       "WICG/signature-based-sri": {
         "notes": "",
