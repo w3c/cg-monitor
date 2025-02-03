@@ -1,3 +1,7 @@
+import { dirname, resolve } from "path";
+import { fileURLToPath } from "url";
+
+
 import webSpecs from 'web-specs/index.json' with { type: 'json' };
 import cgTransitions from './cg-transitions.json' with {type: 'json' };
 import cgImplementations from './spec-implementations.json' with {type: 'json' };
@@ -14,7 +18,7 @@ function log(m) {
 
 const cgShortname = "wicg";
 const cgRepoOrg = "WICG";
-const webrefPath = process.argv[2];
+const webrefPath = resolve(dirname(fileURLToPath(import.meta.url)), process.argv[2]);
 
 const repoData = await (await fetch("https://w3c.github.io/validate-repos/report.json")).json();
 const webrefIndex = JSON.parse(await fs.readFile(webrefPath + "/ed/index.json", "utf-8"));
@@ -78,7 +82,7 @@ for (const repo of repoData.repos.filter(r => r.w3c?.["repo-type"]?.includes("cg
 	continue;
       }
 
-      const crawledSpec = webref.results.find(s => s.shortname === spec.shortname);
+      const crawledSpec = webrefIndex.results.find(s => s.shortname === spec.shortname);
       let lastModificationDate;
 
       if (crawledSpec?.date) {
