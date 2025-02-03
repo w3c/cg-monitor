@@ -74,7 +74,9 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
     transitionLink.href = spec.transition.notice;
     transitionLink.append(`${spec.transition.status || ""} to ${spec.transition.wgshortname} (${spec.transition.date})`);
     transitionTd.append(transitionLink);
-    if (spec.transition.date && (spec.transition.status === "pending" || spec.transition.status === "started")) {
+    if (spec.transition.status === "complete") {
+      addWarning(transitionTd, "Transition complete, needs archiving");
+    } else if (spec.transition.date && (spec.transition.status === "pending" || spec.transition.status === "started")) {
       if (age(spec.transition.date) > 365) {
 	addWarning(transitionTd, "Incomplete transition for more than a year");
       }
