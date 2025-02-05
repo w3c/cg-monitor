@@ -265,7 +265,7 @@
         "title": "Document-Isolation-Policy",
         "url": "https://wicg.github.io/document-isolation-policy/",
         "repo": "WICG/document-isolation-policy",
-        "lastModified": "2024-09-18T13:17:55.000Z",
+        "lastModified": "2024-09-18T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": "N/A",
@@ -304,7 +304,7 @@
         "title": "File and Directory Entries API",
         "url": "https://wicg.github.io/entries-api/",
         "repo": "WICG/entries-api",
-        "lastModified": "2024-06-07T00:00:00.000Z",
+        "lastModified": "2025-02-04T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox",
@@ -330,7 +330,7 @@
         "title": "Fenced Frame",
         "url": "https://wicg.github.io/fenced-frame/",
         "repo": "WICG/fenced-frame",
-        "lastModified": "2025-01-27T00:00:00.000Z",
+        "lastModified": "2025-02-04T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -601,7 +601,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-02-02T00:00:00.000Z",
+        "lastModified": "2025-02-04T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -619,7 +619,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-02-02T00:00:00.000Z",
+        "lastModified": "2025-02-04T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -636,7 +636,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-02-02T00:00:00.000Z",
+        "lastModified": "2025-02-04T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1019,7 +1019,7 @@
         "title": "Protected Audience (formerly FLEDGE)",
         "url": "https://wicg.github.io/turtledove/",
         "repo": "WICG/turtledove",
-        "lastModified": "2025-01-27T00:00:00.000Z",
+        "lastModified": "2025-02-04T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1027,10 +1027,6 @@
           {
             "url": "https://wicg.github.io/fenced-frame/",
             "title": "Fenced Frame"
-          },
-          {
-            "url": "https://wicg.github.io/turtledove/",
-            "title": "Protected Audience (formerly FLEDGE)"
           }
         ],
         "transition": "N/A",
@@ -1341,7 +1337,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-02-03T21:34:16.000Z",
+        "lastModified": "2025-02-04T04:49:42.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
