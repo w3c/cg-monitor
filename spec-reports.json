@@ -601,7 +601,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-02-04T00:00:00.000Z",
+        "lastModified": "2025-02-09T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -619,7 +619,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-02-04T00:00:00.000Z",
+        "lastModified": "2025-02-09T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -636,7 +636,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-02-04T00:00:00.000Z",
+        "lastModified": "2025-02-09T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1374,7 +1374,7 @@
       },
       "WICG/explicit-javascript-compile-hints-file-based": {
         "notes": "",
-        "lastModified": "2024-10-11T01:19:06.000Z",
+        "lastModified": "2025-02-10T13:56:52.000Z",
         "transition": "N/A"
       },
       "WICG/file-handling": {
@@ -1410,7 +1410,7 @@
       },
       "WICG/navigation-api": {
         "notes": "",
-        "lastModified": "2023-09-14T21:17:36.000Z",
+        "lastModified": "2025-02-10T05:53:07.000Z",
         "transition": {
           "repo": "WICG/navigation-api",
           "date": "2022-11-14",
