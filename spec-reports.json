@@ -1431,7 +1431,7 @@
       },
       "WICG/pending-beacon": {
         "notes": "",
-        "lastModified": "2024-10-31T16:35:46.000Z",
+        "lastModified": "2025-02-12T02:44:39.000Z",
         "transition": {
           "repo": "WICG/pending-beacon",
           "notice": "https://github.com/whatwg/fetch/pull/1647",
@@ -1524,7 +1524,7 @@
       },
       "WICG/view-transitions": {
         "notes": "",
-        "lastModified": "2024-11-18T09:49:48.000Z",
+        "lastModified": "2025-02-11T19:08:07.000Z",
         "transition": {
           "repo": "WICG/view-transitions",
           "notice": "https://github.com/w3c/csswg-drafts/pull/9022",
