@@ -1374,7 +1374,7 @@
       },
       "WICG/explicit-javascript-compile-hints-file-based": {
         "notes": "",
-        "lastModified": "2025-02-10T13:56:52.000Z",
+        "lastModified": "2025-02-12T10:49:32.000Z",
         "transition": "N/A"
       },
       "WICG/file-handling": {
@@ -1524,7 +1524,7 @@
       },
       "WICG/view-transitions": {
         "notes": "",
-        "lastModified": "2025-02-11T19:08:07.000Z",
+        "lastModified": "2025-02-12T16:48:07.000Z",
         "transition": {
           "repo": "WICG/view-transitions",
           "notice": "https://github.com/w3c/csswg-drafts/pull/9022",
