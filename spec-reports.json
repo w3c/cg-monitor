@@ -1019,7 +1019,7 @@
         "title": "Protected Audience (formerly FLEDGE)",
         "url": "https://wicg.github.io/turtledove/",
         "repo": "WICG/turtledove",
-        "lastModified": "2025-02-07T00:00:00.000Z",
+        "lastModified": "2025-02-13T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1222,7 +1222,7 @@
         "title": "WebUSB API",
         "url": "https://wicg.github.io/webusb/",
         "repo": "WICG/webusb",
-        "lastModified": "2025-01-09T00:00:00.000Z",
+        "lastModified": "2025-02-13T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1337,7 +1337,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-02-04T04:49:42.000Z",
+        "lastModified": "2025-02-14T00:27:50.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
@@ -1431,7 +1431,7 @@
       },
       "WICG/pending-beacon": {
         "notes": "",
-        "lastModified": "2025-02-12T02:44:39.000Z",
+        "lastModified": "2025-02-13T05:11:06.000Z",
         "transition": {
           "repo": "WICG/pending-beacon",
           "notice": "https://github.com/whatwg/fetch/pull/1647",
