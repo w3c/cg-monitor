@@ -1019,7 +1019,7 @@
         "title": "Protected Audience (formerly FLEDGE)",
         "url": "https://wicg.github.io/turtledove/",
         "repo": "WICG/turtledove",
-        "lastModified": "2025-02-14T00:00:00.000Z",
+        "lastModified": "2025-02-18T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1337,7 +1337,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-02-14T06:26:11.000Z",
+        "lastModified": "2025-02-18T21:57:56.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
