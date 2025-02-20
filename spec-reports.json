@@ -483,7 +483,7 @@
         "title": "Isolated Contexts",
         "url": "https://wicg.github.io/isolated-web-apps/isolated-contexts.html",
         "repo": "WICG/isolated-web-apps",
-        "lastModified": "2024-11-07T00:00:00.000Z",
+        "lastModified": "2025-02-19T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [
           {
@@ -835,7 +835,7 @@
         "title": "HTML Sanitizer API",
         "url": "https://wicg.github.io/sanitizer-api/",
         "repo": "WICG/sanitizer-api",
-        "lastModified": "2025-02-07T00:00:00.000Z",
+        "lastModified": "2025-02-19T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": {
@@ -1463,7 +1463,7 @@
       },
       "WICG/protected-auction-services-discussion": {
         "notes": "",
-        "lastModified": "2024-12-17T00:24:32.000Z",
+        "lastModified": "2025-02-19T20:48:42.000Z",
         "transition": "N/A"
       },
       "WICG/pwa-url-handler": {
@@ -1488,7 +1488,7 @@
       },
       "WICG/service-worker-static-routing-api": {
         "notes": "",
-        "lastModified": "2024-10-16T06:43:33.000Z",
+        "lastModified": "2025-02-19T06:10:05.000Z",
         "transition": {
           "repo": "WICG/service-worker-static-routing-api",
           "notice": "https://github.com/w3c/ServiceWorker/pull/1701",
