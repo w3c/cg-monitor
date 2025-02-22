@@ -601,7 +601,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-02-19T00:00:00.000Z",
+        "lastModified": "2025-02-20T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -619,7 +619,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-02-19T00:00:00.000Z",
+        "lastModified": "2025-02-20T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -627,6 +627,10 @@
           {
             "url": "https://wicg.github.io/fenced-frame/",
             "title": "Fenced Frame"
+          },
+          {
+            "url": "https://wicg.github.io/nav-speculation/prefetch.html",
+            "title": "Prefetch"
           }
         ],
         "transition": "N/A",
@@ -636,7 +640,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-02-19T00:00:00.000Z",
+        "lastModified": "2025-02-20T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -665,7 +669,7 @@
         "title": "Observable",
         "url": "https://wicg.github.io/observable/",
         "repo": "WICG/observable",
-        "lastModified": "2025-02-07T00:00:00.000Z",
+        "lastModified": "2025-02-21T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": {
@@ -951,7 +955,7 @@
         "title": "Shared Storage API",
         "url": "https://wicg.github.io/shared-storage/",
         "repo": "WICG/shared-storage",
-        "lastModified": "2025-01-28T00:00:00.000Z",
+        "lastModified": "2025-02-21T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1498,7 +1502,7 @@
       },
       "WICG/signature-based-sri": {
         "notes": "",
-        "lastModified": "2025-02-20T10:05:40.000Z",
+        "lastModified": "2025-02-21T11:21:05.000Z",
         "transition": "N/A"
       },
       "WICG/sparrow": {
