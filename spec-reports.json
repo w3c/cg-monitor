@@ -908,7 +908,7 @@
         "title": "Web Serial API",
         "url": "https://wicg.github.io/serial/",
         "repo": "WICG/serial",
-        "lastModified": "2024-08-29T00:00:00.000Z",
+        "lastModified": "2025-02-22T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
