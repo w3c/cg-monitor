@@ -246,6 +246,13 @@
     ],
     "specs": [
       {
+	"repo": "WICG/paymentlink",
+	"notice": "https://lists.w3.org/Archives/Public/public-payments-wg/2025Jan/0006.html",
+	"date": "2025-01-31",
+	"wgshortname": "w3c/webpayments",
+	"status": "targetting"
+      },
+      {
 	"repo": "WICG/service-worker-static-routing-api",
 	"notice": "https://github.com/w3c/ServiceWorker/pull/1701",
 	"date": "2024-01-15",
