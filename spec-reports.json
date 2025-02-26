@@ -59,7 +59,8 @@
         "repo": "WICG/background-fetch",
         "lastModified": "2021-04-21T00:00:00.000Z",
         "implementations": [
-          "chrome"
+          "chrome",
+          "safari"
         ],
         "referencedBy": [
           {
@@ -1023,7 +1024,7 @@
         "title": "Protected Audience (formerly FLEDGE)",
         "url": "https://wicg.github.io/turtledove/",
         "repo": "WICG/turtledove",
-        "lastModified": "2025-02-18T00:00:00.000Z",
+        "lastModified": "2025-02-25T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1341,7 +1342,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-02-18T21:57:56.000Z",
+        "lastModified": "2025-02-25T23:46:29.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
@@ -1431,7 +1432,13 @@
       "WICG/paymentlink": {
         "notes": "",
         "lastModified": "2025-02-05T23:02:38.000Z",
-        "transition": "N/A"
+        "transition": {
+          "repo": "WICG/paymentlink",
+          "notice": "https://lists.w3.org/Archives/Public/public-payments-wg/2025Jan/0006.html",
+          "date": "2025-01-31",
+          "wgshortname": "w3c/webpayments",
+          "status": "targetting"
+        }
       },
       "WICG/pending-beacon": {
         "notes": "",
