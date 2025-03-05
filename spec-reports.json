@@ -331,7 +331,7 @@
         "title": "Fenced Frame",
         "url": "https://wicg.github.io/fenced-frame/",
         "repo": "WICG/fenced-frame",
-        "lastModified": "2025-02-24T00:00:00.000Z",
+        "lastModified": "2025-03-04T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1342,7 +1342,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-03-04T01:39:15.000Z",
+        "lastModified": "2025-03-05T00:53:44.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
