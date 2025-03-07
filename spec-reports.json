@@ -32,7 +32,7 @@
         "title": "Attribution Reporting",
         "url": "https://wicg.github.io/attribution-reporting-api/",
         "repo": "WICG/attribution-reporting-api",
-        "lastModified": "2025-02-26T00:00:00.000Z",
+        "lastModified": "2025-03-06T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1342,7 +1342,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-03-05T00:53:44.000Z",
+        "lastModified": "2025-03-06T23:50:55.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
@@ -1442,7 +1442,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-01-20T17:07:47.000Z",
+        "lastModified": "2025-03-06T13:19:59.000Z",
         "transition": "N/A"
       },
       "WICG/pointer-event-extensions": {
@@ -1524,7 +1524,7 @@
       },
       "WICG/view-transitions": {
         "notes": "",
-        "lastModified": "2025-02-26T18:58:43.000Z",
+        "lastModified": "2025-03-06T09:56:11.000Z",
         "transition": {
           "repo": "WICG/view-transitions",
           "notice": "https://github.com/w3c/csswg-drafts/pull/9022",
