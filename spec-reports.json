@@ -840,7 +840,7 @@
         "title": "HTML Sanitizer API",
         "url": "https://wicg.github.io/sanitizer-api/",
         "repo": "WICG/sanitizer-api",
-        "lastModified": "2025-03-05T00:00:00.000Z",
+        "lastModified": "2025-03-07T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": {
@@ -1176,7 +1176,7 @@
         "title": "Secure Curves in the Web Cryptography API",
         "url": "https://wicg.github.io/webcrypto-secure-curves/",
         "repo": "WICG/webcrypto-secure-curves",
-        "lastModified": "2024-10-21T00:00:00.000Z",
+        "lastModified": "2025-03-07T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox",
@@ -1342,7 +1342,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-03-06T23:50:55.000Z",
+        "lastModified": "2025-03-07T22:06:29.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
