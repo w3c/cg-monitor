@@ -360,7 +360,7 @@
         "title": "File System Access",
         "url": "https://wicg.github.io/file-system-access/",
         "repo": "WICG/file-system-access",
-        "lastModified": "2024-03-20T00:00:00.000Z",
+        "lastModified": "2025-03-17T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1447,7 +1447,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-03-06T13:19:59.000Z",
+        "lastModified": "2025-03-17T14:40:20.000Z",
         "transition": "N/A"
       },
       "WICG/pointer-event-extensions": {
