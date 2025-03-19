@@ -602,7 +602,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-03-11T00:00:00.000Z",
+        "lastModified": "2025-03-17T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -620,7 +620,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-03-11T00:00:00.000Z",
+        "lastModified": "2025-03-17T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -641,7 +641,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-03-11T00:00:00.000Z",
+        "lastModified": "2025-03-17T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1029,7 +1029,7 @@
         "title": "Protected Audience (formerly FLEDGE)",
         "url": "https://wicg.github.io/turtledove/",
         "repo": "WICG/turtledove",
-        "lastModified": "2025-03-11T00:00:00.000Z",
+        "lastModified": "2025-03-18T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1347,7 +1347,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-03-14T00:33:08.000Z",
+        "lastModified": "2025-03-18T18:32:19.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
@@ -1561,7 +1561,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2025-03-13T11:46:09.000Z",
+        "lastModified": "2025-03-18T11:32:43.000Z",
         "transition": "N/A"
       }
     }
