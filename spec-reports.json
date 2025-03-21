@@ -845,7 +845,7 @@
         "title": "HTML Sanitizer API",
         "url": "https://wicg.github.io/sanitizer-api/",
         "repo": "WICG/sanitizer-api",
-        "lastModified": "2025-03-19T00:00:00.000Z",
+        "lastModified": "2025-03-20T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": {
@@ -1276,7 +1276,7 @@
       },
       "WICG/address-autofill": {
         "notes": "",
-        "lastModified": "2024-11-27T12:35:41.000Z",
+        "lastModified": "2025-03-20T07:09:48.000Z",
         "transition": "N/A"
       },
       "WICG/bfcache-not-restored-reason": {
@@ -1447,7 +1447,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-03-17T14:40:20.000Z",
+        "lastModified": "2025-03-20T13:22:10.000Z",
         "transition": "N/A"
       },
       "WICG/pointer-event-extensions": {
@@ -1529,7 +1529,7 @@
       },
       "WICG/view-transitions": {
         "notes": "",
-        "lastModified": "2025-03-06T09:56:11.000Z",
+        "lastModified": "2025-03-20T19:04:55.000Z",
         "transition": {
           "repo": "WICG/view-transitions",
           "notice": "https://github.com/w3c/csswg-drafts/pull/9022",
