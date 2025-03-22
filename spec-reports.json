@@ -331,7 +331,7 @@
         "title": "Fenced Frame",
         "url": "https://wicg.github.io/fenced-frame/",
         "repo": "WICG/fenced-frame",
-        "lastModified": "2025-03-12T00:00:00.000Z",
+        "lastModified": "2025-03-21T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -602,7 +602,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-03-17T00:00:00.000Z",
+        "lastModified": "2025-03-20T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -620,7 +620,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-03-17T00:00:00.000Z",
+        "lastModified": "2025-03-20T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -641,7 +641,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-03-17T00:00:00.000Z",
+        "lastModified": "2025-03-20T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -961,7 +961,7 @@
         "title": "Shared Storage API",
         "url": "https://wicg.github.io/shared-storage/",
         "repo": "WICG/shared-storage",
-        "lastModified": "2025-03-13T00:00:00.000Z",
+        "lastModified": "2025-03-21T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1029,7 +1029,7 @@
         "title": "Protected Audience (formerly FLEDGE)",
         "url": "https://wicg.github.io/turtledove/",
         "repo": "WICG/turtledove",
-        "lastModified": "2025-03-18T00:00:00.000Z",
+        "lastModified": "2025-03-21T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1409,7 +1409,7 @@
       },
       "WICG/navigation-api": {
         "notes": "",
-        "lastModified": "2025-03-13T05:50:28.000Z",
+        "lastModified": "2025-03-21T05:41:43.000Z",
         "transition": {
           "repo": "WICG/navigation-api",
           "date": "2022-11-14",
@@ -1425,7 +1425,7 @@
       },
       "WICG/paymentlink": {
         "notes": "",
-        "lastModified": "2025-02-05T23:02:38.000Z",
+        "lastModified": "2025-03-21T20:14:13.000Z",
         "transition": {
           "repo": "WICG/paymentlink",
           "notice": "https://lists.w3.org/Archives/Public/public-payments-wg/2025Jan/0006.html",
@@ -1447,7 +1447,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-03-20T13:22:10.000Z",
+        "lastModified": "2025-03-21T16:13:56.000Z",
         "transition": "N/A"
       },
       "WICG/pointer-event-extensions": {
@@ -1561,7 +1561,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2025-03-19T10:42:44.000Z",
+        "lastModified": "2025-03-21T09:31:30.000Z",
         "transition": "N/A"
       }
     }
