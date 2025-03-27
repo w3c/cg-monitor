@@ -331,7 +331,7 @@
         "title": "Fenced Frame",
         "url": "https://wicg.github.io/fenced-frame/",
         "repo": "WICG/fenced-frame",
-        "lastModified": "2025-03-24T00:00:00.000Z",
+        "lastModified": "2025-03-26T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1224,7 +1224,12 @@
         "repo": "WICG/webpackage",
         "lastModified": "2024-07-29T00:00:00.000Z",
         "implementations": [],
-        "referencedBy": [],
+        "referencedBy": [
+          {
+            "url": "https://wicg.github.io/fenced-frame/",
+            "title": "Fenced Frame"
+          }
+        ],
         "transition": "N/A",
         "notes": ""
       },
