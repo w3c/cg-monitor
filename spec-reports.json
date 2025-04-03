@@ -573,7 +573,7 @@
         "title": "Manifest Incubations",
         "url": "https://wicg.github.io/manifest-incubations/",
         "repo": "WICG/manifest-incubations",
-        "lastModified": "2025-03-31T00:00:00.000Z",
+        "lastModified": "2025-04-02T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -602,7 +602,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-03-31T00:00:00.000Z",
+        "lastModified": "2025-04-01T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -620,7 +620,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-03-31T00:00:00.000Z",
+        "lastModified": "2025-04-01T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -641,7 +641,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-03-31T00:00:00.000Z",
+        "lastModified": "2025-04-01T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -845,7 +845,7 @@
         "title": "HTML Sanitizer API",
         "url": "https://wicg.github.io/sanitizer-api/",
         "repo": "WICG/sanitizer-api",
-        "lastModified": "2025-03-20T00:00:00.000Z",
+        "lastModified": "2025-04-02T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": {
