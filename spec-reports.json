@@ -1441,7 +1441,7 @@
       },
       "WICG/pending-beacon": {
         "notes": "",
-        "lastModified": "2025-02-13T05:11:06.000Z",
+        "lastModified": "2025-04-03T08:11:41.000Z",
         "transition": {
           "repo": "WICG/pending-beacon",
           "notice": "https://github.com/whatwg/fetch/pull/1647",
