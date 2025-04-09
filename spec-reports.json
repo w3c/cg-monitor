@@ -1029,7 +1029,7 @@
         "title": "Protected Audience (formerly FLEDGE)",
         "url": "https://wicg.github.io/turtledove/",
         "repo": "WICG/turtledove",
-        "lastModified": "2025-04-07T00:00:00.000Z",
+        "lastModified": "2025-04-08T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
