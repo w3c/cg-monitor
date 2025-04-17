@@ -32,7 +32,7 @@
         "title": "Attribution Reporting",
         "url": "https://wicg.github.io/attribution-reporting-api/",
         "repo": "WICG/attribution-reporting-api",
-        "lastModified": "2025-04-01T00:00:00.000Z",
+        "lastModified": "2025-04-16T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -222,22 +222,6 @@
         ],
         "referencedBy": [],
         "transition": "N/A",
-        "notes": ""
-      },
-      {
-        "title": "Digital Credentials",
-        "url": "https://wicg.github.io/digital-credentials/",
-        "repo": "WICG/digital-credentials",
-        "lastModified": "2025-02-20T00:00:00.000Z",
-        "implementations": [],
-        "referencedBy": [],
-        "transition": {
-          "repo": "WICG/digital-credentials",
-          "date": "2024-04-16",
-          "wgshortname": "w3c/fedid",
-          "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2024AprJun/0009.html",
-          "status": "pending"
-        },
         "notes": ""
       },
       {
@@ -602,7 +586,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-04-01T00:00:00.000Z",
+        "lastModified": "2025-04-15T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -620,7 +604,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-04-01T00:00:00.000Z",
+        "lastModified": "2025-04-15T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -641,7 +625,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-04-01T00:00:00.000Z",
+        "lastModified": "2025-04-15T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1414,7 +1398,7 @@
       },
       "WICG/navigation-api": {
         "notes": "",
-        "lastModified": "2025-03-26T02:14:25.000Z",
+        "lastModified": "2025-04-16T08:34:35.000Z",
         "transition": {
           "repo": "WICG/navigation-api",
           "date": "2022-11-14",
