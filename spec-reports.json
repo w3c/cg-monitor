@@ -898,7 +898,7 @@
         "title": "Web Serial API",
         "url": "https://wicg.github.io/serial/",
         "repo": "WICG/serial",
-        "lastModified": "2025-02-22T00:00:00.000Z",
+        "lastModified": "2025-04-23T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1336,7 +1336,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-03-29T07:35:12.000Z",
+        "lastModified": "2025-04-23T00:28:02.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
@@ -1436,7 +1436,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-04-11T09:42:08.000Z",
+        "lastModified": "2025-04-22T13:28:06.000Z",
         "transition": "N/A"
       },
       "WICG/pointer-event-extensions": {
