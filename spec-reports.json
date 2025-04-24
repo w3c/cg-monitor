@@ -250,7 +250,7 @@
         "title": "Document-Isolation-Policy",
         "url": "https://wicg.github.io/document-isolation-policy/",
         "repo": "WICG/document-isolation-policy",
-        "lastModified": "2024-09-18T00:00:00.000Z",
+        "lastModified": "2025-04-23T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "transition": "N/A",
@@ -315,7 +315,7 @@
         "title": "Fenced Frame",
         "url": "https://wicg.github.io/fenced-frame/",
         "repo": "WICG/fenced-frame",
-        "lastModified": "2025-04-07T00:00:00.000Z",
+        "lastModified": "2025-04-23T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1436,7 +1436,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-04-22T13:28:06.000Z",
+        "lastModified": "2025-04-23T09:46:15.000Z",
         "transition": "N/A"
       },
       "WICG/pointer-event-extensions": {
