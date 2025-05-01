@@ -1336,7 +1336,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-04-29T17:00:21.000Z",
+        "lastModified": "2025-05-01T00:50:25.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
@@ -1529,7 +1529,7 @@
       },
       "WICG/visual-viewport": {
         "notes": "",
-        "lastModified": "2024-03-18T15:26:01.000Z",
+        "lastModified": "2025-04-30T19:04:53.000Z",
         "transition": {
           "repo": "WICG/visual-viewport",
           "date": "2021-06-02",
