@@ -32,7 +32,7 @@
         "title": "Attribution Reporting",
         "url": "https://wicg.github.io/attribution-reporting-api/",
         "repo": "WICG/attribution-reporting-api",
-        "lastModified": "2025-04-17T00:00:00.000Z",
+        "lastModified": "2025-05-01T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1294,11 +1294,6 @@
         "lastModified": "2024-10-02T17:46:29.000Z",
         "transition": "N/A"
       },
-      "WICG/canvas-place-element": {
-        "notes": "",
-        "lastModified": "2024-09-25T17:44:26.000Z",
-        "transition": "N/A"
-      },
       "WICG/close-watcher": {
         "notes": "close-watcher is discontinued but repo not archived"
       },
@@ -1336,7 +1331,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-05-01T00:50:25.000Z",
+        "lastModified": "2025-05-01T23:07:07.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
@@ -1379,6 +1374,11 @@
       "WICG/file-handling": {
         "notes": "",
         "lastModified": "2022-03-15T14:48:27.000Z",
+        "transition": "N/A"
+      },
+      "WICG/html-in-canvas": {
+        "notes": "",
+        "lastModified": "2025-05-02T01:10:41.000Z",
         "transition": "N/A"
       },
       "WICG/local-peer-to-peer": {
@@ -1550,7 +1550,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2025-04-17T10:10:39.000Z",
+        "lastModified": "2025-05-01T14:56:36.000Z",
         "transition": "N/A"
       }
     }
