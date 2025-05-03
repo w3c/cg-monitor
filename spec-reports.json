@@ -149,7 +149,7 @@
         "title": "Cookie Store API",
         "url": "https://wicg.github.io/cookie-store/",
         "repo": "WICG/cookie-store",
-        "lastModified": "2024-07-15T00:00:00.000Z",
+        "lastModified": "2025-05-02T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -557,7 +557,7 @@
         "title": "Manifest Incubations",
         "url": "https://wicg.github.io/manifest-incubations/",
         "repo": "WICG/manifest-incubations",
-        "lastModified": "2025-04-14T00:00:00.000Z",
+        "lastModified": "2025-05-02T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -586,7 +586,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-04-24T00:00:00.000Z",
+        "lastModified": "2025-05-01T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -604,7 +604,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-04-24T00:00:00.000Z",
+        "lastModified": "2025-05-01T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -625,7 +625,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-04-24T00:00:00.000Z",
+        "lastModified": "2025-05-01T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1331,7 +1331,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-05-01T23:07:07.000Z",
+        "lastModified": "2025-05-02T19:17:02.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
