@@ -557,7 +557,7 @@
         "title": "Manifest Incubations",
         "url": "https://wicg.github.io/manifest-incubations/",
         "repo": "WICG/manifest-incubations",
-        "lastModified": "2025-05-02T00:00:00.000Z",
+        "lastModified": "2025-05-07T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1331,7 +1331,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-05-02T19:17:02.000Z",
+        "lastModified": "2025-05-07T22:12:02.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
@@ -1368,7 +1368,7 @@
       },
       "WICG/explicit-javascript-compile-hints-file-based": {
         "notes": "",
-        "lastModified": "2025-02-26T11:50:19.000Z",
+        "lastModified": "2025-05-07T12:58:09.000Z",
         "transition": "N/A"
       },
       "WICG/file-handling": {
