@@ -1029,7 +1029,7 @@
         "title": "User-Agent Client Hints",
         "url": "https://wicg.github.io/ua-client-hints/",
         "repo": "WICG/ua-client-hints",
-        "lastModified": "2024-12-24T00:00:00.000Z",
+        "lastModified": "2025-05-09T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1117,7 +1117,52 @@
         "repo": "WICG/web-preferences-api",
         "lastModified": "2024-11-15T00:00:00.000Z",
         "implementations": [],
-        "referencedBy": [],
+        "referencedBy": [
+          {
+            "url": "https://drafts.csswg.org/css-color-adjust-1/",
+            "title": "CSS Color Adjustment Module Level 1"
+          },
+          {
+            "url": "https://drafts.csswg.org/css-conditional-5/",
+            "title": "CSS Conditional Rules Module Level 5"
+          },
+          {
+            "url": "https://drafts.csswg.org/css-conditional-values-1/",
+            "title": "CSS Conditional Values Module Level 1"
+          },
+          {
+            "url": "https://drafts.csswg.org/css-display-3/",
+            "title": "CSS Display Module Level 3"
+          },
+          {
+            "url": "https://drafts.csswg.org/css-display-4/",
+            "title": "CSS Display Module Level 4"
+          },
+          {
+            "url": "https://drafts.csswg.org/css-grid-1/",
+            "title": "CSS Grid Layout Module Level 1"
+          },
+          {
+            "url": "https://drafts.csswg.org/css-grid-2/",
+            "title": "CSS Grid Layout Module Level 2"
+          },
+          {
+            "url": "https://drafts.csswg.org/css-multicol-1/",
+            "title": "CSS Multi-column Layout Module Level 1"
+          },
+          {
+            "url": "https://drafts.csswg.org/css-multicol-2/",
+            "title": "CSS Multi-column Layout Module Level 2"
+          },
+          {
+            "url": "https://drafts.csswg.org/css-values-5/",
+            "title": "CSS Values and Units Module Level 5"
+          },
+          {
+            "url": "https://drafts.csswg.org/css-viewport/",
+            "title": "CSS Viewport Module Level 1"
+          }
+        ],
         "transition": {
           "repo": "WICG/web-preferences-api",
           "date": "2024-07-10",
@@ -1329,7 +1374,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-05-08T21:10:43.000Z",
+        "lastModified": "2025-05-09T21:36:23.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
@@ -1366,7 +1411,7 @@
       },
       "WICG/explicit-javascript-compile-hints-file-based": {
         "notes": "",
-        "lastModified": "2025-05-07T12:58:09.000Z",
+        "lastModified": "2025-05-09T07:54:26.000Z",
         "transition": "N/A"
       },
       "WICG/file-handling": {
@@ -1434,7 +1479,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-05-08T16:22:50.000Z",
+        "lastModified": "2025-05-09T15:57:54.000Z",
         "transition": "N/A"
       },
       "WICG/pointer-event-extensions": {
