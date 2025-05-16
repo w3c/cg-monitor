@@ -557,7 +557,7 @@
         "title": "Manifest Incubations",
         "url": "https://wicg.github.io/manifest-incubations/",
         "repo": "WICG/manifest-incubations",
-        "lastModified": "2025-05-07T00:00:00.000Z",
+        "lastModified": "2025-05-15T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1323,7 +1323,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-05-15T01:24:38.000Z",
+        "lastModified": "2025-05-15T20:08:46.000Z",
         "transition": "N/A"
       },
       "WICG/controls-list": {
@@ -1370,7 +1370,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2025-05-14T16:50:00.000Z",
+        "lastModified": "2025-05-15T23:10:28.000Z",
         "transition": "N/A"
       },
       "WICG/local-peer-to-peer": {
@@ -1542,7 +1542,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2025-05-14T12:26:05.000Z",
+        "lastModified": "2025-05-15T13:57:25.000Z",
         "transition": "N/A"
       }
     }
