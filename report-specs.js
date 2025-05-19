@@ -68,6 +68,19 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
     addWarning(refTd, "Referenced by other specs");
   }
 
+  const charterTd = document.createElement("td");
+
+  for (const ref of spec.linkedFrom) {
+    const a = document.createElement("a");
+    a.href = ref.link;
+    a.append(`${ref.shortname.toUpperCase()} WG`);
+    charterTd.append(a);
+    charterTd.append(document.createElement("br"));
+  }
+  if (spec.linkedFrom.length) {
+    addWarning(charterTd, "Linked from WG charter");
+  }
+
   const transitionTd = document.createElement("td");
   if (spec.transition.notice) {
     const transitionLink = document.createElement("a");
@@ -88,7 +101,7 @@ for (const spec of report.wicg.specs.sort((a, b) => a.lastModified.localeCompare
   const notesTd = document.createElement("td");
   notesTd.append(spec.notes);
 
-  tr.append(specTd, repoTd, lmTd, implTd, refTd, transitionTd, notesTd);
+  tr.append(specTd, repoTd, lmTd, implTd, refTd, charterTd, transitionTd, notesTd);
   table.append(tr);
 }
 
@@ -100,7 +113,7 @@ for (const repo of Object.keys(report.wicg.repos).sort((a,b) => report.wicg.repo
   link.textContent = repo;
   dt.append(link);
   list.append(dt);
-  const {transition, lastModified, notes} = report.wicg.repos[repo];
+  const {transition, lastModified, notes, linkedFrom} = report.wicg.repos[repo];
   let computedNotes = notes;
 
   if (transition?.notice) {
@@ -125,6 +138,12 @@ for (const repo of Object.keys(report.wicg.repos).sort((a,b) => report.wicg.repo
     list.append(lmDd);
   }
 
+  if (linkedFrom?.length) {
+    const lfDd = document.createElement("dd");
+    lfDd.innerHTML = `Linked from ${linkedFrom.map(f => `<a href="${f.link}">${f.shortname.toUpperCase()} WG charter</a>`).join(',')}`;
+    list.append(lfDd);
+  }
+  
   if (computedNotes) {
     const dd = document.createElement("dd");
     dd.classList.add("warning");

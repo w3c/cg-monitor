@@ -5,6 +5,9 @@ import { fileURLToPath } from "url";
 import webSpecs from 'web-specs/index.json' with { type: 'json' };
 import cgTransitions from './cg-transitions.json' with {type: 'json' };
 import cgImplementations from './spec-implementations.json' with {type: 'json' };
+
+import charterLinks from './charter-links.json' with {type: 'json'};
+
 import specAnnotations from './spec-annotations.json' with {type: 'json' };
 
 import authedFetch from './lib/authed-fetch.js';
@@ -71,7 +74,11 @@ for (const repo of repoData.repos.filter(r => r.w3c?.["repo-type"]?.includes("cg
     if (!specs.length) {
       const lastCommit = await fetchLastCommit(repoName);
       const lastModificationDate = new Date(lastCommit.commit.committer.date);
-      report[cgShortname].repos[repoName] = { notes: specAnnotations[repoName] ?? "", lastModified: lastModificationDate.toJSON(), transition};
+
+      // is linked from WG charters?
+      const linkedFromCharters = Object.keys(charterLinks).filter(shortname => charterLinks[shortname].links.find(l =>  l.toLowerCase().startsWith(`https://github.com/${repoName}`.toLowerCase()))).map(shortname => { return { shortname, link: `https://www.w3.org/groups/wg/${shortname}/charters/active/`} ; });
+
+      report[cgShortname].repos[repoName] = { notes: specAnnotations[repoName] ?? "", lastModified: lastModificationDate.toJSON(), linkedFrom: linkedFromCharters, transition};
       continue;
     }
 
@@ -112,7 +119,10 @@ for (const repo of repoData.repos.filter(r => r.w3c?.["repo-type"]?.includes("cg
       // is referenced by other brower specs?
       const referencedBy = references[spec.url] ? [...references[spec.url]].map(u => { return {url: u, title: webSpecs.find(s => s.url === u || s?.nightly?.url === u)?.title} ;}) : [];
 
-      report[cgShortname].specs.push({title: spec.title, url: spec.url, repo: repoName, lastModified: lastModificationDate.toJSON(), implementations: [... new Set(engines)], referencedBy, transition, notes: specAnnotations[spec.url] ?? ""});
+      // is linked from WG charters?
+      const linkedFromCharters = Object.keys(charterLinks).filter(shortname => charterLinks[shortname].links.find(l => l.toLowerCase() === spec.url.toLowerCase() || l.toLowerCase() === `https://github.com/${repoName}`.toLowerCase())).map(shortname => { return { shortname, link: `https://www.w3.org/groups/wg/${shortname}/charters/active/`} ; });
+
+      report[cgShortname].specs.push({title: spec.title, url: spec.url, repo: repoName, lastModified: lastModificationDate.toJSON(), implementations: [... new Set(engines)], referencedBy, linkedFrom: linkedFromCharters, transition, notes: specAnnotations[spec.url] ?? ""});
     }
 
     // list of contributors from IPR checker (@@@ not per spec but per repo atm)
