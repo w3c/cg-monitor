@@ -43,11 +43,13 @@ jobs:
         run: |
           node export-popularity.js
           node generate-activity-graphs.js
+      - name: Collect charter links
+        run: node collect-charter-links.mjs > charter-links.json
       - name: Commit changes
         run: |
           git config user.name "w3c-cg-monitor-bot"
           git config user.email "<>"
-          git add report.json popularity.json viz
+          git add report.json popularity.json charter-links.json viz
           git commit -m "Update data"
           git show
       - name: Push changes
