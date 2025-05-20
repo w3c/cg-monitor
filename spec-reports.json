@@ -15,6 +15,7 @@
             "title": "Fenced Frame"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -25,6 +26,7 @@
         "lastModified": "2024-06-26T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -32,7 +34,7 @@
         "title": "Attribution Reporting",
         "url": "https://wicg.github.io/attribution-reporting-api/",
         "repo": "WICG/attribution-reporting-api",
-        "lastModified": "2025-05-16T00:00:00.000Z",
+        "lastModified": "2025-05-19T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -48,6 +50,12 @@
           {
             "url": "https://wicg.github.io/turtledove/",
             "title": "Protected Audience (formerly FLEDGE)"
+          }
+        ],
+        "linkedFrom": [
+          {
+            "shortname": "pat",
+            "link": "https://www.w3.org/groups/wg/pat/charters/active/"
           }
         ],
         "transition": "N/A",
@@ -72,6 +80,7 @@
             "title": "Prerendering Revamped"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -89,6 +98,7 @@
             "title": "Web Periodic Background Synchronization"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -101,6 +111,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -132,6 +143,7 @@
             "title": "User-Agent Client Hints"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -142,6 +154,7 @@
         "lastModified": "2021-04-13T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -155,6 +168,12 @@
           "firefox"
         ],
         "referencedBy": [],
+        "linkedFrom": [
+          {
+            "shortname": "webapps",
+            "link": "https://www.w3.org/groups/wg/webapps/charters/active/"
+          }
+        ],
         "transition": {
           "repo": "WICG/cookie-store",
           "notice": "https://github.com/WICG/cookie-store/issues/186",
@@ -171,6 +190,7 @@
         "lastModified": "2025-05-12T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -186,6 +206,7 @@
             "title": "Service Workers"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": "no active work, editor noted it could be archived for now https://github.com/WICG/csp-next/issues/9"
       },
@@ -196,6 +217,7 @@
         "lastModified": "2021-02-26T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": "editor thinks still worth exploring, but no change since Feb 2023 https://github.com/WICG/css-parser-api/issues/21#issuecomment-1433704949"
       },
@@ -208,6 +230,7 @@
           "safari"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": "Singe implementation for a very long time"
       },
@@ -221,6 +244,7 @@
           "firefox"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -233,6 +257,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -243,6 +268,7 @@
         "lastModified": "2024-10-24T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -253,6 +279,7 @@
         "lastModified": "2025-04-23T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -265,6 +292,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -282,6 +310,12 @@
             "title": "Crash Reporting"
           }
         ],
+        "linkedFrom": [
+          {
+            "shortname": "webappsec",
+            "link": "https://www.w3.org/groups/wg/webappsec/charters/active/"
+          }
+        ],
         "transition": "N/A",
         "notes": ""
       },
@@ -296,6 +330,7 @@
           "safari"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -308,6 +343,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -337,6 +373,7 @@
             "title": "Protected Audience (formerly FLEDGE)"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -362,6 +399,7 @@
             "title": "Web App Launch Handler API"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -372,6 +410,7 @@
         "lastModified": "2025-03-19T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -384,6 +423,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -396,6 +436,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -413,6 +454,12 @@
             "title": "Prerendering Revamped"
           }
         ],
+        "linkedFrom": [
+          {
+            "shortname": "das",
+            "link": "https://www.w3.org/groups/wg/das/charters/active/"
+          }
+        ],
         "transition": "N/A",
         "notes": ""
       },
@@ -425,6 +472,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -437,6 +485,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -449,6 +498,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -461,6 +511,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -476,6 +527,7 @@
             "title": "Direct Sockets API"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -488,6 +540,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -509,6 +562,7 @@
             "title": "Prerendering Revamped"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -521,6 +575,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -538,6 +593,7 @@
             "title": "Timing Entry Names Registry"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -550,6 +606,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -567,6 +624,7 @@
             "title": "Window Controls Overlay"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -579,6 +637,7 @@
           "removed"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": "editors said they wanted to re-evaluate incubation (in Feb 2023) https://github.com/WICG/media-feeds/issues/59#issuecomment-1439286577"
       },
@@ -597,6 +656,7 @@
             "title": "Prerendering Revamped"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -618,6 +678,7 @@
             "title": "Prefetch"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -635,6 +696,7 @@
             "title": "Prefetch"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -652,6 +714,12 @@
             "title": "Save Data API"
           }
         ],
+        "linkedFrom": [
+          {
+            "shortname": "das",
+            "link": "https://www.w3.org/groups/wg/das/charters/active/"
+          }
+        ],
         "transition": "N/A",
         "notes": ""
       },
@@ -662,6 +730,7 @@
         "lastModified": "2025-04-19T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/observable",
           "date": "2024-07-11",
@@ -678,6 +747,7 @@
         "lastModified": "2020-04-15T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/overscroll-scrollend-events",
           "date": "2022-06-22",
@@ -701,6 +771,7 @@
             "title": "Service Workers"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -713,6 +784,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -725,6 +797,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -754,6 +827,7 @@
             "title": "WebUSB API"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -767,6 +841,7 @@
           "firefox"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -779,6 +854,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -791,6 +867,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -812,6 +889,7 @@
             "title": "Protected Audience (formerly FLEDGE)"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -822,6 +900,7 @@
         "lastModified": "2024-05-21T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -832,6 +911,7 @@
         "lastModified": "2025-05-14T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/sanitizer-api",
           "date": "2023-07-20",
@@ -855,6 +935,7 @@
             "title": "Media Queries Level 5"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -868,6 +949,12 @@
           "firefox"
         ],
         "referencedBy": [],
+        "linkedFrom": [
+          {
+            "shortname": "webperf",
+            "link": "https://www.w3.org/groups/wg/webperf/charters/active/"
+          }
+        ],
         "transition": "N/A",
         "notes": ""
       },
@@ -881,6 +968,7 @@
           "firefox"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/scroll-to-text-fragment",
           "date": "2022-09-12",
@@ -904,6 +992,7 @@
             "title": "Prerendering Revamped"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -922,6 +1011,7 @@
             "title": "Accelerated Text Detection in Images"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -934,6 +1024,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -951,6 +1042,7 @@
             "title": "Fenced Frame"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -968,6 +1060,7 @@
             "title": "WebOTP API"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -978,6 +1071,7 @@
         "lastModified": "2023-12-07T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -990,6 +1084,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -1002,6 +1097,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -1019,6 +1115,7 @@
             "title": "Fenced Frame"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -1031,6 +1128,12 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [
+          {
+            "shortname": "webapps",
+            "link": "https://www.w3.org/groups/wg/webapps/charters/active/"
+          }
+        ],
         "transition": "N/A",
         "notes": ""
       },
@@ -1048,6 +1151,7 @@
             "title": "Media Queries Level 5"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -1062,6 +1166,7 @@
           "safari"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/video-rvfc",
           "date": "2022-09-19",
@@ -1085,6 +1190,7 @@
             "title": "Manifest Incubations"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -1102,6 +1208,7 @@
             "title": "Credential Management Level 1"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -1112,6 +1219,7 @@
         "lastModified": "2025-05-08T09:51:50.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/web-preferences-api",
           "date": "2024-07-10",
@@ -1128,6 +1236,7 @@
         "lastModified": "2025-05-16T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -1138,6 +1247,7 @@
         "lastModified": "2021-07-18T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -1150,6 +1260,7 @@
           "chrome"
         ],
         "referencedBy": [],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -1164,6 +1275,12 @@
           "safari"
         ],
         "referencedBy": [],
+        "linkedFrom": [
+          {
+            "shortname": "webappsec",
+            "link": "https://www.w3.org/groups/wg/webappsec/charters/active/"
+          }
+        ],
         "transition": {
           "repo": "WICG/webcrypto-secure-curves",
           "date": "2024-02-19",
@@ -1191,6 +1308,7 @@
             "title": "Web Bluetooth"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -1204,6 +1322,12 @@
           {
             "url": "https://wicg.github.io/fenced-frame/",
             "title": "Fenced Frame"
+          }
+        ],
+        "linkedFrom": [
+          {
+            "shortname": "miniapps",
+            "link": "https://www.w3.org/groups/wg/miniapps/charters/active/"
           }
         ],
         "transition": "N/A",
@@ -1223,6 +1347,7 @@
             "title": "Prerendering Revamped"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -1240,6 +1365,7 @@
             "title": "Manifest Incubations"
           }
         ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       }
@@ -1248,31 +1374,37 @@
       "WICG/ab-worker-prototype": {
         "notes": "",
         "lastModified": "2024-01-29T20:22:08.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/accessible-notifications": {
         "notes": "",
         "lastModified": "2023-09-15T13:21:25.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/address-autofill": {
         "notes": "",
         "lastModified": "2025-03-20T07:09:48.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/bfcache-not-restored-reason": {
         "notes": "",
         "lastModified": "2024-03-21T06:24:55.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/bundle-preloading": {
         "notes": "protocol part sent to IETF WG which has since been closed for lack of progress",
         "lastModified": "2023-02-14T03:09:54.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/canvas-color-space": {
         "notes": "",
         "lastModified": "2022-02-24T21:23:46.000Z",
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/canvas-color-space",
           "date": "2021-04-11",
@@ -1284,6 +1416,7 @@
       "WICG/canvas-formatted-text": {
         "notes": "",
         "lastModified": "2024-10-02T17:46:29.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/close-watcher": {
@@ -1292,11 +1425,13 @@
       "WICG/color-api": {
         "notes": "",
         "lastModified": "2024-07-16T16:38:08.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/compression-dictionary-transport": {
         "notes": "",
         "lastModified": "2025-03-19T22:45:15.000Z",
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/compression-dictionary-transport",
           "notice": "https://github.com/WICG/compression-dictionary-transport/pull/61",
@@ -1308,6 +1443,7 @@
       "WICG/conditional-focus": {
         "notes": "",
         "lastModified": "2025-04-28T14:44:32.000Z",
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/conditional-focus",
           "date": "2022-10-05",
@@ -1319,16 +1455,19 @@
       "WICG/construct-stylesheets": {
         "notes": "",
         "lastModified": "2022-10-14T21:06:16.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/controlled-frame": {
         "notes": "",
         "lastModified": "2025-05-16T20:58:33.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/controls-list": {
         "notes": "Shipping in Chrome, opposed by Safari, PR to HTML spec stuck since May 2021",
         "lastModified": "2024-02-16T02:04:44.000Z",
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/controls-list",
           "notice": "https://github.com/whatwg/html/pull/6715",
@@ -1340,11 +1479,13 @@
       "WICG/coop-restrict-properties": {
         "notes": "replaced by document-isolation-policy https://github.com/WICG/coop-restrict-properties/pull/1/files , needs archiving",
         "lastModified": "2023-12-01T13:40:49.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/devtools-protocol": {
         "notes": "",
         "lastModified": "2019-09-30T07:39:07.000Z",
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/devtools-protocol",
           "notice": "https://github.com/w3c/webdriver-bidi/commit/8cbb5fe4b74cdbf0b749385a2ddcd2e3ac0bbbff",
@@ -1356,41 +1497,49 @@
       "WICG/display-override": {
         "notes": "overtaken by manifest-incubations, needs archiving",
         "lastModified": "2021-02-18T17:29:50.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/explicit-javascript-compile-hints-file-based": {
         "notes": "",
         "lastModified": "2025-05-14T09:18:15.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/file-handling": {
         "notes": "",
         "lastModified": "2022-03-15T14:48:27.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/html-in-canvas": {
         "notes": "",
         "lastModified": "2025-05-17T18:04:08.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/local-peer-to-peer": {
         "notes": "",
         "lastModified": "2024-08-12T07:43:01.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/media-latency-hint": {
         "notes": "",
         "lastModified": "2020-07-29T21:21:01.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/mobile-document-request-api": {
         "notes": "moved to digital-credentials, clean up and archive see https://github.com/WICG/mobile-document-request-api/issues/14",
         "lastModified": "2024-08-07T00:16:05.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/navigation-api": {
         "notes": "",
         "lastModified": "2025-04-16T08:34:35.000Z",
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/navigation-api",
           "date": "2022-11-14",
@@ -1402,11 +1551,13 @@
       "WICG/origin-policy": {
         "notes": "explicitly no longer worked on, archive?",
         "lastModified": "2022-04-28T16:44:35.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/paymentlink": {
         "notes": "",
         "lastModified": "2025-03-28T14:08:07.000Z",
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/paymentlink",
           "notice": "https://lists.w3.org/Archives/Public/public-payments-wg/2025Jan/0006.html",
@@ -1418,6 +1569,7 @@
       "WICG/pending-beacon": {
         "notes": "",
         "lastModified": "2025-04-03T08:11:41.000Z",
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/pending-beacon",
           "notice": "https://github.com/whatwg/fetch/pull/1647",
@@ -1428,12 +1580,19 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-05-13T18:48:08.000Z",
+        "lastModified": "2025-05-19T09:13:23.000Z",
+        "linkedFrom": [
+          {
+            "shortname": "webappsec",
+            "link": "https://www.w3.org/groups/wg/webappsec/charters/active/"
+          }
+        ],
         "transition": "N/A"
       },
       "WICG/pointer-event-extensions": {
         "notes": "",
         "lastModified": "2024-06-03T18:15:44.000Z",
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/pointer-event-extensions",
           "notice": "https://github.com/w3c/pointerevents/pull/495",
@@ -1445,36 +1604,43 @@
       "WICG/privacy-preserving-ads": {
         "notes": "",
         "lastModified": "2025-03-24T17:27:10.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/protected-auction-services-discussion": {
         "notes": "",
         "lastModified": "2025-03-14T21:34:04.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/pwa-url-handler": {
         "notes": "proposal now explicitly obsoleted by manifest-incubations, needs archiving",
         "lastModified": "2023-10-10T01:43:59.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/raw-clipboard-access": {
         "notes": "replaced with web customer format https://github.com/WICG/raw-clipboard-access/issues/8 , needs archiving",
         "lastModified": "2019-10-31T10:02:25.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/Realms-Initialization-Control": {
         "notes": "",
         "lastModified": "2024-10-21T14:14:19.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/screen-brightness": {
         "notes": "",
         "lastModified": "2022-11-16T16:04:35.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/service-worker-static-routing-api": {
         "notes": "",
         "lastModified": "2025-02-19T06:10:05.000Z",
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/service-worker-static-routing-api",
           "notice": "https://github.com/w3c/ServiceWorker/pull/1701",
@@ -1485,16 +1651,19 @@
       "WICG/signature-based-sri": {
         "notes": "",
         "lastModified": "2025-03-24T07:40:46.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/sparrow": {
         "notes": "",
         "lastModified": "2021-01-26T13:48:10.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/spatial-navigation": {
         "notes": "",
         "lastModified": "2021-08-16T13:28:11.000Z",
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/spatial-navigation",
           "notice": "https://github.com/WICG/spatial-navigation/issues/138",
@@ -1506,11 +1675,13 @@
       "WICG/storage-foundation-api-explainer": {
         "notes": "overtaken by filesystem-access, needs archiving",
         "lastModified": "2021-09-23T14:03:53.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/view-transitions": {
         "notes": "",
         "lastModified": "2025-05-16T19:43:58.000Z",
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/view-transitions",
           "notice": "https://github.com/w3c/csswg-drafts/pull/9022",
@@ -1522,6 +1693,7 @@
       "WICG/visual-viewport": {
         "notes": "",
         "lastModified": "2025-04-30T19:04:53.000Z",
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/visual-viewport",
           "date": "2021-06-02",
@@ -1533,16 +1705,19 @@
       "WICG/web_audio_playout": {
         "notes": "",
         "lastModified": "2024-10-18T14:02:14.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/web-printing": {
         "notes": "",
         "lastModified": "2023-10-20T11:30:47.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/webmonetization": {
         "notes": "",
         "lastModified": "2025-05-15T13:57:25.000Z",
+        "linkedFrom": [],
         "transition": "N/A"
       }
     }
