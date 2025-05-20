@@ -37,7 +37,7 @@ const lastSixMonths = (() => {
 (async function() {
     const {data} = JSON.parse(await fs.readFile("report.json"));
 
-    const cgs = data.filter(x => x.type === "cg");
+    const cgs = data.filter(x => x.type === "cg" && x["spec-publisher"]);
     let candidates = [];
 
     candidates = candidates.concat(cgs.filter(x => x.participants <= 3).map(documentReason("fewer than 3 participants")));
