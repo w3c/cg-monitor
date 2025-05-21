@@ -34,7 +34,7 @@
         "title": "Attribution Reporting",
         "url": "https://wicg.github.io/attribution-reporting-api/",
         "repo": "WICG/attribution-reporting-api",
-        "lastModified": "2025-05-19T00:00:00.000Z",
+        "lastModified": "2025-05-20T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1634,6 +1634,12 @@
       "WICG/screen-brightness": {
         "notes": "",
         "lastModified": "2022-11-16T16:04:35.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
+      "WICG/service-worker-auto-preload": {
+        "notes": "",
+        "lastModified": "2025-05-20T16:45:30.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
