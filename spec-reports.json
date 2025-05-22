@@ -1580,7 +1580,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-05-19T09:13:23.000Z",
+        "lastModified": "2025-05-21T15:02:06.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
@@ -1645,7 +1645,7 @@
       },
       "WICG/service-worker-static-routing-api": {
         "notes": "",
-        "lastModified": "2025-02-19T06:10:05.000Z",
+        "lastModified": "2025-05-21T09:03:21.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/service-worker-static-routing-api",
@@ -1656,7 +1656,7 @@
       },
       "WICG/signature-based-sri": {
         "notes": "",
-        "lastModified": "2025-03-24T07:40:46.000Z",
+        "lastModified": "2025-05-21T08:52:45.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
