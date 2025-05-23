@@ -34,7 +34,7 @@
         "title": "Attribution Reporting",
         "url": "https://wicg.github.io/attribution-reporting-api/",
         "repo": "WICG/attribution-reporting-api",
-        "lastModified": "2025-05-20T00:00:00.000Z",
+        "lastModified": "2025-05-22T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -162,7 +162,7 @@
         "title": "Cookie Store API",
         "url": "https://wicg.github.io/cookie-store/",
         "repo": "WICG/cookie-store",
-        "lastModified": "2025-05-13T00:00:00.000Z",
+        "lastModified": "2025-05-22T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -1460,7 +1460,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-05-16T20:58:33.000Z",
+        "lastModified": "2025-05-22T17:41:09.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1722,7 +1722,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2025-05-15T13:57:25.000Z",
+        "lastModified": "2025-05-22T11:08:16.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
