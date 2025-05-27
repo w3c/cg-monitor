@@ -1584,7 +1584,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-05-23T09:23:37.000Z",
+        "lastModified": "2025-05-26T13:30:11.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
@@ -1714,7 +1714,7 @@
       },
       "WICG/web_audio_playout": {
         "notes": "",
-        "lastModified": "2024-10-18T14:02:14.000Z",
+        "lastModified": "2025-05-26T14:27:11.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
