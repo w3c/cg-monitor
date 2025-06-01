@@ -1625,7 +1625,7 @@
       },
       "WICG/raw-clipboard-access": {
         "notes": "replaced with web customer format https://github.com/WICG/raw-clipboard-access/issues/8 , needs archiving",
-        "lastModified": "2019-10-31T10:02:25.000Z",
+        "lastModified": "2025-05-31T16:07:57.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
