@@ -1584,7 +1584,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-05-30T11:06:09.000Z",
+        "lastModified": "2025-06-02T14:57:14.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
@@ -1702,7 +1702,7 @@
       },
       "WICG/visual-viewport": {
         "notes": "",
-        "lastModified": "2025-04-30T19:04:53.000Z",
+        "lastModified": "2025-06-02T19:26:50.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/visual-viewport",
