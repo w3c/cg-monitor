@@ -166,7 +166,7 @@
         "title": "Cookie Store API",
         "url": "https://wicg.github.io/cookie-store/",
         "repo": "WICG/cookie-store",
-        "lastModified": "2025-05-27T00:00:00.000Z",
+        "lastModified": "2025-06-03T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -1584,7 +1584,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-06-02T14:57:14.000Z",
+        "lastModified": "2025-06-03T15:00:47.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
