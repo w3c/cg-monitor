@@ -34,7 +34,7 @@
         "title": "Attribution Reporting",
         "url": "https://wicg.github.io/attribution-reporting-api/",
         "repo": "WICG/attribution-reporting-api",
-        "lastModified": "2025-05-28T00:00:00.000Z",
+        "lastModified": "2025-06-04T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1479,12 +1479,6 @@
           "status": "pending",
           "wgshortname": "whatwg/html"
         }
-      },
-      "WICG/coop-restrict-properties": {
-        "notes": "replaced by document-isolation-policy https://github.com/WICG/coop-restrict-properties/pull/1/files , needs archiving",
-        "lastModified": "2023-12-01T13:40:49.000Z",
-        "linkedFrom": [],
-        "transition": "N/A"
       },
       "WICG/devtools-protocol": {
         "notes": "",
