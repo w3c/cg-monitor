@@ -1248,7 +1248,7 @@
         "title": "Device Attributes API",
         "url": "https://wicg.github.io/WebApiDevice/device_attributes/",
         "repo": "WICG/WebApiDevice",
-        "lastModified": "2021-07-18T00:00:00.000Z",
+        "lastModified": "2025-06-09T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1259,7 +1259,7 @@
         "title": "Managed Configuration API",
         "url": "https://wicg.github.io/WebApiDevice/managed_config/",
         "repo": "WICG/WebApiDevice",
-        "lastModified": "2021-07-18T00:00:00.000Z",
+        "lastModified": "2025-06-09T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1720,7 +1720,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2025-05-28T09:02:18.000Z",
+        "lastModified": "2025-06-09T10:39:12.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
