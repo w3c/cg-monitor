@@ -1464,7 +1464,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-06-19T00:52:51.000Z",
+        "lastModified": "2025-06-20T23:58:36.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1513,6 +1513,12 @@
       "WICG/html-in-canvas": {
         "notes": "",
         "lastModified": "2025-05-30T17:11:19.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
+      "WICG/local-network-access": {
+        "notes": "",
+        "lastModified": "2025-06-20T21:48:12.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
