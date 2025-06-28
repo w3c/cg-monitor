@@ -1518,13 +1518,13 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2025-06-26T22:24:55.000Z",
+        "lastModified": "2025-06-27T16:14:36.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2025-06-20T21:48:12.000Z",
+        "lastModified": "2025-06-27T17:35:32.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
