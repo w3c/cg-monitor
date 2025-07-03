@@ -166,7 +166,7 @@
         "title": "Cookie Store API",
         "url": "https://wicg.github.io/cookie-store/",
         "repo": "WICG/cookie-store",
-        "lastModified": "2025-06-23T00:00:00.000Z",
+        "lastModified": "2025-07-02T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -912,7 +912,7 @@
         "title": "HTML Sanitizer API",
         "url": "https://wicg.github.io/sanitizer-api/",
         "repo": "WICG/sanitizer-api",
-        "lastModified": "2025-05-14T00:00:00.000Z",
+        "lastModified": "2025-07-02T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1482,7 +1482,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-06-25T14:49:24.000Z",
+        "lastModified": "2025-07-02T12:50:09.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1696,7 +1696,7 @@
       },
       "WICG/view-transitions": {
         "notes": "",
-        "lastModified": "2025-05-16T19:43:58.000Z",
+        "lastModified": "2025-07-02T14:04:57.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/view-transitions",
