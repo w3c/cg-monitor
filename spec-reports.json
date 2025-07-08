@@ -1482,7 +1482,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-07-03T11:42:39.000Z",
+        "lastModified": "2025-07-07T15:54:45.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1732,7 +1732,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2025-06-24T14:16:38.000Z",
+        "lastModified": "2025-07-07T13:24:25.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
