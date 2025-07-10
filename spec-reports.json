@@ -435,7 +435,7 @@
         "title": "Handwriting Recognition API",
         "url": "https://wicg.github.io/handwriting-recognition/",
         "repo": "WICG/handwriting-recognition",
-        "lastModified": "2024-11-21T00:00:00.000Z",
+        "lastModified": "2025-07-09T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -912,7 +912,7 @@
         "title": "HTML Sanitizer API",
         "url": "https://wicg.github.io/sanitizer-api/",
         "repo": "WICG/sanitizer-api",
-        "lastModified": "2025-07-02T00:00:00.000Z",
+        "lastModified": "2025-07-09T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1482,7 +1482,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-07-08T10:55:56.000Z",
+        "lastModified": "2025-07-09T12:38:22.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
