@@ -166,7 +166,7 @@
         "title": "Cookie Store API",
         "url": "https://wicg.github.io/cookie-store/",
         "repo": "WICG/cookie-store",
-        "lastModified": "2025-07-02T00:00:00.000Z",
+        "lastModified": "2025-07-15T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -1393,6 +1393,12 @@
         "linkedFrom": [],
         "transition": "N/A"
       },
+      "WICG/audio-context-playout-stats": {
+        "notes": "",
+        "lastModified": "2025-07-15T09:14:37.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
       "WICG/bfcache-not-restored-reason": {
         "notes": "",
         "lastModified": "2024-03-21T06:24:55.000Z",
@@ -1482,7 +1488,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-07-11T08:02:05.000Z",
+        "lastModified": "2025-07-15T10:14:09.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1718,12 +1724,6 @@
           "status": "complete"
         }
       },
-      "WICG/web_audio_playout": {
-        "notes": "",
-        "lastModified": "2025-06-25T07:58:21.000Z",
-        "linkedFrom": [],
-        "transition": "N/A"
-      },
       "WICG/web-printing": {
         "notes": "",
         "lastModified": "2023-10-20T11:30:47.000Z",
@@ -1732,7 +1732,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2025-07-07T13:24:25.000Z",
+        "lastModified": "2025-07-15T09:49:43.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
