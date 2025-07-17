@@ -1488,7 +1488,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-07-15T10:14:09.000Z",
+        "lastModified": "2025-07-16T17:45:31.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1524,7 +1524,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2025-06-27T16:14:36.000Z",
+        "lastModified": "2025-07-16T18:50:52.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1572,7 +1572,7 @@
       },
       "WICG/paymentlink": {
         "notes": "",
-        "lastModified": "2025-03-28T14:08:07.000Z",
+        "lastModified": "2025-07-16T21:21:43.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/paymentlink",
