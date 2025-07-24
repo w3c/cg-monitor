@@ -649,7 +649,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-06-30T00:00:00.000Z",
+        "lastModified": "2025-07-22T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -658,6 +658,10 @@
           {
             "url": "https://wicg.github.io/nav-speculation/prerendering.html",
             "title": "Prerendering Revamped"
+          },
+          {
+            "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+            "title": "Speculation Rules"
           }
         ],
         "linkedFrom": [],
@@ -668,7 +672,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-06-30T00:00:00.000Z",
+        "lastModified": "2025-07-22T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -680,6 +684,10 @@
           {
             "url": "https://wicg.github.io/nav-speculation/prefetch.html",
             "title": "Prefetch"
+          },
+          {
+            "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
+            "title": "Speculation Rules"
           }
         ],
         "linkedFrom": [],
@@ -690,16 +698,11 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-06-30T00:00:00.000Z",
+        "lastModified": "2025-07-22T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
-        "referencedBy": [
-          {
-            "url": "https://wicg.github.io/nav-speculation/prefetch.html",
-            "title": "Prefetch"
-          }
-        ],
+        "referencedBy": [],
         "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
@@ -1470,7 +1473,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-07-21T17:10:55.000Z",
+        "lastModified": "2025-07-23T20:55:50.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1655,7 +1658,7 @@
       },
       "WICG/service-worker-auto-preload": {
         "notes": "",
-        "lastModified": "2025-05-20T16:45:30.000Z",
+        "lastModified": "2025-07-23T06:49:43.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
