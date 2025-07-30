@@ -163,31 +163,6 @@
         "notes": ""
       },
       {
-        "title": "Cookie Store API",
-        "url": "https://wicg.github.io/cookie-store/",
-        "repo": "WICG/cookie-store",
-        "lastModified": "2025-07-28T13:29:14.000Z",
-        "implementations": [
-          "chrome",
-          "firefox"
-        ],
-        "referencedBy": [],
-        "linkedFrom": [
-          {
-            "shortname": "webapps",
-            "link": "https://www.w3.org/groups/wg/webapps/charters/active/"
-          }
-        ],
-        "transition": {
-          "repo": "WICG/cookie-store",
-          "notice": "https://github.com/WICG/cookie-store/issues/186",
-          "date": "2020-09-30",
-          "wgshortname": "w3c/webapps",
-          "status": "pending"
-        },
-        "notes": ""
-      },
-      {
         "title": "Crash Reporting",
         "url": "https://wicg.github.io/crash-reporting/",
         "repo": "WICG/crash-reporting",
@@ -1491,7 +1466,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-07-16T17:45:31.000Z",
+        "lastModified": "2025-07-29T20:03:59.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
