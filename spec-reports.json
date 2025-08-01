@@ -1250,7 +1250,7 @@
         "title": "Secure Curves in the Web Cryptography API",
         "url": "https://wicg.github.io/webcrypto-secure-curves/",
         "repo": "WICG/webcrypto-secure-curves",
-        "lastModified": "2025-03-07T00:00:00.000Z",
+        "lastModified": "2025-07-31T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox",
@@ -1508,7 +1508,7 @@
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2025-07-28T21:22:14.000Z",
+        "lastModified": "2025-07-31T20:45:39.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1551,7 +1551,12 @@
       "WICG/paymentlink": {
         "notes": "",
         "lastModified": "2025-07-16T21:21:43.000Z",
-        "linkedFrom": [],
+        "linkedFrom": [
+          {
+            "shortname": "payments",
+            "link": "https://www.w3.org/groups/wg/payments/charters/active/"
+          }
+        ],
         "transition": {
           "repo": "WICG/paymentlink",
           "notice": "https://lists.w3.org/Archives/Public/public-payments-wg/2025Jan/0006.html",
