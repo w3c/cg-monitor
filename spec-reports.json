@@ -1416,30 +1416,6 @@
         "linkedFrom": [],
         "transition": "N/A"
       },
-      "WICG/compression-dictionary-transport": {
-        "notes": "",
-        "lastModified": "2025-03-19T22:45:15.000Z",
-        "linkedFrom": [],
-        "transition": {
-          "repo": "WICG/compression-dictionary-transport",
-          "notice": "https://github.com/WICG/compression-dictionary-transport/pull/61",
-          "date": "2024-08-27",
-          "status": "complete",
-          "wgshortname": "ietf/httpsbis"
-        }
-      },
-      "WICG/conditional-focus": {
-        "notes": "",
-        "lastModified": "2025-04-28T14:44:32.000Z",
-        "linkedFrom": [],
-        "transition": {
-          "repo": "WICG/conditional-focus",
-          "date": "2022-10-05",
-          "wgshortname": "w3c/webrtc",
-          "notice": "https://github.com/w3c/mediacapture-screen-share/pull/240",
-          "status": "complete"
-        }
-      },
       "WICG/construct-stylesheets": {
         "notes": "",
         "lastModified": "2022-10-14T21:06:16.000Z",
