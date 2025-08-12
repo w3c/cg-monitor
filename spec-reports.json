@@ -1500,12 +1500,6 @@
         "linkedFrom": [],
         "transition": "N/A"
       },
-      "WICG/mobile-document-request-api": {
-        "notes": "moved to digital-credentials, clean up and archive see https://github.com/WICG/mobile-document-request-api/issues/14",
-        "lastModified": "2024-08-07T00:16:05.000Z",
-        "linkedFrom": [],
-        "transition": "N/A"
-      },
       "WICG/navigation-api": {
         "notes": "",
         "lastModified": "2025-04-16T08:34:35.000Z",
@@ -1555,7 +1549,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-07-21T13:05:56.000Z",
+        "lastModified": "2025-08-11T18:31:28.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
@@ -1686,6 +1680,12 @@
       "WICG/web-printing": {
         "notes": "",
         "lastModified": "2023-10-20T11:30:47.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
+      "WICG/webcrypto-modern-algos": {
+        "notes": "",
+        "lastModified": "2025-08-11T16:37:41.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
