@@ -1226,7 +1226,7 @@
         "title": "Device Attributes API",
         "url": "https://wicg.github.io/WebApiDevice/device_attributes/",
         "repo": "WICG/WebApiDevice",
-        "lastModified": "2025-06-09T00:00:00.000Z",
+        "lastModified": "2025-08-13T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1237,7 +1237,7 @@
         "title": "Managed Configuration API",
         "url": "https://wicg.github.io/WebApiDevice/managed_config/",
         "repo": "WICG/WebApiDevice",
-        "lastModified": "2025-06-09T00:00:00.000Z",
+        "lastModified": "2025-08-13T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1625,7 +1625,7 @@
       },
       "WICG/signature-based-sri": {
         "notes": "",
-        "lastModified": "2025-05-21T08:52:45.000Z",
+        "lastModified": "2025-08-13T09:15:15.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
