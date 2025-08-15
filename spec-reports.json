@@ -1442,7 +1442,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-08-12T14:01:45.000Z",
+        "lastModified": "2025-08-14T15:34:18.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1484,7 +1484,7 @@
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2025-07-31T20:45:39.000Z",
+        "lastModified": "2025-08-14T17:17:02.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1549,7 +1549,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-08-11T18:31:28.000Z",
+        "lastModified": "2025-08-14T07:01:01.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
@@ -1655,7 +1655,7 @@
       },
       "WICG/view-transitions": {
         "notes": "",
-        "lastModified": "2025-07-30T14:38:03.000Z",
+        "lastModified": "2025-08-14T17:19:31.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/view-transitions",
