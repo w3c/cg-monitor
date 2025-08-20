@@ -166,7 +166,7 @@
         "title": "Crash Reporting",
         "url": "https://wicg.github.io/crash-reporting/",
         "repo": "WICG/crash-reporting",
-        "lastModified": "2025-07-30T00:00:00.000Z",
+        "lastModified": "2025-08-18T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1406,9 +1406,6 @@
         "lastModified": "2024-10-02T17:46:29.000Z",
         "linkedFrom": [],
         "transition": "N/A"
-      },
-      "WICG/close-watcher": {
-        "notes": "close-watcher is discontinued but repo not archived"
       },
       "WICG/color-api": {
         "notes": "",
