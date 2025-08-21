@@ -624,7 +624,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-07-27T00:00:00.000Z",
+        "lastModified": "2025-08-19T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -647,7 +647,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-07-27T00:00:00.000Z",
+        "lastModified": "2025-08-19T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -673,7 +673,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-07-27T00:00:00.000Z",
+        "lastModified": "2025-08-19T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1481,7 +1481,7 @@
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2025-08-14T17:17:02.000Z",
+        "lastModified": "2025-08-20T23:24:26.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1659,18 +1659,6 @@
           "notice": "https://github.com/w3c/csswg-drafts/pull/9022",
           "date": "2023-07-02",
           "wgshortname": "w3c/css/css-view-transitions-2",
-          "status": "complete"
-        }
-      },
-      "WICG/visual-viewport": {
-        "notes": "",
-        "lastModified": "2025-06-02T19:26:50.000Z",
-        "linkedFrom": [],
-        "transition": {
-          "repo": "WICG/visual-viewport",
-          "date": "2021-06-02",
-          "notice": "https://github.com/w3c/csswg-drafts/issues/6339",
-          "wgshortname": "w3c/csswg/cssom-view",
           "status": "complete"
         }
       },
