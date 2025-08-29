@@ -34,7 +34,7 @@
         "title": "Attribution Reporting",
         "url": "https://wicg.github.io/attribution-reporting-api/",
         "repo": "WICG/attribution-reporting-api",
-        "lastModified": "2025-07-30T00:00:00.000Z",
+        "lastModified": "2025-08-28T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -624,7 +624,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-08-19T00:00:00.000Z",
+        "lastModified": "2025-08-28T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -647,7 +647,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-08-19T00:00:00.000Z",
+        "lastModified": "2025-08-28T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -673,7 +673,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-08-19T00:00:00.000Z",
+        "lastModified": "2025-08-28T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
