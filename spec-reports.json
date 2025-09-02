@@ -624,7 +624,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-08-28T00:00:00.000Z",
+        "lastModified": "2025-08-31T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -647,7 +647,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-08-28T00:00:00.000Z",
+        "lastModified": "2025-08-31T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -673,7 +673,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-08-28T00:00:00.000Z",
+        "lastModified": "2025-08-31T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -857,7 +857,7 @@
         "title": "Private Network Access",
         "url": "https://wicg.github.io/private-network-access/",
         "repo": "WICG/private-network-access",
-        "lastModified": "2024-09-26T00:00:00.000Z",
+        "lastModified": "2024-09-26T08:20:14.000Z",
         "implementations": [
           "chrome"
         ],
@@ -865,6 +865,9 @@
           {
             "url": "https://wicg.github.io/direct-sockets/",
             "title": "Direct Sockets API"
+          },
+          {
+            "url": "https://wicg.github.io/local-network-access/"
           },
           {
             "url": "https://wicg.github.io/turtledove/",
@@ -1439,7 +1442,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-08-14T15:34:18.000Z",
+        "lastModified": "2025-09-01T21:01:46.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1546,7 +1549,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-08-29T10:58:59.000Z",
+        "lastModified": "2025-09-01T09:05:07.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
