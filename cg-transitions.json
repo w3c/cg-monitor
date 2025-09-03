@@ -246,6 +246,14 @@
     ],
     "specs": [
       {
+	"repo": "WICG/nav-speculation/",
+	"notice": "https://github.com/WICG/nav-speculation/pull/398",
+	"date": "2025-07-11",
+	"wgshortname": "whatwg/html",
+	"status": "pending",
+	"comments": "only speculation-rules"
+      },
+      {
 	"repo": "WICG/paymentlink",
 	"notice": "https://lists.w3.org/Archives/Public/public-payments-wg/2025Jan/0006.html",
 	"date": "2025-01-31",
