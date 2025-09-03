@@ -867,9 +867,6 @@
             "title": "Direct Sockets API"
           },
           {
-            "url": "https://wicg.github.io/local-network-access/"
-          },
-          {
             "url": "https://wicg.github.io/turtledove/",
             "title": "Protected Audience (formerly FLEDGE)"
           }
@@ -1478,13 +1475,13 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2025-08-23T01:14:54.000Z",
+        "lastModified": "2025-09-02T15:27:51.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2025-08-20T23:24:26.000Z",
+        "lastModified": "2025-09-02T22:50:54.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1667,7 +1664,7 @@
       },
       "WICG/web-printing": {
         "notes": "",
-        "lastModified": "2023-10-20T11:30:47.000Z",
+        "lastModified": "2025-09-02T12:28:13.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
