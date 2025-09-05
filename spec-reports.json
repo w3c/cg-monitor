@@ -624,7 +624,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-09-02T00:00:00.000Z",
+        "lastModified": "2025-09-03T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -633,10 +633,6 @@
           {
             "url": "https://wicg.github.io/nav-speculation/prerendering.html",
             "title": "Prerendering Revamped"
-          },
-          {
-            "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
-            "title": "Speculation Rules"
           }
         ],
         "linkedFrom": [],
@@ -647,7 +643,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-09-02T00:00:00.000Z",
+        "lastModified": "2025-09-03T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -659,10 +655,6 @@
           {
             "url": "https://wicg.github.io/nav-speculation/prefetch.html",
             "title": "Prefetch"
-          },
-          {
-            "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
-            "title": "Speculation Rules"
           }
         ],
         "linkedFrom": [],
@@ -673,7 +665,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-09-03T00:00:00.000Z",
+        "lastModified": "2025-09-04T06:02:14.000Z",
         "implementations": [
           "chrome"
         ],
@@ -862,10 +854,6 @@
           "chrome"
         ],
         "referencedBy": [
-          {
-            "url": "https://wicg.github.io/direct-sockets/",
-            "title": "Direct Sockets API"
-          },
           {
             "url": "https://wicg.github.io/turtledove/",
             "title": "Protected Audience (formerly FLEDGE)"
