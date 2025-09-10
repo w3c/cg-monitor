@@ -624,7 +624,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-09-03T00:00:00.000Z",
+        "lastModified": "2025-09-08T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -643,7 +643,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-09-03T00:00:00.000Z",
+        "lastModified": "2025-09-08T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1622,7 +1622,7 @@
       },
       "WICG/spatial-navigation": {
         "notes": "",
-        "lastModified": "2021-08-16T13:28:11.000Z",
+        "lastModified": "2025-09-09T17:31:48.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/spatial-navigation",
@@ -1658,7 +1658,7 @@
       },
       "WICG/webcrypto-modern-algos": {
         "notes": "",
-        "lastModified": "2025-09-03T17:39:32.000Z",
+        "lastModified": "2025-09-09T14:10:51.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
