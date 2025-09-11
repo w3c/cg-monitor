@@ -631,6 +631,10 @@
         ],
         "referencedBy": [
           {
+            "url": "https://html.spec.whatwg.org/multipage/",
+            "title": "HTML"
+          },
+          {
             "url": "https://wicg.github.io/nav-speculation/prerendering.html",
             "title": "Prerendering Revamped"
           }
@@ -665,7 +669,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-09-09T03:14:54.000Z",
+        "lastModified": "2025-09-11T04:02:06.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1463,7 +1467,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2025-09-06T01:15:39.000Z",
+        "lastModified": "2025-09-10T18:07:49.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1664,7 +1668,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2025-08-22T14:18:22.000Z",
+        "lastModified": "2025-09-10T09:23:04.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
