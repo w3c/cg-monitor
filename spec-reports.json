@@ -593,7 +593,7 @@
         "title": "Manifest Incubations",
         "url": "https://wicg.github.io/manifest-incubations/",
         "repo": "WICG/manifest-incubations",
-        "lastModified": "2025-05-30T00:00:00.000Z",
+        "lastModified": "2025-09-16T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -624,7 +624,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-09-10T00:00:00.000Z",
+        "lastModified": "2025-09-16T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -647,7 +647,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-09-10T00:00:00.000Z",
+        "lastModified": "2025-09-16T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -669,7 +669,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-09-11T04:22:52.000Z",
+        "lastModified": "2025-09-16T08:52:59.000Z",
         "implementations": [
           "chrome"
         ],
