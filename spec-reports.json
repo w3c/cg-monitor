@@ -1435,7 +1435,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-09-17T18:16:07.000Z",
+        "lastModified": "2025-09-18T14:18:54.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1472,6 +1472,12 @@
       "WICG/html-in-canvas": {
         "notes": "",
         "lastModified": "2025-09-15T22:20:16.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
+      "WICG/iframe-media-pausing": {
+        "notes": "",
+        "lastModified": "2025-09-18T05:17:23.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
