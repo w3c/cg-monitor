@@ -886,7 +886,7 @@
         "title": "HTML Sanitizer API",
         "url": "https://wicg.github.io/sanitizer-api/",
         "repo": "WICG/sanitizer-api",
-        "lastModified": "2025-09-17T00:00:00.000Z",
+        "lastModified": "2025-09-22T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1435,7 +1435,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-09-18T14:18:54.000Z",
+        "lastModified": "2025-09-22T20:14:28.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1548,7 +1548,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-09-01T09:05:07.000Z",
+        "lastModified": "2025-09-22T12:28:01.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
@@ -1666,7 +1666,7 @@
       },
       "WICG/web-printing": {
         "notes": "",
-        "lastModified": "2025-09-19T12:35:47.000Z",
+        "lastModified": "2025-09-22T19:43:54.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
