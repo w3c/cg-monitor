@@ -628,7 +628,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-09-16T00:00:00.000Z",
+        "lastModified": "2025-09-23T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -651,7 +651,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-09-16T00:00:00.000Z",
+        "lastModified": "2025-09-23T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -673,7 +673,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-09-17T04:40:57.000Z",
+        "lastModified": "2025-09-24T05:26:40.000Z",
         "implementations": [
           "chrome"
         ],
@@ -886,7 +886,7 @@
         "title": "HTML Sanitizer API",
         "url": "https://wicg.github.io/sanitizer-api/",
         "repo": "WICG/sanitizer-api",
-        "lastModified": "2025-09-23T00:00:00.000Z",
+        "lastModified": "2025-09-24T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1435,7 +1435,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-09-23T06:14:50.000Z",
+        "lastModified": "2025-09-24T08:23:37.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
