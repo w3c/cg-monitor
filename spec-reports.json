@@ -360,7 +360,7 @@
         "title": "File System Access",
         "url": "https://wicg.github.io/file-system-access/",
         "repo": "WICG/file-system-access",
-        "lastModified": "2025-03-17T00:00:00.000Z",
+        "lastModified": "2025-10-10T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1471,7 +1471,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2025-10-09T16:25:09.000Z",
+        "lastModified": "2025-10-10T18:16:15.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1548,7 +1548,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-10-09T12:18:47.000Z",
+        "lastModified": "2025-10-10T15:29:29.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
@@ -1678,7 +1678,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2025-10-08T12:51:32.000Z",
+        "lastModified": "2025-10-10T07:50:45.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
