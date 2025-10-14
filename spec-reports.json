@@ -1457,6 +1457,12 @@
         "linkedFrom": [],
         "transition": "N/A"
       },
+      "WICG/email-verification-protocol": {
+        "notes": "",
+        "lastModified": "2025-10-14T00:21:46.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
       "WICG/explicit-javascript-compile-hints-file-based": {
         "notes": "",
         "lastModified": "2025-05-14T09:18:15.000Z",
