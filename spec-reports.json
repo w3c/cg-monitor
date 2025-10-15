@@ -1459,7 +1459,7 @@
       },
       "WICG/email-verification-protocol": {
         "notes": "",
-        "lastModified": "2025-10-14T00:21:46.000Z",
+        "lastModified": "2025-10-14T16:54:36.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1489,7 +1489,7 @@
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2025-09-12T19:15:36.000Z",
+        "lastModified": "2025-10-14T17:18:13.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1684,7 +1684,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2025-10-10T07:50:45.000Z",
+        "lastModified": "2025-10-14T06:30:35.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
