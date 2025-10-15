@@ -57,6 +57,20 @@
     ],
     "specs": [
       {
+	"notice": "https://w3c.github.io/vc-wg/minutes/2025-10-08.html#3ff1",
+	"date": "2025-10-08",
+	"repo": "w3c-ccg/vc-render-method",
+	"wgshortname": "w3c/vc",
+	"status": "complete"
+      },
+      {
+	"notice": "https://w3c.github.io/vc-wg/minutes/2025-10-08.html#3ff1",
+	"date": "2025-10-08",
+	"repo": "w3c-ccg/vc-confidence-method",
+	"wgshortname": "w3c/vc",
+	"status": "complete"
+      },
+      {
 	"notice": "https://www.w3.org/2017/vc/WG/Meetings/Minutes/2023-03-22-vcwg#section1",
 	"date": "2023-03-22",
 	"repo": "w3c-ccg/vc-json-schemas",
