@@ -886,7 +886,7 @@
         "title": "HTML Sanitizer API",
         "url": "https://wicg.github.io/sanitizer-api/",
         "repo": "WICG/sanitizer-api",
-        "lastModified": "2025-10-17T00:00:00.000Z",
+        "lastModified": "2025-10-27T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1684,7 +1684,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2025-10-20T11:24:14.000Z",
+        "lastModified": "2025-10-27T14:18:47.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
