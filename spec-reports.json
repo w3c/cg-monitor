@@ -383,17 +383,6 @@
         "notes": ""
       },
       {
-        "title": "User Agent Interaction with Related Website Sets",
-        "url": "https://wicg.github.io/first-party-sets/",
-        "repo": "WICG/first-party-sets",
-        "lastModified": "2025-03-19T00:00:00.000Z",
-        "implementations": [],
-        "referencedBy": [],
-        "linkedFrom": [],
-        "transition": "N/A",
-        "notes": ""
-      },
-      {
         "title": "Get Installed Related Apps API",
         "url": "https://wicg.github.io/get-installed-related-apps/spec/",
         "repo": "WICG/get-installed-related-apps",
@@ -1080,24 +1069,6 @@
         "notes": ""
       },
       {
-        "title": "Protected Audience (formerly FLEDGE)",
-        "url": "https://wicg.github.io/turtledove/",
-        "repo": "WICG/turtledove",
-        "lastModified": "2025-05-12T00:00:00.000Z",
-        "implementations": [
-          "chrome"
-        ],
-        "referencedBy": [
-          {
-            "url": "https://wicg.github.io/fenced-frame/",
-            "title": "Fenced Frame"
-          }
-        ],
-        "linkedFrom": [],
-        "transition": "N/A",
-        "notes": ""
-      },
-      {
         "title": "User-Agent Client Hints",
         "url": "https://wicg.github.io/ua-client-hints/",
         "repo": "WICG/ua-client-hints",
@@ -1435,7 +1406,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-11-06T16:29:10.000Z",
+        "lastModified": "2025-11-08T01:07:25.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1477,7 +1448,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2025-10-22T16:32:05.000Z",
+        "lastModified": "2025-11-07T23:26:41.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
