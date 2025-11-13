@@ -875,7 +875,7 @@
         "title": "HTML Sanitizer API",
         "url": "https://wicg.github.io/sanitizer-api/",
         "repo": "WICG/sanitizer-api",
-        "lastModified": "2025-11-05T00:00:00.000Z",
+        "lastModified": "2025-11-12T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1334,7 +1334,7 @@
       },
       "WICG/address-autofill": {
         "notes": "",
-        "lastModified": "2025-03-20T07:09:48.000Z",
+        "lastModified": "2025-11-12T16:08:32.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1449,6 +1449,12 @@
       "WICG/html-in-canvas": {
         "notes": "",
         "lastModified": "2025-11-11T03:16:37.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
+      "WICG/idrefs": {
+        "notes": "",
+        "lastModified": "2025-11-12T07:18:35.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
