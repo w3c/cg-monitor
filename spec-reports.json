@@ -1406,7 +1406,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-11-10T22:18:55.000Z",
+        "lastModified": "2025-11-14T01:20:06.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1531,7 +1531,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-10-17T11:04:51.000Z",
+        "lastModified": "2025-11-14T01:42:57.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
