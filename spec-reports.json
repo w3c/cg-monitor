@@ -1380,6 +1380,12 @@
         "linkedFrom": [],
         "transition": "N/A"
       },
+      "WICG/connection-allowlists": {
+        "notes": "",
+        "lastModified": "2025-11-17T11:53:20.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
       "WICG/construct-stylesheets": {
         "notes": "",
         "lastModified": "2022-10-14T21:06:16.000Z",
@@ -1430,7 +1436,7 @@
       },
       "WICG/email-verification-protocol": {
         "notes": "",
-        "lastModified": "2025-10-14T16:54:36.000Z",
+        "lastModified": "2025-11-17T15:37:09.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
