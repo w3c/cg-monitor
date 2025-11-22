@@ -698,7 +698,7 @@
         "title": "Observable",
         "url": "https://wicg.github.io/observable/",
         "repo": "WICG/observable",
-        "lastModified": "2025-09-05T00:00:00.000Z",
+        "lastModified": "2025-11-21T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1460,7 +1460,7 @@
       },
       "WICG/idrefs": {
         "notes": "",
-        "lastModified": "2025-11-12T07:18:35.000Z",
+        "lastModified": "2025-11-21T16:12:32.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
