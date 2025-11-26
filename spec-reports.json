@@ -244,7 +244,7 @@
         "title": "Direct Sockets API",
         "url": "https://wicg.github.io/direct-sockets/",
         "repo": "WICG/direct-sockets",
-        "lastModified": "2025-10-09T00:00:00.000Z",
+        "lastModified": "2025-11-25T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1382,7 +1382,7 @@
       },
       "WICG/connection-allowlists": {
         "notes": "",
-        "lastModified": "2025-11-24T14:00:56.000Z",
+        "lastModified": "2025-11-25T15:20:38.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1454,7 +1454,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2025-11-11T03:16:37.000Z",
+        "lastModified": "2025-11-25T21:52:31.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1467,6 +1467,12 @@
       "WICG/iframe-media-pausing": {
         "notes": "",
         "lastModified": "2025-10-15T23:45:31.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
+      "WICG/install-element": {
+        "notes": "",
+        "lastModified": "2025-11-25T09:16:25.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
