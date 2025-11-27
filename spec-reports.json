@@ -104,7 +104,7 @@
         ],
         "linkedFrom": [],
         "transition": "N/A",
-        "notes": ""
+        "notes": "Considered for addition to the WebApps WG charter in https://github.com/w3c/webappswg/pull/139"
       },
       {
         "title": "Capability Delegation",
@@ -770,7 +770,7 @@
         "referencedBy": [],
         "linkedFrom": [],
         "transition": "N/A",
-        "notes": ""
+        "notes": "Considered for addition to the WebApps WG charter in https://github.com/w3c/webappswg/pull/139"
       },
       {
         "title": "Requesting Permissions",
@@ -1382,7 +1382,7 @@
       },
       "WICG/connection-allowlists": {
         "notes": "",
-        "lastModified": "2025-11-25T15:20:38.000Z",
+        "lastModified": "2025-11-26T07:52:10.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1454,7 +1454,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2025-11-25T21:52:31.000Z",
+        "lastModified": "2025-11-26T20:37:46.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1472,7 +1472,7 @@
       },
       "WICG/install-element": {
         "notes": "",
-        "lastModified": "2025-11-25T09:16:25.000Z",
+        "lastModified": "2025-11-26T08:16:51.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
