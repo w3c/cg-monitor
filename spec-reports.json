@@ -1356,18 +1356,6 @@
         "linkedFrom": [],
         "transition": "N/A"
       },
-      "WICG/canvas-color-space": {
-        "notes": "",
-        "lastModified": "2022-02-24T21:23:46.000Z",
-        "linkedFrom": [],
-        "transition": {
-          "repo": "WICG/canvas-color-space",
-          "date": "2021-04-11",
-          "wgshortname": "whatwg/html",
-          "notice": "https://github.com/whatwg/html/pull/6562",
-          "status": "complete"
-        }
-      },
       "WICG/canvas-formatted-text": {
         "notes": "",
         "lastModified": "2024-10-02T17:46:29.000Z",
@@ -1543,7 +1531,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2025-11-20T10:53:19.000Z",
+        "lastModified": "2025-11-28T10:35:08.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
@@ -1673,7 +1661,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2025-11-24T14:34:09.000Z",
+        "lastModified": "2025-11-27T07:39:46.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
