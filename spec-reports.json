@@ -1382,7 +1382,7 @@
       },
       "WICG/controlled-frame": {
         "notes": "",
-        "lastModified": "2025-12-05T18:05:19.000Z",
+        "lastModified": "2025-12-10T18:06:35.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1400,7 +1400,13 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-12-09T14:27:08.000Z",
+        "lastModified": "2025-12-10T20:30:50.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
+      "WICG/delayed-message-timing": {
+        "notes": "",
+        "lastModified": "2025-12-10T00:27:53.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1655,7 +1661,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2025-12-08T13:23:07.000Z",
+        "lastModified": "2025-12-10T07:18:01.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
