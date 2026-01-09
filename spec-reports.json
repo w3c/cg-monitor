@@ -1400,7 +1400,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2025-12-18T16:08:56.000Z",
+        "lastModified": "2026-01-08T14:52:55.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1466,7 +1466,7 @@
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2025-10-21T17:08:32.000Z",
+        "lastModified": "2026-01-08T20:04:41.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1661,7 +1661,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-01-07T11:42:37.000Z",
+        "lastModified": "2026-01-08T10:38:04.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
