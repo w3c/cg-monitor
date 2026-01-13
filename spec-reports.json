@@ -662,7 +662,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-12-09T14:57:22.000Z",
+        "lastModified": "2026-01-13T02:23:43.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1424,7 +1424,7 @@
       },
       "WICG/email-verification-protocol": {
         "notes": "",
-        "lastModified": "2025-12-09T16:56:30.000Z",
+        "lastModified": "2026-01-12T21:53:58.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1531,7 +1531,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2026-01-09T17:24:59.000Z",
+        "lastModified": "2026-01-12T12:28:34.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
