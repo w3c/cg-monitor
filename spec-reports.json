@@ -344,6 +344,9 @@
             "title": "CSS Viewport Module Level 1"
           },
           {
+            "url": "https://wicg.github.io/PEPC/permission-elements.html"
+          },
+          {
             "url": "https://wicg.github.io/shared-storage/",
             "title": "Shared Storage API"
           },
@@ -507,7 +510,7 @@
         "title": "JS Self-Profiling API",
         "url": "https://wicg.github.io/js-self-profiling/",
         "repo": "WICG/js-self-profiling",
-        "lastModified": "2022-03-11T00:00:00.000Z",
+        "lastModified": "2026-01-13T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -617,7 +620,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-12-09T00:00:00.000Z",
+        "lastModified": "2026-01-12T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -640,7 +643,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2025-12-09T00:00:00.000Z",
+        "lastModified": "2026-01-12T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1531,7 +1534,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2026-01-12T12:28:34.000Z",
+        "lastModified": "2026-01-13T17:05:26.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
@@ -1661,7 +1664,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-01-08T10:38:04.000Z",
+        "lastModified": "2026-01-13T10:01:53.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
