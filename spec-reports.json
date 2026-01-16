@@ -1185,7 +1185,7 @@
         "title": "Web Smart Card API",
         "url": "https://wicg.github.io/web-smart-card/",
         "repo": "WICG/web-smart-card",
-        "lastModified": "2025-11-05T00:00:00.000Z",
+        "lastModified": "2026-01-15T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1400,6 +1400,12 @@
           "status": "pending",
           "wgshortname": "whatwg/html"
         }
+      },
+      "WICG/cross-origin-storage": {
+        "notes": "",
+        "lastModified": "2026-01-15T11:04:35.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
@@ -1640,7 +1646,7 @@
       },
       "WICG/view-transitions": {
         "notes": "",
-        "lastModified": "2025-08-14T17:19:31.000Z",
+        "lastModified": "2026-01-15T17:38:18.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/view-transitions",
@@ -1664,7 +1670,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-01-13T10:01:53.000Z",
+        "lastModified": "2026-01-15T17:54:53.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
