@@ -1075,7 +1075,7 @@
         "title": "User-Agent Client Hints",
         "url": "https://wicg.github.io/ua-client-hints/",
         "repo": "WICG/ua-client-hints",
-        "lastModified": "2025-11-05T00:00:00.000Z",
+        "lastModified": "2026-01-16T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1409,7 +1409,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-01-08T14:52:55.000Z",
+        "lastModified": "2026-01-16T14:24:47.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
