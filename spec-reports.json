@@ -80,7 +80,12 @@
             "title": "Prerendering Revamped"
           }
         ],
-        "linkedFrom": [],
+        "linkedFrom": [
+          {
+            "shortname": "webapps",
+            "link": "https://www.w3.org/groups/wg/webapps/charters/active/"
+          }
+        ],
         "transition": "N/A",
         "notes": ""
       },
@@ -309,7 +314,12 @@
           "safari"
         ],
         "referencedBy": [],
-        "linkedFrom": [],
+        "linkedFrom": [
+          {
+            "shortname": "webapps",
+            "link": "https://www.w3.org/groups/wg/webapps/charters/active/"
+          }
+        ],
         "transition": "N/A",
         "notes": ""
       },
@@ -1075,7 +1085,7 @@
         "title": "User-Agent Client Hints",
         "url": "https://wicg.github.io/ua-client-hints/",
         "repo": "WICG/ua-client-hints",
-        "lastModified": "2026-01-16T00:00:00.000Z",
+        "lastModified": "2026-01-17T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1142,7 +1152,12 @@
             "title": "Manifest Incubations"
           }
         ],
-        "linkedFrom": [],
+        "linkedFrom": [
+          {
+            "shortname": "webapps",
+            "link": "https://www.w3.org/groups/wg/webapps/charters/active/"
+          }
+        ],
         "transition": "N/A",
         "notes": ""
       },
@@ -1470,7 +1485,12 @@
       "WICG/install-element": {
         "notes": "",
         "lastModified": "2025-12-15T19:31:05.000Z",
-        "linkedFrom": [],
+        "linkedFrom": [
+          {
+            "shortname": "webapps",
+            "link": "https://www.w3.org/groups/wg/webapps/charters/active/"
+          }
+        ],
         "transition": "N/A"
       },
       "WICG/local-network-access": {
