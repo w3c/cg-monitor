@@ -1085,7 +1085,7 @@
         "title": "User-Agent Client Hints",
         "url": "https://wicg.github.io/ua-client-hints/",
         "repo": "WICG/ua-client-hints",
-        "lastModified": "2026-01-17T00:00:00.000Z",
+        "lastModified": "2026-01-20T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1358,7 +1358,7 @@
       },
       "WICG/autofill-event": {
         "notes": "",
-        "lastModified": "2026-01-14T15:00:07.000Z",
+        "lastModified": "2026-01-20T17:16:17.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
