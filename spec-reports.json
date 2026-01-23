@@ -599,7 +599,7 @@
         "title": "Manifest Incubations",
         "url": "https://wicg.github.io/manifest-incubations/",
         "repo": "WICG/manifest-incubations",
-        "lastModified": "2025-12-16T00:00:00.000Z",
+        "lastModified": "2026-01-22T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1424,7 +1424,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-01-21T12:08:41.000Z",
+        "lastModified": "2026-01-22T14:21:06.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1436,7 +1436,7 @@
       },
       "WICG/devtools-protocol": {
         "notes": "",
-        "lastModified": "2019-09-30T07:39:07.000Z",
+        "lastModified": "2026-01-22T15:15:26.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/devtools-protocol",
@@ -1690,7 +1690,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-01-19T10:32:56.000Z",
+        "lastModified": "2026-01-22T15:54:33.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
