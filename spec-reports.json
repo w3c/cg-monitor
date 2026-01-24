@@ -599,7 +599,7 @@
         "title": "Manifest Incubations",
         "url": "https://wicg.github.io/manifest-incubations/",
         "repo": "WICG/manifest-incubations",
-        "lastModified": "2026-01-22T00:00:00.000Z",
+        "lastModified": "2026-01-23T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1180,23 +1180,6 @@
         "notes": ""
       },
       {
-        "title": "Web Preferences API",
-        "url": "https://wicg.github.io/web-preferences-api/",
-        "repo": "WICG/web-preferences-api",
-        "lastModified": "2025-05-08T09:51:50.000Z",
-        "implementations": [],
-        "referencedBy": [],
-        "linkedFrom": [],
-        "transition": {
-          "repo": "WICG/web-preferences-api",
-          "date": "2024-07-10",
-          "wgshortname": "w3c/css/mediaqueries-5",
-          "notice": "https://github.com/w3c/csswg-drafts/issues/6517#issuecomment-2220975121",
-          "status": "complete"
-        },
-        "notes": ""
-      },
-      {
         "title": "Web Smart Card API",
         "url": "https://wicg.github.io/web-smart-card/",
         "repo": "WICG/web-smart-card",
@@ -1434,18 +1417,6 @@
         "linkedFrom": [],
         "transition": "N/A"
       },
-      "WICG/devtools-protocol": {
-        "notes": "",
-        "lastModified": "2026-01-22T15:15:26.000Z",
-        "linkedFrom": [],
-        "transition": {
-          "repo": "WICG/devtools-protocol",
-          "notice": "https://github.com/w3c/webdriver-bidi/commit/8cbb5fe4b74cdbf0b749385a2ddcd2e3ac0bbbff",
-          "date": "2020-05-25",
-          "status": "complete",
-          "wgshortname": "w3c/browser-tools-testing"
-        }
-      },
       "WICG/email-verification-protocol": {
         "notes": "",
         "lastModified": "2026-01-12T21:53:58.000Z",
@@ -1596,12 +1567,6 @@
       "WICG/pwa-url-handler": {
         "notes": "proposal now explicitly obsoleted by manifest-incubations, needs archiving",
         "lastModified": "2023-10-10T01:43:59.000Z",
-        "linkedFrom": [],
-        "transition": "N/A"
-      },
-      "WICG/raw-clipboard-access": {
-        "notes": "replaced with web customer format https://github.com/WICG/raw-clipboard-access/issues/8 , needs archiving",
-        "lastModified": "2025-05-31T16:07:57.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
