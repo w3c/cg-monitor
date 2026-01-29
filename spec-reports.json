@@ -1009,24 +1009,6 @@
         "notes": ""
       },
       {
-        "title": "Shared Storage API",
-        "url": "https://wicg.github.io/shared-storage/",
-        "repo": "WICG/shared-storage",
-        "lastModified": "2025-03-21T00:00:00.000Z",
-        "implementations": [
-          "chrome"
-        ],
-        "referencedBy": [
-          {
-            "url": "https://wicg.github.io/fenced-frame/",
-            "title": "Fenced Frame"
-          }
-        ],
-        "linkedFrom": [],
-        "transition": "N/A",
-        "notes": ""
-      },
-      {
         "title": "Origin-bound one-time codes delivered via SMS",
         "url": "https://wicg.github.io/sms-one-time-codes/",
         "repo": "WICG/sms-one-time-codes",
@@ -1215,32 +1197,6 @@
         "notes": ""
       },
       {
-        "title": "Secure Curves in the Web Cryptography API",
-        "url": "https://wicg.github.io/webcrypto-secure-curves/",
-        "repo": "WICG/webcrypto-secure-curves",
-        "lastModified": "2025-07-31T00:00:00.000Z",
-        "implementations": [
-          "chrome",
-          "firefox",
-          "safari"
-        ],
-        "referencedBy": [],
-        "linkedFrom": [
-          {
-            "shortname": "webappsec",
-            "link": "https://www.w3.org/groups/wg/webappsec/charters/active/"
-          }
-        ],
-        "transition": {
-          "repo": "WICG/webcrypto-secure-curves",
-          "date": "2024-02-19",
-          "wgshortname": "w3c/webappsec",
-          "notice": "https://github.com/w3c/webcrypto/pull/362",
-          "status": "complete"
-        },
-        "notes": ""
-      },
-      {
         "title": "WebHID API",
         "url": "https://wicg.github.io/webhid/",
         "repo": "WICG/webhid",
@@ -1413,7 +1369,7 @@
       },
       "WICG/delayed-message-timing": {
         "notes": "",
-        "lastModified": "2025-12-10T00:27:53.000Z",
+        "lastModified": "2026-01-29T01:50:26.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1631,7 +1587,7 @@
       },
       "WICG/view-transitions": {
         "notes": "",
-        "lastModified": "2026-01-27T22:40:15.000Z",
+        "lastModified": "2026-01-28T15:00:29.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/view-transitions",
@@ -1655,7 +1611,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-01-26T18:37:35.000Z",
+        "lastModified": "2026-01-28T17:35:40.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
