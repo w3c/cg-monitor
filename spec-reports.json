@@ -171,7 +171,7 @@
         "title": "Crash Reporting",
         "url": "https://wicg.github.io/crash-reporting/",
         "repo": "WICG/crash-reporting",
-        "lastModified": "2025-11-20T00:00:00.000Z",
+        "lastModified": "2026-02-02T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -962,7 +962,7 @@
         "title": "Web Serial API",
         "url": "https://wicg.github.io/serial/",
         "repo": "WICG/serial",
-        "lastModified": "2025-07-30T00:00:00.000Z",
+        "lastModified": "2026-02-02T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1599,7 +1599,7 @@
       },
       "WICG/web-printing": {
         "notes": "",
-        "lastModified": "2026-02-01T21:53:59.000Z",
+        "lastModified": "2026-02-02T22:15:06.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
