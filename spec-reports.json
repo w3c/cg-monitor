@@ -1355,6 +1355,12 @@
           "wgshortname": "whatwg/html"
         }
       },
+      "WICG/cpu-performance": {
+        "notes": "",
+        "lastModified": "2026-02-03T18:06:54.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
       "WICG/cross-origin-storage": {
         "notes": "",
         "lastModified": "2026-01-15T11:04:35.000Z",
@@ -1363,7 +1369,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-01-22T14:21:06.000Z",
+        "lastModified": "2026-02-03T12:44:13.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1605,7 +1611,7 @@
       },
       "WICG/webcrypto-modern-algos": {
         "notes": "",
-        "lastModified": "2025-12-02T18:25:32.000Z",
+        "lastModified": "2026-02-03T13:04:10.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
