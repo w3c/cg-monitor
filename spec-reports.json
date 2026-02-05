@@ -271,7 +271,7 @@
         "title": "Document Picture-in-Picture Specification",
         "url": "https://wicg.github.io/document-picture-in-picture/",
         "repo": "WICG/document-picture-in-picture",
-        "lastModified": "2024-10-01T00:00:00.000Z",
+        "lastModified": "2026-02-04T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -888,7 +888,7 @@
         "title": "HTML Sanitizer API",
         "url": "https://wicg.github.io/sanitizer-api/",
         "repo": "WICG/sanitizer-api",
-        "lastModified": "2026-01-30T00:00:00.000Z",
+        "lastModified": "2026-02-04T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1297,7 +1297,7 @@
       },
       "WICG/autofill-event": {
         "notes": "",
-        "lastModified": "2026-01-20T17:16:17.000Z",
+        "lastModified": "2026-02-04T13:48:19.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1363,7 +1363,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-01-15T11:04:35.000Z",
+        "lastModified": "2026-02-04T16:40:28.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1446,7 +1446,7 @@
       },
       "WICG/navigation-api": {
         "notes": "",
-        "lastModified": "2025-12-09T19:06:43.000Z",
+        "lastModified": "2026-02-04T18:20:48.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/navigation-api",
@@ -1493,7 +1493,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2026-01-14T14:26:57.000Z",
+        "lastModified": "2026-02-04T12:29:46.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
