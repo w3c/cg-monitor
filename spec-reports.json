@@ -1067,7 +1067,7 @@
         "title": "User-Agent Client Hints",
         "url": "https://wicg.github.io/ua-client-hints/",
         "repo": "WICG/ua-client-hints",
-        "lastModified": "2026-02-05T00:00:00.000Z",
+        "lastModified": "2026-02-10T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1399,7 +1399,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2025-11-26T20:37:46.000Z",
+        "lastModified": "2026-02-10T22:51:27.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1593,7 +1593,7 @@
       },
       "WICG/view-transitions": {
         "notes": "",
-        "lastModified": "2026-02-09T18:14:46.000Z",
+        "lastModified": "2026-02-10T15:51:22.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/view-transitions",
