@@ -599,7 +599,7 @@
         "title": "Manifest Incubations",
         "url": "https://wicg.github.io/manifest-incubations/",
         "repo": "WICG/manifest-incubations",
-        "lastModified": "2026-01-23T00:00:00.000Z",
+        "lastModified": "2026-02-12T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1399,7 +1399,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-02-10T22:51:27.000Z",
+        "lastModified": "2026-02-12T21:50:51.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
