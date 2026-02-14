@@ -1399,7 +1399,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-02-12T21:50:51.000Z",
+        "lastModified": "2026-02-14T02:24:26.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1593,7 +1593,7 @@
       },
       "WICG/view-transitions": {
         "notes": "",
-        "lastModified": "2026-02-10T15:51:22.000Z",
+        "lastModified": "2026-02-13T16:42:12.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/view-transitions",
