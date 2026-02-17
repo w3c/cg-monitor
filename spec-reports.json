@@ -1369,7 +1369,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-02-03T12:44:13.000Z",
+        "lastModified": "2026-02-16T15:55:29.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1493,7 +1493,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2026-02-11T10:54:22.000Z",
+        "lastModified": "2026-02-16T14:18:21.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
@@ -1585,6 +1585,12 @@
           "status": "complete"
         }
       },
+      "WICG/speculative_load_measurement": {
+        "notes": "",
+        "lastModified": "2026-02-16T07:11:24.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
       "WICG/storage-foundation-api-explainer": {
         "notes": "overtaken by filesystem-access, needs archiving",
         "lastModified": "2021-09-23T14:03:53.000Z",
@@ -1611,13 +1617,13 @@
       },
       "WICG/webcrypto-modern-algos": {
         "notes": "",
-        "lastModified": "2026-02-15T18:17:22.000Z",
+        "lastModified": "2026-02-16T10:00:50.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-01-28T17:35:40.000Z",
+        "lastModified": "2026-02-16T13:59:41.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
