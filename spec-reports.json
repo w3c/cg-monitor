@@ -1369,7 +1369,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-02-16T15:55:29.000Z",
+        "lastModified": "2026-02-17T14:21:44.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1493,7 +1493,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2026-02-16T14:18:21.000Z",
+        "lastModified": "2026-02-17T09:05:12.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
