@@ -520,7 +520,7 @@
         "title": "JS Self-Profiling API",
         "url": "https://wicg.github.io/js-self-profiling/",
         "repo": "WICG/js-self-profiling",
-        "lastModified": "2026-01-13T00:00:00.000Z",
+        "lastModified": "2026-02-18T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -962,7 +962,7 @@
         "title": "Web Serial API",
         "url": "https://wicg.github.io/serial/",
         "repo": "WICG/serial",
-        "lastModified": "2026-02-02T00:00:00.000Z",
+        "lastModified": "2026-02-18T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1337,6 +1337,12 @@
         "linkedFrom": [],
         "transition": "N/A"
       },
+      "WICG/container-timing": {
+        "notes": "",
+        "lastModified": "2026-02-18T15:52:24.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
       "WICG/controlled-frame": {
         "notes": "",
         "lastModified": "2025-12-10T18:06:35.000Z",
@@ -1357,7 +1363,7 @@
       },
       "WICG/cpu-performance": {
         "notes": "",
-        "lastModified": "2026-02-03T18:06:54.000Z",
+        "lastModified": "2026-02-18T21:39:07.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1417,7 +1423,7 @@
       },
       "WICG/install-element": {
         "notes": "",
-        "lastModified": "2026-02-12T01:59:45.000Z",
+        "lastModified": "2026-02-18T07:00:11.000Z",
         "linkedFrom": [
           {
             "shortname": "webapps",
@@ -1623,7 +1629,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-02-16T13:59:41.000Z",
+        "lastModified": "2026-02-18T06:26:21.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
