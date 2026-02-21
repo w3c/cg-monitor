@@ -1434,7 +1434,7 @@
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2026-02-11T14:50:57.000Z",
+        "lastModified": "2026-02-21T00:57:54.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1605,7 +1605,7 @@
       },
       "WICG/view-transitions": {
         "notes": "",
-        "lastModified": "2026-02-13T16:42:12.000Z",
+        "lastModified": "2026-02-20T20:27:22.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/view-transitions",
@@ -1629,7 +1629,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-02-19T12:11:23.000Z",
+        "lastModified": "2026-02-20T13:50:19.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
