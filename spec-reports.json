@@ -249,7 +249,7 @@
         "title": "Direct Sockets API",
         "url": "https://wicg.github.io/direct-sockets/",
         "repo": "WICG/direct-sockets",
-        "lastModified": "2025-11-25T00:00:00.000Z",
+        "lastModified": "2026-02-24T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -980,7 +980,7 @@
         "title": "Accelerated Shape Detection in Images",
         "url": "https://wicg.github.io/shape-detection-api/",
         "repo": "WICG/shape-detection-api",
-        "lastModified": "2025-01-08T00:00:00.000Z",
+        "lastModified": "2026-02-25T00:00:00.000Z",
         "implementations": [
           "chrome",
           "safari"
@@ -999,7 +999,7 @@
         "title": "Accelerated Text Detection in Images",
         "url": "https://wicg.github.io/shape-detection-api/text.html",
         "repo": "WICG/shape-detection-api",
-        "lastModified": "2025-01-08T00:00:00.000Z",
+        "lastModified": "2026-02-25T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
