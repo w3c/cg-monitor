@@ -1,4 +1,5 @@
 {
+  "https://wicg.github.io/is-input-pending/": "Spec implemented in Chromium, but whose usage is discouraged (see e.g. MDN); that state (and the likely fact the spec won't be maintained ought to be documented in the spec/repo",
   "https://wicg.github.io/csp-next/scripting-policy.html": "no active work, editor noted it could be archived for now https://github.com/WICG/csp-next/issues/9"
   ,
   "https://wicg.github.io/periodic-background-sync/": "Considered for addition to the WebApps WG charter in https://github.com/w3c/webappswg/pull/139",
