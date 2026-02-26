@@ -494,7 +494,7 @@
         "referencedBy": [],
         "linkedFrom": [],
         "transition": "N/A",
-        "notes": ""
+        "notes": "Spec implemented in Chromium, but whose usage is discouraged (see e.g. MDN); that state (and the likely fact the spec won't be maintained ought to be documented in the spec/repo"
       },
       {
         "title": "Isolated Contexts",
@@ -1434,7 +1434,7 @@
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2026-02-21T00:57:54.000Z",
+        "lastModified": "2026-02-25T18:31:08.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
