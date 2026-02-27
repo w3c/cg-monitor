@@ -1405,7 +1405,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-02-14T02:24:26.000Z",
+        "lastModified": "2026-02-27T01:15:19.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1499,7 +1499,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2026-02-17T09:05:12.000Z",
+        "lastModified": "2026-02-26T15:26:20.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
@@ -1623,7 +1623,7 @@
       },
       "WICG/webcrypto-modern-algos": {
         "notes": "",
-        "lastModified": "2026-02-16T10:00:50.000Z",
+        "lastModified": "2026-02-26T14:06:37.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
