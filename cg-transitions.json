@@ -260,6 +260,13 @@
     ],
     "specs": [
       {
+	"repo": "WICG/scheduling-apis",
+	"notice": "https://github.com/wicg/scheduling-apis/issues/119",
+	"date": "2025-05-28",
+	"wgshortname": "whatwg/html",
+	"status": "pending"
+      },
+      {
 	"repo": "WICG/nav-speculation/",
 	"notice": "https://github.com/WICG/nav-speculation/pull/398",
 	"date": "2025-07-11",
