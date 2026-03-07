@@ -34,7 +34,7 @@
         "title": "Attribution Reporting",
         "url": "https://wicg.github.io/attribution-reporting-api/",
         "repo": "WICG/attribution-reporting-api",
-        "lastModified": "2026-03-03T00:00:00.000Z",
+        "lastModified": "2026-03-06T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1333,7 +1333,7 @@
       },
       "WICG/connection-allowlists": {
         "notes": "",
-        "lastModified": "2026-03-03T09:21:50.000Z",
+        "lastModified": "2026-03-06T14:45:30.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1375,7 +1375,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-02-23T18:19:55.000Z",
+        "lastModified": "2026-03-06T11:34:30.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1411,7 +1411,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-03-04T23:32:05.000Z",
+        "lastModified": "2026-03-07T01:10:02.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1440,7 +1440,7 @@
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2026-02-25T18:31:08.000Z",
+        "lastModified": "2026-03-06T22:10:14.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1611,7 +1611,7 @@
       },
       "WICG/view-transitions": {
         "notes": "",
-        "lastModified": "2026-02-20T20:27:22.000Z",
+        "lastModified": "2026-03-06T15:18:33.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/view-transitions",
