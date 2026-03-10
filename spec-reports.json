@@ -1333,7 +1333,7 @@
       },
       "WICG/connection-allowlists": {
         "notes": "",
-        "lastModified": "2026-03-06T14:45:30.000Z",
+        "lastModified": "2026-03-09T10:32:32.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1381,7 +1381,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-03-05T18:30:26.000Z",
+        "lastModified": "2026-03-09T19:11:33.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1411,7 +1411,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-03-07T19:07:09.000Z",
+        "lastModified": "2026-03-10T00:15:07.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
