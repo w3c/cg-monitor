@@ -599,7 +599,7 @@
         "title": "Manifest Incubations",
         "url": "https://wicg.github.io/manifest-incubations/",
         "repo": "WICG/manifest-incubations",
-        "lastModified": "2026-02-12T00:00:00.000Z",
+        "lastModified": "2026-03-11T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1333,7 +1333,7 @@
       },
       "WICG/connection-allowlists": {
         "notes": "",
-        "lastModified": "2026-03-09T10:32:32.000Z",
+        "lastModified": "2026-03-11T10:07:43.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1440,7 +1440,7 @@
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2026-03-10T21:18:46.000Z",
+        "lastModified": "2026-03-11T19:49:16.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1629,7 +1629,7 @@
       },
       "WICG/webcrypto-modern-algos": {
         "notes": "",
-        "lastModified": "2026-03-10T11:25:12.000Z",
+        "lastModified": "2026-03-11T21:27:50.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
