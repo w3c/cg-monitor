@@ -1381,7 +1381,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-03-09T19:11:33.000Z",
+        "lastModified": "2026-03-12T14:57:30.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1411,7 +1411,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-03-10T00:15:07.000Z",
+        "lastModified": "2026-03-12T18:16:28.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1467,6 +1467,12 @@
           "notice": "https://github.com/whatwg/html/pull/8502",
           "status": "complete"
         }
+      },
+      "WICG/network-efficiency-guardrails": {
+        "notes": "",
+        "lastModified": "2026-03-12T06:34:29.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
       },
       "WICG/origin-policy": {
         "notes": "explicitly no longer worked on, archive?",
