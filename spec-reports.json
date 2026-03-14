@@ -128,7 +128,7 @@
         "title": "Client Hints Infrastructure",
         "url": "https://wicg.github.io/client-hints-infrastructure/",
         "repo": "WICG/client-hints-infrastructure",
-        "lastModified": "2024-06-13T00:00:00.000Z",
+        "lastModified": "2026-03-14T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [
           {
@@ -1411,7 +1411,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-03-12T18:16:28.000Z",
+        "lastModified": "2026-03-13T20:31:19.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1440,7 +1440,7 @@
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2026-03-11T19:49:16.000Z",
+        "lastModified": "2026-03-13T16:55:09.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1470,7 +1470,7 @@
       },
       "WICG/network-efficiency-guardrails": {
         "notes": "",
-        "lastModified": "2026-03-12T06:34:29.000Z",
+        "lastModified": "2026-03-13T07:38:47.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1641,7 +1641,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-02-20T13:50:19.000Z",
+        "lastModified": "2026-03-13T08:28:08.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
