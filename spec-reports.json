@@ -1345,7 +1345,7 @@
       },
       "WICG/container-timing": {
         "notes": "",
-        "lastModified": "2026-02-18T15:52:24.000Z",
+        "lastModified": "2026-03-16T14:35:26.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1411,7 +1411,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-03-13T20:31:19.000Z",
+        "lastModified": "2026-03-17T00:27:37.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1641,7 +1641,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-03-13T08:28:08.000Z",
+        "lastModified": "2026-03-16T13:39:55.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
