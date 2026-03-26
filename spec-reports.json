@@ -1375,7 +1375,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-03-06T11:34:30.000Z",
+        "lastModified": "2026-03-25T12:30:20.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1411,7 +1411,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-03-24T23:43:22.000Z",
+        "lastModified": "2026-03-25T21:35:47.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1429,7 +1429,7 @@
       },
       "WICG/install-element": {
         "notes": "",
-        "lastModified": "2026-02-18T07:00:11.000Z",
+        "lastModified": "2026-03-25T23:41:28.000Z",
         "linkedFrom": [
           {
             "shortname": "webapps",
