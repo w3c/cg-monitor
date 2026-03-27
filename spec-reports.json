@@ -34,7 +34,7 @@
         "title": "Attribution Reporting",
         "url": "https://wicg.github.io/attribution-reporting-api/",
         "repo": "WICG/attribution-reporting-api",
-        "lastModified": "2026-03-21T00:00:00.000Z",
+        "lastModified": "2026-03-26T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1345,7 +1345,7 @@
       },
       "WICG/container-timing": {
         "notes": "",
-        "lastModified": "2026-03-17T10:49:48.000Z",
+        "lastModified": "2026-03-26T10:52:41.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1635,7 +1635,7 @@
       },
       "WICG/webcrypto-modern-algos": {
         "notes": "",
-        "lastModified": "2026-03-11T21:27:50.000Z",
+        "lastModified": "2026-03-26T16:31:41.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
