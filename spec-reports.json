@@ -1375,7 +1375,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-03-25T12:30:20.000Z",
+        "lastModified": "2026-03-27T12:02:39.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1411,7 +1411,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-03-25T21:35:47.000Z",
+        "lastModified": "2026-03-27T22:07:02.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
