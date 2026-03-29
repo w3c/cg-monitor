@@ -1411,7 +1411,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-03-27T22:07:02.000Z",
+        "lastModified": "2026-03-28T19:43:44.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1520,18 +1520,6 @@
         ],
         "transition": "N/A"
       },
-      "WICG/pointer-event-extensions": {
-        "notes": "",
-        "lastModified": "2026-03-23T14:15:13.000Z",
-        "linkedFrom": [],
-        "transition": {
-          "repo": "WICG/pointer-event-extensions",
-          "notice": "https://github.com/w3c/pointerevents/pull/495",
-          "date": "2024-01-11",
-          "status": "complete",
-          "wgshortname": "w3c/pointerevents"
-        }
-      },
       "WICG/privacy-preserving-ads": {
         "notes": "",
         "lastModified": "2025-03-24T17:27:10.000Z",
@@ -1541,12 +1529,6 @@
       "WICG/protected-auction-services-discussion": {
         "notes": "",
         "lastModified": "2025-03-14T21:34:04.000Z",
-        "linkedFrom": [],
-        "transition": "N/A"
-      },
-      "WICG/pwa-url-handler": {
-        "notes": "proposal now explicitly obsoleted by manifest-incubations, needs archiving",
-        "lastModified": "2026-03-23T14:16:21.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1591,27 +1573,9 @@
         "linkedFrom": [],
         "transition": "N/A"
       },
-      "WICG/spatial-navigation": {
-        "notes": "",
-        "lastModified": "2026-03-23T14:17:20.000Z",
-        "linkedFrom": [],
-        "transition": {
-          "repo": "WICG/spatial-navigation",
-          "notice": "https://github.com/WICG/spatial-navigation/issues/138",
-          "date": "2018-11-16",
-          "wgshortname": "w3c/css",
-          "status": "complete"
-        }
-      },
       "WICG/speculative_load_measurement": {
         "notes": "",
         "lastModified": "2026-02-16T07:11:24.000Z",
-        "linkedFrom": [],
-        "transition": "N/A"
-      },
-      "WICG/storage-foundation-api-explainer": {
-        "notes": "overtaken by filesystem-access, needs archiving",
-        "lastModified": "2026-03-23T14:18:16.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
