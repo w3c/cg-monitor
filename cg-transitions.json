@@ -207,7 +207,8 @@
     "wg": {
       "notice": "https://lists.w3.org/Archives/Public/public-new-work/2026Mar/0002.html",
       "date": "2026-03-19",
-      "shortname": "webextensions"
+      "shortname": "webextensions",
+      "chartered": "pending"
     }
   }
   "webmachinelearning": {
@@ -215,7 +216,7 @@
       "notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2020OctDec/0002.html",
       "date": "2020-10-02",
       "shortname": "webmachinelearning",
-      "chartered": "pending"
+      "chartered": "2021-04-20"
     },
     "specs": [
       {
