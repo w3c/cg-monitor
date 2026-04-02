@@ -57,6 +57,48 @@
     ],
     "specs": [
       {
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2026JanMar/0025.html",
+	"date": "2026-01-23",
+	"repo": "w3c-ccg/vcalm",
+	"wgshortname": "w3c/vc",
+	"status": "pending"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2026JanMar/0025.html",
+	"date": "2026-01-23",
+	"repo": "w3c-ccg/vc-recognition",
+	"wgshortname": "w3c/vc",
+	"status": "pending"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2026JanMar/0025.html",
+	"date": "2026-01-23",
+	"repo": "w3c-ccg/di-quantum-safe",
+	"wgshortname": "w3c/vc",
+	"status": "pending"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2026JanMar/0025.html",
+	"date": "2026-01-23",
+	"repo": "w3c-ccg/vc-refresh",
+	"wgshortname": "w3c/vc",
+	"status": "pending"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2026JanMar/0025.html",
+	"date": "2026-01-23",
+	"repo": "w3c-ccg/vc-wireless",
+	"wgshortname": "w3c/vc",
+	"status": "pending"
+      },
+      {
+	"notice": "https://lists.w3.org/Archives/Member/w3c-ac-members/2026JanMar/0025.html",
+	"date": "2026-01-23",
+	"repo": "w3c/vc-barcodes",
+	"wgshortname": "w3c/vc",
+	"status": "complete"
+      },
+      {
 	"notice": "https://w3c.github.io/vc-wg/minutes/2025-10-08.html#3ff1",
 	"date": "2025-10-08",
 	"repo": "w3c-ccg/vc-render-method",
