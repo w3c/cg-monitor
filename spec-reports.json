@@ -1333,7 +1333,7 @@
       },
       "WICG/connection-allowlists": {
         "notes": "",
-        "lastModified": "2026-03-23T07:31:31.000Z",
+        "lastModified": "2026-04-02T14:55:59.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1345,7 +1345,7 @@
       },
       "WICG/container-timing": {
         "notes": "",
-        "lastModified": "2026-03-30T08:55:30.000Z",
+        "lastModified": "2026-04-02T11:58:20.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1381,13 +1381,13 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-04-01T08:44:39.000Z",
+        "lastModified": "2026-04-07T18:22:46.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/delayed-message-timing": {
         "notes": "",
-        "lastModified": "2026-01-29T01:50:26.000Z",
+        "lastModified": "2026-04-08T00:12:27.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1411,7 +1411,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-04-01T22:18:54.000Z",
+        "lastModified": "2026-04-09T03:27:11.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1511,7 +1511,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2026-02-26T15:26:20.000Z",
+        "lastModified": "2026-04-08T14:13:07.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
@@ -1563,7 +1563,7 @@
       },
       "WICG/signature-based-sri": {
         "notes": "",
-        "lastModified": "2025-08-13T09:15:15.000Z",
+        "lastModified": "2026-04-08T10:54:46.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1605,7 +1605,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-04-01T20:26:26.000Z",
+        "lastModified": "2026-04-03T06:29:48.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
