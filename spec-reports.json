@@ -1381,13 +1381,13 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-04-07T18:22:46.000Z",
+        "lastModified": "2026-04-09T09:14:17.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/delayed-message-timing": {
         "notes": "",
-        "lastModified": "2026-04-08T00:12:27.000Z",
+        "lastModified": "2026-04-10T04:38:24.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1511,7 +1511,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2026-04-08T14:13:07.000Z",
+        "lastModified": "2026-04-09T13:41:59.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
@@ -1605,7 +1605,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-04-03T06:29:48.000Z",
+        "lastModified": "2026-04-09T17:37:06.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
