@@ -1387,7 +1387,7 @@
       },
       "WICG/delayed-message-timing": {
         "notes": "",
-        "lastModified": "2026-04-10T04:38:24.000Z",
+        "lastModified": "2026-04-11T00:02:45.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1411,7 +1411,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-04-09T03:27:11.000Z",
+        "lastModified": "2026-04-10T15:48:29.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1581,7 +1581,7 @@
       },
       "WICG/view-transitions": {
         "notes": "",
-        "lastModified": "2026-03-06T15:18:33.000Z",
+        "lastModified": "2026-04-10T20:18:38.000Z",
         "linkedFrom": [],
         "transition": {
           "repo": "WICG/view-transitions",
