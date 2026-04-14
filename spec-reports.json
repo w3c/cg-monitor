@@ -1381,7 +1381,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-04-09T09:14:17.000Z",
+        "lastModified": "2026-04-13T11:48:05.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1575,7 +1575,7 @@
       },
       "WICG/speculative_load_measurement": {
         "notes": "",
-        "lastModified": "2026-03-31T19:17:11.000Z",
+        "lastModified": "2026-04-13T09:02:56.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
