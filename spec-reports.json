@@ -630,7 +630,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2026-04-12T00:00:00.000Z",
+        "lastModified": "2026-04-16T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -653,7 +653,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2026-04-12T00:00:00.000Z",
+        "lastModified": "2026-04-16T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -675,7 +675,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2026-04-12T19:57:01.000Z",
+        "lastModified": "2026-04-16T20:54:30.000Z",
         "implementations": [
           "chrome"
         ],
@@ -888,7 +888,7 @@
         "title": "HTML Sanitizer API",
         "url": "https://wicg.github.io/sanitizer-api/",
         "repo": "WICG/sanitizer-api",
-        "lastModified": "2026-04-15T00:00:00.000Z",
+        "lastModified": "2026-04-16T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1036,7 +1036,7 @@
         "title": "Soft Navigations",
         "url": "https://wicg.github.io/soft-navigations/",
         "repo": "WICG/soft-navigations",
-        "lastModified": "2026-04-15T00:00:00.000Z",
+        "lastModified": "2026-04-16T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1345,7 +1345,7 @@
       },
       "WICG/container-timing": {
         "notes": "",
-        "lastModified": "2026-04-02T11:58:20.000Z",
+        "lastModified": "2026-04-16T13:50:57.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1411,7 +1411,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-04-10T15:48:29.000Z",
+        "lastModified": "2026-04-16T23:50:03.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1605,7 +1605,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-04-14T14:03:05.000Z",
+        "lastModified": "2026-04-16T09:17:29.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
