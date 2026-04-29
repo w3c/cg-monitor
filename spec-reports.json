@@ -1591,6 +1591,12 @@
           "status": "complete"
         }
       },
+      "WICG/web-haptics": {
+        "notes": "",
+        "lastModified": "2026-04-28T03:10:53.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
       "WICG/web-printing": {
         "notes": "",
         "lastModified": "2026-02-02T22:15:06.000Z",
