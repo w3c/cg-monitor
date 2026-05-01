@@ -34,7 +34,7 @@
         "title": "Attribution Reporting",
         "url": "https://wicg.github.io/attribution-reporting-api/",
         "repo": "WICG/attribution-reporting-api",
-        "lastModified": "2026-03-26T00:00:00.000Z",
+        "lastModified": "2026-03-26T14:09:53.000Z",
         "implementations": [
           "chrome"
         ],
@@ -42,14 +42,6 @@
           {
             "url": "https://wicg.github.io/fenced-frame/",
             "title": "Fenced Frame"
-          },
-          {
-            "url": "https://patcg-individual-drafts.github.io/private-aggregation-api/",
-            "title": "Private Aggregation API"
-          },
-          {
-            "url": "https://wicg.github.io/turtledove/",
-            "title": "Protected Audience (formerly FLEDGE)"
           }
         ],
         "linkedFrom": [
@@ -355,14 +347,6 @@
           },
           {
             "url": "https://wicg.github.io/PEPC/geolocation-element.html"
-          },
-          {
-            "url": "https://wicg.github.io/shared-storage/",
-            "title": "Shared Storage API"
-          },
-          {
-            "url": "https://wicg.github.io/turtledove/",
-            "title": "Protected Audience (formerly FLEDGE)"
           }
         ],
         "linkedFrom": [],
@@ -863,12 +847,7 @@
         "implementations": [
           "chrome"
         ],
-        "referencedBy": [
-          {
-            "url": "https://wicg.github.io/turtledove/",
-            "title": "Protected Audience (formerly FLEDGE)"
-          }
-        ],
+        "referencedBy": [],
         "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
@@ -1375,7 +1354,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-03-27T12:02:39.000Z",
+        "lastModified": "2026-04-30T17:35:24.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
