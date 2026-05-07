@@ -338,10 +338,6 @@
         ],
         "referencedBy": [
           {
-            "url": "https://wicg.github.io/attribution-reporting-api/",
-            "title": "Attribution Reporting"
-          },
-          {
             "url": "https://drafts.csswg.org/css-viewport/",
             "title": "CSS Viewport Module Level 1"
           },
@@ -1419,7 +1415,7 @@
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2026-04-22T20:35:21.000Z",
+        "lastModified": "2026-05-06T19:58:54.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1590,7 +1586,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-04-23T08:36:43.000Z",
+        "lastModified": "2026-05-06T20:22:24.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
