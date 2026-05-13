@@ -3528,6 +3528,45 @@
       "https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document"
     ]
   },
+  "webextensions": {
+    "url": "https://www.w3.org/groups/wg/webextensions/charters/active/",
+    "links": [
+      "https://www.w3.org/",
+      "https://www.w3.org/groups/wg/webextensions",
+      "https://www.w3.org/groups/wg/webextensions/join/",
+      "https://www.w3.org/groups/wg/webextensions/charters/",
+      "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions",
+      "https://www.w3.org/TR/design-principles/",
+      "https://www.w3.org/TR/permissions/",
+      "https://www.w3.org/TR/appmanifest/",
+      "https://www.w3.org/groups/wg/webextensions/publications/",
+      "https://w3c.github.io/webextensions/specification/index.html",
+      "https://w3c.github.io/webextensions/specification/window.browser.html",
+      "https://www.w3.org/2019/02/testing-policy.html",
+      "https://github.com/web-platform-tests/wpt",
+      "https://www.w3.org/TR/ethical-web-principles/",
+      "https://www.w3.org/TR/privacy-principles/",
+      "https://www.w3.org/guide/documentreview/",
+      "https://www.w3.org/groups/other/tag/",
+      "https://www.w3.org/policies/process/",
+      "https://www.w3.org/groups/cg/webextensions/",
+      "https://www.w3.org/groups/wg/browser-tools-testing/",
+      "https://www.w3.org/TR/webdriver-bidi/",
+      "https://www.w3.org/groups/wg/css/",
+      "https://www.w3.org/groups/cg/tmcg/",
+      "https://github.com/w3c/threat-model-web",
+      "https://home.unicode.org/about-unicode/",
+      "https://www.w3.org/policies/patent-policy/",
+      "https://www.w3.org/invited-experts/",
+      "https://www.w3.org/groups/wg/webextensions/instructions/",
+      "https://www.w3.org/policies/code-of-conduct/",
+      "https://github.com/w3c/webextensions/issues",
+      "https://www.w3.org/groups/wg/webextensions/ipr/",
+      "https://www.w3.org/copyright/software-license/",
+      "https://www.w3.org/2026/05/webextensions-wg-charter.html",
+      "https://www.w3.org/policies/"
+    ]
+  },
   "webtransport": {
     "url": "https://www.w3.org/groups/wg/webtransport/charters/active/",
     "links": [
