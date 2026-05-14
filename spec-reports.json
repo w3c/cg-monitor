@@ -50,7 +50,10 @@
             "link": "https://www.w3.org/groups/wg/pat/charters/active/"
           }
         ],
-        "transition": "N/A",
+        "transition": {
+          "repo": "WICG/attribution-reporting-api",
+          "status": "deprecated"
+        },
         "notes": ""
       },
       {
@@ -1350,7 +1353,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-05-08T14:58:13.000Z",
+        "lastModified": "2026-05-13T07:57:09.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1586,7 +1589,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-05-06T20:22:24.000Z",
+        "lastModified": "2026-05-13T13:36:24.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
