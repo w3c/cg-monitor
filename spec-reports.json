@@ -613,7 +613,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2026-04-20T00:00:00.000Z",
+        "lastModified": "2026-05-14T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -636,7 +636,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2026-04-20T00:00:00.000Z",
+        "lastModified": "2026-05-14T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -658,7 +658,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2026-04-20T17:22:51.000Z",
+        "lastModified": "2026-05-14T10:42:27.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1323,7 +1323,7 @@
       },
       "WICG/container-timing": {
         "notes": "",
-        "lastModified": "2026-04-16T13:50:57.000Z",
+        "lastModified": "2026-05-14T09:39:43.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1589,7 +1589,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-05-13T13:36:24.000Z",
+        "lastModified": "2026-05-14T07:14:14.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
