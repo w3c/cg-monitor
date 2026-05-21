@@ -1227,7 +1227,7 @@
         "title": "WebUSB API",
         "url": "https://wicg.github.io/webusb/",
         "repo": "WICG/webusb",
-        "lastModified": "2025-02-13T00:00:00.000Z",
+        "lastModified": "2026-05-21T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1354,6 +1354,12 @@
       "WICG/cross-origin-storage": {
         "notes": "",
         "lastModified": "2026-05-13T07:57:09.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
+      "WICG/dbsc-sso": {
+        "notes": "",
+        "lastModified": "2026-05-20T16:03:51.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1583,7 +1589,7 @@
       },
       "WICG/webcrypto-modern-algos": {
         "notes": "",
-        "lastModified": "2026-05-18T19:56:42.000Z",
+        "lastModified": "2026-05-20T09:42:10.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
