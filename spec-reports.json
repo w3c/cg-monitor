@@ -285,6 +285,9 @@
         ],
         "referencedBy": [
           {
+            "url": "https://wicg.github.io/connection-allowlists/"
+          },
+          {
             "url": "https://wicg.github.io/crash-reporting/",
             "title": "Crash Reporting"
           }
@@ -1311,7 +1314,7 @@
       },
       "WICG/connection-allowlists": {
         "notes": "",
-        "lastModified": "2026-05-04T12:44:34.000Z",
+        "lastModified": "2026-05-21T11:35:20.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
