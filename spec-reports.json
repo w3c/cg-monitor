@@ -869,7 +869,7 @@
         "title": "HTML Sanitizer API",
         "url": "https://wicg.github.io/sanitizer-api/",
         "repo": "WICG/sanitizer-api",
-        "lastModified": "2026-05-12T00:00:00.000Z",
+        "lastModified": "2026-05-22T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1507,6 +1507,12 @@
         ],
         "transition": "N/A"
       },
+      "WICG/persistent-iframes": {
+        "notes": "",
+        "lastModified": "2026-05-22T07:12:19.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
       "WICG/privacy-preserving-ads": {
         "notes": "",
         "lastModified": "2025-03-24T17:27:10.000Z",
@@ -1580,7 +1586,7 @@
       },
       "WICG/web-haptics": {
         "notes": "",
-        "lastModified": "2026-04-28T03:10:53.000Z",
+        "lastModified": "2026-05-22T22:48:30.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
