@@ -1152,7 +1152,7 @@
         "title": "Web Smart Card API",
         "url": "https://wicg.github.io/web-smart-card/",
         "repo": "WICG/web-smart-card",
-        "lastModified": "2026-04-24T00:00:00.000Z",
+        "lastModified": "2026-05-26T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1610,7 +1610,7 @@
       },
       "WICG/webrtc-diagnostic-logging": {
         "notes": "",
-        "lastModified": "2026-03-30T20:03:17.000Z",
+        "lastModified": "2026-05-26T12:01:51.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
