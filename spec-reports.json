@@ -1362,7 +1362,7 @@
       },
       "WICG/dbsc-sso": {
         "notes": "",
-        "lastModified": "2026-05-20T16:03:51.000Z",
+        "lastModified": "2026-05-28T14:45:39.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1498,7 +1498,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2026-04-09T13:41:59.000Z",
+        "lastModified": "2026-05-28T15:29:50.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
