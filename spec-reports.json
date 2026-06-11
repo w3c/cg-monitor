@@ -1017,7 +1017,7 @@
         "title": "Soft Navigations",
         "url": "https://wicg.github.io/soft-navigations/",
         "repo": "WICG/soft-navigations",
-        "lastModified": "2026-06-09T00:00:00.000Z",
+        "lastModified": "2026-06-10T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1608,7 +1608,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-05-14T07:14:14.000Z",
+        "lastModified": "2026-06-10T11:46:04.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
