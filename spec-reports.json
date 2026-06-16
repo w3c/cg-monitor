@@ -1360,7 +1360,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-05-31T10:36:50.000Z",
+        "lastModified": "2026-06-15T09:33:33.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1431,7 +1431,7 @@
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2026-05-06T19:58:54.000Z",
+        "lastModified": "2026-06-15T18:27:35.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
