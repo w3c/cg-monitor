@@ -1382,9 +1382,9 @@
         "linkedFrom": [],
         "transition": "N/A"
       },
-      "WICG/email-verification-protocol": {
+      "WICG/email-verification": {
         "notes": "",
-        "lastModified": "2026-01-12T21:53:58.000Z",
+        "lastModified": "2026-06-16T18:23:50.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1402,7 +1402,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-06-01T18:19:48.000Z",
+        "lastModified": "2026-06-16T22:20:59.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1502,7 +1502,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2026-05-28T15:29:50.000Z",
+        "lastModified": "2026-06-16T15:14:46.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
