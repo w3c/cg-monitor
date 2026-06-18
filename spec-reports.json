@@ -1318,7 +1318,7 @@
       },
       "WICG/connection-allowlists": {
         "notes": "",
-        "lastModified": "2026-06-09T15:47:29.000Z",
+        "lastModified": "2026-06-17T15:05:10.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1360,7 +1360,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-06-15T09:33:33.000Z",
+        "lastModified": "2026-06-17T16:00:48.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1384,7 +1384,7 @@
       },
       "WICG/email-verification": {
         "notes": "",
-        "lastModified": "2026-06-16T18:23:50.000Z",
+        "lastModified": "2026-06-17T16:12:53.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
