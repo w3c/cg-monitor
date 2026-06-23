@@ -1378,7 +1378,7 @@
       },
       "WICG/delayed-message-timing": {
         "notes": "",
-        "lastModified": "2026-04-11T00:02:45.000Z",
+        "lastModified": "2026-06-22T05:53:25.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1572,7 +1572,7 @@
       },
       "WICG/speculative_load_measurement": {
         "notes": "",
-        "lastModified": "2026-06-22T05:43:57.000Z",
+        "lastModified": "2026-06-22T05:49:09.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
