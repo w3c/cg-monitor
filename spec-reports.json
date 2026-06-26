@@ -31,32 +31,6 @@
         "notes": ""
       },
       {
-        "title": "Attribution Reporting",
-        "url": "https://wicg.github.io/attribution-reporting-api/",
-        "repo": "WICG/attribution-reporting-api",
-        "lastModified": "2026-05-11T19:12:29.000Z",
-        "implementations": [
-          "chrome"
-        ],
-        "referencedBy": [
-          {
-            "url": "https://wicg.github.io/fenced-frame/",
-            "title": "Fenced Frame"
-          }
-        ],
-        "linkedFrom": [
-          {
-            "shortname": "pat",
-            "link": "https://www.w3.org/groups/wg/pat/charters/active/"
-          }
-        ],
-        "transition": {
-          "repo": "WICG/attribution-reporting-api",
-          "status": "deprecated"
-        },
-        "notes": ""
-      },
-      {
         "title": "Background Fetch",
         "url": "https://wicg.github.io/background-fetch/",
         "repo": "WICG/background-fetch",
@@ -1017,7 +991,7 @@
         "title": "Soft Navigations",
         "url": "https://wicg.github.io/soft-navigations/",
         "repo": "WICG/soft-navigations",
-        "lastModified": "2026-06-23T00:00:00.000Z",
+        "lastModified": "2026-06-25T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1378,7 +1352,7 @@
       },
       "WICG/delayed-message-timing": {
         "notes": "",
-        "lastModified": "2026-06-24T08:22:00.000Z",
+        "lastModified": "2026-06-26T04:23:29.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1502,7 +1476,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2026-06-23T14:47:57.000Z",
+        "lastModified": "2026-06-25T12:41:45.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
