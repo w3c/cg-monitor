@@ -1292,7 +1292,7 @@
       },
       "WICG/connection-allowlists": {
         "notes": "",
-        "lastModified": "2026-06-17T15:05:10.000Z",
+        "lastModified": "2026-07-01T14:53:02.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1304,7 +1304,7 @@
       },
       "WICG/container-timing": {
         "notes": "",
-        "lastModified": "2026-05-14T09:39:43.000Z",
+        "lastModified": "2026-07-01T16:38:41.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1334,7 +1334,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-06-30T13:48:01.000Z",
+        "lastModified": "2026-07-01T11:03:16.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
