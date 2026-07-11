@@ -218,7 +218,7 @@
         "title": "Direct Sockets API",
         "url": "https://wicg.github.io/direct-sockets/",
         "repo": "WICG/direct-sockets",
-        "lastModified": "2026-04-24T00:00:00.000Z",
+        "lastModified": "2026-07-10T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1476,7 +1476,7 @@
       },
       "WICG/PEPC": {
         "notes": "",
-        "lastModified": "2026-06-25T12:41:45.000Z",
+        "lastModified": "2026-07-10T15:19:04.000Z",
         "linkedFrom": [
           {
             "shortname": "webappsec",
