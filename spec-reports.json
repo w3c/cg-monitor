@@ -1328,7 +1328,7 @@
       },
       "WICG/cpu-performance": {
         "notes": "",
-        "lastModified": "2026-06-18T17:18:07.000Z",
+        "lastModified": "2026-07-15T13:41:39.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1346,7 +1346,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-07-13T13:16:02.000Z",
+        "lastModified": "2026-07-15T14:57:53.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
