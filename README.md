@@ -1,21 +1,43 @@
-This tool collects data from various sources (W3C API, Github API, screen-scraping of W3C mailing lists archives, RSS feeds, wikis) to build a picture of the activity level in W3C Community Groups.
+# W3C Community Groups Activity Monitor
 
-# Data collection
-You need to instantiate a `config.json` (from the `config.json.dist` template), filled with a Github API key.
+[![Tests](https://github.com/w3c/cg-monitor/actions/workflows/test.yml/badge.svg)](https://github.com/w3c/cg-monitor/actions/workflows/test.yml)
 
-Once that done, run:
-`node monitor.js`
+This tool collects activity data from W3C Community Groups, pulling from the W3C API, GitHub repositories, mailing list archives, RSS feeds, and wikis. It processes the raw data into reports and charts, powering the [CG Activity Dashboard](https://w3c.github.io/cg-monitor/).
 
-It will run for a while to collect data across all the sources. The data is collected in one-file-per-CG in the `data` directory.
+## Prerequisites
 
-Alternatively, you can update the data for specific groups with
-`node monitor.js [groupid1] [groupid2]`
-where `groupid1` is a the id of the group in the W3C API.
+- **Node.js 20.x** 
+- A GitHub [personal access token](https://github.com/settings/tokens) (no special scopes required, only used for higher API rate limits)
 
-# Data processing
-Once the data is collected per the above, run
-`node prepare-data.js`
+## Setup
 
-It will generate a `report.json` file with the data needed for the [dashboard](https://w3c.github.io/cg-monitor/).
+```bash
+npm install
+cp config.json.dist config.json
+# Edit config.json and add your GitHub token:
+# { "ghapitoken": "ghp_xxxxxxxxxxxx" }
+```
 
-The tool also generate the activity charts used in Community Group homepages.
+## Usage
+
+### Collect group activity data
+
+```bash
+node monitor.js
+```
+
+This fetches data from all sources. It writes one JSON file per group into `data/`.
+
+To update only specific groups, pass their W3C API IDs:
+
+```bash
+node monitor.js 12345 67890
+```
+
+### Process the collected data
+
+```bash
+node prepare-data.js        # builds report.json for the dashboard
+node export-popularity.js   # computes group popularity rankings
+node generate-activity-graphs.js  # generates SVG charts in viz/
+```
