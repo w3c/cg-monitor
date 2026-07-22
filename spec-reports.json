@@ -1304,7 +1304,7 @@
       },
       "WICG/container-timing": {
         "notes": "",
-        "lastModified": "2026-07-01T16:38:41.000Z",
+        "lastModified": "2026-07-21T16:36:49.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1328,7 +1328,7 @@
       },
       "WICG/cpu-performance": {
         "notes": "",
-        "lastModified": "2026-07-15T13:41:39.000Z",
+        "lastModified": "2026-07-21T20:25:40.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
