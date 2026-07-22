@@ -9,7 +9,7 @@
     "mocha": "^10.2.0",
     "parse-link-header": "^2.0.0",
     "rss-parser": "^3.13.0",
-    "undici": "^5.28.4",
+    "undici": "^6.23.0",
     "web-specs": "^3.37.0"
   }
 }
