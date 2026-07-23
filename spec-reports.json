@@ -1292,7 +1292,7 @@
       },
       "WICG/connection-allowlists": {
         "notes": "",
-        "lastModified": "2026-07-01T14:53:02.000Z",
+        "lastModified": "2026-07-22T15:32:36.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1304,7 +1304,7 @@
       },
       "WICG/container-timing": {
         "notes": "",
-        "lastModified": "2026-07-21T16:36:49.000Z",
+        "lastModified": "2026-07-22T09:30:28.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1582,7 +1582,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-07-20T09:34:53.000Z",
+        "lastModified": "2026-07-22T15:54:44.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
