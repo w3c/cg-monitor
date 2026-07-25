@@ -259,9 +259,6 @@
         ],
         "referencedBy": [
           {
-            "url": "https://wicg.github.io/connection-allowlists/"
-          },
-          {
             "url": "https://wicg.github.io/crash-reporting/",
             "title": "Crash Reporting"
           }
@@ -1292,7 +1289,7 @@
       },
       "WICG/connection-allowlists": {
         "notes": "",
-        "lastModified": "2026-07-22T15:32:36.000Z",
+        "lastModified": "2026-07-24T20:38:21.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1582,7 +1579,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-07-22T15:54:44.000Z",
+        "lastModified": "2026-07-24T08:10:16.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
