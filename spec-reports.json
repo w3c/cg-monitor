@@ -1289,7 +1289,7 @@
       },
       "WICG/connection-allowlists": {
         "notes": "",
-        "lastModified": "2026-07-24T20:38:21.000Z",
+        "lastModified": "2026-07-28T16:58:58.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1585,7 +1585,7 @@
       },
       "WICG/webrtc-diagnostic-logging": {
         "notes": "",
-        "lastModified": "2026-07-27T16:22:53.000Z",
+        "lastModified": "2026-07-28T17:23:39.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
