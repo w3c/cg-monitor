@@ -556,7 +556,7 @@
         "title": "Manifest Incubations",
         "url": "https://wicg.github.io/manifest-incubations/",
         "repo": "WICG/manifest-incubations",
-        "lastModified": "2026-05-29T00:00:00.000Z",
+        "lastModified": "2026-08-01T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
