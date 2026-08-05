@@ -556,7 +556,7 @@
         "title": "Manifest Incubations",
         "url": "https://wicg.github.io/manifest-incubations/",
         "repo": "WICG/manifest-incubations",
-        "lastModified": "2026-08-01T00:00:00.000Z",
+        "lastModified": "2026-08-04T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1123,7 +1123,7 @@
         "title": "Web Smart Card API",
         "url": "https://wicg.github.io/web-smart-card/",
         "repo": "WICG/web-smart-card",
-        "lastModified": "2026-06-23T00:00:00.000Z",
+        "lastModified": "2026-08-04T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [
           {
@@ -1331,7 +1331,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-07-16T15:20:17.000Z",
+        "lastModified": "2026-08-04T13:13:00.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1343,7 +1343,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-07-30T15:32:21.000Z",
+        "lastModified": "2026-08-04T13:29:58.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
