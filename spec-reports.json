@@ -1331,7 +1331,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-08-05T17:29:39.000Z",
+        "lastModified": "2026-08-06T15:41:52.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1573,13 +1573,13 @@
       },
       "WICG/webcrypto-modern-algos": {
         "notes": "",
-        "lastModified": "2026-06-29T12:10:23.000Z",
+        "lastModified": "2026-08-06T17:07:52.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-07-24T08:10:16.000Z",
+        "lastModified": "2026-08-06T13:35:00.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
