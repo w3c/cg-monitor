@@ -1325,13 +1325,13 @@
       },
       "WICG/cpu-performance": {
         "notes": "",
-        "lastModified": "2026-07-21T20:25:40.000Z",
+        "lastModified": "2026-08-07T19:10:10.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-08-06T15:41:52.000Z",
+        "lastModified": "2026-08-07T11:40:57.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1402,7 +1402,7 @@
       },
       "WICG/local-network-access": {
         "notes": "",
-        "lastModified": "2026-07-06T15:30:35.000Z",
+        "lastModified": "2026-08-07T23:28:37.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1579,7 +1579,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-08-06T13:35:00.000Z",
+        "lastModified": "2026-08-07T11:28:07.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
