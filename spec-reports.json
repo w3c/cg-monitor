@@ -881,12 +881,7 @@
           "firefox"
         ],
         "referencedBy": [],
-        "linkedFrom": [
-          {
-            "shortname": "webperf",
-            "link": "https://www.w3.org/groups/wg/webperf/charters/active/"
-          }
-        ],
+        "linkedFrom": [],
         "transition": {
           "repo": "WICG/scheduling-apis",
           "notice": "https://github.com/wicg/scheduling-apis/issues/119",
@@ -1123,7 +1118,7 @@
         "title": "Web Smart Card API",
         "url": "https://wicg.github.io/web-smart-card/",
         "repo": "WICG/web-smart-card",
-        "lastModified": "2026-08-04T00:00:00.000Z",
+        "lastModified": "2026-08-11T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [
           {
@@ -1331,7 +1326,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-08-11T04:14:20.000Z",
+        "lastModified": "2026-08-11T05:03:32.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1573,13 +1568,13 @@
       },
       "WICG/webcrypto-modern-algos": {
         "notes": "",
-        "lastModified": "2026-08-06T17:07:52.000Z",
+        "lastModified": "2026-08-11T14:07:57.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-08-07T11:28:07.000Z",
+        "lastModified": "2026-08-11T07:07:23.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
