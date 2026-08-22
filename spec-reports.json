@@ -1331,7 +1331,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-08-19T14:04:11.000Z",
+        "lastModified": "2026-08-21T18:49:40.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1417,18 +1417,6 @@
         "lastModified": "2020-07-29T21:21:01.000Z",
         "linkedFrom": [],
         "transition": "N/A"
-      },
-      "WICG/navigation-api": {
-        "notes": "",
-        "lastModified": "2026-02-04T18:20:48.000Z",
-        "linkedFrom": [],
-        "transition": {
-          "repo": "WICG/navigation-api",
-          "date": "2022-11-14",
-          "wgshortname": "whatwg/html",
-          "notice": "https://github.com/whatwg/html/pull/8502",
-          "status": "complete"
-        }
       },
       "WICG/network-efficiency-guardrails": {
         "notes": "",
@@ -1547,18 +1535,6 @@
         "linkedFrom": [],
         "transition": "N/A"
       },
-      "WICG/view-transitions": {
-        "notes": "",
-        "lastModified": "2026-05-24T22:36:59.000Z",
-        "linkedFrom": [],
-        "transition": {
-          "repo": "WICG/view-transitions",
-          "notice": "https://github.com/w3c/csswg-drafts/pull/9022",
-          "date": "2023-07-02",
-          "wgshortname": "w3c/css/css-view-transitions-2",
-          "status": "complete"
-        }
-      },
       "WICG/web-haptics": {
         "notes": "",
         "lastModified": "2026-05-22T22:48:30.000Z",
@@ -1579,7 +1555,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-08-18T06:29:00.000Z",
+        "lastModified": "2026-08-21T11:36:44.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
