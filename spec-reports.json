@@ -587,7 +587,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2026-05-14T00:00:00.000Z",
+        "lastModified": "2026-08-27T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -610,7 +610,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2026-05-14T00:00:00.000Z",
+        "lastModified": "2026-08-27T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -632,7 +632,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2026-05-14T10:42:27.000Z",
+        "lastModified": "2026-08-27T00:57:56.000Z",
         "implementations": [
           "chrome"
         ],
@@ -988,7 +988,7 @@
         "title": "Soft Navigations",
         "url": "https://wicg.github.io/soft-navigations/",
         "repo": "WICG/soft-navigations",
-        "lastModified": "2026-07-14T00:00:00.000Z",
+        "lastModified": "2026-08-26T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1192,12 +1192,7 @@
             "title": "Fenced Frame"
           }
         ],
-        "linkedFrom": [
-          {
-            "shortname": "miniapps",
-            "link": "https://www.w3.org/groups/wg/miniapps/charters/active/"
-          }
-        ],
+        "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
       },
@@ -1289,7 +1284,7 @@
       },
       "WICG/connection-allowlists": {
         "notes": "",
-        "lastModified": "2026-07-29T14:53:48.000Z",
+        "lastModified": "2026-08-26T12:21:04.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1331,7 +1326,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-08-25T18:18:14.000Z",
+        "lastModified": "2026-08-26T16:20:38.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
