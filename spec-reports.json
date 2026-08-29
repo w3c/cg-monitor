@@ -1368,7 +1368,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-08-27T21:07:54.000Z",
+        "lastModified": "2026-08-28T23:41:51.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1467,7 +1467,7 @@
       },
       "WICG/persistent-iframes": {
         "notes": "",
-        "lastModified": "2026-08-27T22:31:24.000Z",
+        "lastModified": "2026-08-28T17:05:34.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
