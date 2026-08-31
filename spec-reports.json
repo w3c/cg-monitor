@@ -105,10 +105,6 @@
             "title": "Clear Site Data"
           },
           {
-            "url": "https://wicg.github.io/netinfo/",
-            "title": "Network Information API"
-          },
-          {
             "url": "https://wicg.github.io/nav-speculation/prerendering.html",
             "title": "Prerendering Revamped"
           },
