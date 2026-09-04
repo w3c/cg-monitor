@@ -1535,7 +1535,7 @@
       },
       "WICG/webcrypto-modern-algos": {
         "notes": "",
-        "lastModified": "2026-08-11T14:07:57.000Z",
+        "lastModified": "2026-09-03T15:52:53.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1547,7 +1547,7 @@
       },
       "WICG/webrtc-diagnostic-logging": {
         "notes": "",
-        "lastModified": "2026-07-28T17:23:39.000Z",
+        "lastModified": "2026-09-03T12:23:24.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
