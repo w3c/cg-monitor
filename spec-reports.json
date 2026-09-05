@@ -525,7 +525,12 @@
         "implementations": [
           "chrome"
         ],
-        "referencedBy": [],
+        "referencedBy": [
+          {
+            "url": "https://w3c.github.io/timing-entrytypes-registry/",
+            "title": "Timing Entry Names Registry"
+          }
+        ],
         "linkedFrom": [],
         "transition": "N/A",
         "notes": ""
@@ -640,12 +645,7 @@
         "implementations": [
           "chrome"
         ],
-        "referencedBy": [
-          {
-            "url": "https://wicg.github.io/savedata/",
-            "title": "Save Data API"
-          }
-        ],
+        "referencedBy": [],
         "linkedFrom": [
           {
             "shortname": "das",
@@ -1359,7 +1359,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-09-02T20:23:32.000Z",
+        "lastModified": "2026-09-04T21:16:12.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1377,7 +1377,7 @@
       },
       "WICG/install-element": {
         "notes": "",
-        "lastModified": "2026-07-23T18:59:33.000Z",
+        "lastModified": "2026-09-04T21:48:58.000Z",
         "linkedFrom": [
           {
             "shortname": "webapps",
