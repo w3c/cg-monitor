@@ -1317,7 +1317,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-09-02T15:25:22.000Z",
+        "lastModified": "2026-09-07T09:05:40.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1329,7 +1329,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-08-25T18:30:10.000Z",
+        "lastModified": "2026-09-07T15:56:48.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
