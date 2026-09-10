@@ -1287,7 +1287,7 @@
       },
       "WICG/container-timing": {
         "notes": "",
-        "lastModified": "2026-08-03T17:23:15.000Z",
+        "lastModified": "2026-09-09T16:26:58.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1359,7 +1359,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-09-04T21:16:12.000Z",
+        "lastModified": "2026-09-09T21:32:12.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
