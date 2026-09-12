@@ -473,7 +473,7 @@
         "title": "JS Self-Profiling API",
         "url": "https://wicg.github.io/js-self-profiling/",
         "repo": "WICG/js-self-profiling",
-        "lastModified": "2026-02-18T00:00:00.000Z",
+        "lastModified": "2026-09-11T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1464,7 +1464,7 @@
       },
       "WICG/persistent-iframes": {
         "notes": "",
-        "lastModified": "2026-08-28T17:05:34.000Z",
+        "lastModified": "2026-09-11T22:25:52.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1547,7 +1547,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-09-08T08:40:33.000Z",
+        "lastModified": "2026-09-11T17:03:47.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
