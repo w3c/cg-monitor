@@ -932,7 +932,7 @@
         "title": "Accelerated Shape Detection in Images",
         "url": "https://wicg.github.io/shape-detection-api/",
         "repo": "WICG/shape-detection-api",
-        "lastModified": "2026-02-25T00:00:00.000Z",
+        "lastModified": "2026-09-12T00:00:00.000Z",
         "implementations": [
           "chrome",
           "safari"
@@ -951,7 +951,7 @@
         "title": "Accelerated Text Detection in Images",
         "url": "https://wicg.github.io/shape-detection-api/text.html",
         "repo": "WICG/shape-detection-api",
-        "lastModified": "2026-02-25T00:00:00.000Z",
+        "lastModified": "2026-09-12T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
