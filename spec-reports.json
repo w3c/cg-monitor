@@ -911,24 +911,6 @@
         "notes": ""
       },
       {
-        "title": "Web Serial API",
-        "url": "https://wicg.github.io/serial/",
-        "repo": "WICG/serial",
-        "lastModified": "2026-06-02T00:00:00.000Z",
-        "implementations": [
-          "chrome"
-        ],
-        "referencedBy": [
-          {
-            "url": "https://wicg.github.io/nav-speculation/prerendering.html",
-            "title": "Prerendering Revamped"
-          }
-        ],
-        "linkedFrom": [],
-        "transition": "N/A",
-        "notes": ""
-      },
-      {
         "title": "Accelerated Shape Detection in Images",
         "url": "https://wicg.github.io/shape-detection-api/",
         "repo": "WICG/shape-detection-api",
@@ -1156,28 +1138,6 @@
         "notes": ""
       },
       {
-        "title": "WebHID API",
-        "url": "https://wicg.github.io/webhid/",
-        "repo": "WICG/webhid",
-        "lastModified": "2024-09-13T00:00:00.000Z",
-        "implementations": [
-          "chrome"
-        ],
-        "referencedBy": [
-          {
-            "url": "https://wicg.github.io/nav-speculation/prerendering.html",
-            "title": "Prerendering Revamped"
-          },
-          {
-            "url": "https://webbluetoothcg.github.io/web-bluetooth/",
-            "title": "Web Bluetooth"
-          }
-        ],
-        "linkedFrom": [],
-        "transition": "N/A",
-        "notes": ""
-      },
-      {
         "title": "Loading Signed Exchanges",
         "url": "https://wicg.github.io/webpackage/loading.html",
         "repo": "WICG/webpackage",
@@ -1187,24 +1147,6 @@
           {
             "url": "https://wicg.github.io/fenced-frame/",
             "title": "Fenced Frame"
-          }
-        ],
-        "linkedFrom": [],
-        "transition": "N/A",
-        "notes": ""
-      },
-      {
-        "title": "WebUSB API",
-        "url": "https://wicg.github.io/webusb/",
-        "repo": "WICG/webusb",
-        "lastModified": "2026-06-05T00:00:00.000Z",
-        "implementations": [
-          "chrome"
-        ],
-        "referencedBy": [
-          {
-            "url": "https://wicg.github.io/nav-speculation/prerendering.html",
-            "title": "Prerendering Revamped"
           }
         ],
         "linkedFrom": [],
@@ -1323,7 +1265,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-09-07T09:05:40.000Z",
+        "lastModified": "2026-09-14T09:25:42.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1541,13 +1483,13 @@
       },
       "WICG/webcrypto-modern-algos": {
         "notes": "",
-        "lastModified": "2026-09-03T15:52:53.000Z",
+        "lastModified": "2026-09-14T16:24:12.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-09-11T17:03:47.000Z",
+        "lastModified": "2026-09-14T08:35:03.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
