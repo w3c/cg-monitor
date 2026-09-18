@@ -1311,7 +1311,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-09-16T23:35:51.000Z",
+        "lastModified": "2026-09-17T23:54:33.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1329,7 +1329,7 @@
       },
       "WICG/install-element": {
         "notes": "",
-        "lastModified": "2026-09-10T21:04:37.000Z",
+        "lastModified": "2026-09-17T18:27:32.000Z",
         "linkedFrom": [
           {
             "shortname": "webapps",
