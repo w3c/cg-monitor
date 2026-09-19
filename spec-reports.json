@@ -1269,7 +1269,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-09-14T09:25:42.000Z",
+        "lastModified": "2026-09-18T08:45:50.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1329,7 +1329,7 @@
       },
       "WICG/install-element": {
         "notes": "",
-        "lastModified": "2026-09-17T18:27:32.000Z",
+        "lastModified": "2026-09-19T02:47:33.000Z",
         "linkedFrom": [
           {
             "shortname": "webapps",
@@ -1475,7 +1475,7 @@
       },
       "WICG/web-haptics": {
         "notes": "",
-        "lastModified": "2026-05-22T22:48:30.000Z",
+        "lastModified": "2026-09-18T20:19:30.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
