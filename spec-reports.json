@@ -97,7 +97,7 @@
         "title": "Client Hints Infrastructure",
         "url": "https://wicg.github.io/client-hints-infrastructure/",
         "repo": "WICG/client-hints-infrastructure",
-        "lastModified": "2026-03-31T00:00:00.000Z",
+        "lastModified": "2026-09-22T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [
           {
@@ -249,7 +249,7 @@
         "title": "Document Policy",
         "url": "https://wicg.github.io/document-policy/",
         "repo": "WICG/document-policy",
-        "lastModified": "2022-03-30T00:00:00.000Z",
+        "lastModified": "2026-09-22T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1005,7 +1005,7 @@
         "title": "User-Agent Client Hints",
         "url": "https://wicg.github.io/ua-client-hints/",
         "repo": "WICG/ua-client-hints",
-        "lastModified": "2026-02-10T00:00:00.000Z",
+        "lastModified": "2026-09-22T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1269,7 +1269,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-09-21T18:41:22.000Z",
+        "lastModified": "2026-09-22T14:32:07.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1311,7 +1311,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-09-17T23:54:33.000Z",
+        "lastModified": "2026-09-22T17:42:04.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1493,7 +1493,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-09-15T12:48:29.000Z",
+        "lastModified": "2026-09-22T18:16:22.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
