@@ -1269,7 +1269,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-09-22T14:32:07.000Z",
+        "lastModified": "2026-09-23T16:43:14.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1493,7 +1493,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-09-22T18:16:22.000Z",
+        "lastModified": "2026-09-23T11:22:51.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
