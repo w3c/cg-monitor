@@ -1197,7 +1197,7 @@
       },
       "WICG/autofill-event": {
         "notes": "",
-        "lastModified": "2026-03-04T15:20:19.000Z",
+        "lastModified": "2026-09-25T12:14:53.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1499,7 +1499,7 @@
       },
       "WICG/webrtc-diagnostic-logging": {
         "notes": "",
-        "lastModified": "2026-09-03T12:23:24.000Z",
+        "lastModified": "2026-09-25T15:22:14.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
