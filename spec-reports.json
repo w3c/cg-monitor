@@ -1493,13 +1493,13 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-09-24T12:36:48.000Z",
+        "lastModified": "2026-09-28T14:01:08.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/webrtc-diagnostic-logging": {
         "notes": "",
-        "lastModified": "2026-09-25T15:22:14.000Z",
+        "lastModified": "2026-09-28T13:36:50.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       }
