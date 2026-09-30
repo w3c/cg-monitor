@@ -1106,7 +1106,7 @@
         "title": "Web Smart Card API",
         "url": "https://wicg.github.io/web-smart-card/",
         "repo": "WICG/web-smart-card",
-        "lastModified": "2026-08-11T00:00:00.000Z",
+        "lastModified": "2026-09-29T00:00:00.000Z",
         "implementations": [],
         "referencedBy": [
           {
@@ -1311,7 +1311,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-09-22T17:42:04.000Z",
+        "lastModified": "2026-09-30T00:14:06.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
