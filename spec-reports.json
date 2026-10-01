@@ -1311,13 +1311,13 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-09-30T00:14:06.000Z",
+        "lastModified": "2026-09-30T12:50:44.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/idrefs": {
         "notes": "",
-        "lastModified": "2025-11-21T16:12:32.000Z",
+        "lastModified": "2026-09-30T07:16:25.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1493,7 +1493,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-09-28T14:01:08.000Z",
+        "lastModified": "2026-09-30T13:02:29.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
