@@ -1239,7 +1239,7 @@
       },
       "WICG/container-timing": {
         "notes": "",
-        "lastModified": "2026-09-09T16:26:58.000Z",
+        "lastModified": "2026-10-01T20:11:52.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1269,13 +1269,13 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-09-24T09:36:32.000Z",
+        "lastModified": "2026-10-01T16:00:51.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/dbsc-sso": {
         "notes": "",
-        "lastModified": "2026-09-02T12:12:31.000Z",
+        "lastModified": "2026-10-01T13:14:58.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1493,7 +1493,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-09-30T13:02:29.000Z",
+        "lastModified": "2026-10-01T11:05:24.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
