@@ -1269,13 +1269,13 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-10-01T16:00:51.000Z",
+        "lastModified": "2026-10-05T10:55:37.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/dbsc-sso": {
         "notes": "",
-        "lastModified": "2026-10-01T13:14:58.000Z",
+        "lastModified": "2026-10-05T11:35:24.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
