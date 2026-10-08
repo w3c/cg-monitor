@@ -1269,13 +1269,13 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-10-06T12:47:33.000Z",
+        "lastModified": "2026-10-07T07:37:58.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/dbsc-sso": {
         "notes": "",
-        "lastModified": "2026-10-05T11:35:24.000Z",
+        "lastModified": "2026-10-07T14:54:17.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1410,7 +1410,7 @@
       },
       "WICG/persistent-iframes": {
         "notes": "",
-        "lastModified": "2026-09-11T22:25:52.000Z",
+        "lastModified": "2026-10-07T20:39:13.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
