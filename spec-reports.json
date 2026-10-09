@@ -1237,12 +1237,6 @@
         "linkedFrom": [],
         "transition": "N/A"
       },
-      "WICG/container-timing": {
-        "notes": "",
-        "lastModified": "2026-10-01T20:11:52.000Z",
-        "linkedFrom": [],
-        "transition": "N/A"
-      },
       "WICG/controlled-frame": {
         "notes": "",
         "lastModified": "2025-12-10T18:06:35.000Z",
@@ -1275,7 +1269,7 @@
       },
       "WICG/dbsc-sso": {
         "notes": "",
-        "lastModified": "2026-10-07T14:54:17.000Z",
+        "lastModified": "2026-10-08T08:20:15.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1311,7 +1305,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-09-30T12:50:44.000Z",
+        "lastModified": "2026-10-09T00:09:18.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1329,7 +1323,7 @@
       },
       "WICG/install-element": {
         "notes": "",
-        "lastModified": "2026-09-19T02:47:33.000Z",
+        "lastModified": "2026-10-08T17:56:22.000Z",
         "linkedFrom": [
           {
             "shortname": "webapps",
@@ -1410,7 +1404,7 @@
       },
       "WICG/persistent-iframes": {
         "notes": "",
-        "lastModified": "2026-10-07T20:39:13.000Z",
+        "lastModified": "2026-10-08T17:53:34.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
