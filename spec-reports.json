@@ -1197,7 +1197,7 @@
       },
       "WICG/autofill-event": {
         "notes": "",
-        "lastModified": "2026-09-25T12:14:53.000Z",
+        "lastModified": "2026-10-09T14:18:41.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1305,7 +1305,7 @@
       },
       "WICG/html-in-canvas": {
         "notes": "",
-        "lastModified": "2026-10-09T00:09:18.000Z",
+        "lastModified": "2026-10-09T22:49:17.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
