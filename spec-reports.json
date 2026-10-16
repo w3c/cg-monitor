@@ -1284,7 +1284,7 @@
       },
       "WICG/delayed-message-timing": {
         "notes": "",
-        "lastModified": "2026-06-26T05:51:28.000Z",
+        "lastModified": "2026-10-15T21:47:03.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1490,7 +1490,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-10-14T13:19:17.000Z",
+        "lastModified": "2026-10-15T14:27:53.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
