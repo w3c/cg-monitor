@@ -1266,7 +1266,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-10-19T08:55:10.000Z",
+        "lastModified": "2026-10-20T14:25:14.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1278,13 +1278,13 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-10-19T14:54:48.000Z",
+        "lastModified": "2026-10-20T19:05:24.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/delayed-message-timing": {
         "notes": "",
-        "lastModified": "2026-10-19T07:32:47.000Z",
+        "lastModified": "2026-10-20T06:27:16.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1326,7 +1326,7 @@
       },
       "WICG/install-element": {
         "notes": "",
-        "lastModified": "2026-10-19T16:41:26.000Z",
+        "lastModified": "2026-10-20T18:16:29.000Z",
         "linkedFrom": [
           {
             "shortname": "webapps",
@@ -1490,7 +1490,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-10-19T07:39:58.000Z",
+        "lastModified": "2026-10-20T10:13:16.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
