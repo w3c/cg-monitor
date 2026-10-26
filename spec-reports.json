@@ -555,7 +555,7 @@
         "title": "Manifest Incubations",
         "url": "https://wicg.github.io/manifest-incubations/",
         "repo": "WICG/manifest-incubations",
-        "lastModified": "2026-08-04T00:00:00.000Z",
+        "lastModified": "2026-10-25T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1266,7 +1266,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-10-23T11:52:00.000Z",
+        "lastModified": "2026-10-25T17:36:40.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1343,7 +1343,7 @@
       },
       "WICG/local-peer-to-peer": {
         "notes": "",
-        "lastModified": "2026-10-24T20:26:00.000Z",
+        "lastModified": "2026-10-25T05:05:49.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
