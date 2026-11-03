@@ -476,7 +476,7 @@
         "title": "JS Self-Profiling API",
         "url": "https://wicg.github.io/js-self-profiling/",
         "repo": "WICG/js-self-profiling",
-        "lastModified": "2026-09-11T00:00:00.000Z",
+        "lastModified": "2026-11-03T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1260,7 +1260,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-10-28T19:50:50.000Z",
+        "lastModified": "2026-11-02T16:12:59.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1272,7 +1272,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-11-01T20:58:27.000Z",
+        "lastModified": "2026-11-02T22:03:25.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1460,7 +1460,7 @@
       },
       "WICG/speculative_load_measurement": {
         "notes": "",
-        "lastModified": "2026-06-22T05:49:09.000Z",
+        "lastModified": "2026-11-02T10:53:47.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1484,7 +1484,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-10-28T13:55:11.000Z",
+        "lastModified": "2026-11-02T09:39:00.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
