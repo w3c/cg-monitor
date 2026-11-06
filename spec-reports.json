@@ -1272,7 +1272,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-11-03T11:35:51.000Z",
+        "lastModified": "2026-11-05T11:25:24.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1466,7 +1466,7 @@
       },
       "WICG/web-haptics": {
         "notes": "",
-        "lastModified": "2026-10-26T12:14:43.000Z",
+        "lastModified": "2026-11-05T23:09:21.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
