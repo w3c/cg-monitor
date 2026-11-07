@@ -524,7 +524,7 @@
         "title": "Layout Instability API",
         "url": "https://wicg.github.io/layout-instability/",
         "repo": "WICG/layout-instability",
-        "lastModified": "2026-11-04T00:00:00.000Z",
+        "lastModified": "2026-11-06T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -589,7 +589,7 @@
         "title": "Prefetch",
         "url": "https://wicg.github.io/nav-speculation/prefetch.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2026-08-27T00:00:00.000Z",
+        "lastModified": "2026-11-06T00:00:00.000Z",
         "implementations": [
           "chrome",
           "firefox"
@@ -612,7 +612,7 @@
         "title": "Prerendering Revamped",
         "url": "https://wicg.github.io/nav-speculation/prerendering.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2026-08-27T00:00:00.000Z",
+        "lastModified": "2026-11-06T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -634,7 +634,7 @@
         "title": "Speculation Rules",
         "url": "https://wicg.github.io/nav-speculation/speculation-rules.html",
         "repo": "WICG/nav-speculation",
-        "lastModified": "2026-08-27T00:57:56.000Z",
+        "lastModified": "2026-11-06T09:19:39.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1200,7 +1200,7 @@
       },
       "WICG/autofill-event": {
         "notes": "",
-        "lastModified": "2026-10-09T14:18:41.000Z",
+        "lastModified": "2026-11-06T19:56:08.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1260,7 +1260,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-11-03T21:18:55.000Z",
+        "lastModified": "2026-11-06T14:22:49.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
