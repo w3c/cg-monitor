@@ -524,7 +524,7 @@
         "title": "Layout Instability API",
         "url": "https://wicg.github.io/layout-instability/",
         "repo": "WICG/layout-instability",
-        "lastModified": "2026-11-06T00:00:00.000Z",
+        "lastModified": "2026-11-08T00:00:00.000Z",
         "implementations": [
           "chrome"
         ],
@@ -1272,7 +1272,7 @@
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-11-05T11:25:24.000Z",
+        "lastModified": "2026-11-08T12:19:46.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
