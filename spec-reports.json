@@ -149,12 +149,7 @@
         "repo": "WICG/csp-next",
         "lastModified": "2021-08-31T00:00:00.000Z",
         "implementations": [],
-        "referencedBy": [
-          {
-            "url": "https://w3c.github.io/ServiceWorker/",
-            "title": "Service Workers"
-          }
-        ],
+        "referencedBy": [],
         "linkedFrom": [],
         "transition": "N/A",
         "notes": "no active work, editor noted it could be archived for now https://github.com/WICG/csp-next/issues/9"
@@ -1260,13 +1255,13 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-11-13T12:51:55.000Z",
+        "lastModified": "2026-11-16T11:05:07.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/dbsc-sso": {
         "notes": "",
-        "lastModified": "2026-11-10T12:53:17.000Z",
+        "lastModified": "2026-11-16T17:40:49.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
