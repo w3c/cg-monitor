@@ -1261,13 +1261,13 @@
       },
       "WICG/dbsc-sso": {
         "notes": "",
-        "lastModified": "2026-11-19T15:46:34.000Z",
+        "lastModified": "2026-11-20T13:41:56.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
       "WICG/declarative-partial-updates": {
         "notes": "",
-        "lastModified": "2026-11-19T22:04:47.000Z",
+        "lastModified": "2026-11-20T19:23:23.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1496,7 +1496,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-11-18T09:22:48.000Z",
+        "lastModified": "2026-11-20T14:29:49.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
