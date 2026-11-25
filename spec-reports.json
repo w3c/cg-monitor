@@ -895,6 +895,9 @@
           {
             "url": "https://drafts.csswg.org/css-link-params-1/",
             "title": "CSS Linked Parameters"
+          },
+          {
+            "url": "https://w3ctag.github.io/design-principles/"
           }
         ],
         "linkedFrom": [],
@@ -1255,7 +1258,7 @@
       },
       "WICG/cross-origin-storage": {
         "notes": "",
-        "lastModified": "2026-11-23T16:22:04.000Z",
+        "lastModified": "2026-11-24T19:10:28.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
@@ -1496,7 +1499,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-11-23T11:58:11.000Z",
+        "lastModified": "2026-11-24T08:35:40.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
