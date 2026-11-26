@@ -677,7 +677,7 @@
         "title": "overscroll and scrollend events",
         "url": "https://wicg.github.io/overscroll-scrollend-events/",
         "repo": "WICG/overscroll-scrollend-events",
-        "lastModified": "2020-04-15T00:00:00.000Z",
+        "lastModified": "2020-04-15T16:19:25.000Z",
         "implementations": [],
         "referencedBy": [],
         "linkedFrom": [],
@@ -1190,6 +1190,12 @@
         "linkedFrom": [],
         "transition": "N/A"
       },
+      "WICG/agent-interaction-measurement": {
+        "notes": "",
+        "lastModified": "2026-11-25T21:53:52.000Z",
+        "linkedFrom": [],
+        "transition": "N/A"
+      },
       "WICG/audio-context-playout-stats": {
         "notes": "",
         "lastModified": "2025-07-15T09:14:37.000Z",
@@ -1350,6 +1356,19 @@
         "linkedFrom": [],
         "transition": "N/A"
       },
+      "WICG/longtasks": {
+        "notes": "",
+        "lastModified": "2026-11-23T13:52:07.000Z",
+        "linkedFrom": [],
+        "transition": {
+          "repo": "WICG/longtasks",
+          "notice": "https://lists.w3.org/Archives/Public/public-web-perf/2017Mar/0015.html",
+          "date": "2017-03-23",
+          "wgshortname": "w3c/webperf",
+          "startedin": "w3c/webperf",
+          "comment": "Started in WG then sent to incubation"
+        }
+      },
       "WICG/media-latency-hint": {
         "notes": "",
         "lastModified": "2020-07-29T21:21:01.000Z",
@@ -1499,7 +1518,7 @@
       },
       "WICG/webmonetization": {
         "notes": "",
-        "lastModified": "2026-11-24T08:35:40.000Z",
+        "lastModified": "2026-11-25T10:32:31.000Z",
         "linkedFrom": [],
         "transition": "N/A"
       },
