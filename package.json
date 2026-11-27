@@ -6,7 +6,7 @@
     "@mdn/browser-compat-data": "^5.6.32",
     "fetch-filecache-for-crawling": "^5.1.1",
     "jsdom": "^22.1.0",
-    "mocha": "^10.8.2",
+    "mocha": "^12.0.3",
     "parse-link-header": "^2.0.0",
     "rss-parser": "^3.13.0",
     "undici": "^6.28.1",
